@@ -1,0 +1,47 @@
+{
+  "author": {
+    "displayName": "Dany W. 421",
+    "steamID": 76561198052694450
+  },
+  "displayName": "Justsometest",
+  "url": "",
+  "description": "A test version of the map",
+  "fileName": "difficultdifficultlemondifficult",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 114410
+    },
+    {
+      "player": {
+        "displayName": "Zane Wuffy",
+        "steamID": 76561198007985700
+      },
+      "time": 162840
+    },
+    {
+      "player": {
+        "displayName": "[GR8] Arno",
+        "steamID": 76561198043082908
+      },
+      "time": 220250
+    },
+    {
+      "player": {
+        "displayName": "Dany W. 421",
+        "steamID": 76561198052694450
+      },
+      "time": 390190
+    },
+    {
+      "player": {
+        "displayName": "[GR8] Jeems-Sama",
+        "steamID": 76561198137848662
+      },
+      "time": 397270
+    }
+  ]
+}

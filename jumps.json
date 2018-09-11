@@ -1,0 +1,75 @@
+{
+  "author": {
+    "displayName": "ghostvirus52",
+    "steamID": 76561198202923420
+  },
+  "displayName": "SUPER TRACK",
+  "url": "",
+  "description": "My first level! Plz don't hate. :D",
+  "fileName": "jumps",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 30460
+    },
+    {
+      "player": {
+        "displayName": "Danny Burke",
+        "steamID": 76561198159851584
+      },
+      "time": 31290
+    },
+    {
+      "player": {
+        "displayName": "nico",
+        "steamID": 76561198041500742
+      },
+      "time": 34540
+    },
+    {
+      "player": {
+        "displayName": "snowstate",
+        "steamID": 76561198112217007
+      },
+      "time": 39920
+    },
+    {
+      "player": {
+        "displayName": "Pinapl",
+        "steamID": 76561198047921574
+      },
+      "time": 53590
+    },
+    {
+      "player": {
+        "displayName": "FluxPrototype46",
+        "steamID": 76561198119360746
+      },
+      "time": 67390
+    },
+    {
+      "player": {
+        "displayName": "Yuki Arika Muze",
+        "steamID": 76561198054684763
+      },
+      "time": 72250
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 73330
+    },
+    {
+      "player": {
+        "displayName": "TheycallmeTK",
+        "steamID": 76561198055504290
+      },
+      "time": 285570
+    }
+  ]
+}

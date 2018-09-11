@@ -1,0 +1,19 @@
+{
+  "author": {
+    "displayName": "Matt The Martian",
+    "steamID": 76561198159353345
+  },
+  "displayName": "Matts Race",
+  "url": "",
+  "description": "An awesome community level",
+  "fileName": "matts race",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 331340
+    }
+  ]
+}

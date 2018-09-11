@@ -1,0 +1,26 @@
+{
+  "author": {
+    "displayName": "FuryOS",
+    "steamID": 76561198122572619
+  },
+  "displayName": "Shroud",
+  "url": "",
+  "description": "A mysterious tower in space...\r\n\r\nTest level, getting used to the editor.",
+  "fileName": "shroud",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 45900
+    },
+    {
+      "player": {
+        "displayName": "Dark_ION57_вук",
+        "steamID": 76561198025480120
+      },
+      "time": 169340
+    }
+  ]
+}

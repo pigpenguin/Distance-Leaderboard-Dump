@@ -1,0 +1,40 @@
+{
+  "author": {
+    "displayName": "Sperzieb00n",
+    "steamID": 76561197973325713
+  },
+  "displayName": "Reverse sprint",
+  "url": "",
+  "description": "the only map on workshop where you need to control the endzone!",
+  "fileName": "gameception",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "e dragon",
+        "steamID": 76561198010234897
+      },
+      "time": 199290
+    },
+    {
+      "player": {
+        "displayName": "Sperzieb00n",
+        "steamID": 76561197973325713
+      },
+      "time": 232630
+    },
+    {
+      "player": {
+        "displayName": "PPPaul",
+        "steamID": 76561198023567939
+      },
+      "time": 1044170
+    },
+    {
+      "player": {
+        "displayName": "Seekr",
+        "steamID": 76561198026317880
+      },
+      "time": 1684260
+    }
+  ]
+}

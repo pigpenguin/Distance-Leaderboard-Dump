@@ -1,0 +1,26 @@
+{
+  "author": {
+    "displayName": "Sotra6",
+    "steamID": 76561198135597013
+  },
+  "displayName": "Looped Scorpion",
+  "url": "",
+  "description": "An awesome community level",
+  "fileName": "looped scorpion",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "Alopex",
+        "steamID": 76561198091495023
+      },
+      "time": 46400
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 49250
+    }
+  ]
+}

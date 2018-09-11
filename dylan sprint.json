@@ -1,0 +1,33 @@
+{
+  "author": {
+    "displayName": "Diency",
+    "steamID": 76561198060257700
+  },
+  "displayName": "DNC rush",
+  "url": "",
+  "description": "An awesome community level",
+  "fileName": "dylan sprint",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 76250
+    },
+    {
+      "player": {
+        "displayName": "FluffyTheZombie",
+        "steamID": 76561198134309424
+      },
+      "time": 197110
+    },
+    {
+      "player": {
+        "displayName": "jaredv1999",
+        "steamID": 76561198384396499
+      },
+      "time": 273810
+    }
+  ]
+}

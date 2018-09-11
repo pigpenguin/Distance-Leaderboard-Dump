@@ -1,0 +1,82 @@
+{
+  "author": {
+    "displayName": "pinesolofchaos",
+    "steamID": 76561198058662064
+  },
+  "displayName": "The Grind",
+  "url": "",
+  "description": "The only trick that matters.",
+  "fileName": "thegrind",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "Dog Arms",
+        "steamID": 76561198021567209
+      },
+      "time": 133230
+    },
+    {
+      "player": {
+        "displayName": "jay",
+        "steamID": 76561198089234092
+      },
+      "time": 138740
+    },
+    {
+      "player": {
+        "displayName": "Kenaz",
+        "steamID": 76561198214868559
+      },
+      "time": 155750
+    },
+    {
+      "player": {
+        "displayName": "i0nTempest",
+        "steamID": 76561198244554216
+      },
+      "time": 172160
+    },
+    {
+      "player": {
+        "displayName": "pinesolofchaos",
+        "steamID": 76561198058662064
+      },
+      "time": 213510
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 268760
+    },
+    {
+      "player": {
+        "displayName": "Latapi",
+        "steamID": 76561198071239933
+      },
+      "time": 336990
+    },
+    {
+      "player": {
+        "displayName": "stealth1192",
+        "steamID": 76561198049227918
+      },
+      "time": 376350
+    },
+    {
+      "player": {
+        "displayName": "Eagl3",
+        "steamID": 76561198076859532
+      },
+      "time": 428050
+    },
+    {
+      "player": {
+        "displayName": "Okami337",
+        "steamID": 76561198138713238
+      },
+      "time": 467160
+    }
+  ]
+}

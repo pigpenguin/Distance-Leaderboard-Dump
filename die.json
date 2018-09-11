@@ -1,0 +1,26 @@
+{
+  "author": {
+    "displayName": "Matt The Martian",
+    "steamID": 76561198159353345
+  },
+  "displayName": "Die",
+  "url": "",
+  "description": "An awesome community level",
+  "fileName": "die",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 51170
+    },
+    {
+      "player": {
+        "displayName": "Karna",
+        "steamID": 76561198098414909
+      },
+      "time": 245330
+    }
+  ]
+}

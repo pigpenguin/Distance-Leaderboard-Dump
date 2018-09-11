@@ -1,0 +1,40 @@
+{
+  "author": {
+    "displayName": "bg'",
+    "steamID": 76561198054382627
+  },
+  "displayName": "Reaga",
+  "url": "",
+  "description": "The Sequel to Artex Garrow that noone asked for!",
+  "fileName": "reaga",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "glacial",
+        "steamID": 76561198158990613
+      },
+      "time": 340030
+    },
+    {
+      "player": {
+        "displayName": "tiedye",
+        "steamID": 76561198147688475
+      },
+      "time": 489340
+    },
+    {
+      "player": {
+        "displayName": "Dog Arms",
+        "steamID": 76561198021567209
+      },
+      "time": 14199940
+    },
+    {
+      "player": {
+        "displayName": "Seekr",
+        "steamID": 76561198026317880
+      },
+      "time": 16670210
+    }
+  ]
+}

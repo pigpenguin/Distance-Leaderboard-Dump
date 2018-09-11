@@ -1,0 +1,26 @@
+{
+  "author": {
+    "displayName": "bg'",
+    "steamID": 76561198054382627
+  },
+  "displayName": "Es",
+  "url": "",
+  "description": "You like anti-grav water levels, right? Great!",
+  "fileName": "es",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "tiedye",
+        "steamID": 76561198147688475
+      },
+      "time": 68810
+    },
+    {
+      "player": {
+        "displayName": "glacial",
+        "steamID": 76561198158990613
+      },
+      "time": 111330
+    }
+  ]
+}
