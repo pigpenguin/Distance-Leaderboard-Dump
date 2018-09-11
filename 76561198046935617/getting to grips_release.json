@@ -1,0 +1,61 @@
+{
+  "author": {
+    "displayName": "Winter's Crescendo",
+    "steamID": 76561198046935617
+  },
+  "displayName": "Getting To Grips (with the editor).",
+  "url": "",
+  "description": "This is the first level I've built in DISTANCE, and represents an attempt to learn the ins and outs of the editor and DISTANCE's systems. It shouldn't be especially challenging, although it does get harder as the track progresses - for those sticking to th",
+  "fileName": "getting to grips_release",
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "Dog Arms",
+        "steamID": 76561198021567209
+      },
+      "time": 78180
+    },
+    {
+      "player": {
+        "displayName": "Kenaz",
+        "steamID": 76561198214868559
+      },
+      "time": 78580
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 242420
+    },
+    {
+      "player": {
+        "displayName": "Powerman123",
+        "steamID": 76561198054792683
+      },
+      "time": 397660
+    },
+    {
+      "player": {
+        "displayName": "Winter's Crescendo",
+        "steamID": 76561198046935617
+      },
+      "time": 397780
+    },
+    {
+      "player": {
+        "displayName": "Latapi",
+        "steamID": 76561198071239933
+      },
+      "time": 422730
+    },
+    {
+      "player": {
+        "displayName": "i0nTempest",
+        "steamID": 76561198244554216
+      },
+      "time": 482330
+    }
+  ]
+}
