@@ -4,9 +4,11 @@
     "steamID": 76561198140308601
   },
   "displayName": "Ocean: Part 1",
-  "url": "",
+  "id": 1326635425,
   "description": "Why do you walk near the ocean so?\nDestroyer of life\nCreator of nothing.",
   "fileName": "ocean",
+  "upvotes": 56,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {
@@ -353,7 +355,7 @@
     },
     {
       "player": {
-        "displayName": "Azure Knightmare",
+        "displayName": "[unknown]",
         "steamID": 76561198062750491
       },
       "time": 60640

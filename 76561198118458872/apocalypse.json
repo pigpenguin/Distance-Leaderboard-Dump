@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Cerasasori",
+    "displayName": "[unknown]",
     "steamID": 76561198118458872
   },
   "displayName": "Apocalypse Now",
-  "url": "",
+  "id": 817928802,
   "description": "While not too difficult, \"Apocalypse Now\" still has a few tricks up its sleeve. Designed to be a simple race to the finish, the level still offers a bit of challenge to those seeking a Diamond score.",
   "fileName": "apocalypse",
+  "upvotes": 109,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -1823,7 +1825,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 202050
@@ -1956,7 +1958,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 245770

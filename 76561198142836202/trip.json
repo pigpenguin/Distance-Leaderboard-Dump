@@ -4,9 +4,11 @@
     "steamID": 76561198142836202
   },
   "displayName": "Thats your brain on drugs",
-  "url": "",
+  "id": 682991794,
   "description": "An awesome community level",
   "fileName": "trip",
+  "upvotes": 71,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "[GA] Alucard",
+        "displayName": "[unknown]",
         "steamID": 76561198095189283
       },
       "time": 261120

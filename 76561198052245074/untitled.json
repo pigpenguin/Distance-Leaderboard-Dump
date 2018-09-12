@@ -4,9 +4,11 @@
     "steamID": 76561198052245074
   },
   "displayName": "TestingRally",
-  "url": "",
+  "id": 598869036,
   "description": "An awesome community level",
   "fileName": "untitled",
+  "upvotes": 7,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {

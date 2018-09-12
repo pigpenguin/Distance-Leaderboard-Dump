@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "Solar Meltdown",
-  "url": "",
+  "id": 1379764613,
   "description": "An awesome community level",
   "fileName": "solar meltdown",
+  "upvotes": 65,
+  "downvotes": 32,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 141640
@@ -528,7 +530,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 180870

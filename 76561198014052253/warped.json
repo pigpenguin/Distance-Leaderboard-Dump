@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Warped",
-  "url": "",
+  "id": 654476198,
   "description": "a better version of warped i made i dont know why i cant seem to update any of my levels without making multiple copys any know a fix for this message me thx\r\n------------------------\r\n--RE FIXED FOR UPDATE --\r\n",
   "fileName": "warped",
+  "upvotes": 494,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {
@@ -640,7 +642,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 137380

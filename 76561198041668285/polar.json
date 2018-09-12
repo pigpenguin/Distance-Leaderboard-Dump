@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Polar",
-  "url": "",
+  "id": 813303749,
   "description": "It is that time of the year again. And this time it is your turn to take the village's letters to the north pole. It isn’t that far of a journey from where you are, just have to go through the mountains then you're there. This track is very simple and has ",
   "fileName": "polar",
+  "upvotes": 290,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {
@@ -2264,7 +2266,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 188430
@@ -2558,7 +2560,7 @@
     },
     {
       "player": {
-        "displayName": "Zea mays [NTAH...]",
+        "displayName": "Zea mays [nevermind.]",
         "steamID": 76561198030119958
       },
       "time": 195420

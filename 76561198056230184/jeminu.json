@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "intlet",
+    "displayName": "[unknown]",
     "steamID": 76561198056230184
   },
   "displayName": "Canyon",
-  "url": "",
+  "id": 697354749,
   "description": "An awesome community level",
   "fileName": "jeminu",
+  "upvotes": 24,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 103530

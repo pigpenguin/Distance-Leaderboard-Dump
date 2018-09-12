@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "Terre d'Ange",
-  "url": "",
+  "id": 462928527,
   "description": "Jump, twist, and fly around the angelic tower in this difficult level. \r\n\r\nPlease rate and/or leave a comment if you enjoy it, or have any criticism!",
   "fileName": "terre d'ange final",
+  "upvotes": 635,
+  "downvotes": 143,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 80440
@@ -633,7 +635,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 106630

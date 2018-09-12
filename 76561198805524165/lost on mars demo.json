@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "Lost On Mars Demo",
-  "url": "",
+  "id": 1448689179,
   "description": "An awesome community level",
   "fileName": "lost on mars demo",
+  "upvotes": 13,
+  "downvotes": 4,
   "leaderboard": [
     {
       "player": {

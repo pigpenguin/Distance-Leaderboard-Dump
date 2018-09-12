@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 323",
-  "url": "",
+  "id": 631437702,
   "description": "The next Anomaly on your list lurks in Sector 323. This virus put this city through a freeze blast due to the heat it produced. Find this Anomaly, take it down and free this city.",
   "fileName": "sector 323",
+  "upvotes": 380,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 105970

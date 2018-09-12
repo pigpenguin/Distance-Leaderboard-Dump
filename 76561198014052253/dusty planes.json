@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "dust to oasis",
-  "url": "",
+  "id": 724736312,
   "description": "Race in the night of the desert sand then cool of at the oasis \r\n\r\nupdate V5.00",
   "fileName": "dusty planes",
+  "upvotes": 586,
+  "downvotes": 92,
   "leaderboard": [
     {
       "player": {
@@ -1410,7 +1412,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 246200
@@ -1487,7 +1489,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 249180

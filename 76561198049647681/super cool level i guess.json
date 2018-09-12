@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Ted",
+    "displayName": "[unknown]",
     "steamID": 76561198049647681
   },
   "displayName": "Super Cool Level I Guess",
-  "url": "",
+  "id": 595647775,
   "description": "I made this, maybe it is good. I don't know.",
   "fileName": "super cool level i guess",
+  "upvotes": 83,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -21,6 +23,13 @@
         "steamID": 76561198040630941
       },
       "time": 60080
+    },
+    {
+      "player": {
+        "displayName": "IllKIllU",
+        "steamID": 76561198216635512
+      },
+      "time": 65940
     },
     {
       "player": {
@@ -182,6 +191,13 @@
         "steamID": 76561197998874249
       },
       "time": 353140
+    },
+    {
+      "player": {
+        "displayName": "SpicyMiku-chan",
+        "steamID": 76561198017945328
+      },
+      "time": 353350
     },
     {
       "player": {

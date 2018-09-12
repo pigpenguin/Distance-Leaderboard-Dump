@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Corkscrewed",
-  "url": "",
+  "id": 699003515,
   "description": "A simple track that has more jumps than traps. Using thrusters for grip is recomended.",
   "fileName": "corkscrewed",
+  "upvotes": 272,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 173280
@@ -535,7 +537,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 192380

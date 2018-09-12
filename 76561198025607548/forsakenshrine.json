@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "Forsaken Shrine",
-  "url": "",
+  "id": 825918841,
   "description": "Brave the icy mountains and enter an abandoned temple, full of ancient magic and strange technology.\r\n\r\nA collaberative level, whose creation spanned many months and three contributors: Krispy, Ashamael, and Snowstate. We hope you enjoy it!\r\n\r\nSpecial than",
   "fileName": "forsakenshrine",
+  "upvotes": 785,
+  "downvotes": 100,
   "leaderboard": [
     {
       "player": {
@@ -199,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 145140
@@ -1011,7 +1013,7 @@
     },
     {
       "player": {
-        "displayName": "One man bandit",
+        "displayName": "One man tango",
         "steamID": 76561198040184762
       },
       "time": 176850
@@ -1298,7 +1300,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 186670
@@ -3433,7 +3435,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 227170
@@ -8095,7 +8097,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 328790
@@ -9586,7 +9588,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 456150

@@ -4,9 +4,11 @@
     "steamID": 76561198095740293
   },
   "displayName": "Spacial",
-  "url": "",
+  "id": 1191376855,
   "description": "An awesome community level",
   "fileName": "asteroid field",
+  "upvotes": 11,
+  "downvotes": 7,
   "leaderboard": [
     {
       "player": {

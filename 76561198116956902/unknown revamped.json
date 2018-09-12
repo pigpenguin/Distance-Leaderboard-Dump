@@ -4,9 +4,11 @@
     "steamID": 76561198116956902
   },
   "displayName": "Unknown Revamped",
-  "url": "",
+  "id": 835699285,
   "description": "This is what happens when I go and ahead and edit my first level... Took me a little while but it's finally done.\r\nThis is a level that is (was) supposed to tie in with the Adventure mode (But it won't anymore as adventure is being completely reworked)\r\n\r\n",
   "fileName": "unknown revamped",
+  "upvotes": 431,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 204680
@@ -2061,7 +2063,7 @@
     },
     {
       "player": {
-        "displayName": "e",
+        "displayName": "< blank >",
         "steamID": 76561197968573255
       },
       "time": 233170
@@ -3412,7 +3414,7 @@
     },
     {
       "player": {
-        "displayName": "One man bandit",
+        "displayName": "One man tango",
         "steamID": 76561198040184762
       },
       "time": 254220
@@ -4763,7 +4765,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 295170

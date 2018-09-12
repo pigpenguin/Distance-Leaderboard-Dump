@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Night Live",
-  "url": "",
+  "id": 527583832,
   "description": "A living night.\r\n(My imagination)\r\nBest elaborate than the previous level.",
   "fileName": "night live",
+  "upvotes": 313,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -612,7 +614,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 99030

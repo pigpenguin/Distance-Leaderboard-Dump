@@ -4,9 +4,11 @@
     "steamID": 76561198095491517
   },
   "displayName": "Atmospheric Aerodrive",
-  "url": "",
+  "id": 1094624855,
   "description": "My first level for Distance. Enjoy racing above the cloud layer with flips, twists and loops and shoot for a fast time. Please share with your friends if you enjoyed the level.",
   "fileName": "first level",
+  "upvotes": 64,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -94,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 171340

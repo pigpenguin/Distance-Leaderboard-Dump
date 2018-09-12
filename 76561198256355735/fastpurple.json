@@ -4,9 +4,11 @@
     "steamID": 76561198256355735
   },
   "displayName": "Fast Purple",
-  "url": "",
+  "id": 676646764,
   "description": "My first created level in the Distance Level Editor.",
   "fileName": "fastpurple",
+  "upvotes": 390,
+  "downvotes": 53,
   "leaderboard": [
     {
       "player": {
@@ -1165,7 +1167,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 92050

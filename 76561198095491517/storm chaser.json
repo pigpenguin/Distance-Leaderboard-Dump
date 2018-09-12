@@ -4,9 +4,11 @@
     "steamID": 76561198095491517
   },
   "displayName": "Storm Chaser",
-  "url": "",
+  "id": 1115457893,
   "description": "WARNING: LIGHTNING ARCS UNPREDICTABLY. It's been a while since my last upload, and this would be the reason. Level 3 - Storm Chaser. I wanted to design a level based around precise lightning strikes that could kill the player, amongst various background st",
   "fileName": "storm chaser",
+  "upvotes": 124,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -213,7 +215,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 81280
@@ -451,7 +453,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 84850
@@ -941,7 +943,7 @@
     },
     {
       "player": {
-        "displayName": "oJ",
+        "displayName": "< blank >",
         "steamID": 76561198054745133
       },
       "time": 98230

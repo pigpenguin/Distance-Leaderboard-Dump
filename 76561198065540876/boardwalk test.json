@@ -4,9 +4,11 @@
     "steamID": 76561198065540876
   },
   "displayName": "MrMii's Epic Boardwalk v1.4 (ModNation Racers)",
-  "url": "",
+  "id": 1126689068,
   "description": "Anyone who's played my tracks in ModNation Racers will know this infamous course. I decided to port it into Distance. Using the power of magic, I made it encompass two laps, much like how I set it up in race lobbies within ModNation. It contains every obst",
   "fileName": "boardwalk test",
+  "upvotes": 6,
+  "downvotes": 9,
   "leaderboard": [
     {
       "player": {

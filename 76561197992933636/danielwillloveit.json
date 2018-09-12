@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "DaviDeMo",
+    "displayName": "[unknown]",
     "steamID": 76561197992933636
   },
   "displayName": "Danielwillloveit",
-  "url": "",
+  "id": 465253650,
   "description": "An awesome community level",
   "fileName": "danielwillloveit",
+  "upvotes": 84,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -360,7 +362,7 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 163680

@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Segments",
-  "url": "",
+  "id": 789115634,
   "description": "Another map more... \r\nMistakes: \r\nThe car becomes indestructible (unlikely to happen). \r\nYou can not remove the sign wrong way. \r\nsome areas possibly poorly optimized (I have a potato pc). \r\nThe speed of the third area is part of the difficulty.\r\nAny sugge",
   "fileName": "111111111111111111111111111111111111111111111111111111111",
+  "upvotes": 701,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -73,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 153610
@@ -675,7 +677,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 173010
@@ -3755,7 +3757,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 254200
@@ -4497,7 +4499,7 @@
     },
     {
       "player": {
-        "displayName": "e",
+        "displayName": "< blank >",
         "steamID": 76561197968573255
       },
       "time": 287440
@@ -4784,7 +4786,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 312610
@@ -4805,7 +4807,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 312860
@@ -4847,7 +4849,7 @@
     },
     {
       "player": {
-        "displayName": "no",
+        "displayName": "< blank >",
         "steamID": 76561198039857588
       },
       "time": 314670

@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "[STE2] Dangerous Ways",
-  "url": "",
+  "id": 1489477405,
   "description": "This is a short track to test how to doge fast obstacls for the new adventure mode coming to Distance 1.0 this September.",
   "fileName": "dangerous ways",
+  "upvotes": 26,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {
@@ -448,6 +450,13 @@
         "steamID": 76561198161810630
       },
       "time": 388690
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 434950
     }
   ]
 }

@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Harbor City",
-  "url": "",
+  "id": 1406678503,
   "description": "Sunset falls on Harbor City, a small ocean settlement. The citizens must begin making their way home before night falls.",
   "fileName": "skyway",
+  "upvotes": 109,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {
@@ -227,6 +229,13 @@
     },
     {
       "player": {
+        "displayName": "Powerman123",
+        "steamID": 76561198054792683
+      },
+      "time": 127670
+    },
+    {
+      "player": {
         "displayName": "Zephyrous",
         "steamID": 76561198187166046
       },
@@ -378,13 +387,6 @@
         "steamID": 76561198029443369
       },
       "time": 149520
-    },
-    {
-      "player": {
-        "displayName": "Powerman123",
-        "steamID": 76561198054792683
-      },
-      "time": 149710
     },
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "The 1st Journey",
-  "url": "",
+  "id": 410521653,
   "description": "Experiment to create differend landscapes.\r\nTry to find 3 difficult shortcuts (one is kinda obvious).",
   "fileName": "the frist journey",
+  "upvotes": 2013,
+  "downvotes": 365,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 132680
@@ -2985,7 +2987,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 235240
@@ -3132,7 +3134,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 246920
@@ -3279,7 +3281,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 261970

@@ -4,9 +4,11 @@
     "steamID": 76561198034339545
   },
   "displayName": "Affinity",
-  "url": "",
+  "id": 835509471,
   "description": "I'm back in the editor again. Still learning about track design and aesthetics. \r\n\r\nThanks to MCrekna1 for feedback and advice.",
   "fileName": "affinity",
+  "upvotes": 555,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -276,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 89250
@@ -3454,7 +3456,7 @@
     },
     {
       "player": {
-        "displayName": "e",
+        "displayName": "< blank >",
         "steamID": 76561197968573255
       },
       "time": 108290
@@ -4259,7 +4261,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 121690
@@ -5113,7 +5115,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 146190

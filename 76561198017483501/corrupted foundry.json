@@ -4,9 +4,11 @@
     "steamID": 76561198017483501
   },
   "displayName": "Corrupted Foundry (Legacy)",
-  "url": "",
+  "id": 668677879,
   "description": "Super old version of the map, made before even animation was a thing; check out the new version which is similar in looks alone for a more functional track with a bunch of neat features.",
   "fileName": "corrupted foundry",
+  "upvotes": 67,
+  "downvotes": 35,
   "leaderboard": [
     {
       "player": {

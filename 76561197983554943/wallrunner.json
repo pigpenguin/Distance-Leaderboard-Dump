@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Tycerax",
+    "displayName": "[unknown]",
     "steamID": 76561197983554943
   },
   "displayName": "Wallrunner",
-  "url": "",
+  "id": 487157217,
   "description": "I messed a little bit with the editor and this came up. Enjoy. (:",
   "fileName": "wallrunner",
+  "upvotes": 181,
+  "downvotes": 90,
   "leaderboard": [
     {
       "player": {
@@ -577,7 +579,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 74960

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Starns",
+    "displayName": "[unknown]",
     "steamID": 76561198039694296
   },
   "displayName": "The Speed Testing Zone",
-  "url": "",
+  "id": 438238768,
   "description": "Hidden deep within the Empire's Territory are a myriad of Testing Zones for their top of the line <CLASSIFIED> vehicles. This is one such zone. Specifically Designed to test the Speed of the vehicles and their drivers ability to navigate different terrain.",
   "fileName": "wip 1",
+  "upvotes": 228,
+  "downvotes": 59,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 61000
@@ -437,7 +439,7 @@
     },
     {
       "player": {
-        "displayName": "//PLUSHIE RETAKES JERUSALEM//",
+        "displayName": "//I AM THE TABLE//",
         "steamID": 76561197967237675
       },
       "time": 100910

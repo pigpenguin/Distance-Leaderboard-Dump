@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "The Irradiant Canyon",
-  "url": "",
+  "id": 834086920,
   "description": "An old, once well excivated canyon. You gotta find a way out of the place, and soon!\r\n\r\nEDIT- Fixd the fact I forgot a mode tag.",
   "fileName": "the irradiant canyon",
+  "upvotes": 46,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -766,7 +768,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 430980

@@ -4,9 +4,11 @@
     "steamID": 76561198065540876
   },
   "displayName": "Storm Realm Accelecharger v1.1",
-  "url": "",
+  "id": 1121879906,
   "description": "I had a new idea for Acceleracers maps: making mock up accelechargers to put at the end of each realm back in the acceledrome. This way you feel like you've actually won the realm. Credit to -Ω- for the Storm Realm symbol and exit portal.",
   "fileName": "storm realm accelecharger",
+  "upvotes": 89,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {
@@ -17,7 +19,7 @@
     },
     {
       "player": {
-        "displayName": "[Icez] Syncro",
+        "displayName": "Out Of Black",
         "steamID": 76561198384597961
       },
       "time": 9650

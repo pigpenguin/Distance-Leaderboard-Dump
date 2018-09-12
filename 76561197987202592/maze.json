@@ -4,9 +4,11 @@
     "steamID": 76561197987202592
   },
   "displayName": "Maze",
-  "url": "",
+  "id": 1211623109,
   "description": "a terrible maze designed to annoy",
   "fileName": "maze",
+  "upvotes": 9,
+  "downvotes": 11,
   "leaderboard": [
     {
       "player": {

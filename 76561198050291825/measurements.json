@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Aku Ryou",
+    "displayName": "[unknown]",
     "steamID": 76561198050291825
   },
   "displayName": "Measurements",
-  "url": "",
+  "id": 462147171,
   "description": "An awesome community level",
   "fileName": "measurements",
+  "upvotes": 239,
+  "downvotes": 63,
   "leaderboard": [
     {
       "player": {

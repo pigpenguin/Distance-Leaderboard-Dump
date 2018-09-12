@@ -4,9 +4,11 @@
     "steamID": 76561198042871371
   },
   "displayName": "Stargate Proof Of Concept 1",
-  "url": "",
+  "id": 1227116167,
   "description": "An awesome community level",
   "fileName": "stargate proof of concept 1",
+  "upvotes": 32,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -409,7 +411,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 51850

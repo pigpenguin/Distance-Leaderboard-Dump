@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "herbderken",
+    "displayName": "[unknown]",
     "steamID": 76561198212938164
   },
   "displayName": "Incepticon (TEST)",
-  "url": "",
+  "id": 414504484,
   "description": "An awesome community level",
   "fileName": "derpin' daptastic referral",
+  "upvotes": 151,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 121950

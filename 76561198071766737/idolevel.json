@@ -4,9 +4,11 @@
     "steamID": 76561198071766737
   },
   "displayName": "Twist",
-  "url": "",
+  "id": 1257752633,
   "description": "Twists, with a twist!\n",
   "fileName": "idolevel",
+  "upvotes": 328,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -182,6 +184,13 @@
         "steamID": 76561198043915016
       },
       "time": 68090
+    },
+    {
+      "player": {
+        "displayName": "Powerman123",
+        "steamID": 76561198054792683
+      },
+      "time": 68120
     },
     {
       "player": {
@@ -413,13 +422,6 @@
         "steamID": 76561198094117110
       },
       "time": 68740
-    },
-    {
-      "player": {
-        "displayName": "Powerman123",
-        "steamID": 76561198054792683
-      },
-      "time": 68770
     },
     {
       "player": {
@@ -745,7 +747,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 69520
@@ -962,6 +964,13 @@
     },
     {
       "player": {
+        "displayName": "Tkach",
+        "steamID": 76561198146514915
+      },
+      "time": 69960
+    },
+    {
+      "player": {
         "displayName": "Ether116",
         "steamID": 76561198003682306
       },
@@ -1001,6 +1010,13 @@
         "steamID": 76561197969071363
       },
       "time": 70070
+    },
+    {
+      "player": {
+        "displayName": "nanner man",
+        "steamID": 76561198206504845
+      },
+      "time": 70090
     },
     {
       "player": {
@@ -1284,7 +1300,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 71800
@@ -1365,13 +1381,6 @@
         "steamID": 76561198079993040
       },
       "time": 72810
-    },
-    {
-      "player": {
-        "displayName": "Tkach",
-        "steamID": 76561198146514915
-      },
-      "time": 72840
     },
     {
       "player": {
@@ -1498,6 +1507,13 @@
         "steamID": 76561198048445118
       },
       "time": 74090
+    },
+    {
+      "player": {
+        "displayName": "NovaStorm",
+        "steamID": 76561198129214232
+      },
+      "time": 74110
     },
     {
       "player": {
@@ -2194,6 +2210,13 @@
     },
     {
       "player": {
+        "displayName": "A H - H Y U C K",
+        "steamID": 76561198158253034
+      },
+      "time": 86220
+    },
+    {
+      "player": {
         "displayName": "Golden_Flag",
         "steamID": 76561198292330195
       },
@@ -2691,7 +2714,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 99070
@@ -2964,7 +2987,7 @@
     },
     {
       "player": {
-        "displayName": ";D",
+        "displayName": "< blank >",
         "steamID": 76561198057772341
       },
       "time": 114110
@@ -3209,7 +3232,7 @@
     },
     {
       "player": {
-        "displayName": "bt",
+        "displayName": "< blank >",
         "steamID": 76561198093673778
       },
       "time": 184330
@@ -3307,7 +3330,7 @@
     },
     {
       "player": {
-        "displayName": "Adam West",
+        "displayName": "GrófAzUhl",
         "steamID": 76561198018084993
       },
       "time": 264010

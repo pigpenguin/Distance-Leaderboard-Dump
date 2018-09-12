@@ -4,9 +4,11 @@
     "steamID": 76561198040630941
   },
   "displayName": "Lost Fortress",
-  "url": "",
+  "id": 469806096,
   "description": "A hidden skip and a hidden teleporter may or may not be found here. The default route is meant to be pretty easy.\r\n\r\nThis is my first level. Feedback welcome.",
   "fileName": "lost fortress",
+  "upvotes": 2478,
+  "downvotes": 251,
   "leaderboard": [
     {
       "player": {
@@ -241,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 124430
@@ -2943,7 +2945,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 168110
@@ -3412,7 +3414,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 177650
@@ -5071,7 +5073,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 275220
@@ -5113,7 +5115,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 284750
@@ -5162,7 +5164,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 302270
@@ -5232,7 +5234,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 335660

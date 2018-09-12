@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Anomaly 55",
-  "url": "",
+  "id": 613245648,
   "description": "Readings suspect that Anomaly 55 is lurking in sector 452. Your job is to hunt down this virus before it causes havoc... but who's really being hunted?",
   "fileName": "anomaly55",
+  "upvotes": 576,
+  "downvotes": 92,
   "leaderboard": [
     {
       "player": {
@@ -311,7 +313,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 91380
@@ -1676,7 +1678,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 213440
@@ -1795,7 +1797,7 @@
     },
     {
       "player": {
-        "displayName": "Mr.Pineapple",
+        "displayName": "[unknown]",
         "steamID": 76561198096213127
       },
       "time": 333300

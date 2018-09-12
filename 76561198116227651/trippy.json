@@ -4,9 +4,11 @@
     "steamID": 76561198116227651
   },
   "displayName": "World Hop",
-  "url": "",
+  "id": 875612049,
   "description": "Just messin around with the editor.",
   "fileName": "trippy",
+  "upvotes": 221,
+  "downvotes": 35,
   "leaderboard": [
     {
       "player": {
@@ -514,7 +516,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 139530

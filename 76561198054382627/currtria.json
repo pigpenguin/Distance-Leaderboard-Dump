@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "DAC #23: [BFMP #3] Currtria",
-  "url": "",
+  "id": 1240845718,
   "description": "\tEver since the attack on the 'Gertha Central Cooldown Production Base', a more advanced site was\r\nestablished off-shore.\r\n\r\n\r\n\tTon Currtria,\r\nA statue of the Leader shining over the entrance adorns the precisely constructed 'Cooldown Well'.\r\nThis new Well",
   "fileName": "currtria",
+  "upvotes": 285,
+  "downvotes": 66,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 142370
@@ -1256,7 +1258,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 236370
@@ -2460,7 +2462,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 375290

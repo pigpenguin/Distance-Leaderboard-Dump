@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Guizmodo",
+    "displayName": "[unknown]",
     "steamID": 76561198113782474
   },
   "displayName": "Purple Track Level 1",
-  "url": "",
+  "id": 374607064,
   "description": "The first level of the series \"Purple Track\". \r\nDifficulty : Casual \r\nGame mode : Sprint \r\nBoost : Yes \r\nJump : Only flight area \r\nFly : Only flight area \r\nRotate : Only flight area",
   "fileName": "purple track level 1",
+  "upvotes": 846,
+  "downvotes": 131,
   "leaderboard": [
     {
       "player": {
@@ -59,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 73840
@@ -836,7 +838,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 79960

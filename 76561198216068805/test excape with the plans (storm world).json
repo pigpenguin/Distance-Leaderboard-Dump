@@ -4,9 +4,11 @@
     "steamID": 76561198216068805
   },
   "displayName": "Escape the storm planet.",
-  "url": "",
+  "id": 873024737,
   "description": "You got the warnings of the attack, and they came during the thunderstorm on the storm planet. The DOOM; a race of electronic beings bent on ruling all creation has been destroying worlds with there fleet of Dreadnoughts. The base you are stationed at crea",
   "fileName": "test excape with the plans (storm world)",
+  "upvotes": 40,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {
@@ -339,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 238720

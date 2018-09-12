@@ -4,9 +4,11 @@
     "steamID": 76561198079270537
   },
   "displayName": "A Fun Ride",
-  "url": "",
+  "id": 1149326489,
   "description": "A map that causes you to stick to the lane even if it seems easy to go off. You're going the wrong way.",
   "fileName": "the wrong way",
+  "upvotes": 30,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "F I R E",
+    "displayName": "[unknown]",
     "steamID": 76561197997085294
   },
   "displayName": "Serial Drops",
-  "url": "",
+  "id": 635013095,
   "description": "Escape from a steep drop through a maintainace tunnel.\r\n\r\nA short level inspired by a certain story mission in F-ZERO",
   "fileName": "serial drops",
+  "upvotes": 236,
+  "downvotes": 56,
   "leaderboard": [
     {
       "player": {
@@ -381,7 +383,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 141950

@@ -4,9 +4,11 @@
     "steamID": 76561198116956902
   },
   "displayName": "End to a brutal heart *Please read the description*",
-  "url": "",
+  "id": 665479722,
   "description": "*NOTE THIS IS NOT A PERFECT REMAKE OF \"End to a voilent heart\" FROM NITRONIC RUSH*\r\n\r\nThe core has made it's way into distance and revived it's grinder from car hell! Can you survive the flight ahead of you in one run? There are no checkpoints through out ",
   "fileName": "end to a brutal heart",
+  "upvotes": 237,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 35300
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "^2",
+        "displayName": "< blank >",
         "steamID": 76561198115637181
       },
       "time": 36160
@@ -682,7 +684,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 56290
@@ -1494,7 +1496,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 320750

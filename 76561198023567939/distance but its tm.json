@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "Trackmania but its Distance",
-  "url": "",
+  "id": 1323650418,
   "description": "or \"What if you didnt even have wheelmagnets\" or \"Low effort map that might bring some fun\"",
   "fileName": "distance but its tm",
+  "upvotes": 260,
+  "downvotes": 48,
   "leaderboard": [
     {
       "player": {
@@ -1641,7 +1643,7 @@
     },
     {
       "player": {
-        "displayName": "Dirky",
+        "displayName": "[unknown]",
         "steamID": 76561198008177013
       },
       "time": 341680
@@ -2229,7 +2231,7 @@
     },
     {
       "player": {
-        "displayName": "jakubgreba",
+        "displayName": "[unknown]",
         "steamID": 76561198211958617
       },
       "time": 491650

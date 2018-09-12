@@ -4,9 +4,11 @@
     "steamID": 76561197995238814
   },
   "displayName": "The Golden Divide",
-  "url": "",
+  "id": 835716975,
   "description": "There are two paths, but only one choice. Set your best lap times on The Golden Divide. All feedback, helpful or otherwise, is welcome.",
   "fileName": "foursidelaps",
+  "upvotes": 72,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 120840
@@ -920,7 +922,7 @@
     },
     {
       "player": {
-        "displayName": "hh",
+        "displayName": "< blank >",
         "steamID": 76561198134399181
       },
       "time": 257780
@@ -1074,7 +1076,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 367370

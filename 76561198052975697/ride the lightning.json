@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "Ride The Lightning",
-  "url": "",
+  "id": 689586771,
   "description": "The most METAL, BRUTAL level ever!",
   "fileName": "ride the lightning",
+  "upvotes": 360,
+  "downvotes": 59,
   "leaderboard": [
     {
       "player": {
@@ -52,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 111140

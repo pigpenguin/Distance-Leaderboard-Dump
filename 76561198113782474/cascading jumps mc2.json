@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Guizmodo",
+    "displayName": "[unknown]",
     "steamID": 76561198113782474
   },
   "displayName": "Cascading Jumps - Morning Competition 2",
-  "url": "",
+  "id": 467346781,
   "description": "This city loves morning competitions and it's organized you a new stage that will put your jumping talent to the harsh test. \r\nDifficulty : Advanced \r\nGame mode : Sprint - Speed And Style \r\nBoost : Yes \r\nJump : Yes \r\nFly : No \r\nRotate : Yes",
   "fileName": "cascading jumps mc2",
+  "upvotes": 871,
+  "downvotes": 170,
   "leaderboard": [
     {
       "player": {
@@ -1256,7 +1258,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 375190
@@ -1414,6 +1416,13 @@
         "steamID": 76561197961733740
       },
       "time": 388980
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 389780
     },
     {
       "player": {
@@ -2061,7 +2070,7 @@
     },
     {
       "player": {
-        "displayName": "sc",
+        "displayName": "< blank >",
         "steamID": 76561198034644930
       },
       "time": 722610

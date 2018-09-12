@@ -4,9 +4,11 @@
     "steamID": 76561198076076457
   },
   "displayName": "first sprint the coruptor",
-  "url": "",
+  "id": 657832377,
   "description": "An awesome community level",
   "fileName": "first sprint the coruptor",
+  "upvotes": 40,
+  "downvotes": 7,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 52020

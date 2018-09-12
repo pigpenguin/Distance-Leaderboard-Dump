@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Glass Hexagon",
-  "url": "",
+  "id": 654830136,
   "description": "Gotta love 'dem hexagons.",
   "fileName": "glass_hexagon",
+  "upvotes": 430,
+  "downvotes": 74,
   "leaderboard": [
     {
       "player": {
@@ -1053,7 +1055,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 93880
@@ -1648,7 +1650,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 159720

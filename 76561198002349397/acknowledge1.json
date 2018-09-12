@@ -4,9 +4,11 @@
     "steamID": 76561198002349397
   },
   "displayName": "Acknowledge",
-  "url": "",
+  "id": 580931081,
   "description": "The sequel to Knowledge has arrived! The night rolls in as you go downtown.\r\n\r\nMy fifth Sprint level. As always, leave feedback!",
   "fileName": "acknowledge1",
+  "upvotes": 3885,
+  "downvotes": 312,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 139680
@@ -479,7 +481,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 141940
@@ -1697,7 +1699,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 144560
@@ -4039,6 +4041,13 @@
         "steamID": 76561198029853877
       },
       "time": 164350
+    },
+    {
+      "player": {
+        "displayName": "Wolf One",
+        "steamID": 76561198055117726
+      },
+      "time": 164370
     },
     {
       "player": {
@@ -6821,13 +6830,6 @@
     },
     {
       "player": {
-        "displayName": "Wolf One",
-        "steamID": 76561198055117726
-      },
-      "time": 200280
-    },
-    {
-      "player": {
         "displayName": "Wilson",
         "steamID": 76561198061224119
       },
@@ -7556,7 +7558,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 213980
@@ -7745,7 +7747,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 217900
@@ -8018,7 +8020,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 223030
@@ -8088,7 +8090,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 224400
@@ -9075,7 +9077,7 @@
     },
     {
       "player": {
-        "displayName": "Tuwiuwok",
+        "displayName": "Caveman",
         "steamID": 76561197996167521
       },
       "time": 249810
@@ -9271,7 +9273,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 257230
@@ -9628,7 +9630,7 @@
     },
     {
       "player": {
-        "displayName": "Ty",
+        "displayName": "< blank >",
         "steamID": 76561198035399253
       },
       "time": 276830
@@ -10258,7 +10260,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 321960
@@ -11105,7 +11107,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 540040

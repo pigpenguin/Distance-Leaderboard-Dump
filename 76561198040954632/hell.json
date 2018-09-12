@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Generic Oonorio",
+    "displayName": "[unknown]",
     "steamID": 76561198040954632
   },
   "displayName": "Hell",
-  "url": "",
+  "id": 691245820,
   "description": "It's hot in Topeka",
   "fileName": "hell",
+  "upvotes": 173,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -710,7 +712,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 401090

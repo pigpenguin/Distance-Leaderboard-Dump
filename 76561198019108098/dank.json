@@ -4,9 +4,11 @@
     "steamID": 76561198019108098
   },
   "displayName": "The Heights",
-  "url": "",
+  "id": 415284742,
   "description": "This is the first Distance level I've made, hope you guys enjoy it!\r\n\r\nThis is a fairly short track because it's my first, but there are some tricky bits. Also beware of some collision bugs in the level on the track pieces, unfortunately I cannot do much a",
   "fileName": "dank",
+  "upvotes": 404,
+  "downvotes": 62,
   "leaderboard": [
     {
       "player": {
@@ -472,7 +474,7 @@
     },
     {
       "player": {
-        "displayName": "24",
+        "displayName": "< blank >",
         "steamID": 76561198067330795
       },
       "time": 238010

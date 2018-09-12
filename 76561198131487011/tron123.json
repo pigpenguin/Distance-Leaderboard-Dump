@@ -4,9 +4,11 @@
     "steamID": 76561198131487011
   },
   "displayName": "Tron123",
-  "url": "",
+  "id": 764090351,
   "description": "An awesome community level",
   "fileName": "tron123",
+  "upvotes": 261,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -1151,7 +1153,7 @@
     },
     {
       "player": {
-        "displayName": "Seismic Seymour",
+        "displayName": "Woomy 'n Womb",
         "steamID": 76561198073415383
       },
       "time": 173000
@@ -1963,7 +1965,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 199270
@@ -2327,7 +2329,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 220140
@@ -2348,7 +2350,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 221960

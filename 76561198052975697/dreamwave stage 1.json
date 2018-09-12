@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "Dreamwave stage 1",
-  "url": "",
+  "id": 1447851459,
   "description": "trippy boi\r\n\r\nMusic recommended\r\nLazerHawk- Overdrive\r\nhttps://www.youtube.com/watch?v=CrWI99niJW0",
   "fileName": "dreamwave stage 1",
+  "upvotes": 131,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -1015,6 +1017,13 @@
         "steamID": 76561198114257183
       },
       "time": 316320
+    },
+    {
+      "player": {
+        "displayName": "Kaede",
+        "steamID": 76561198086717945
+      },
+      "time": 321300
     },
     {
       "player": {

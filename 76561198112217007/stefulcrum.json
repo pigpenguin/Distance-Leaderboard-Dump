@@ -4,9 +4,11 @@
     "steamID": 76561198112217007
   },
   "displayName": "Fulcrum",
-  "url": "",
+  "id": 544340738,
   "description": "",
   "fileName": "stefulcrum",
+  "upvotes": 985,
+  "downvotes": 124,
   "leaderboard": [
     {
       "player": {
@@ -430,7 +432,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 118910

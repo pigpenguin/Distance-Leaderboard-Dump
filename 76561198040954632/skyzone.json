@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Generic Oonorio",
+    "displayName": "[unknown]",
     "steamID": 76561198040954632
   },
   "displayName": "SkyZone",
-  "url": "",
+  "id": 720410346,
   "description": "Above the clouds.",
   "fileName": "skyzone",
+  "upvotes": 56,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {

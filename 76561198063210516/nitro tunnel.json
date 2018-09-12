@@ -4,9 +4,11 @@
     "steamID": 76561198063210516
   },
   "displayName": "Nitro Tunnel",
-  "url": "",
+  "id": 687214527,
   "description": "This level was loosely inspired by the Nitronic Rush verion of this map, some of the elements are similar.  However, do note that your boost is limited and can easily run out on you before you finish.  Many areas are also unsutible for boosting.",
   "fileName": "nitro tunnel",
+  "upvotes": 9,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

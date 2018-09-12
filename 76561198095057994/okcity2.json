@@ -4,9 +4,11 @@
     "steamID": 76561198095057994
   },
   "displayName": "O-K City",
-  "url": "",
+  "id": 1383296243,
   "description": "My Third Created Level.",
   "fileName": "okcity2",
+  "upvotes": 33,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -486,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 515470

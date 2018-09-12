@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "Isolation 7 Demo",
-  "url": "",
+  "id": 1445279755,
   "description": "An awesome community level",
   "fileName": "isolation 7 demo",
+  "upvotes": 4,
+  "downvotes": 2,
   "leaderboard": [
     {
       "player": {

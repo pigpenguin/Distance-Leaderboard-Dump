@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Roborovski",
+    "displayName": "[unknown]",
     "steamID": 76561197998094375
   },
   "displayName": "Eye of the Storm",
-  "url": "",
+  "id": 513942372,
   "description": "Can you make it through the storm? \r\n\r\nThis was my first attempt at the level editor. I tried to make it hard but not impossible with a running theme and ambience. I tried a few things I haven't seen people do yet and hopefully it will inspire others to ma",
   "fileName": "eyeofthestorm",
+  "upvotes": 96,
+  "downvotes": 70,
   "leaderboard": [
     {
       "player": {

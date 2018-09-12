@@ -4,9 +4,11 @@
     "steamID": 76561198271949148
   },
   "displayName": "Ex-Utopia",
-  "url": "",
+  "id": 1161719931,
   "description": "This level focuses on nice feel driving, including twists, loops, road jumps, and upside-down driving.",
   "fileName": "test1",
+  "upvotes": 162,
+  "downvotes": 27,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 116690
@@ -696,7 +698,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 163110

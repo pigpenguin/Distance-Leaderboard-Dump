@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "Stupid Map 1",
-  "url": "",
+  "id": 455389043,
   "description": "An awesome community level",
   "fileName": "stupidchallenge1",
+  "upvotes": 50,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {

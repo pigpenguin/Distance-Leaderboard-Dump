@@ -4,9 +4,11 @@
     "steamID": 76561198065415045
   },
   "displayName": "Determination",
-  "url": "",
+  "id": 610423218,
   "description": "Heavily focused on Obstacles (and reading)! Recommended for experienced players (/readers) only!\r\n\r\n\r\nYou were on a normal patrol and just wanted to jump to the next sector. But something interrupted your jump and... it seems to be accompanying you...\r\n\r\nA",
   "fileName": "determination",
+  "upvotes": 426,
+  "downvotes": 91,
   "leaderboard": [
     {
       "player": {
@@ -122,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "Handsome_Lone",
+        "displayName": "[unknown]",
         "steamID": 76561198083258725
       },
       "time": 223570
@@ -619,7 +621,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 360680
@@ -1046,7 +1048,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 669720
@@ -1102,7 +1104,7 @@
     },
     {
       "player": {
-        "displayName": "Rotten Ruthus",
+        "displayName": "[unknown]",
         "steamID": 76561198145655617
       },
       "time": 723160
@@ -1151,7 +1153,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 805180

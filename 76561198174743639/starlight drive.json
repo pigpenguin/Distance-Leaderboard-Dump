@@ -4,9 +4,11 @@
     "steamID": 76561198174743639
   },
   "displayName": "Starlight Drive",
-  "url": "",
+  "id": 1307191379,
   "description": "A short and easy track. Perfect for if you just want to have fun. Uses some gimmicks from Friction.",
   "fileName": "starlight drive",
+  "upvotes": 234,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 112070
@@ -549,7 +551,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 113810

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Shamus Young",
+    "displayName": "[unknown]",
     "steamID": 76561197970809331
   },
   "displayName": "Night Drive",
-  "url": "",
+  "id": 630968903,
   "description": "Casual level, just a quick drive around a glowing neon city.",
   "fileName": "nightdrive",
+  "upvotes": 457,
+  "downvotes": 66,
   "leaderboard": [
     {
       "player": {
@@ -1172,7 +1174,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 162710

@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "Urban",
-  "url": "",
+  "id": 828398714,
   "description": "My first published attempt at a custom level. Dark and eerie, you must survive a decayed city and the problems it throws at you.\r\n\r\nEDIT: After some helpful tips, I have fixed a few problems, msotly in player guidance.",
   "fileName": "urban",
+  "upvotes": 57,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -661,7 +663,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 152860

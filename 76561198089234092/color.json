@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "Volcanic",
-  "url": "",
+  "id": 841741511,
   "description": "Trying to establish a civilization this close to an active volcano turned out to be a bad idea. The roads have survived, for now, but it's advised to evacuate the area immediately.\r\n",
   "fileName": "color",
+  "upvotes": 273,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -416,7 +418,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 127120
@@ -1669,7 +1671,7 @@
     },
     {
       "player": {
-        "displayName": "HowitzerMech",
+        "displayName": "[unknown]",
         "steamID": 76561198030940093
       },
       "time": 151550
@@ -1914,7 +1916,7 @@
     },
     {
       "player": {
-        "displayName": "KfAmped",
+        "displayName": "[unknown]",
         "steamID": 76561198051556325
       },
       "time": 156780
@@ -2467,7 +2469,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 177360
@@ -2747,7 +2749,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 189190
@@ -3356,7 +3358,7 @@
     },
     {
       "player": {
-        "displayName": "Vlad",
+        "displayName": "[unknown]",
         "steamID": 76561198099589573
       },
       "time": 271140
@@ -3475,7 +3477,7 @@
     },
     {
       "player": {
-        "displayName": "SlamManSlap",
+        "displayName": "[unknown]",
         "steamID": 76561198071271816
       },
       "time": 314970

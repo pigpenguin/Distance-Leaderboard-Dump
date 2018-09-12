@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Ionized",
-  "url": "",
+  "id": 916892244,
   "description": "Helix City's main reactor. This construct powers everything in the city without issue, and still has power to spare. Driving though it is usually illegal due to the reactor core vaporizing anything that gets too close, but you have been selected to help do",
   "fileName": "ionized",
+  "upvotes": 436,
+  "downvotes": 56,
   "leaderboard": [
     {
       "player": {
@@ -1977,7 +1979,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 146800
@@ -3090,7 +3092,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 227860
@@ -3377,7 +3379,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 270650

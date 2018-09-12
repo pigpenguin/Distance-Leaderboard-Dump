@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "BIOPUMP-2",
-  "url": "",
+  "id": 561057158,
   "description": "very much like the last one but with telaporters in weird places",
   "fileName": "biopump-2",
+  "upvotes": 553,
+  "downvotes": 92,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 116260
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 122580
@@ -717,7 +719,7 @@
     },
     {
       "player": {
-        "displayName": "24",
+        "displayName": "< blank >",
         "steamID": 76561198067330795
       },
       "time": 136370
@@ -1970,7 +1972,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 232500

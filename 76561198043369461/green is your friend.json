@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Emil",
+    "displayName": "[unknown]",
     "steamID": 76561198043369461
   },
   "displayName": "Green Is Your Friend",
-  "url": "",
+  "id": 414715375,
   "description": "My first level. Now now, I have played since Nitronic Rush so I know what I'm doing.\r\nBeat this level in one sitting if you can, it requires the expertise of the game's physics.\r\n\r\n* This map has a feature that does not work well in Multiplayer, the map is",
   "fileName": "green is your friend",
+  "upvotes": 1059,
+  "downvotes": 154,
   "leaderboard": [
     {
       "player": {
@@ -388,7 +390,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 90190
@@ -549,7 +551,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 96300
@@ -780,7 +782,7 @@
     },
     {
       "player": {
-        "displayName": "^2",
+        "displayName": "< blank >",
         "steamID": 76561198115637181
       },
       "time": 100990

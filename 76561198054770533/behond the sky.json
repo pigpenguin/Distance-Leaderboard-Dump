@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "MrAndo",
+    "displayName": "[unknown]",
     "steamID": 76561198054770533
   },
   "displayName": "Beyond the Sky",
-  "url": "",
+  "id": 703253048,
   "description": "An awesome community level",
   "fileName": "behond the sky",
+  "upvotes": 500,
+  "downvotes": 104,
   "leaderboard": [
     {
       "player": {

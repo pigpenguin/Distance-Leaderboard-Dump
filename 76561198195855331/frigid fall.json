@@ -4,9 +4,11 @@
     "steamID": 76561198195855331
   },
   "displayName": "DAC 11: Frigid Fall",
-  "url": "",
+  "id": 1228576373,
   "description": "Happy Holidays, Christmas is only 14 days away!",
   "fileName": "frigid fall",
+  "upvotes": 230,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 115300
@@ -276,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 119150
@@ -2383,7 +2385,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 177230
@@ -2530,7 +2532,7 @@
     },
     {
       "player": {
-        "displayName": "sc",
+        "displayName": "< blank >",
         "steamID": 76561198034644930
       },
       "time": 186210
@@ -2558,7 +2560,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 188480

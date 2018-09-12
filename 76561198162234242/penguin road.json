@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "MrGreenChips",
+    "displayName": "[unknown]",
     "steamID": 76561198162234242
   },
   "displayName": "My First Driving Test",
-  "url": "",
+  "id": 563145142,
   "description": "An awesome community level",
   "fileName": "penguin road",
+  "upvotes": 39,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {

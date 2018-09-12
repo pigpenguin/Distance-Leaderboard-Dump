@@ -4,9 +4,11 @@
     "steamID": 76561197973294992
   },
   "displayName": "Neon Fury",
-  "url": "",
+  "id": 703302554,
   "description": "My first released level. \r\n\r\nA short simple level with an 80's hot pink and teal theme. Feel free to suggest ideas or bugs, any constructive feed back will be appreciated.\r\n\r\nDue to some error or bug I was not able to update the level only re-upload it. Th",
   "fileName": "neon fury",
+  "upvotes": 1908,
+  "downvotes": 159,
   "leaderboard": [
     {
       "player": {
@@ -395,7 +397,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 64910
@@ -458,7 +460,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 65360
@@ -654,7 +656,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 65840
@@ -2457,6 +2459,13 @@
         "steamID": 76561198144540153
       },
       "time": 76120
+    },
+    {
+      "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 76260
     },
     {
       "player": {
@@ -6247,7 +6256,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 115030
@@ -7486,7 +7495,7 @@
     },
     {
       "player": {
-        "displayName": "Oh",
+        "displayName": "< blank >",
         "steamID": 76561198043144323
       },
       "time": 180310

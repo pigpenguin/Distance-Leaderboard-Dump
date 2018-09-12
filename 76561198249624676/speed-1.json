@@ -4,9 +4,11 @@
     "steamID": 76561198249624676
   },
   "displayName": "Speed-1",
-  "url": "",
+  "id": 933651174,
   "description": "This is the first in a long series I'm going to make, I know it looks EXTREMELY BLAND but that's not the point. The Speed Series is not about decorations, buildings, flashy lights oh no no no... The Speed Series is just plain Road and Checkpoints, but it g",
   "fileName": "speed-1",
+  "upvotes": 23,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {
@@ -290,7 +292,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 37950

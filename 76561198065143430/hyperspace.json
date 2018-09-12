@@ -4,9 +4,11 @@
     "steamID": 76561198065143430
   },
   "displayName": "Derelict Hyperspace Junction",
-  "url": "",
+  "id": 361771459,
   "description": "A hyperspace terminal lies unkempt, ignored, isolated. But it's still running. In some sense of the word, anyhow. But remember: if you die in hyperspace, you die in real life.\r\n\r\nThis map is now available in Sprint! Now you can live the hyperspace experien",
   "fileName": "hyperspace",
+  "upvotes": 1440,
+  "downvotes": 444,
   "leaderboard": [
     {
       "player": {
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 124090
@@ -1459,7 +1461,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 197700
@@ -1725,7 +1727,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 208750
@@ -1942,7 +1944,7 @@
     },
     {
       "player": {
-        "displayName": "The fetus that was inside a man",
+        "displayName": "[unknown]",
         "steamID": 76561198211542799
       },
       "time": 223900
@@ -2012,7 +2014,7 @@
     },
     {
       "player": {
-        "displayName": "stankit",
+        "displayName": "[unknown]",
         "steamID": 76561197967510142
       },
       "time": 229460
@@ -2320,7 +2322,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 250720
@@ -2369,7 +2371,7 @@
     },
     {
       "player": {
-        "displayName": "AUSTIN",
+        "displayName": "[unknown]",
         "steamID": 76561198249596142
       },
       "time": 253250

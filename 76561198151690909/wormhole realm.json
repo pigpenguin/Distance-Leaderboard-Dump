@@ -4,9 +4,11 @@
     "steamID": 76561198151690909
   },
   "displayName": "Wormhole",
-  "url": "",
+  "id": 1228073229,
   "description": "The Wormhole Realm is a dark and empty place in the universe with various interdimensional planes connected by wormholes, some with long tracks and some with short tracks. The winner will have to take the shortest route while dodging hazards like meteors o",
   "fileName": "wormhole realm",
+  "upvotes": 194,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 198070
@@ -1025,7 +1027,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 268060
@@ -1711,6 +1713,13 @@
     },
     {
       "player": {
+        "displayName": "Symonox",
+        "steamID": 76561198206281941
+      },
+      "time": 335020
+    },
+    {
+      "player": {
         "displayName": "MafasTHICC",
         "steamID": 76561198085747587
       },
@@ -2061,7 +2070,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 444470

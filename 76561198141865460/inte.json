@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "DAC #24 Disparity",
-  "url": "",
+  "id": 1242588178,
   "description": "A map like any other...             ATTENTION: To reproduce this map, it is necessary to have the far rendering low.\r\nThis map is not optimized for low performance computers. Tested with PentiumG3220T 2.60GHz.\r\nCriticisms and suggestions are appreciated\r\nS",
   "fileName": "inte",
+  "upvotes": 374,
+  "downvotes": 48,
   "leaderboard": [
     {
       "player": {
@@ -143,7 +145,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 162600
@@ -661,7 +663,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 180960
@@ -2201,7 +2203,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 249600
@@ -2838,7 +2840,7 @@
     },
     {
       "player": {
-        "displayName": "sc",
+        "displayName": "< blank >",
         "steamID": 76561198034644930
       },
       "time": 297000
@@ -2992,7 +2994,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 316600

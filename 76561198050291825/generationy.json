@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Aku Ryou",
+    "displayName": "[unknown]",
     "steamID": 76561198050291825
   },
   "displayName": "Generation Y",
-  "url": "",
+  "id": 460508583,
   "description": "A simple short track with only one decision, left or right? Milliseconds will determine the winner. Have Fun!",
   "fileName": "generationy",
+  "upvotes": 56,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {

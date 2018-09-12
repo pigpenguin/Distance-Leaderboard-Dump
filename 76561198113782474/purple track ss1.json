@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Guizmodo",
+    "displayName": "[unknown]",
     "steamID": 76561198113782474
   },
   "displayName": "Purple Track SJ1",
-  "url": "",
+  "id": 396339371,
   "description": "\"Purple Track  Speed and Jump 1\" consists of three phases of obstacles to overcome: easy, medium and hard on a long straight.\r\nGame mode : Sprint - Speed and Style \r\ndifficulty : Advanced\r\nBoost : Yes \r\nJump : Yes \r\nFly : No \r\nRotate : Yes\r\n\r\nUPDATE 1 : De",
   "fileName": "purple track ss1",
+  "upvotes": 119,
+  "downvotes": 37,
   "leaderboard": [
     {
       "player": {
@@ -31,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 121730

@@ -4,9 +4,11 @@
     "steamID": 76561198079410025
   },
   "displayName": "Nitronic Black",
-  "url": "",
+  "id": 953499959,
   "description": "A remake of the Hardcore Black level from Nitronic Rush. Okay, sure, there's 2 other remakes of it on the workshop, but now that we have particles and golden simples, I feel a more visually faithful remake is deserved.",
   "fileName": "hardcore black",
+  "upvotes": 335,
+  "downvotes": 51,
   "leaderboard": [
     {
       "player": {
@@ -2075,7 +2077,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 125570

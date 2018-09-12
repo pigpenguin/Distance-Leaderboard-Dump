@@ -4,9 +4,11 @@
     "steamID": 76561198105520081
   },
   "displayName": "Excess",
-  "url": "",
+  "id": 1146110391,
   "description": "First time making a level and first time using the editor. Wanted to try and make a quick and fun map to race so I hope you enjoy it!!",
   "fileName": "excess00",
+  "upvotes": 31,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {
@@ -143,7 +145,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 95570

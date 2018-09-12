@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Dominik",
+    "displayName": "[unknown]",
     "steamID": 76561198023079121
   },
   "displayName": "Bobbys Testgelaende",
-  "url": "",
+  "id": 469080694,
   "description": "An awesome community level",
   "fileName": "bobbys testgelaende",
+  "upvotes": 42,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {

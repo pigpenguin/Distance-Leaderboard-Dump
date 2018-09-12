@@ -4,9 +4,11 @@
     "steamID": 76561198082299429
   },
   "displayName": "[STE] Wander In The Dark",
-  "url": "",
+  "id": 540530943,
   "description": "My entry for the third and last week's STE contest. I am already, in advance, like.. Sorry if it feels really unfinished. I had to rush it because I could only access my laptop on friday night, implying that I probably have made poorly :') . I hope you sti",
   "fileName": "[ste] wander in the dark ",
+  "upvotes": 47,
+  "downvotes": 37,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 86860

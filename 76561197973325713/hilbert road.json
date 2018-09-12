@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Hilbert Road",
-  "url": "",
+  "id": 1276138838,
   "description": "slow but challenging; can you stay with the curve, or break free from it?",
   "fileName": "hilbert road",
+  "upvotes": 40,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {

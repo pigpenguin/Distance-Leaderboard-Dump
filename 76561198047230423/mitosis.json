@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 77",
-  "url": "",
+  "id": 616715038,
   "description": "You weren't able to take down Anomaly 55 due to it's advanced Virus state. You must now track down remaining anomalies to absorb code in order to counter Anomaly 55's virus. The first of the bunch lies within Sector 77.\r\n\r\n\r\n\r\n\r\nGot myself a twitter. You w",
   "fileName": "mitosis",
+  "upvotes": 2396,
+  "downvotes": 188,
   "leaderboard": [
     {
       "player": {
@@ -318,7 +320,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 87140
@@ -1701,6 +1703,13 @@
         "steamID": 76561198066775162
       },
       "time": 96500
+    },
+    {
+      "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 96570
     },
     {
       "player": {
@@ -3363,7 +3372,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 114490
@@ -3419,7 +3428,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 114960
@@ -3783,7 +3792,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 118980
@@ -4889,7 +4898,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 134650
@@ -4945,7 +4954,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 135780
@@ -5512,7 +5521,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 145890
@@ -5890,7 +5899,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 152960

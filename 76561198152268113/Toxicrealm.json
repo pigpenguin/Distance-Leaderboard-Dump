@@ -4,9 +4,11 @@
     "steamID": 76561198152268113
   },
   "displayName": "Toxic Realm (Hot Wheels Acceleracers)",
-  "url": "",
+  "id": 1352598470,
   "description": "new kingdom I hope you like it :)",
   "fileName": "Toxicrealm",
+  "upvotes": 122,
+  "downvotes": 43,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "LockeIT™",
+        "displayName": "Bexstin",
         "steamID": 76561198132756551
       },
       "time": 245150

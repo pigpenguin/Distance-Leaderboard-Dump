@@ -4,9 +4,11 @@
     "steamID": 76561198098009718
   },
   "displayName": "In The Clouds",
-  "url": "",
+  "id": 1351054641,
   "description": "2nd level using the trackmogrify system. I hope you enjoy",
   "fileName": "trackmogrify_horror",
+  "upvotes": 74,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 35800

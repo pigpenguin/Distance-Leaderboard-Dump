@@ -4,9 +4,11 @@
     "steamID": 76561198041129304
   },
   "displayName": "Monolith",
-  "url": "",
+  "id": 882674348,
   "description": "An awesome community level",
   "fileName": "monolit12h",
+  "upvotes": 54,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -640,7 +642,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 304530

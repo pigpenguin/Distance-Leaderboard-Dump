@@ -4,9 +4,11 @@
     "steamID": 76561198195855331
   },
   "displayName": "DAC 18: Seasonal Slope",
-  "url": "",
+  "id": 1235607582,
   "description": "It's my birthday! Pine tree clumps made by Phimeek.\n\nDAC 18",
   "fileName": "advent18",
+  "upvotes": 222,
+  "downvotes": 53,
   "leaderboard": [
     {
       "player": {
@@ -318,7 +320,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 150380
@@ -528,7 +530,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 172950

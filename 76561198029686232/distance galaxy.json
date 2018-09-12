@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "DAC #1: Distance Galaxy",
-  "url": "",
+  "id": 809968945,
   "description": "Get familiar with the game as you traverse the Planets.\r\nJust be warned, the difficulty increases as the level progresses, and the end can be quite challenging.\r\n\r\nThis track was built for the 2016 Distance Advent Calender.",
   "fileName": "distance galaxy",
+  "upvotes": 372,
+  "downvotes": 136,
   "leaderboard": [
     {
       "player": {
@@ -1193,7 +1195,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 1434480
@@ -1781,7 +1783,7 @@
     },
     {
       "player": {
-        "displayName": "Io",
+        "displayName": "< blank >",
         "steamID": 76561198002269974
       },
       "time": 1666460
@@ -1830,7 +1832,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 1676950
@@ -2208,7 +2210,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 1800920
@@ -2439,7 +2441,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 1916280
@@ -3146,7 +3148,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 2376340

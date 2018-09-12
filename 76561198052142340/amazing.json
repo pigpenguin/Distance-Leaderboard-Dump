@@ -4,9 +4,11 @@
     "steamID": 76561198052142340
   },
   "displayName": "Extremely Short level",
-  "url": "",
+  "id": 816488708,
   "description": "An awesome community level",
   "fileName": "amazing",
+  "upvotes": 37,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 5260

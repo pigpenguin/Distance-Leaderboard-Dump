@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Meme Man",
+    "displayName": "[unknown]",
     "steamID": 76561198090726786
   },
   "displayName": "Road to SkyCity",
-  "url": "",
+  "id": 573213928,
   "description": "Make your way to SkyCity through a foggy way which is still under consturction!\r\nSounds safe right?",
   "fileName": "the fall",
+  "upvotes": 38,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 99080

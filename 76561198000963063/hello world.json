@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Peri",
+    "displayName": "[unknown]",
     "steamID": 76561198000963063
   },
   "displayName": "Hello World",
-  "url": "",
+  "id": 587704015,
   "description": "An awesome community level",
   "fileName": "hello world",
+  "upvotes": 6,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Gigawatt",
-  "url": "",
+  "id": 1109003256,
   "description": "This level was created for the Sprint Tournament which took place in Augest 12, 2017 Speedy Saturday time. It was a blast to make, and i hope you all enjoy playing this as well!",
   "fileName": "Gigawatt",
+  "upvotes": 491,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 101690
@@ -920,7 +922,7 @@
     },
     {
       "player": {
-        "displayName": "NyattaFaux",
+        "displayName": "Nyatta",
         "steamID": 76561198009347262
       },
       "time": 104540
@@ -1375,7 +1377,7 @@
     },
     {
       "player": {
-        "displayName": "OK",
+        "displayName": "< blank >",
         "steamID": 76561198044630891
       },
       "time": 110300
@@ -2936,7 +2938,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 131730
@@ -3986,7 +3988,7 @@
     },
     {
       "player": {
-        "displayName": "N-",
+        "displayName": "< blank >",
         "steamID": 76561198126824296
       },
       "time": 160900
@@ -4217,7 +4219,7 @@
     },
     {
       "player": {
-        "displayName": "E.",
+        "displayName": ".E.",
         "steamID": 76561198054785007
       },
       "time": 174580
@@ -4665,7 +4667,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 231030

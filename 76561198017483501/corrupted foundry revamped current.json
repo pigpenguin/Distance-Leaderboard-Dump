@@ -4,9 +4,11 @@
     "steamID": 76561198017483501
   },
   "displayName": "Corrupted Foundry Revamped (Current)",
-  "url": "",
+  "id": 1111926312,
   "description": "The virus has taken over a huge factory megaplex and you are tasked with having a peek. Once you have worked your way in to the plant and had a look around, a train will be waiting to pick you up. Quickly make your way to our getaway ship and report back o",
   "fileName": "corrupted foundry revamped current",
+  "upvotes": 118,
+  "downvotes": 29,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 233480
@@ -1004,7 +1006,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 867280

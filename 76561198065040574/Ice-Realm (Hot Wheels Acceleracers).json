@@ -4,9 +4,11 @@
     "steamID": 76561198065040574
   },
   "displayName": "Ice Realm [Omega Redux]",
-  "url": "",
+  "id": 880387881,
   "description": "Welcome to the Ice Realm.\r\n\r\nBe careful on the turns, you'll fly off if you don't slow down. Additionally, if you venture too far into the icy trenches, beware of snow blindness, and hazardous icy terrain.\r\n\r\nA redux of Alex's ice realm, utilizing some unf",
   "fileName": "Ice-Realm (Hot Wheels Acceleracers)",
+  "upvotes": 377,
+  "downvotes": 80,
   "leaderboard": [
     {
       "player": {
@@ -1130,7 +1132,7 @@
     },
     {
       "player": {
-        "displayName": "[Icez] Syncro",
+        "displayName": "Out Of Black",
         "steamID": 76561198384597961
       },
       "time": 484560
@@ -3279,7 +3281,7 @@
     },
     {
       "player": {
-        "displayName": "inspairon",
+        "displayName": "[unknown]",
         "steamID": 76561198091973831
       },
       "time": 834350

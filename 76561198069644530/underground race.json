@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Winslow",
+    "displayName": "[unknown]",
     "steamID": 76561198069644530
   },
   "displayName": "Underground Race",
-  "url": "",
+  "id": 480130859,
   "description": "An awesome community level",
   "fileName": "underground race",
+  "upvotes": 32,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {

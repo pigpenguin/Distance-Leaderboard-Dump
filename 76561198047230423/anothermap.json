@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 37",
-  "url": "",
+  "id": 777181972,
   "description": "CAUTION: LOTS OF FLASHY LIGHTS\r\n\r\nso like, im not held responsible for any epileptic siezures.",
   "fileName": "anothermap",
+  "upvotes": 187,
+  "downvotes": 45,
   "leaderboard": [
     {
       "player": {
@@ -549,7 +551,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 154730

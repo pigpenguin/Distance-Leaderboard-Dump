@@ -4,9 +4,11 @@
     "steamID": 76561198163206313
   },
   "displayName": "Programming Blue",
-  "url": "",
+  "id": 709734161,
   "description": "An awesome community level",
   "fileName": "blue thunder",
+  "upvotes": 238,
+  "downvotes": 84,
   "leaderboard": [
     {
       "player": {
@@ -794,7 +796,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 252250
@@ -927,7 +929,7 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 275630

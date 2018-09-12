@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "DVDrive",
+    "displayName": "[unknown]",
     "steamID": 76561198042888787
   },
   "displayName": "Neon's Origins",
-  "url": "",
+  "id": 465965535,
   "description": "An awesome community level",
   "fileName": "neon's origins",
+  "upvotes": 40,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {

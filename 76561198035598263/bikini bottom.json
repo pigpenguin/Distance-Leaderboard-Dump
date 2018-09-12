@@ -4,9 +4,11 @@
     "steamID": 76561198035598263
   },
   "displayName": "Bikini Bottom",
-  "url": "",
+  "id": 1336161460,
   "description": "This is my first level. \r\n\r\nRace through Bikini Bottom from Conch Street all the way to the Krusty Krab!\r\n\r\nHuge shoutouts to:\r\n\r\nibegyourpardon? on discord for the jellyfish and Flying Dutchman's ship model.\r\n\r\nJay2a, sperzieb00n, and VirtualSol for playt",
   "fileName": "bikini bottom",
+  "upvotes": 657,
+  "downvotes": 67,
   "leaderboard": [
     {
       "player": {
@@ -493,7 +495,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 75650
@@ -794,7 +796,7 @@
     },
     {
       "player": {
-        "displayName": "2B",
+        "displayName": "< blank >",
         "steamID": 76561198021974222
       },
       "time": 76720
@@ -892,7 +894,7 @@
     },
     {
       "player": {
-        "displayName": "NecroMonkey",
+        "displayName": "[unknown]",
         "steamID": 76561198085744907
       },
       "time": 77050
@@ -1039,7 +1041,7 @@
     },
     {
       "player": {
-        "displayName": "Ryoushi",
+        "displayName": "[unknown]",
         "steamID": 76561198082496070
       },
       "time": 77620
@@ -1123,7 +1125,7 @@
     },
     {
       "player": {
-        "displayName": "A3R0756",
+        "displayName": "[unknown]",
         "steamID": 76561198180930101
       },
       "time": 77890
@@ -1585,7 +1587,7 @@
     },
     {
       "player": {
-        "displayName": "RedJoy",
+        "displayName": "[unknown]",
         "steamID": 76561198211830397
       },
       "time": 79500
@@ -2033,7 +2035,7 @@
     },
     {
       "player": {
-        "displayName": "Dr_Prince_Valium",
+        "displayName": "[unknown]",
         "steamID": 76561197977464074
       },
       "time": 80880
@@ -2453,7 +2455,7 @@
     },
     {
       "player": {
-        "displayName": "Melllvar, Seer of the tapes!",
+        "displayName": "[unknown]",
         "steamID": 76561198080035660
       },
       "time": 81940
@@ -3076,7 +3078,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 83910
@@ -3146,7 +3148,7 @@
     },
     {
       "player": {
-        "displayName": "[Icez] Syncro",
+        "displayName": "Out Of Black",
         "steamID": 76561198384597961
       },
       "time": 84360
@@ -4287,7 +4289,7 @@
     },
     {
       "player": {
-        "displayName": "Pu-kun",
+        "displayName": "[unknown]",
         "steamID": 76561198047256776
       },
       "time": 90950
@@ -4483,7 +4485,7 @@
     },
     {
       "player": {
-        "displayName": "Kirtahl",
+        "displayName": "[unknown]",
         "steamID": 76561198102923557
       },
       "time": 92710
@@ -4819,7 +4821,7 @@
     },
     {
       "player": {
-        "displayName": "NeoTalon",
+        "displayName": "[unknown]",
         "steamID": 76561198043162632
       },
       "time": 95720
@@ -4924,7 +4926,7 @@
     },
     {
       "player": {
-        "displayName": "Lem",
+        "displayName": "[unknown]",
         "steamID": 76561198075298608
       },
       "time": 96600
@@ -5407,7 +5409,7 @@
     },
     {
       "player": {
-        "displayName": "Aftermatter",
+        "displayName": "[unknown]",
         "steamID": 76561198074311749
       },
       "time": 104870
@@ -5435,7 +5437,7 @@
     },
     {
       "player": {
-        "displayName": "Lauchboiz | Bannic",
+        "displayName": "[unknown]",
         "steamID": 76561198060362129
       },
       "time": 105560
@@ -5799,7 +5801,7 @@
     },
     {
       "player": {
-        "displayName": "olivqe",
+        "displayName": "[unknown]",
         "steamID": 76561198200117334
       },
       "time": 112620
@@ -5939,7 +5941,7 @@
     },
     {
       "player": {
-        "displayName": "MUFFINMAN700",
+        "displayName": "Modern Panda",
         "steamID": 76561198380985868
       },
       "time": 115770
@@ -5988,7 +5990,7 @@
     },
     {
       "player": {
-        "displayName": "Tim",
+        "displayName": "[unknown]",
         "steamID": 76561198066080530
       },
       "time": 118600
@@ -6016,7 +6018,7 @@
     },
     {
       "player": {
-        "displayName": "Peach Babe~ ❣",
+        "displayName": "[unknown]",
         "steamID": 76561198192627823
       },
       "time": 119570
@@ -6716,7 +6718,7 @@
     },
     {
       "player": {
-        "displayName": "hh",
+        "displayName": "< blank >",
         "steamID": 76561198134399181
       },
       "time": 194860

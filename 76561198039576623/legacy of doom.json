@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Devilgeek",
+    "displayName": "[unknown]",
     "steamID": 76561198039576623
   },
   "displayName": "Legacy Of Doom",
-  "url": "",
+  "id": 1179097248,
   "description": "From the civilized world to the wastelands of destruction. \r\n\r\nCan you make it in one piece?",
   "fileName": "legacy of doom",
+  "upvotes": 46,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 213730

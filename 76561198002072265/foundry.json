@@ -4,9 +4,11 @@
     "steamID": 76561198002072265
   },
   "displayName": "Abandoned Factory",
-  "url": "",
+  "id": 1129694625,
   "description": "Enter into an ancient abandoned factory. Or is it...?",
   "fileName": "foundry",
+  "upvotes": 474,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {
@@ -311,7 +313,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 95760
@@ -1218,6 +1220,13 @@
         "steamID": 76561198055198994
       },
       "time": 107920
+    },
+    {
+      "player": {
+        "displayName": "darklight437",
+        "steamID": 76561198028115659
+      },
+      "time": 108020
     },
     {
       "player": {
@@ -2138,7 +2147,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 127270
@@ -2264,13 +2273,6 @@
     },
     {
       "player": {
-        "displayName": "darklight437",
-        "steamID": 76561198028115659
-      },
-      "time": 129600
-    },
-    {
-      "player": {
         "displayName": "yaebawynaura",
         "steamID": 76561198035422120
       },
@@ -2278,7 +2280,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 129680
@@ -2460,7 +2462,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 133270
@@ -3853,7 +3855,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 199270
@@ -3923,7 +3925,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 204170

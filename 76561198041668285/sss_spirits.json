@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Super Short Six, #6: Spirits",
-  "url": "",
+  "id": 1127564935,
   "description": "Not all spirits are evil, some with show you the way forward as long as you are willing to look. (Don't believe in ghosts? Play without particles.)\r\n\r\n=============================================================================\r\nSuper Short Six - A series",
   "fileName": "sss_spirits",
+  "upvotes": 123,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 56660

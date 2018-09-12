@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Abduction",
-  "url": "",
+  "id": 1161939557,
   "description": "A terrible community level\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nDownvote PLS",
   "fileName": "delivery",
+  "upvotes": 142,
+  "downvotes": 36,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 143620
@@ -927,7 +929,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 238100
@@ -1298,7 +1300,7 @@
     },
     {
       "player": {
-        "displayName": "E.",
+        "displayName": ".E.",
         "steamID": 76561198054785007
       },
       "time": 305950

@@ -4,9 +4,11 @@
     "steamID": 76561198120713058
   },
   "displayName": "Red Society",
-  "url": "",
+  "id": 716811718,
   "description": "An awesome community level",
   "fileName": "red society",
+  "upvotes": 48,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -1060,7 +1062,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 109180
@@ -1487,7 +1489,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 130350

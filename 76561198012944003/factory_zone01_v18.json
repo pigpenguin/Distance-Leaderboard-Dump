@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Forcy",
+    "displayName": "[unknown]",
     "steamID": 76561198012944003
   },
   "displayName": "Hyperactive",
-  "url": "",
+  "id": 547925341,
   "description": "[WARNING: outdated level, there might be a lot of problems]\r\n\r\n - Difficulty: Expert - \r\n\r\nLevel-Walkthrough:\r\nhttps://youtu.be/d9R_ky3MQkg\r\n\r\nLevel-Showcase:\r\nhttps://youtu.be/uyjF8nGaurA\r\n(Thank you Fork :D) \r\n\r\nHere is his channel (go subscribe!): \r\nhtt",
   "fileName": "factory_zone01_v18",
+  "upvotes": 253,
+  "downvotes": 79,
   "leaderboard": [
     {
       "player": {
@@ -24,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 138650

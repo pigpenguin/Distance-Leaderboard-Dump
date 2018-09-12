@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "[STE2] Celebration island",
-  "url": "",
+  "id": 1491963072,
   "description": "there's something going on at the beach, find out what it is!\r\n\r\nepilepsy warning: contains rapidly changing colors and flashing lights",
   "fileName": "celebrationislandfinal",
+  "upvotes": 76,
+  "downvotes": 13,
   "leaderboard": [
     {
       "player": {
@@ -238,6 +240,13 @@
         "steamID": 76561198018342862
       },
       "time": 95730
+    },
+    {
+      "player": {
+        "displayName": "IllKIllU",
+        "steamID": 76561198216635512
+      },
+      "time": 96090
     },
     {
       "player": {
@@ -549,6 +558,13 @@
     },
     {
       "player": {
+        "displayName": "SpicyMiku-chan",
+        "steamID": 76561198017945328
+      },
+      "time": 157090
+    },
+    {
+      "player": {
         "displayName": "Zane Wuffy",
         "steamID": 76561198007985700
       },
@@ -752,6 +768,13 @@
     },
     {
       "player": {
+        "displayName": "Hudbus",
+        "steamID": 76561198193921543
+      },
+      "time": 222420
+    },
+    {
+      "player": {
         "displayName": "VHS",
         "steamID": 76561198195855331
       },
@@ -766,7 +789,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 232220
@@ -840,6 +863,13 @@
         "steamID": 76561198016964342
       },
       "time": 330870
+    },
+    {
+      "player": {
+        "displayName": "Beam",
+        "steamID": 76561198106356418
+      },
+      "time": 406990
     }
   ]
 }

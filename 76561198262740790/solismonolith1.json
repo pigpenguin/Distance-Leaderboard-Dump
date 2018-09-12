@@ -4,9 +4,11 @@
     "steamID": 76561198262740790
   },
   "displayName": "The Red Tower: Prologue",
-  "url": "",
+  "id": 1201514665,
   "description": "“Well, today’s the day I begin my mission.  I was hoping that today would go by rather smoothly, but I was sadly awoken early and told I needed to get my vehicle up and running as soon as possible.  He didn’t stick around to tell me why.  I’m pretty sure i",
   "fileName": "solismonolith1",
+  "upvotes": 413,
+  "downvotes": 29,
   "leaderboard": [
     {
       "player": {
@@ -507,7 +509,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 145480
@@ -605,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 146490
@@ -1627,7 +1629,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 164810

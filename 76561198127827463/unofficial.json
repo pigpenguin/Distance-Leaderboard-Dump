@@ -4,9 +4,11 @@
     "steamID": 76561198127827463
   },
   "displayName": "BRG Highway",
-  "url": "",
+  "id": 865636053,
   "description": "Sprint through the different stages of the BRG (Blue Red Green) Highway as fast as possible.",
   "fileName": "unofficial",
+  "upvotes": 9,
+  "downvotes": 9,
   "leaderboard": [
     {
       "player": {

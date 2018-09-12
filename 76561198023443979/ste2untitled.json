@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "[STE2]Tetreal",
-  "url": "",
+  "id": 1490693698,
   "description": "A surreal drive throug 4 atmospheric worlds, take a journey on a visually-oriented experience as the environment shifts as you progress\n\nMy STE2 submission, celebrating the beginning of the end of Distance EA by building an eventful track featuring some di",
   "fileName": "ste2untitled",
+  "upvotes": 132,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 180680
@@ -423,7 +425,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 185350
@@ -805,6 +807,13 @@
         "steamID": 76561198331148378
       },
       "time": 204550
+    },
+    {
+      "player": {
+        "displayName": "Batt",
+        "steamID": 76561198024189114
+      },
+      "time": 205440
     },
     {
       "player": {

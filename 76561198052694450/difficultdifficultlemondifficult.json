@@ -4,9 +4,11 @@
     "steamID": 76561198052694450
   },
   "displayName": "Justsometest",
-  "url": "",
+  "id": 1505608763,
   "description": "A test version of the map",
   "fileName": "difficultdifficultlemondifficult",
+  "upvotes": 3,
+  "downvotes": 2,
   "leaderboard": [
     {
       "player": {

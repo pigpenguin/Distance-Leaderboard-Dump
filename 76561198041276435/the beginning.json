@@ -4,9 +4,11 @@
     "steamID": 76561198041276435
   },
   "displayName": "The Beginning",
-  "url": "",
+  "id": 838839109,
   "description": "Peace and quiet. Too quiet.\r\n\r\nThe first level I've ever made, 'The Beginning' is a very casual and peaceful level, with no obstacles and no overheating.",
   "fileName": "the beginning",
+  "upvotes": 38,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {
@@ -276,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 80900

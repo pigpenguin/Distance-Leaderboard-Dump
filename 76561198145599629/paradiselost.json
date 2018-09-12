@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Dominique Grieshofer",
+    "displayName": "[unknown]",
     "steamID": 76561198145599629
   },
   "displayName": "Paradise Lost",
-  "url": "",
+  "id": 442568935,
   "description": "▀▀▄▀▀▀▀▄▀▀▀▄▀▀▀▀▀▀▄▀▀▀▀▄▀▀▀▀▀▀▀▄▀▄▀▀▀▀▄▄▀▀▀▀▀▀▀▀▄▀▀▀▄▀▀▀▀▀▀▀▀▄▀▀▀▀▄▄▄▄▄▄▄▄▄▄▄▄▄[ＮＵＬＬ]",
   "fileName": "paradiselost",
+  "upvotes": 3284,
+  "downvotes": 337,
   "leaderboard": [
     {
       "player": {
@@ -143,7 +145,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 79150
@@ -976,7 +978,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 81270
@@ -1088,7 +1090,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 81770
@@ -2222,7 +2224,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 88180
@@ -2443,6 +2445,13 @@
         "steamID": 76561198041568474
       },
       "time": 90470
+    },
+    {
+      "player": {
+        "displayName": "Pinapl",
+        "steamID": 76561198047921574
+      },
+      "time": 90480
     },
     {
       "player": {
@@ -3293,13 +3302,6 @@
     },
     {
       "player": {
-        "displayName": "Pinapl",
-        "steamID": 76561198047921574
-      },
-      "time": 99010
-    },
-    {
-      "player": {
         "displayName": "menysos",
         "steamID": 76561198093093117
       },
@@ -3395,6 +3397,13 @@
         "steamID": 76561198019791623
       },
       "time": 99930
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 99940
     },
     {
       "player": {
@@ -4700,14 +4709,14 @@
     },
     {
       "player": {
-        "displayName": "OctagonogatcO",
+        "displayName": "Otacgon",
         "steamID": 76561198054033336
       },
       "time": 115200
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 115260
@@ -4973,7 +4982,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 117720
@@ -5519,7 +5528,7 @@
     },
     {
       "player": {
-        "displayName": "𝓕𝓸𝔁𝔂",
+        "displayName": "Foxy",
         "steamID": 76561198069725856
       },
       "time": 125390
@@ -5876,7 +5885,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 131360
@@ -6065,7 +6074,7 @@
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 136240
@@ -6814,7 +6823,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 153740
@@ -7007,6 +7016,13 @@
         "steamID": 76561198196398491
       },
       "time": 160630
+    },
+    {
+      "player": {
+        "displayName": "Krazy8s",
+        "steamID": 76561198078867563
+      },
+      "time": 160670
     },
     {
       "player": {
@@ -7381,7 +7397,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 175590
@@ -7437,7 +7453,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 179090

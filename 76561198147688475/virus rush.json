@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Virus Rush",
-  "url": "",
+  "id": 592006468,
   "description": "Warning: This map is HARD. Reomended for vetrean players only.\r\n\r\nThe first map made by me. This map can be beaten in less than 1:10.000.",
   "fileName": "virus rush",
+  "upvotes": 210,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -213,7 +215,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 100550

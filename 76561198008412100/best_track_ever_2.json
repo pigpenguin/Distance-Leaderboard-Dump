@@ -4,9 +4,11 @@
     "steamID": 76561198008412100
   },
   "displayName": "The Best Track Ever 2",
-  "url": "",
+  "id": 585735174,
   "description": "This time its personal",
   "fileName": "best_track_ever_2",
+  "upvotes": 23,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {

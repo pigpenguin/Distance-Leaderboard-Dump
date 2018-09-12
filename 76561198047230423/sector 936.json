@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 400",
-  "url": "",
+  "id": 656772829,
   "description": "Yeup, here ya go\r\n\r\n\r\nThanks to pigpenguin for help ironing out some crappy issues",
   "fileName": "sector 936",
+  "upvotes": 2575,
+  "downvotes": 120,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 101050
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 101080
@@ -1886,7 +1888,7 @@
     },
     {
       "player": {
-        "displayName": "OctagonogatcO",
+        "displayName": "Otacgon",
         "steamID": 76561198054033336
       },
       "time": 103280
@@ -2565,6 +2567,13 @@
     },
     {
       "player": {
+        "displayName": "ＲＥＳＳ何殴フ",
+        "steamID": 76561198065585196
+      },
+      "time": 104220
+    },
+    {
+      "player": {
         "displayName": "Fuzzi 23",
         "steamID": 76561198012936976
       },
@@ -2712,7 +2721,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 104550
@@ -4224,7 +4233,7 @@
     },
     {
       "player": {
-        "displayName": "NyattaFaux",
+        "displayName": "Nyatta",
         "steamID": 76561198009347262
       },
       "time": 114400
@@ -4945,6 +4954,13 @@
     },
     {
       "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 118310
+    },
+    {
+      "player": {
         "displayName": "TheSpätzleOne",
         "steamID": 76561198064129026
       },
@@ -4959,7 +4975,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 118470
@@ -5113,7 +5129,7 @@
     },
     {
       "player": {
-        "displayName": "sB",
+        "displayName": "< blank >",
         "steamID": 76561198041610406
       },
       "time": 119220
@@ -5582,7 +5598,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 121320
@@ -5981,7 +5997,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 124130
@@ -6436,7 +6452,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 127780
@@ -6520,7 +6536,7 @@
     },
     {
       "player": {
-        "displayName": "S",
+        "displayName": "< blank >",
         "steamID": 76561198121412302
       },
       "time": 128120
@@ -7122,7 +7138,7 @@
     },
     {
       "player": {
-        "displayName": "SteelDrake",
+        "displayName": "TRESH",
         "steamID": 76561197986362857
       },
       "time": 132100
@@ -7836,7 +7852,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 137660
@@ -9642,7 +9658,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 158110
@@ -9656,7 +9672,7 @@
     },
     {
       "player": {
-        "displayName": "pd",
+        "displayName": "< blank >",
         "steamID": 76561198064544714
       },
       "time": 158230
@@ -9873,7 +9889,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 162100
@@ -10342,7 +10358,7 @@
     },
     {
       "player": {
-        "displayName": "D6",
+        "displayName": "< blank >",
         "steamID": 76561197960423184
       },
       "time": 170120
@@ -11259,7 +11275,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 190630
@@ -11378,7 +11394,7 @@
     },
     {
       "player": {
-        "displayName": "RS",
+        "displayName": "RKS",
         "steamID": 76561198051371884
       },
       "time": 194650
@@ -11721,7 +11737,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 206880
@@ -11945,7 +11961,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 224970
@@ -12036,7 +12052,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 232350
@@ -12169,7 +12185,7 @@
     },
     {
       "player": {
-        "displayName": "At",
+        "displayName": "< blank >",
         "steamID": 76561198101526824
       },
       "time": 256680
@@ -12456,7 +12472,7 @@
     },
     {
       "player": {
-        "displayName": "G$",
+        "displayName": "< blank >",
         "steamID": 76561197970413979
       },
       "time": 345250

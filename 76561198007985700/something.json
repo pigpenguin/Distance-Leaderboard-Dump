@@ -4,9 +4,11 @@
     "steamID": 76561198007985700
   },
   "displayName": "something",
-  "url": "",
+  "id": 528123184,
   "description": "An awesome community level",
   "fileName": "something",
+  "upvotes": 5,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198025279810
   },
   "displayName": "Anarchy Road",
-  "url": "",
+  "id": 409035175,
   "description": "Sprint / Expert\r\n\r\nA short and fast-paced track featuring repurposed buildings. Also big posters.",
   "fileName": "testytestytest",
+  "upvotes": 1554,
+  "downvotes": 411,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 90950
@@ -1319,7 +1321,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 134840
@@ -2369,7 +2371,7 @@
     },
     {
       "player": {
-        "displayName": "Sentry, the Lightbringer",
+        "displayName": "Sentry",
         "steamID": 76561198167310916
       },
       "time": 175890
@@ -3419,7 +3421,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 246670
@@ -3958,7 +3960,7 @@
     },
     {
       "player": {
-        "displayName": "Ty",
+        "displayName": "< blank >",
         "steamID": 76561198035399253
       },
       "time": 342200

@@ -4,9 +4,11 @@
     "steamID": 76561198253579316
   },
   "displayName": "Desertica",
-  "url": "",
+  "id": 1196412607,
   "description": "My first level. It was made really quick, and it isn't very hard, just to have a go next to a giant pyramid. Hope you like it!",
   "fileName": "desertica",
+  "upvotes": 33,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -479,7 +481,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 474120
@@ -514,7 +516,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 530000

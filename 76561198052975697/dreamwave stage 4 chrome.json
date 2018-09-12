@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "Dreamwave stage 4",
-  "url": "",
+  "id": 1473368011,
   "description": "Chrome\n\nRecommended music\nhttps://www.youtube.com/watch?v=g5lK1GybPU0\n",
   "fileName": "dreamwave stage 4 chrome",
+  "upvotes": 59,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -252,6 +254,13 @@
         "steamID": 76561198017945328
       },
       "time": 372260
+    },
+    {
+      "player": {
+        "displayName": "marcusss",
+        "steamID": 76561198041666553
+      },
+      "time": 385710
     },
     {
       "player": {
@@ -619,7 +628,7 @@
     },
     {
       "player": {
-        "displayName": "BigDickMcGee",
+        "displayName": "DrAltzheimer",
         "steamID": 76561198164159390
       },
       "time": 1138040

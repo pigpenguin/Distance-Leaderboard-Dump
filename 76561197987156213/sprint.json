@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Cpt betty",
+    "displayName": "[unknown]",
     "steamID": 76561197987156213
   },
   "displayName": "Sprint",
-  "url": "",
+  "id": 715864626,
   "description": "A short map with tight Apexes for a good sprint. \r\nTight turns and apexes are highlighted in this short but tricky track. Bumping the wall or missing the apex will cost you out there.\r\nSuggestions, questions, comments below!\r\n**Working on some more visuals",
   "fileName": "sprint",
+  "upvotes": 19,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {

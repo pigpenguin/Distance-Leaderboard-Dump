@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Glacier",
-  "url": "",
+  "id": 581503455,
   "description": "a very short level\r\n",
   "fileName": "lebvel",
+  "upvotes": 1046,
+  "downvotes": 127,
   "leaderboard": [
     {
       "player": {
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 55290
@@ -315,6 +317,13 @@
         "steamID": 76561198054950598
       },
       "time": 55710
+    },
+    {
+      "player": {
+        "displayName": "SpicyMiku-chan",
+        "steamID": 76561198017945328
+      },
+      "time": 55770
     },
     {
       "player": {
@@ -780,7 +789,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 59170
@@ -824,6 +833,13 @@
       "player": {
         "displayName": "Enjoyneering",
         "steamID": 76561198026299733
+      },
+      "time": 59500
+    },
+    {
+      "player": {
+        "displayName": "Hudbus",
+        "steamID": 76561198193921543
       },
       "time": 59500
     },
@@ -1949,7 +1965,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 74400
@@ -2443,6 +2459,13 @@
         "steamID": 76561197997136097
       },
       "time": 98940
+    },
+    {
+      "player": {
+        "displayName": "Shray",
+        "steamID": 76561198071320228
+      },
+      "time": 106840
     },
     {
       "player": {

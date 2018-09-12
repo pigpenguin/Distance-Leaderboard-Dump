@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "stormageddon",
+    "displayName": "[unknown]",
     "steamID": 76561198098825246
   },
   "displayName": "Direction",
-  "url": "",
+  "id": 412903888,
   "description": "A Short Race Course",
   "fileName": "direction",
+  "upvotes": 150,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {

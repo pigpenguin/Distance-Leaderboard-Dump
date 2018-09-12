@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector #̸̡̉6̡͊̕5̡̙̼0̡ͣͮ7̡̑̆8̡̮̝2̡̡᷀",
-  "url": "",
+  "id": 614869187,
   "description": "Anomaly 55 has taken you to his domain. To make it out alive, you must activate your checkpoints, dodge the debris that was once Sector 607, and find Anomaly 55. He must be stopped.\r\n\r\nYup, part 2 of this little story.\r\n\r\nI put a little easter egg in this ",
   "fileName": "sector x",
+  "upvotes": 371,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 88890

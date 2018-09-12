@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "CyclopsDragon",
+    "displayName": "[unknown]",
     "steamID": 76561198020005510
   },
   "displayName": "Dimensional Splice",
-  "url": "",
+  "id": 364009400,
   "description": "This level focuses on the ability to warp between near-identical points in different universes. Each path varies in difficulty, but the easier the path, the harder it is to get a fast time.\r\n\r\nA city was built around the discovery of zones where teleporter",
   "fileName": "dimensional splice",
+  "upvotes": 1538,
+  "downvotes": 245,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 179460
@@ -1627,7 +1629,7 @@
     },
     {
       "player": {
-        "displayName": "Al",
+        "displayName": "< blank >",
         "steamID": 76561198044430474
       },
       "time": 266330
@@ -2299,7 +2301,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 307320
@@ -3657,6 +3659,13 @@
     },
     {
       "player": {
+        "displayName": "Gmanextreme",
+        "steamID": 76561198106158108
+      },
+      "time": 448640
+    },
+    {
+      "player": {
         "displayName": "Le Dark Memer",
         "steamID": 76561197993478960
       },
@@ -3706,7 +3715,7 @@
     },
     {
       "player": {
-        "displayName": "LH",
+        "displayName": "< blank >",
         "steamID": 76561198036402226
       },
       "time": 454090
@@ -4021,7 +4030,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 547750
@@ -4105,7 +4114,7 @@
     },
     {
       "player": {
-        "displayName": "T₳r†",
+        "displayName": "[unknown]",
         "steamID": 76561198106947458
       },
       "time": 612280

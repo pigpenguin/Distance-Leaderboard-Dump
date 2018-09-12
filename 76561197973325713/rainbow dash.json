@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "ColorWave",
-  "url": "",
+  "id": 444371023,
   "description": "Catch the waves, choose your path in the city once you've found resonance with the waves.\r\nContains outdoor/urban locations, flying enabled, different paths to the finish, and shape shifting tunnels.",
   "fileName": "rainbow dash",
+  "upvotes": 392,
+  "downvotes": 163,
   "leaderboard": [
     {
       "player": {
@@ -724,7 +726,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 208550

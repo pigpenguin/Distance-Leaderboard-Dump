@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "NWBO/TB Course 2",
-  "url": "",
+  "id": 767946330,
   "description": "Changed up the rings section, should be easier to see  the next ring.",
   "fileName": "nwbo2",
+  "upvotes": 104,
+  "downvotes": 29,
   "leaderboard": [
     {
       "player": {
@@ -745,7 +747,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 301830

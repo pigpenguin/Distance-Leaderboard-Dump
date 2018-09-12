@@ -4,9 +4,11 @@
     "steamID": 76561198053281743
   },
   "displayName": "Test Track 1",
-  "url": "",
+  "id": 467788958,
   "description": "An awesome community level",
   "fileName": "test track 1",
+  "upvotes": 10,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198217905579
   },
   "displayName": "Infestation",
-  "url": "",
+  "id": 959164661,
   "description": "An awesome community level",
   "fileName": "infestation",
+  "upvotes": 20,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {

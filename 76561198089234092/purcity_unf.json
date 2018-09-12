@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "Impurity",
-  "url": "",
+  "id": 753242700,
   "description": "No longer the default level description",
   "fileName": "purcity_unf",
+  "upvotes": 1460,
+  "downvotes": 71,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 118940
@@ -325,7 +327,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 119470
@@ -521,7 +523,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 120040
@@ -1410,7 +1412,7 @@
     },
     {
       "player": {
-        "displayName": "OctagonogatcO",
+        "displayName": "Otacgon",
         "steamID": 76561198054033336
       },
       "time": 122860
@@ -5099,7 +5101,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 140060
@@ -7983,7 +7985,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 172750
@@ -9621,7 +9623,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 229430
@@ -9712,7 +9714,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 236930

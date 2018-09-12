@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Waste Management",
-  "url": "",
+  "id": 1146129398,
   "description": "If you put a mint in a suit, it becomes Manage-Mint.\r\n\r\nHad fun with doing some little animations, also if anyone knows how to make quarantine text appear in Sprint Mode, that would be great.\r\n\r\n(Edit: got the quarantine text to appear where I wanted it to",
   "fileName": "sewers",
+  "upvotes": 73,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {
@@ -598,7 +600,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 334380

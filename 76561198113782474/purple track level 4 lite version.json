@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Guizmodo",
+    "displayName": "[unknown]",
     "steamID": 76561198113782474
   },
   "displayName": "Purple Track Level 4 Lite Version",
-  "url": "",
+  "id": 412945859,
   "description": "Fourth level of the circuit \"Purple Track\" lite version adapted for the less powerful computers. The \"flight\" mode in the transit shed has been disabled.\r\nDifficulty : Casual\r\nGame mode : Sprint\r\nBoost : Unlimited \r\nJump : Yes \r\nFly : Only flight area \r\nRo",
   "fileName": "purple track level 4 lite version",
+  "upvotes": 746,
+  "downvotes": 87,
   "leaderboard": [
     {
       "player": {
@@ -24,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 122480

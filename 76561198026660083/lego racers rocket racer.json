@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "BRTL",
+    "displayName": "[unknown]",
     "steamID": 76561198026660083
   },
   "displayName": "Lego Racers - Rocket Racer Track",
-  "url": "",
+  "id": 464103818,
   "description": "A level inspired by the Lego Racers - Rocket Racer track.\r\nIt has 3 rounds with increasing difficulty. (Not much).\r\nIt'll say you're going the wrong way at some point. You're not. Don't worry.",
   "fileName": "lego racers rocket racer",
+  "upvotes": 102,
+  "downvotes": 52,
   "leaderboard": [
     {
       "player": {

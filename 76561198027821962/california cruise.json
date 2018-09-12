@@ -4,9 +4,11 @@
     "steamID": 76561198027821962
   },
   "displayName": "California Cruise",
-  "url": "",
+  "id": 583529731,
   "description": "Go on a cruise and explore the natural and man-made beauty found in California. No worries there aren't any obstacles since this is meant to be a casual adventure. I hope you enjoy your vacation!",
   "fileName": "california cruise",
+  "upvotes": 2109,
+  "downvotes": 394,
   "leaderboard": [
     {
       "player": {
@@ -899,7 +901,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 145320
@@ -3657,7 +3659,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 171530
@@ -4826,7 +4828,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 217090
@@ -5421,7 +5423,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 669790

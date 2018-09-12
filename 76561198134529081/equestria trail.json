@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Big McIntosh",
+    "displayName": "[unknown]",
     "steamID": 76561198134529081
   },
   "displayName": "Equestria Trail",
-  "url": "",
+  "id": 589119480,
   "description": "An awesome community level",
   "fileName": "equestria trail",
+  "upvotes": 97,
+  "downvotes": 53,
   "leaderboard": [
     {
       "player": {

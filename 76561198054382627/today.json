@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "DAC #2: Today",
-  "url": "",
+  "id": 810424028,
   "description": "An unknown Rebel group have taken over the central base for \"Cooldown\" production. Also known as \"Liquid Energy\", this substance might be highly safe to touch, yet cannot sustain apart from itself in long distances at a time and eventually will dry up into",
   "fileName": "today",
+  "upvotes": 598,
+  "downvotes": 74,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 206450
@@ -1809,7 +1811,7 @@
     },
     {
       "player": {
-        "displayName": "//PLUSHIE RETAKES JERUSALEM//",
+        "displayName": "//I AM THE TABLE//",
         "steamID": 76561197967237675
       },
       "time": 234410
@@ -2327,7 +2329,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 245510
@@ -2495,7 +2497,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 249740
@@ -3874,7 +3876,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 294670
@@ -5008,7 +5010,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 374330
@@ -5785,7 +5787,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 556090

@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "Sunset Caverns",
-  "url": "",
+  "id": 681716367,
   "description": "Make your way through the sunset caverns. Lined with crystals, these caverns are truly a sight to behold.\r\n\r\n(Note: Simples need updating to Golden Simples)",
   "fileName": "sunset caverns",
+  "upvotes": 415,
+  "downvotes": 83,
   "leaderboard": [
     {
       "player": {
@@ -822,7 +824,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 173110

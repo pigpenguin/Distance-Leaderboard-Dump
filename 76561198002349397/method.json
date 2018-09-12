@@ -4,9 +4,11 @@
     "steamID": 76561198002349397
   },
   "displayName": "Method",
-  "url": "",
+  "id": 681631514,
   "description": "This level was originally supposed to be my birthday level (November 19) but somehow it faced many delays due to lack of contributors. After I switched contributors, this level quickly got through and is now finally available to play in Distance! Enjoy it ",
   "fileName": "method",
+  "upvotes": 1408,
+  "downvotes": 137,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 101460
@@ -3895,7 +3897,7 @@
     },
     {
       "player": {
-        "displayName": "𝓕𝓸𝔁𝔂",
+        "displayName": "Foxy",
         "steamID": 76561198069725856
       },
       "time": 151100
@@ -4273,7 +4275,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 160420
@@ -5099,7 +5101,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 189650
@@ -5771,14 +5773,14 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 223750
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 223770

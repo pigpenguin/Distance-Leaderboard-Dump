@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "In The Sewer",
-  "url": "",
+  "id": 607912916,
   "description": "Race Through A Sewer. \r\n\r\nThank you 5225225 and Sperzieb00n for playtesting.",
   "fileName": "sewer",
+  "upvotes": 275,
+  "downvotes": 86,
   "leaderboard": [
     {
       "player": {
@@ -563,7 +565,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 165380

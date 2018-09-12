@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Additive",
-  "url": "",
+  "id": 1269948937,
   "description": "Been away for a while - hope you enjoy it.",
   "fileName": "additive",
+  "upvotes": 416,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -997,7 +999,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 81380
@@ -2047,7 +2049,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 98170
@@ -2572,7 +2574,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 109740
@@ -2796,7 +2798,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 113850
@@ -3279,7 +3281,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 132900
@@ -3916,7 +3918,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 177080

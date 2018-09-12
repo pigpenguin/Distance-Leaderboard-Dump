@@ -4,9 +4,11 @@
     "steamID": 76561198052480099
   },
   "displayName": "Left it to Rot",
-  "url": "",
+  "id": 338926513,
   "description": "A sprint and S&S level that is designed to be hard, but not too hard.",
   "fileName": "rot",
+  "upvotes": 277,
+  "downvotes": 52,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 57510

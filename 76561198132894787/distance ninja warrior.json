@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "Distance Ninja Warrior",
-  "url": "",
+  "id": 537833006,
   "description": "This Ninja Warrior inspired level will callenge you.",
   "fileName": "distance ninja warrior",
+  "upvotes": 69,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 87010

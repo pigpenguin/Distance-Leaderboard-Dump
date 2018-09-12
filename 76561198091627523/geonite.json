@@ -4,9 +4,11 @@
     "steamID": 76561198091627523
   },
   "displayName": "DAC #19 Nomalith",
-  "url": "",
+  "id": 1236525187,
   "description": "A world that mirrors our own infects the city.",
   "fileName": "geonite",
+  "upvotes": 394,
+  "downvotes": 35,
   "leaderboard": [
     {
       "player": {
@@ -332,7 +334,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 166980
@@ -3713,7 +3715,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 277500

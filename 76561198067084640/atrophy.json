@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "Atrophy",
-  "url": "",
+  "id": 869423302,
   "description": "You escaped the sunken city- now face the hellish, ancient machines below. Can you endure this short, brutal trek?",
   "fileName": "atrophy",
+  "upvotes": 144,
+  "downvotes": 59,
   "leaderboard": [
     {
       "player": {
@@ -598,7 +600,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 156940
@@ -1431,7 +1433,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 275390

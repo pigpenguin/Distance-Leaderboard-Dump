@@ -4,9 +4,11 @@
     "steamID": 76561198177908662
   },
   "displayName": "SWOOSH",
-  "url": "",
+  "id": 838383416,
   "description": "An awesome community level",
   "fileName": "swoosh",
+  "upvotes": 10,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {
@@ -297,7 +299,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 244070

@@ -4,9 +4,11 @@
     "steamID": 76561198002072265
   },
   "displayName": "Neo Tokyo Night",
-  "url": "",
+  "id": 748711430,
   "description": "An 80's inspired track running through the outskirts of New Neo Tokyo.\r\n\r\nMy first track, so constructive critism appreciated (I think I polished it enough).",
   "fileName": "neo tokyo nights",
+  "upvotes": 182,
+  "downvotes": 58,
   "leaderboard": [
     {
       "player": {
@@ -1032,7 +1034,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 477030

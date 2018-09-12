@@ -4,9 +4,11 @@
     "steamID": 76561198002349397
   },
   "displayName": "Striker",
-  "url": "",
+  "id": 546105655,
   "description": "The skybox was originally intended to take place at night, but since the Halloween update came out with some awesome new features which allows you to freely change the skybox to your like. I messed around with it and came up with the sunset idea for this l",
   "fileName": "striker",
+  "upvotes": 6974,
+  "downvotes": 290,
   "leaderboard": [
     {
       "player": {
@@ -24,6 +26,13 @@
     },
     {
       "player": {
+        "displayName": "ferreus",
+        "steamID": 76561198040630941
+      },
+      "time": 79390
+    },
+    {
+      "player": {
         "displayName": "pigpenguin",
         "steamID": 76561198010296669
       },
@@ -35,13 +44,6 @@
         "steamID": 76561198035133380
       },
       "time": 80270
-    },
-    {
-      "player": {
-        "displayName": "ferreus",
-        "steamID": 76561198040630941
-      },
-      "time": 80500
     },
     {
       "player": {
@@ -626,7 +628,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 130270
@@ -724,7 +726,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 130850
@@ -1172,7 +1174,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 131610
@@ -1354,7 +1356,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 131820
@@ -2075,7 +2077,7 @@
     },
     {
       "player": {
-        "displayName": "NyattaFaux",
+        "displayName": "Nyatta",
         "steamID": 76561198009347262
       },
       "time": 132520
@@ -3608,7 +3610,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 133810
@@ -3692,7 +3694,7 @@
     },
     {
       "player": {
-        "displayName": "Joe",
+        "displayName": "Scout main",
         "steamID": 76561198025044742
       },
       "time": 133900
@@ -5267,7 +5269,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 135810
@@ -6541,7 +6543,7 @@
     },
     {
       "player": {
-        "displayName": "SteelDrake",
+        "displayName": "TRESH",
         "steamID": 76561197986362857
       },
       "time": 138390
@@ -6765,7 +6767,7 @@
     },
     {
       "player": {
-        "displayName": ":>",
+        "displayName": "< blank >",
         "steamID": 76561197981644196
       },
       "time": 138840
@@ -6842,7 +6844,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 139030
@@ -6968,7 +6970,7 @@
     },
     {
       "player": {
-        "displayName": "One man bandit",
+        "displayName": "One man tango",
         "steamID": 76561198040184762
       },
       "time": 139400
@@ -7367,6 +7369,13 @@
     },
     {
       "player": {
+        "displayName": "MaxGG",
+        "steamID": 76561198094029042
+      },
+      "time": 140510
+    },
+    {
+      "player": {
         "displayName": "Benzor",
         "steamID": 76561198143813541
       },
@@ -7605,7 +7614,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 141140
@@ -8011,7 +8020,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 142180
@@ -8060,7 +8069,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 142330
@@ -8235,7 +8244,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 142840
@@ -8655,7 +8664,7 @@
     },
     {
       "player": {
-        "displayName": "At",
+        "displayName": "< blank >",
         "steamID": 76561198101526824
       },
       "time": 144100
@@ -8697,7 +8706,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 144380
@@ -8802,7 +8811,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561197975271409
       },
       "time": 144770
@@ -11203,13 +11212,6 @@
     },
     {
       "player": {
-        "displayName": "MaxGG",
-        "steamID": 76561198094029042
-      },
-      "time": 155080
-    },
-    {
-      "player": {
         "displayName": "Nathemi",
         "steamID": 76561198180491097
       },
@@ -11672,6 +11674,13 @@
     },
     {
       "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 157150
+    },
+    {
+      "player": {
         "displayName": "✞TSH✞ JadMaister",
         "steamID": 76561198041829903
       },
@@ -11917,7 +11926,7 @@
     },
     {
       "player": {
-        "displayName": "KD",
+        "displayName": "< blank >",
         "steamID": 76561198037755195
       },
       "time": 158170
@@ -12848,7 +12857,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 162550
@@ -13583,7 +13592,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 166750
@@ -14234,7 +14243,7 @@
     },
     {
       "player": {
-        "displayName": "Catzuku Meowdoria",
+        "displayName": "Pennyless Mac",
         "steamID": 76561198033455518
       },
       "time": 170530
@@ -14357,6 +14366,13 @@
         "steamID": 76561198044172265
       },
       "time": 171420
+    },
+    {
+      "player": {
+        "displayName": "Cheet@hRus",
+        "steamID": 76561198013266035
+      },
+      "time": 171490
     },
     {
       "player": {
@@ -14780,7 +14796,7 @@
     },
     {
       "player": {
-        "displayName": "pd",
+        "displayName": "< blank >",
         "steamID": 76561198064544714
       },
       "time": 174630
@@ -15291,7 +15307,7 @@
     },
     {
       "player": {
-        "displayName": "M3",
+        "displayName": "< blank >",
         "steamID": 76561198027616176
       },
       "time": 177720
@@ -15501,7 +15517,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 179020
@@ -15753,7 +15769,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 180810
@@ -16341,7 +16357,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 185300
@@ -16915,7 +16931,7 @@
     },
     {
       "player": {
-        "displayName": "LH",
+        "displayName": "< blank >",
         "steamID": 76561198036402226
       },
       "time": 189690
@@ -16936,7 +16952,7 @@
     },
     {
       "player": {
-        "displayName": "21",
+        "displayName": "< blank >",
         "steamID": 76561198245435212
       },
       "time": 189780
@@ -17405,7 +17421,7 @@
     },
     {
       "player": {
-        "displayName": "Skoll",
+        "displayName": "Tyrfang",
         "steamID": 76561198037731254
       },
       "time": 193760
@@ -17678,7 +17694,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 196620
@@ -17944,7 +17960,7 @@
     },
     {
       "player": {
-        "displayName": "JP",
+        "displayName": "< blank >",
         "steamID": 76561198143436502
       },
       "time": 200240
@@ -18175,7 +18191,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 202690
@@ -19176,7 +19192,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 217870
@@ -19253,7 +19269,7 @@
     },
     {
       "player": {
-        "displayName": "ED",
+        "displayName": "< blank >",
         "steamID": 76561198036754085
       },
       "time": 219740
@@ -19491,7 +19507,7 @@
     },
     {
       "player": {
-        "displayName": "RS",
+        "displayName": "RKS",
         "steamID": 76561198051371884
       },
       "time": 224950
@@ -20212,7 +20228,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 250490
@@ -20401,7 +20417,7 @@
     },
     {
       "player": {
-        "displayName": "{_",
+        "displayName": "< blank >",
         "steamID": 76561198069186337
       },
       "time": 258740
@@ -21451,6 +21467,13 @@
     },
     {
       "player": {
+        "displayName": "Krazy8s",
+        "steamID": 76561198078867563
+      },
+      "time": 365840
+    },
+    {
+      "player": {
         "displayName": "Neotist",
         "steamID": 76561198020475732
       },
@@ -21724,7 +21747,7 @@
     },
     {
       "player": {
-        "displayName": "Cx",
+        "displayName": "< blank >",
         "steamID": 76561198067735780
       },
       "time": 525450

@@ -4,9 +4,11 @@
     "steamID": 76561198142485496
   },
   "displayName": "Cavern Realm",
-  "url": "",
+  "id": 1112326486,
   "description": "An awesome community level",
   "fileName": "cavern realm",
+  "upvotes": 107,
+  "downvotes": 32,
   "leaderboard": [
     {
       "player": {

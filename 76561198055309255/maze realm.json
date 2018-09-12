@@ -4,9 +4,11 @@
     "steamID": 76561198055309255
   },
   "displayName": "Mazica",
-  "url": "",
+  "id": 496582419,
   "description": "Race through a multitude of pathways to the start of a fully enclosed maze. Compelte the maze and finish the final section to win!",
   "fileName": "maze realm",
+  "upvotes": 70,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {

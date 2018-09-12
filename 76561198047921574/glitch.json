@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Gl:tch",
-  "url": "",
+  "id": 865510882,
   "description": "An awesome community level! \r\nhttps://www.youtube.com/watch?v=Kz9d-DjlGoU&t=0s\r\n\r\nUpdated so the checkpoints are all facing the right way (a couple were backwards or sideways, whoops!)",
   "fileName": "glitch",
+  "upvotes": 285,
+  "downvotes": 63,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 128180

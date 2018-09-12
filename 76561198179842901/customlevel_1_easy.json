@@ -4,9 +4,11 @@
     "steamID": 76561198179842901
   },
   "displayName": "An Easy Drive",
-  "url": "",
+  "id": 603104897,
   "description": "This is my first custom level, and was largely used to get me familiar with the creation of levels. I have decided to leave out Obstacles in this level, but here is a link to a version of the level that does have Obstacles: http://steamcommunity.com/shared",
   "fileName": "customlevel_1_easy",
+  "upvotes": 90,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {

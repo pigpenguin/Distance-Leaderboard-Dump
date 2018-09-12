@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Meme Man",
+    "displayName": "[unknown]",
     "steamID": 76561198090726786
   },
   "displayName": "Dystopia",
-  "url": "",
+  "id": 569615224,
   "description": "A crazy course\r\n\r\nGold Medal is possible by driving the course perfectly and Diamond Medal is possible by a shortcut...\r\nHave fun finding it ;)",
   "fileName": "tron city",
+  "upvotes": 250,
+  "downvotes": 58,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 98340
@@ -458,7 +460,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 161900

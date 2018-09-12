@@ -4,9 +4,11 @@
     "steamID": 76561198026474833
   },
   "displayName": "Wisp",
-  "url": "",
+  "id": 829665299,
   "description": "First map so feedback is appreciated. The track is fairly short.",
   "fileName": "wip",
+  "upvotes": 43,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {
@@ -619,7 +621,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 182280
@@ -780,7 +782,7 @@
     },
     {
       "player": {
-        "displayName": "𝓕𝓸𝔁𝔂",
+        "displayName": "Foxy",
         "steamID": 76561198069725856
       },
       "time": 214780

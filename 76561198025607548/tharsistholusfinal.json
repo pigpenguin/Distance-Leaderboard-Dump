@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "Tharsis Tholus",
-  "url": "",
+  "id": 567335053,
   "description": "Tharsis Tholus, a shield volcano in the Tharsis region of Mars, was found to have easily exploitable reserves of volatiles and gasses. Now a thriving industrial colony, Tharsis Tholus is filled with smog, toxic gasses, and the nightmares of environmentalis",
   "fileName": "tharsistholusfinal",
+  "upvotes": 2895,
+  "downvotes": 249,
   "leaderboard": [
     {
       "player": {
@@ -255,7 +257,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 56500
@@ -304,7 +306,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 56940
@@ -1067,7 +1069,7 @@
     },
     {
       "player": {
-        "displayName": "One man bandit",
+        "displayName": "One man tango",
         "steamID": 76561198040184762
       },
       "time": 65160
@@ -2915,7 +2917,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 83140
@@ -3783,7 +3785,7 @@
     },
     {
       "player": {
-        "displayName": "??",
+        "displayName": "< blank >",
         "steamID": 76561198003434270
       },
       "time": 92200
@@ -4546,7 +4548,7 @@
     },
     {
       "player": {
-        "displayName": "21",
+        "displayName": "< blank >",
         "steamID": 76561198245435212
       },
       "time": 99550
@@ -6569,7 +6571,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 134900
@@ -6828,7 +6830,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 144480
@@ -7675,7 +7677,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 250000
@@ -7773,7 +7775,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 310540

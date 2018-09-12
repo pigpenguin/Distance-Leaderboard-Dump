@@ -4,9 +4,11 @@
     "steamID": 76561198195855331
   },
   "displayName": "Hot Streets",
-  "url": "",
+  "id": 1303846661,
   "description": "Get to safety, take whatever route necessary, just make it out! The Alliance has started to catch onto you!",
   "fileName": "hot streets",
+  "upvotes": 160,
+  "downvotes": 27,
   "leaderboard": [
     {
       "player": {

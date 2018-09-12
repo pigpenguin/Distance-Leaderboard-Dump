@@ -4,9 +4,11 @@
     "steamID": 76561198017483501
   },
   "displayName": "Low Orbit Battle",
-  "url": "",
+  "id": 667655567,
   "description": "Fly out of your hanger and into the enemy core before you are destroyed.\r\n\r\nMy first test of the level editor; uploaded for posterity.",
   "fileName": "low orbit battle",
+  "upvotes": 36,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

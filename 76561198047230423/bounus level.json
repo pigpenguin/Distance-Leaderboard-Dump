@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 65",
-  "url": "",
+  "id": 645340383,
   "description": "Just a little side level for everyone while I wait for the next update with all those pretty particles. I got my hands on that amazing WarpAnchor, thanks to DeepFriedZombie, and played around with it so this was the result\r\nHope you all enjoy!\r\n\r\nIf you wa",
   "fileName": "bounus level",
+  "upvotes": 227,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 102050

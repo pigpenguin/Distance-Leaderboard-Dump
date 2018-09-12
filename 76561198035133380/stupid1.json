@@ -4,9 +4,11 @@
     "steamID": 76561198035133380
   },
   "displayName": "Idiotic Map 1",
-  "url": "",
+  "id": 958147200,
   "description": "An awful community level",
   "fileName": "stupid1",
+  "upvotes": 24,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {

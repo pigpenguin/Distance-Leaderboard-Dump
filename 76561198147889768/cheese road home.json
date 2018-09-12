@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "vinzenzius",
+    "displayName": "[unknown]",
     "steamID": 76561198147889768
   },
   "displayName": "Cheese Road Home",
-  "url": "",
+  "id": 1255501232,
   "description": "An awesome community level",
   "fileName": "cheese road home",
+  "upvotes": 4,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {

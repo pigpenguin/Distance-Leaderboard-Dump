@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Spektrum Ionely",
-  "url": "",
+  "id": 588625486,
   "description": "The continuation of the previous map . https://steamcommunity.com/workshop/filedetails/?id=581503455\r\nHistory: You travel to another city , but something strange about her ...\r\na very short level \r\nThe image refers to the \"strange\" and a level of this stor",
   "fileName": "qwwea kulia",
+  "upvotes": 1282,
+  "downvotes": 199,
   "leaderboard": [
     {
       "player": {
@@ -1487,7 +1489,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 83530
@@ -2152,7 +2154,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 112830

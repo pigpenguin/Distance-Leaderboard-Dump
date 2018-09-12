@@ -4,9 +4,11 @@
     "steamID": 76561198027365378
   },
   "displayName": "Crash Cove",
-  "url": "",
+  "id": 734688859,
   "description": "A remake from the first and most Iconic Track of Crash Team racing.\r\n\r\nThis is an easy to play track with a island beach theme. Catch some air from the ramp, to reach a short-cut, but watch our for scattered TNT and Potions!\r\n\r\nA big thanks to all the sugg",
   "fileName": "crash cove",
+  "upvotes": 456,
+  "downvotes": 67,
   "leaderboard": [
     {
       "player": {
@@ -1753,7 +1755,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 168200
@@ -1984,7 +1986,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 176280
@@ -3195,7 +3197,7 @@
     },
     {
       "player": {
-        "displayName": "72",
+        "displayName": "< blank >",
         "steamID": 76561198138098328
       },
       "time": 316160

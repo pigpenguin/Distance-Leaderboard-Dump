@@ -4,9 +4,11 @@
     "steamID": 76561198009448655
   },
   "displayName": "Yellow",
-  "url": "",
+  "id": 565382589,
   "description": "You're off to see the Wizard...\r\n\r\n\r\n\r\n\r\n\r\n\r\nDAC #5: 2015",
   "fileName": "yellow",
+  "upvotes": 1126,
+  "downvotes": 228,
   "leaderboard": [
     {
       "player": {
@@ -318,7 +320,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 88870
@@ -3048,7 +3050,7 @@
     },
     {
       "player": {
-        "displayName": "OctagonogatcO",
+        "displayName": "Otacgon",
         "steamID": 76561198054033336
       },
       "time": 220280

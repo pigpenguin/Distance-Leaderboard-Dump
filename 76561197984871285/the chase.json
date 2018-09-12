@@ -4,9 +4,11 @@
     "steamID": 76561197984871285
   },
   "displayName": "The Chase",
-  "url": "",
+  "id": 704877354,
   "description": "An awesome community level",
   "fileName": "the chase",
+  "upvotes": 204,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561197997950572
   },
   "displayName": "Acceleracers Solar Realm Fp Edition",
-  "url": "",
+  "id": 1206033268,
   "description": "Set in dangerously close proximity to a star, the Solar Realm features extreme temperatures hot enough to melt your tires and solar flares that tear away at the track. Combustion ain't spontaneous.\r\nThe skill for this realm could be driving in the extreme-",
   "fileName": "acceleracers solar realm fp edition",
+  "upvotes": 243,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -752,7 +754,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 380090
@@ -1767,7 +1769,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 489340

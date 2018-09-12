@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Forcy",
+    "displayName": "[unknown]",
     "steamID": 76561198012944003
   },
   "displayName": "DAC #6: Wasteland",
-  "url": "",
+  "id": 570108749,
   "description": "[WARNING: outdated level, there might be a lot of problems]\r\n\r\n- Difficulty: Advanced -\r\n\r\nLevel-Walkthrough:\r\nhttps://youtu.be/WmWkRVRmKOA\r\n\r\nDAC-Trailer:\r\nhttps://youtu.be/x_znu8n7_EA\r\n\r\n---\r\n\r\nYou wake up after a nuclear apocalypse!\r\n",
   "fileName": "wasteland_final_v3",
+  "upvotes": 1222,
+  "downvotes": 175,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 116930
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 118890
@@ -1522,7 +1524,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 179690

@@ -4,9 +4,11 @@
     "steamID": 76561198065143430
   },
   "displayName": "DAC #18: Daybreak",
-  "url": "",
+  "id": 578499601,
   "description": "Catch the sunrise over the mountain as you cruise through this surreal, polygonal landscape.\r\n\r\nOkay, honestly, the ending is pretty much padding, but I did what I could. I'll probably update this a number of times in the near future, especially when the r",
   "fileName": "daybreak",
+  "upvotes": 525,
+  "downvotes": 237,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 141640

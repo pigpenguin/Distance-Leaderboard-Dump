@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Data Mining Operation",
-  "url": "",
+  "id": 1137076861,
   "description": "This level belongs to me, it's... mine.",
   "fileName": "flying canyon",
+  "upvotes": 201,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -367,7 +369,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 141180
@@ -1340,7 +1342,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 223980
@@ -1606,7 +1608,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 255220
@@ -1753,7 +1755,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 279000

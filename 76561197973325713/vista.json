@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Vista park",
-  "url": "",
+  "id": 864133565,
   "description": "Envisioned by mayor Jens Arken and the 1966 world fair commitee, Vista park was controversial after its realization but became a cult succes in the long run, though tragically not before Arken ran his car into a monorail hub for unknown reasons, killing hi",
   "fileName": "vista",
+  "upvotes": 150,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -255,7 +257,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 223750

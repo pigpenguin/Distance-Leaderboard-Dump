@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Monochrome",
-  "url": "",
+  "id": 724078380,
   "description": "Black and white, ying and yang.",
   "fileName": "monochrome",
+  "upvotes": 94,
+  "downvotes": 50,
   "leaderboard": [
     {
       "player": {
@@ -605,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 218450

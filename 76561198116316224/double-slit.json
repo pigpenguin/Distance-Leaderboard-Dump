@@ -4,9 +4,11 @@
     "steamID": 76561198116316224
   },
   "displayName": "double-slit",
-  "url": "",
+  "id": 619824312,
   "description": "you may meet with some... interference",
   "fileName": "double-slit",
+  "upvotes": 671,
+  "downvotes": 74,
   "leaderboard": [
     {
       "player": {
@@ -1830,7 +1832,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 209280

@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "Menhir",
-  "url": "",
+  "id": 417295409,
   "description": "Welcome to Menhir!",
   "fileName": "menhir",
+  "upvotes": 316,
+  "downvotes": 107,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 133500

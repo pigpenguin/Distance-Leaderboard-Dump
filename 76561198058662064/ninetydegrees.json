@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Geometree",
-  "url": "",
+  "id": 1447272620,
   "description": "Acts of treeson will be frowned upon...or something, I dunno, you come up with a better tree pun.",
   "fileName": "ninetydegrees",
+  "upvotes": 124,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {
@@ -255,7 +257,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 125270

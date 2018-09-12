@@ -4,9 +4,11 @@
     "steamID": 76561198151948072
   },
   "displayName": "Mad City",
-  "url": "",
+  "id": 734590265,
   "description": "Spend hours making my first map. Hope you like it and I'd hope to get feedback from you guys for future maps ;)",
   "fileName": "test",
+  "upvotes": 45,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {

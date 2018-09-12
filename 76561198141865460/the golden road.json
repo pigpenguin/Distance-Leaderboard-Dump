@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "The golden road V 1.0",
-  "url": "",
+  "id": 443760494,
   "description": "very easy level , as it is gold.\r\nFollow me. To download my recent levels before anyone else.\r\nInspiration level in the game \" Nitronic Rush\" Hardcore Gold",
   "fileName": "the golden road",
+  "upvotes": 648,
+  "downvotes": 72,
   "leaderboard": [
     {
       "player": {
@@ -206,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 61970
@@ -581,6 +583,13 @@
         "steamID": 76561198007758395
       },
       "time": 68870
+    },
+    {
+      "player": {
+        "displayName": "TheLyricLeo",
+        "steamID": 76561198093773159
+      },
+      "time": 69070
     },
     {
       "player": {
@@ -1354,7 +1363,7 @@
     },
     {
       "player": {
-        "displayName": "zeanamush",
+        "displayName": "[unknown]",
         "steamID": 76561198021886229
       },
       "time": 125320

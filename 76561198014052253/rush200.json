@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "energy panel",
-  "url": "",
+  "id": 544032586,
   "description": "An awesome community level",
   "fileName": "rush200",
+  "upvotes": 1045,
+  "downvotes": 112,
   "leaderboard": [
     {
       "player": {
@@ -94,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 141570
@@ -1522,7 +1524,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 166490
@@ -2264,7 +2266,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 189700
@@ -2775,7 +2777,7 @@
     },
     {
       "player": {
-        "displayName": "21",
+        "displayName": "< blank >",
         "steamID": 76561198245435212
       },
       "time": 229230
@@ -2908,7 +2910,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 253000
@@ -3083,7 +3085,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 385870

@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "DAC #12: Sol 2 (Wipeout)",
-  "url": "",
+  "id": 573702196,
   "description": "Idea by JTrevail who wanted  a Wipeout level a la fzeroman style. That means lots, and lots of detail and i think i have made this track as close to the original as i ever will be willing to. But with great detail came great fps drops (i guess thats only n",
   "fileName": "sol 2",
+  "upvotes": 443,
+  "downvotes": 326,
   "leaderboard": [
     {
       "player": {
@@ -374,7 +376,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 131010

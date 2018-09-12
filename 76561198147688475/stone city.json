@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Dayless City",
-  "url": "",
+  "id": 656092834,
   "description": "Day? I know not of what you speak of.",
   "fileName": "stone city",
+  "upvotes": 232,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -759,7 +761,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 260400

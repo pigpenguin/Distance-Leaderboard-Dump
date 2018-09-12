@@ -4,9 +4,11 @@
     "steamID": 76561198126456974
   },
   "displayName": "Night Street",
-  "url": "",
+  "id": 466442746,
   "description": "An awesome community level",
   "fileName": "nightway",
+  "upvotes": 44,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198116316224
   },
   "displayName": "the first space elevator",
-  "url": "",
+  "id": 766796710,
   "description": "a long time ago, man kind <blah blah blah> space elevator <blah blah blah> historic ruins <blah blah> very dangerous.\r\nyou get the idea.  now go! do that thing you do!",
   "fileName": "the first space elevator",
+  "upvotes": 225,
+  "downvotes": 45,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 193370

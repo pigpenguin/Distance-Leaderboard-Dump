@@ -4,9 +4,11 @@
     "steamID": 76561198164145007
   },
   "displayName": "Green Light",
-  "url": "",
+  "id": 686258880,
   "description": "An awesome community level",
   "fileName": "green light",
+  "upvotes": 172,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {

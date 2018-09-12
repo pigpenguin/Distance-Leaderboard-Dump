@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "AnemonePrune",
+    "displayName": "[unknown]",
     "steamID": 76561198060644597
   },
   "displayName": "Strato road",
-  "url": "",
+  "id": 588307867,
   "description": "A community level inspired by Mario Kart Rainbow roads.\r\n\r\nThis level is under construction, leave a comment if you have something to say about it.\r\n\r\nFutures updates will include :\r\n - Cosmetic objects such as: arrows, lamps, signs, ...\r\n - Obstacles to m",
   "fileName": "rainbowroad",
+  "upvotes": 140,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -542,7 +544,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 133500
@@ -647,7 +649,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 141100

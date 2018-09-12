@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Lrsamways",
+    "displayName": "[unknown]",
     "steamID": 76561198052174738
   },
   "displayName": "Cerberus",
-  "url": "",
+  "id": 469332554,
   "description": "Difficulty: Advanced \r\nGold: 1:10.00\r\nSilver: 1:20.00\r\nBronze: 1:30.00",
   "fileName": "cerberus",
+  "upvotes": 669,
+  "downvotes": 159,
   "leaderboard": [
     {
       "player": {
@@ -234,7 +236,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 76580
@@ -1186,7 +1188,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 165040
@@ -1508,7 +1510,7 @@
     },
     {
       "player": {
-        "displayName": "X_aO_c",
+        "displayName": "[unknown]",
         "steamID": 76561198091495189
       },
       "time": 189220
@@ -1543,7 +1545,7 @@
     },
     {
       "player": {
-        "displayName": "XeNoTroN",
+        "displayName": "[unknown]",
         "steamID": 76561198078270782
       },
       "time": 194940
@@ -2082,7 +2084,7 @@
     },
     {
       "player": {
-        "displayName": "UltimateWarrior",
+        "displayName": "[unknown]",
         "steamID": 76561198043340009
       },
       "time": 292960
@@ -2187,7 +2189,7 @@
     },
     {
       "player": {
-        "displayName": "SCK?!",
+        "displayName": "[unknown]",
         "steamID": 76561198102939894
       },
       "time": 353850

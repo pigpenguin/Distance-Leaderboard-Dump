@@ -4,9 +4,11 @@
     "steamID": 76561198116956902
   },
   "displayName": "Lost in time",
-  "url": "",
+  "id": 668507790,
   "description": "Here's a level that I've been working on for a while (waaaay before end to a brutal heart). \r\n\r\nHopefully this one can make it up to ya as the last one wasn't all that great. I've also taken down the difficulty a bit as when I make the slightly harder leve",
   "fileName": "lost in time",
+  "upvotes": 349,
+  "downvotes": 63,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 164090
@@ -794,7 +796,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 235360

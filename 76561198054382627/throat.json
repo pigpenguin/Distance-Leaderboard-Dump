@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "Throat",
-  "url": "",
+  "id": 505085985,
   "description": "Enter the torn throat of the molten forge.",
   "fileName": "throat",
+  "upvotes": 547,
+  "downvotes": 202,
   "leaderboard": [
     {
       "player": {
@@ -682,7 +684,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 143040
@@ -1620,7 +1622,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 260690
@@ -2215,7 +2217,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 681990

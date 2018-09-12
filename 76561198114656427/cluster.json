@@ -4,9 +4,11 @@
     "steamID": 76561198114656427
   },
   "displayName": "Cluster",
-  "url": "",
+  "id": 626907369,
   "description": "A easy race level where there is one giant cluster. You have infinite boost. In the cluster you go every direction fast.\r\nGold Medal: 2:40",
   "fileName": "cluster",
+  "upvotes": 69,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {

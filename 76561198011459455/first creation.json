@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "R̷e̶d̵ ̷R̶i̵n̷g̸ ̶R̷i̴c̷o̷",
+    "displayName": "[unknown]",
     "steamID": 76561198011459455
   },
   "displayName": "Test",
-  "url": "",
+  "id": 870263201,
   "description": "My first attempt with the level creator.",
   "fileName": "first creation",
+  "upvotes": 2,
+  "downvotes": 5,
   "leaderboard": [
     {
       "player": {

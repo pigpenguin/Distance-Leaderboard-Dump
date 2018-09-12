@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "Callenge Course",
-  "url": "",
+  "id": 412414205,
   "description": "A course designed to test your evasive manuvering.  Can you survive the course?  \r\n\r\nPlease post any errors in the comments.",
   "fileName": "callenge course",
+  "upvotes": 167,
+  "downvotes": 54,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "LUNA | Hrox19",
+        "displayName": "[unknown]",
         "steamID": 76561198075671069
       },
       "time": 223330

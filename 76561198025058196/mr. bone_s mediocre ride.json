@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Camo Yoshi",
+    "displayName": "[unknown]",
     "steamID": 76561198025058196
   },
   "displayName": "[STE] Mr. Bone's Mediocre Ride",
-  "url": "",
+  "id": 540619396,
   "description": "Trust me, this isn't *that* wild of a ride.",
   "fileName": "mr. bone_s mediocre ride",
+  "upvotes": 190,
+  "downvotes": 121,
   "leaderboard": [
     {
       "player": {
@@ -17,7 +19,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 135190

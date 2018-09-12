@@ -4,9 +4,11 @@
     "steamID": 76561198393053981
   },
   "displayName": "Warp",
-  "url": "",
+  "id": 950287738,
   "description": "A level that as many Teleporter in it, so there many pathways to take.\r\n\r\nIf there is a Teleporter Problem let me in comments and put in the path you took.\r\n\r\nExample: Left,Right,Right,Left,Right",
   "fileName": "warp",
+  "upvotes": 20,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {

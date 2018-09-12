@@ -4,9 +4,11 @@
     "steamID": 76561198074608751
   },
   "displayName": "Pillar of Truth",
-  "url": "",
+  "id": 812521040,
   "description": "An awesome level created by the Great Comcup.",
   "fileName": "pillar",
+  "upvotes": 63,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {

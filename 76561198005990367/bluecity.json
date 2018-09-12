@@ -4,9 +4,11 @@
     "steamID": 76561198005990367
   },
   "displayName": "Bluecity",
-  "url": "",
+  "id": 888644078,
   "description": "A short level with a dramatic difficulty curve",
   "fileName": "bluecity",
+  "upvotes": 5,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {

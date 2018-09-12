@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Fayeling",
+    "displayName": "[unknown]",
     "steamID": 76561198023639840
   },
   "displayName": "Evacuation Zone",
-  "url": "",
+  "id": 600840858,
   "description": "An awesome community level",
   "fileName": "evacuation zone [fix]",
+  "upvotes": 45,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {

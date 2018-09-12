@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Heavenly City",
-  "url": "",
+  "id": 424542690,
   "description": "Please rate this level\r\ndifficulty: advanced\r\n:,c",
   "fileName": "heavenly city",
+  "upvotes": 594,
+  "downvotes": 115,
   "leaderboard": [
     {
       "player": {
@@ -59,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 81450
@@ -885,7 +887,7 @@
     },
     {
       "player": {
-        "displayName": "𝓕𝓸𝔁𝔂",
+        "displayName": "Foxy",
         "steamID": 76561198069725856
       },
       "time": 148980

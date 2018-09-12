@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Ruin",
-  "url": "",
+  "id": 546619586,
   "description": "To escape death by overheating, escape the sun and burrow into the ruins. A long time in the making. Focusing on decoration and theme to try and improve.",
   "fileName": "ruin",
+  "upvotes": 4083,
+  "downvotes": 285,
   "leaderboard": [
     {
       "player": {
@@ -234,7 +236,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 81670
@@ -409,7 +411,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 82400
@@ -598,7 +600,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 82760
@@ -1004,7 +1006,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 83220
@@ -2768,7 +2770,7 @@
     },
     {
       "player": {
-        "displayName": "jayoku",
+        "displayName": "Jayoku Houtenjin!",
         "steamID": 76561198060363705
       },
       "time": 86230
@@ -3034,7 +3036,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 86970
@@ -5617,7 +5619,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 100570
@@ -5953,7 +5955,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 102540
@@ -7150,7 +7152,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 110500
@@ -8361,7 +8363,7 @@
     },
     {
       "player": {
-        "displayName": "Modest Mouse",
+        "displayName": "PlannedPatricide",
         "steamID": 76561198065748746
       },
       "time": 120390
@@ -8557,7 +8559,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 122390
@@ -8795,7 +8797,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 124900
@@ -9005,7 +9007,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 127760
@@ -9614,7 +9616,7 @@
     },
     {
       "player": {
-        "displayName": "SteelDrake",
+        "displayName": "TRESH",
         "steamID": 76561197986362857
       },
       "time": 135190
@@ -10496,7 +10498,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 153520
@@ -11245,7 +11247,7 @@
     },
     {
       "player": {
-        "displayName": ":>",
+        "displayName": "< blank >",
         "steamID": 76561197981644196
       },
       "time": 184670
@@ -11693,7 +11695,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 237260

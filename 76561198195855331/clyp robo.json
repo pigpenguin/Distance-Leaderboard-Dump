@@ -4,9 +4,11 @@
     "steamID": 76561198195855331
   },
   "displayName": "Clyp",
-  "url": "",
+  "id": 1160603732,
   "description": "Holy geez, this took so long for me to actually get around to working on, but I think the end product is pretty radical so, enjoy! Also there are some alternate paths throughout the level, they arent hidden but pretty fun to try out.\r\n\r\nEdits: Added cut in",
   "fileName": "clyp robo",
+  "upvotes": 102,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -276,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 209890

@@ -4,9 +4,11 @@
     "steamID": 76561198195855331
   },
   "displayName": "WaveRippers",
-  "url": "",
+  "id": 961710739,
   "description": "will try to redo this map eventually AKA when i have the motivation",
   "fileName": "waverippers",
+  "upvotes": 171,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -794,7 +796,7 @@
     },
     {
       "player": {
-        "displayName": "At",
+        "displayName": "< blank >",
         "steamID": 76561198101526824
       },
       "time": 180560

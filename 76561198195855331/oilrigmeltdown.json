@@ -4,9 +4,11 @@
     "steamID": 76561198195855331
   },
   "displayName": "Meltdown",
-  "url": "",
+  "id": 1481216647,
   "description": "This oil-rig is going down, and theres no hope of salvaging it, we need to get you off that catastrophe, catch the last boat that has enough fuel to get to shore",
   "fileName": "oilrigmeltdown",
+  "upvotes": 53,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {
@@ -486,6 +488,13 @@
     },
     {
       "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 156370
+    },
+    {
+      "player": {
         "displayName": "Shinrararara",
         "steamID": 76561198024525896
       },
@@ -556,7 +565,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 226910

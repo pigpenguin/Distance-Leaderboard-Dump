@@ -4,9 +4,11 @@
     "steamID": 76561198271949148
   },
   "displayName": "Downtown",
-  "url": "",
+  "id": 1163246814,
   "description": "This level is full of twists, loops, road switches and awesome lighting!",
   "fileName": "downtown",
+  "upvotes": 233,
+  "downvotes": 27,
   "leaderboard": [
     {
       "player": {
@@ -206,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 80740
@@ -1235,7 +1237,7 @@
     },
     {
       "player": {
-        "displayName": "NyattaFaux",
+        "displayName": "Nyatta",
         "steamID": 76561198009347262
       },
       "time": 100310
@@ -1389,7 +1391,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 105930
@@ -2285,7 +2287,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 280940

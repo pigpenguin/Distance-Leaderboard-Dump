@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "#bluepurp",
+    "displayName": "[unknown]",
     "steamID": 76561198045406246
   },
   "displayName": "Perspective",
-  "url": "",
+  "id": 457143740,
   "description": "Somewhere in this desert is an oasis at which to rest -- this isn't it.",
   "fileName": "perspective",
+  "upvotes": 1051,
+  "downvotes": 126,
   "leaderboard": [
     {
       "player": {
@@ -283,7 +285,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 143020
@@ -913,7 +915,7 @@
     },
     {
       "player": {
-        "displayName": "𝓕𝓸𝔁𝔂",
+        "displayName": "Foxy",
         "steamID": 76561198069725856
       },
       "time": 160840
@@ -1312,7 +1314,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 177430
@@ -2635,7 +2637,7 @@
     },
     {
       "player": {
-        "displayName": "Petrus",
+        "displayName": "Farcrada",
         "steamID": 76561198042928921
       },
       "time": 282300

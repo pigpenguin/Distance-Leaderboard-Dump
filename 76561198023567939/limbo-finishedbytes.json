@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "[STE] Limbus Puerorum",
-  "url": "",
+  "id": 540666861,
   "description": "The inspiration for this is obvious.\r\nI had a parasite mechanic in it but had to take it out, because it just feels too dumb for players who havent played LIMBO.\r\nAt the end i've tried out some psychological stuff and hope that it's doing its job and doesn",
   "fileName": "limbo-finishedbytes",
+  "upvotes": 2020,
+  "downvotes": 271,
   "leaderboard": [
     {
       "player": {
@@ -528,7 +530,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 164180
@@ -3902,7 +3904,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 288440
@@ -4287,7 +4289,7 @@
     },
     {
       "player": {
-        "displayName": "Zea mays [NTAH...]",
+        "displayName": "Zea mays [nevermind.]",
         "steamID": 76561198030119958
       },
       "time": 306810
@@ -5057,7 +5059,7 @@
     },
     {
       "player": {
-        "displayName": "PyroMeerkat",
+        "displayName": "Papa Stalin",
         "steamID": 76561198045250161
       },
       "time": 370670
@@ -5085,7 +5087,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 372680
@@ -5617,7 +5619,7 @@
     },
     {
       "player": {
-        "displayName": "KD",
+        "displayName": "< blank >",
         "steamID": 76561198037755195
       },
       "time": 463380

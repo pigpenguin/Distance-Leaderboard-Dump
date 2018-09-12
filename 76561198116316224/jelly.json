@@ -4,9 +4,11 @@
     "steamID": 76561198116316224
   },
   "displayName": "Jelly",
-  "url": "",
+  "id": 633392787,
   "description": "Goes great with peanutbutter.  You may find yourself in a \"jam\".",
   "fileName": "jelly",
+  "upvotes": 81,
+  "downvotes": 85,
   "leaderboard": [
     {
       "player": {
@@ -472,7 +474,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 618830

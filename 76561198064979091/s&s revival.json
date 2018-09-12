@@ -4,9 +4,11 @@
     "steamID": 76561198064979091
   },
   "displayName": "S&S Revival",
-  "url": "",
+  "id": 366190131,
   "description": "Speed & Style Revival is a sprint/s&s level with an emphasis on tricking to cooldown boosters. Signs help indicate which jumps you should do tricks off of. Difficulty varies between multiple pathways, follow the road for a less difficult route.",
   "fileName": "s&s revival",
+  "upvotes": 2685,
+  "downvotes": 378,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 79180
@@ -1130,7 +1132,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 101500
@@ -2208,7 +2210,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 120240
@@ -2754,7 +2756,7 @@
     },
     {
       "player": {
-        "displayName": "B.",
+        "displayName": "< blank >",
         "steamID": 76561198058596470
       },
       "time": 129090
@@ -3139,7 +3141,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 137090
@@ -4609,7 +4611,7 @@
     },
     {
       "player": {
-        "displayName": "Ruslana",
+        "displayName": "[unknown]",
         "steamID": 76561198132954510
       },
       "time": 277110

@@ -4,9 +4,11 @@
     "steamID": 76561197989249430
   },
   "displayName": "Circuitnaut",
-  "url": "",
+  "id": 841235695,
   "description": "This circuit takes you through an elaborate space facility, ending with a reactor that houses a white-hot core, and you're gonna be flying through it (but don't worry, because the exterior of your vehicle is miraculously impervious to even the most extreme",
   "fileName": "circuitnaut",
+  "upvotes": 243,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -1452,7 +1454,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 197150
@@ -2614,7 +2616,7 @@
     },
     {
       "player": {
-        "displayName": "hh",
+        "displayName": "< blank >",
         "steamID": 76561198134399181
       },
       "time": 297910
@@ -2803,7 +2805,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 325380

@@ -4,9 +4,11 @@
     "steamID": 76561198079410025
   },
   "displayName": "Hijack",
-  "url": "",
+  "id": 1219254079,
   "description": "Adventure-style tutorial for the grip flight mechanic. [b]Make sure that you have trick text enabled so you can see the tutorial text![/b] If you don't do that, you're gonna have a bad time.\r\n\r\nThanks to MCrekna1 for a lot of testing and feedback back when",
   "fileName": "hijack3",
+  "upvotes": 165,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {
@@ -381,6 +383,13 @@
     },
     {
       "player": {
+        "displayName": "PineFreshGuy",
+        "steamID": 76561198344556686
+      },
+      "time": 128510
+    },
+    {
+      "player": {
         "displayName": "Jamzuz",
         "steamID": 76561197989619358
       },
@@ -518,13 +527,6 @@
         "steamID": 76561198166454544
       },
       "time": 139370
-    },
-    {
-      "player": {
-        "displayName": "PineFreshGuy",
-        "steamID": 76561198344556686
-      },
-      "time": 141530
     },
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "Circuit",
-  "url": "",
+  "id": 1361595844,
   "description": "Race an intense Five Lap \"Circuit\" within a small construction site.",
   "fileName": "curcuit",
+  "upvotes": 130,
+  "downvotes": 29,
   "leaderboard": [
     {
       "player": {

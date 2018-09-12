@@ -4,9 +4,11 @@
     "steamID": 76561198163833817
   },
   "displayName": "Compressed City",
-  "url": "",
+  "id": 626244101,
   "description": "An awesome community level",
   "fileName": "test",
+  "upvotes": 42,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {

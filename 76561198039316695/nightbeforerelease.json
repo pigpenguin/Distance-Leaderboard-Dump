@@ -4,9 +4,11 @@
     "steamID": 76561198039316695
   },
   "displayName": "DAC #23: The Night Before",
-  "url": "",
+  "id": 823932174,
   "description": "Twas the night before Christmas, and all through the house\r\nNot a creature was stirring, not even a... mouse-sized Refractor?!\r\n\r\nNote: dispite the aesthetic, this track is NOT trivial, and as such is ranked as Expert!",
   "fileName": "nightbeforerelease",
+  "upvotes": 626,
+  "downvotes": 82,
   "leaderboard": [
     {
       "player": {
@@ -388,7 +390,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 78550
@@ -689,7 +691,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 83470
@@ -2719,7 +2721,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 160190
@@ -4189,7 +4191,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 231380
@@ -6184,7 +6186,7 @@
     },
     {
       "player": {
-        "displayName": "lucentauri",
+        "displayName": "free mmr",
         "steamID": 76561198060604424
       },
       "time": 441990
@@ -6226,7 +6228,7 @@
     },
     {
       "player": {
-        "displayName": "TW",
+        "displayName": "< blank >",
         "steamID": 76561198023557909
       },
       "time": 448830

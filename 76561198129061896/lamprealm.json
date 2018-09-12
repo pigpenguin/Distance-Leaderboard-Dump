@@ -4,9 +4,11 @@
     "steamID": 76561198129061896
   },
   "displayName": "Lamp Realm (HotWheels Acceleracers: The Lost Episode)",
-  "url": "",
+  "id": 820307597,
   "description": "I put my heart and soul into this track, it's what I spent all of my hours in Distance making, I've never actually raced a track, but it was all worth it for this masterpiece in the end if I do say so myself.",
   "fileName": "lamprealm",
+  "upvotes": 69,
+  "downvotes": 74,
   "leaderboard": [
     {
       "player": {
@@ -1032,7 +1034,14 @@
     },
     {
       "player": {
-        "displayName": ".f",
+        "displayName": "Turret 49",
+        "steamID": 76561197976303459
+      },
+      "time": 370550
+    },
+    {
+      "player": {
+        "displayName": "< blank >",
         "steamID": 76561198041496914
       },
       "time": 379660

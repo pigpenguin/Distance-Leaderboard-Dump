@@ -4,9 +4,11 @@
     "steamID": 76561198274537149
   },
   "displayName": "Red City",
-  "url": "",
+  "id": 1178309815,
   "description": "Ah, yes. Another Distance level, after months of zero Distance activity whatsoever. No, I'm not dead. I've just been busy with real life stuff, but I had the urge to play Distance again, so here you go. I'll probably add more things to it later on, but for",
   "fileName": "red city",
+  "upvotes": 160,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 130150

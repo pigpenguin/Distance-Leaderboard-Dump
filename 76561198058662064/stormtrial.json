@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Betrayal of the Storm Leviathan",
-  "url": "",
+  "id": 1373530751,
   "description": "Your journey takes to the skies. Ancient, hovering ruins are watched over by a great serpent. Leviathans were once cast out by dragon-kind but one remains to watch over this floating realm.",
   "fileName": "stormtrial",
+  "upvotes": 369,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -2495,6 +2497,13 @@
     },
     {
       "player": {
+        "displayName": "Turret 49",
+        "steamID": 76561197976303459
+      },
+      "time": 188080
+    },
+    {
+      "player": {
         "displayName": "\\(-_-')/ (☞ﾟヮﾟ)☞ Mich",
         "steamID": 76561198050024594
       },
@@ -2670,7 +2679,7 @@
     },
     {
       "player": {
-        "displayName": "Adam West",
+        "displayName": "GrófAzUhl",
         "steamID": 76561198018084993
       },
       "time": 196800

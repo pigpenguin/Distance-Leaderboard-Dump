@@ -4,9 +4,11 @@
     "steamID": 76561198107572699
   },
   "displayName": "Raver",
-  "url": "",
+  "id": 460499382,
   "description": "rave'n with the town\r\nbounding up and down\r\n\r\nlooking through the door,\r\nwatching the extreme Carkour\r\n\r\nThis is the night when the drivers come together\r\nwhere the law are lax and the people say \"oh brother\"\r\ndancing cars, raving parws\r\nwaving arms, raisi",
   "fileName": "raver",
+  "upvotes": 84,
+  "downvotes": 66,
   "leaderboard": [
     {
       "player": {
@@ -38,7 +40,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 90320

@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "The Vex",
-  "url": "",
+  "id": 652685067,
   "description": "A simple and easy level :)\r\nPlease rate this map and comment that I can improve.",
   "fileName": "zombie",
+  "upvotes": 290,
+  "downvotes": 32,
   "leaderboard": [
     {
       "player": {
@@ -1270,7 +1272,7 @@
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 140690

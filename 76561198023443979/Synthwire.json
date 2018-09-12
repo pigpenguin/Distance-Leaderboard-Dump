@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Synthwire",
-  "url": "",
+  "id": 1441380632,
   "description": "Going the distance in a synthwavy skytrack\r\n\r\nNOTE: There is a bug where restarting the level while in a biodome that has a different skybox will cause both skyboxes to load at the same time, thus breaking the visuals. Unfortunately, this is not something ",
   "fileName": "Synthwire",
+  "upvotes": 221,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -514,7 +516,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 125170
@@ -2016,6 +2018,13 @@
         "steamID": 76561198069020705
       },
       "time": 411260
+    },
+    {
+      "player": {
+        "displayName": "Native Reaver",
+        "steamID": 76561198017529575
+      },
+      "time": 416730
     },
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198065415045
   },
   "displayName": "Easiest level in the whole game V2",
-  "url": "",
+  "id": 603491409,
   "description": "http://steamcommunity.com/sharedfiles/filedetails/?id=838883603 <-- Better and newer version. Uses the new particle effects, has a new section and improved obstacle placement.\r\n\r\n\r\nHello new players! This level will teach you the basics of start and end zo",
   "fileName": "easyest level in the whole game",
+  "upvotes": 132,
+  "downvotes": 71,
   "leaderboard": [
     {
       "player": {
@@ -395,7 +397,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 627060

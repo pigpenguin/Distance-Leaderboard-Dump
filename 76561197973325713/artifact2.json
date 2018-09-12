@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Artifact",
-  "url": "",
+  "id": 593275845,
   "description": "Something mysterious has appeared in the lower stratosphere, two portals have been docked at the front and back of the contraption, go \"on board\" and find out more about this ancient construction. \r\n\r\nIt is hypothesized to be interplanetary travel tech, bu",
   "fileName": "artifact2",
+  "upvotes": 182,
+  "downvotes": 137,
   "leaderboard": [
     {
       "player": {
@@ -73,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 135220
@@ -570,7 +572,7 @@
     },
     {
       "player": {
-        "displayName": "Sir Borflord Von Borfington",
+        "displayName": "The Crawler",
         "steamID": 76561198112485265
       },
       "time": 740590

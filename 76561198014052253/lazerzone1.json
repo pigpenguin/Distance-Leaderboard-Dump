@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Benhall8800's_skill-sharpner",
-  "url": "",
+  "id": 529462941,
   "description": "this was the first time i used the editor not the first map i uploaded its a totaly F$@!ed up map full of problems use at your own frustration can be beat in less then 01.00.000",
   "fileName": "lazerzone1",
+  "upvotes": 337,
+  "downvotes": 81,
   "leaderboard": [
     {
       "player": {
@@ -311,7 +313,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 307390
@@ -1095,7 +1097,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 558910

@@ -4,9 +4,11 @@
     "steamID": 76561198047741222
   },
   "displayName": "Dream Prison",
-  "url": "",
+  "id": 393078495,
   "description": "\"Is this haven? Everything is just too perfect...\"\r\n\r\nYou're trapped in your dreams, to keep you warm and harmless. Time has passed since, and the world has changed. It's time to walk again on this scorched land.\r\n\r\n[spoiler]If you're stuck in the first ar",
   "fileName": "dream prison",
+  "upvotes": 97,
+  "downvotes": 57,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 220260

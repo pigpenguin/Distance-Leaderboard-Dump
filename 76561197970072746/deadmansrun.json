@@ -4,9 +4,11 @@
     "steamID": 76561197970072746
   },
   "displayName": "DeadMansRun",
-  "url": "",
+  "id": 586592322,
   "description": "An awesome community level",
   "fileName": "deadmansrun",
+  "upvotes": 36,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {

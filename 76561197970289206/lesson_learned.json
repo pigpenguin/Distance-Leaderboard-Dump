@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "theJudeAbides",
+    "displayName": "[unknown]",
     "steamID": 76561197970289206
   },
   "displayName": "Lesson Learned",
-  "url": "",
+  "id": 450659584,
   "description": "This is my first map.  It's fairly short and simple, but I was aiming for that so that it would be more accessible to newer players.  Hopefully I put enough tricks in there to keep things interesting, though.",
   "fileName": "lesson_learned",
+  "upvotes": 439,
+  "downvotes": 87,
   "leaderboard": [
     {
       "player": {
@@ -283,7 +285,7 @@
     },
     {
       "player": {
-        "displayName": "𝓕𝓸𝔁𝔂",
+        "displayName": "Foxy",
         "steamID": 76561198069725856
       },
       "time": 53800
@@ -1144,7 +1146,7 @@
     },
     {
       "player": {
-        "displayName": "Albert Wesker",
+        "displayName": "[unknown]",
         "steamID": 76561198134745547
       },
       "time": 91970

@@ -4,9 +4,11 @@
     "steamID": 76561198001322117
   },
   "displayName": "The Storm Generator",
-  "url": "",
+  "id": 359128761,
   "description": "Race through an evil rogue factory and turn off the storm generator!\r\n\r\n(that makes sense, right?)\r\n\r\nThe official Distance Advent Calendar thread:\r\nhttp://survivethedistance.com/forums/viewtopic.php?f=5&t=974",
   "fileName": "the storm generator",
+  "upvotes": 873,
+  "downvotes": 148,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 123500
@@ -1015,6 +1017,13 @@
         "steamID": 76561198009927934
       },
       "time": 144500
+    },
+    {
+      "player": {
+        "displayName": "Wolf One",
+        "steamID": 76561198055117726
+      },
+      "time": 144640
     },
     {
       "player": {

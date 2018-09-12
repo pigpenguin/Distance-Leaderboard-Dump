@@ -4,9 +4,11 @@
     "steamID": 76561198148451795
   },
   "displayName": "Laser Show I",
-  "url": "",
+  "id": 1255498231,
   "description": "An awesome community level",
   "fileName": "laser show i",
+  "upvotes": 59,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {

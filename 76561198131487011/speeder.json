@@ -4,9 +4,11 @@
     "steamID": 76561198131487011
   },
   "displayName": "Speeder",
-  "url": "",
+  "id": 883662223,
   "description": "An awesome community level",
   "fileName": "speeder",
+  "upvotes": 54,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {

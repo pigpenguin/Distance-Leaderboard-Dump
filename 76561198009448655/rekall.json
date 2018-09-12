@@ -4,9 +4,11 @@
     "steamID": 76561198009448655
   },
   "displayName": "DAC #5: Rekall",
-  "url": "",
+  "id": 1222478411,
   "description": "Better than the real thing...\r\n\r\n\r\n\r\n\r\n\r\n\r\nDAC #5: 2017",
   "fileName": "rekall",
+  "upvotes": 447,
+  "downvotes": 57,
   "leaderboard": [
     {
       "player": {
@@ -339,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 52460
@@ -3468,14 +3470,14 @@
     },
     {
       "player": {
-        "displayName": "TragicTurtle",
+        "displayName": "[unknown]",
         "steamID": 76561198089555380
       },
       "time": 63240
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 63340
@@ -4700,7 +4702,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 99630

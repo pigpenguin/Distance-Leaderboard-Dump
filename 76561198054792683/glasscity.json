@@ -4,9 +4,11 @@
     "steamID": 76561198054792683
   },
   "displayName": "Glasscity",
-  "url": "",
+  "id": 644968502,
   "description": "Just testing out putting stuff on the workshop. I've got a couple of serious levels in the works, but in the meantime, here's a compact city made completely out of glass.",
   "fileName": "glasscity",
+  "upvotes": 822,
+  "downvotes": 114,
   "leaderboard": [
     {
       "player": {
@@ -325,7 +327,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 53370
@@ -2047,7 +2049,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 91340
@@ -2376,7 +2378,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 112720
@@ -2530,7 +2532,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 125180

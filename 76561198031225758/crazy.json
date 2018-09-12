@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Sabiros",
+    "displayName": "[unknown]",
     "steamID": 76561198031225758
   },
   "displayName": "Crazy Road",
-  "url": "",
+  "id": 600026847,
   "description": "It´s a funny map with more than one way.\r\n\r\nHave fun!",
   "fileName": "crazy",
+  "upvotes": 113,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -31,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "Sabiros",
+        "displayName": "[unknown]",
         "steamID": 76561198031225758
       },
       "time": 50310

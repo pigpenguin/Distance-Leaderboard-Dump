@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Enai Siaion",
+    "displayName": "[unknown]",
     "steamID": 76561198036902506
   },
   "displayName": "Heaven Sent",
-  "url": "",
+  "id": 459370048,
   "description": "[b]Heaven Sent[/b]\r\n\r\nThis track plummets about 50,000 feet straight down and there's no guardrails. You have infinite boost but it's okay to slow down.",
   "fileName": "sky6",
+  "upvotes": 1291,
+  "downvotes": 268,
   "leaderboard": [
     {
       "player": {
@@ -647,7 +649,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 127690
@@ -1550,7 +1552,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 175490

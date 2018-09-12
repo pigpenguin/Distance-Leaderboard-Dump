@@ -4,9 +4,11 @@
     "steamID": 76561198095740293
   },
   "displayName": "The Rave That Never Ends",
-  "url": "",
+  "id": 945494616,
   "description": "An awesome community level",
   "fileName": "the rave that never ends",
+  "upvotes": 2,
+  "downvotes": 7,
   "leaderboard": [
     {
       "player": {

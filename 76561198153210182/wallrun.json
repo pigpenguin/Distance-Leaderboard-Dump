@@ -4,9 +4,11 @@
     "steamID": 76561198153210182
   },
   "displayName": "Wallrun",
-  "url": "",
+  "id": 716498934,
   "description": "An awesome community level",
   "fileName": "wallrun",
+  "upvotes": 44,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {

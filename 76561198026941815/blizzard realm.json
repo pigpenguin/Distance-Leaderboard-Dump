@@ -4,9 +4,11 @@
     "steamID": 76561198026941815
   },
   "displayName": "Blizzard Realm",
-  "url": "",
+  "id": 1158390020,
   "description": "An awesome community level",
   "fileName": "blizzard realm",
+  "upvotes": 293,
+  "downvotes": 76,
   "leaderboard": [
     {
       "player": {
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 231580
@@ -549,7 +551,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 242780
@@ -2467,7 +2469,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 380830
@@ -2859,7 +2861,7 @@
     },
     {
       "player": {
-        "displayName": "OK",
+        "displayName": "< blank >",
         "steamID": 76561198044630891
       },
       "time": 453630

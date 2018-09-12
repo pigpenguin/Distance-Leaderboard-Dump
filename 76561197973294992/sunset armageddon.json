@@ -4,9 +4,11 @@
     "steamID": 76561197973294992
   },
   "displayName": "Sunset Armageddon",
-  "url": "",
+  "id": 703387248,
   "description": "My second track.\r\n\r\nThis track features a apocalypse theme that fades from sunset, to dusk, to night.\r\n\r\n",
   "fileName": "sunset armageddon",
+  "upvotes": 301,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -1165,7 +1167,7 @@
     },
     {
       "player": {
-        "displayName": "Nero",
+        "displayName": "Nero CS.MONEY",
         "steamID": 76561198156872796
       },
       "time": 282030

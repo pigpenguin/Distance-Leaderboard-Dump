@@ -4,9 +4,11 @@
     "steamID": 76561197994102448
   },
   "displayName": "Incline",
-  "url": "",
+  "id": 261539048,
   "description": "A short sprint level emphasizing on atmosphere and crazy lights!\r\n\r\nEnjoy!",
   "fileName": "incline",
+  "upvotes": 4470,
+  "downvotes": 528,
   "leaderboard": [
     {
       "player": {
@@ -402,14 +404,14 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 76270
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 76370
@@ -826,6 +828,13 @@
         "steamID": 76561198087747088
       },
       "time": 77980
+    },
+    {
+      "player": {
+        "displayName": "ＲＥＳＳ何殴フ",
+        "steamID": 76561198065585196
+      },
+      "time": 78020
     },
     {
       "player": {
@@ -1823,7 +1832,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 86460
@@ -2488,7 +2497,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 92390
@@ -3755,7 +3764,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 102730
@@ -6464,7 +6473,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 134770
@@ -6618,7 +6627,7 @@
     },
     {
       "player": {
-        "displayName": "d.",
+        "displayName": "< blank >",
         "steamID": 76561198057615366
       },
       "time": 137830
@@ -7255,7 +7264,7 @@
     },
     {
       "player": {
-        "displayName": "QP",
+        "displayName": "< blank >",
         "steamID": 76561198024632017
       },
       "time": 148780
@@ -7969,6 +7978,13 @@
     },
     {
       "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 163900
+    },
+    {
+      "player": {
         "displayName": "MaxxZZ",
         "steamID": 76561198050161720
       },
@@ -8375,7 +8391,7 @@
     },
     {
       "player": {
-        "displayName": "?!",
+        "displayName": "< blank >",
         "steamID": 76561198027064683
       },
       "time": 179190
@@ -8690,7 +8706,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 192910

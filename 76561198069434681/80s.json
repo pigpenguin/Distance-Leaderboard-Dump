@@ -4,9 +4,11 @@
     "steamID": 76561198069434681
   },
   "displayName": "Potus 3012",
-  "url": "",
+  "id": 826534812,
   "description": "I made this level a long ways back and I have improved since I made this. Regardless, enjoy.",
   "fileName": "80s",
+  "upvotes": 253,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -353,7 +355,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 101790
@@ -633,7 +635,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 110550

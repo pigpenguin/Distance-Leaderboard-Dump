@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Thrustration",
-  "url": "",
+  "id": 556797877,
   "description": "bring your bag of thruster skills you'll need them",
   "fileName": "thrustrationfinal",
+  "upvotes": 189,
+  "downvotes": 103,
   "leaderboard": [
     {
       "player": {
@@ -367,7 +369,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 129640
@@ -766,7 +768,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 337590

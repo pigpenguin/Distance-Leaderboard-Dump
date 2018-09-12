@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Spectral Edge",
-  "url": "",
+  "id": 507248330,
   "description": "Don't worry, it's meant to be a bit harder. Aim for 55 seconds. Worked on this for a long time so feedback is welcome :)",
   "fileName": "spectral edge",
+  "upvotes": 170,
+  "downvotes": 99,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "jayoku",
+        "displayName": "Jayoku Houtenjin!",
         "steamID": 76561198060363705
       },
       "time": 21050

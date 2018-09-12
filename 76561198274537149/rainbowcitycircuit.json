@@ -4,9 +4,11 @@
     "steamID": 76561198274537149
   },
   "displayName": "Rainbow City Circuit",
-  "url": "",
+  "id": 1421537670,
   "description": "Welcome to the Rainbow City Circuit! I've been trying to mess with triggers again, so if something's broken, please let me know. This is a 3 lap race, so drive around the track as fast as you can. I didn't add many obstacles, just simply because it's my fi",
   "fileName": "rainbowcitycircuit",
+  "upvotes": 30,
+  "downvotes": 9,
   "leaderboard": [
     {
       "player": {
@@ -34,7 +36,7 @@
         "displayName": "The long named guy",
         "steamID": 76561197997368571
       },
-      "time": 323020
+      "time": 315080
     },
     {
       "player": {

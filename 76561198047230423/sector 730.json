@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 730",
-  "url": "",
+  "id": 681986906,
   "description": "Wanted some fun with some hexagons and the new update. it's been nearly 2 months, ive been really swamped with adulty shiz. but here ya go, i gave birth to this one",
   "fileName": "sector 730",
+  "upvotes": 423,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 81540
@@ -542,7 +544,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 89190
@@ -1445,7 +1447,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 138990
@@ -1690,7 +1692,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 164100
@@ -2019,7 +2021,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 250090

@@ -4,9 +4,11 @@
     "steamID": 76561198081522427
   },
   "displayName": "Crescent",
-  "url": "",
+  "id": 588942009,
   "description": "My first level. It includes one big skip that is not really hard to find.\r\nManage your boost heat well!",
   "fileName": "crescent",
+  "upvotes": 518,
+  "downvotes": 73,
   "leaderboard": [
     {
       "player": {
@@ -1340,7 +1342,7 @@
     },
     {
       "player": {
-        "displayName": "72",
+        "displayName": "< blank >",
         "steamID": 76561198138098328
       },
       "time": 181690

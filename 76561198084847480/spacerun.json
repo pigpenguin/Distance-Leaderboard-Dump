@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "PeaceFighter",
+    "displayName": "[unknown]",
     "steamID": 76561198084847480
   },
   "displayName": "Spacerun",
-  "url": "",
+  "id": 710771638,
   "description": "An awesome community level",
   "fileName": "spacerun",
+  "upvotes": 143,
+  "downvotes": 36,
   "leaderboard": [
     {
       "player": {

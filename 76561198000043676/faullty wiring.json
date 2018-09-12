@@ -4,9 +4,11 @@
     "steamID": 76561198000043676
   },
   "displayName": "Faulty Wiring",
-  "url": "",
+  "id": 766917059,
   "description": "A Medium length map with increasing difficulty.\r\n\r\nThis is my first map, so constructive critticism is much appreciated.",
   "fileName": "faullty wiring",
+  "upvotes": 471,
+  "downvotes": 62,
   "leaderboard": [
     {
       "player": {
@@ -840,6 +842,13 @@
         "steamID": 76561197961389404
       },
       "time": 90590
+    },
+    {
+      "player": {
+        "displayName": "Wolf One",
+        "steamID": 76561198055117726
+      },
+      "time": 90900
     },
     {
       "player": {
@@ -2411,7 +2420,7 @@
     },
     {
       "player": {
-        "displayName": "Modest Mouse",
+        "displayName": "PlannedPatricide",
         "steamID": 76561198065748746
       },
       "time": 166660

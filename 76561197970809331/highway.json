@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Shamus Young",
+    "displayName": "[unknown]",
     "steamID": 76561197970809331
   },
   "displayName": "Highway",
-  "url": "",
+  "id": 632104721,
   "description": "An extended drive, starting in a twisting city and then going out onto the open highway.",
   "fileName": "highway",
+  "upvotes": 309,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {

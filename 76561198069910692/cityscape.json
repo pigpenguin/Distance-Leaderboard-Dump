@@ -4,9 +4,11 @@
     "steamID": 76561198069910692
   },
   "displayName": "Cityscape",
-  "url": "",
+  "id": 662625935,
   "description": "A very short level taking place in a brightly lit city. Only half the course is decorated.\r\n\r\n\r\nTime: about a minute\r\n\r\nDifficulty: easy - normal",
   "fileName": "cityscape",
+  "upvotes": 209,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -640,7 +642,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 50340

@@ -4,9 +4,11 @@
     "steamID": 76561197996508988
   },
   "displayName": "Nope.exe",
-  "url": "",
+  "id": 484002208,
   "description": "Don't drink and drive.",
   "fileName": "nope_exe",
+  "upvotes": 825,
+  "downvotes": 168,
   "leaderboard": [
     {
       "player": {
@@ -241,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "LH",
+        "displayName": "< blank >",
         "steamID": 76561198036402226
       },
       "time": 112690
@@ -605,6 +607,13 @@
     },
     {
       "player": {
+        "displayName": "Teck Dekkas",
+        "steamID": 76561198181948111
+      },
+      "time": 137410
+    },
+    {
+      "player": {
         "displayName": "Jesus",
         "steamID": 76561198132264359
       },
@@ -640,7 +649,7 @@
     },
     {
       "player": {
-        "displayName": "MyNameIsPatrick",
+        "displayName": "[unknown]",
         "steamID": 76561198068384342
       },
       "time": 140370

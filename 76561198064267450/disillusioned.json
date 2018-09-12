@@ -4,9 +4,11 @@
     "steamID": 76561198064267450
   },
   "displayName": "Disillusioned",
-  "url": "",
+  "id": 424891202,
   "description": "Don't. Trust. Anything.\r\n\r\nBig thanks to Qubic for letting me use Illusions as a base!",
   "fileName": "disillusioned",
+  "upvotes": 172,
+  "downvotes": 128,
   "leaderboard": [
     {
       "player": {
@@ -290,7 +292,7 @@
     },
     {
       "player": {
-        "displayName": "jayoku",
+        "displayName": "Jayoku Houtenjin!",
         "steamID": 76561198060363705
       },
       "time": 146620

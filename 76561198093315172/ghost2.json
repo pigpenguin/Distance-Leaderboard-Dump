@@ -4,9 +4,11 @@
     "steamID": 76561198093315172
   },
   "displayName": "ghost",
-  "url": "",
+  "id": 630770960,
   "description": "An awesome community level",
   "fileName": "ghost2",
+  "upvotes": 32,
+  "downvotes": 13,
   "leaderboard": [
     {
       "player": {

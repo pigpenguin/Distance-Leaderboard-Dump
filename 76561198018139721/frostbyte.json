@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Wunder_Blunder",
+    "displayName": "[unknown]",
     "steamID": 76561198018139721
   },
   "displayName": "Frostbyte",
-  "url": "",
+  "id": 508995893,
   "description": "My third level. I really should make more.",
   "fileName": "frostbyte",
+  "upvotes": 989,
+  "downvotes": 124,
   "leaderboard": [
     {
       "player": {
@@ -73,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 67970
@@ -1830,7 +1832,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 91660
@@ -2621,7 +2623,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 127240

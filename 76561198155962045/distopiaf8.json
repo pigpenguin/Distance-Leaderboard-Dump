@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "wirroj",
+    "displayName": "[unknown]",
     "steamID": 76561198155962045
   },
   "displayName": "Distopia F8",
-  "url": "",
+  "id": 517885814,
   "description": "Set around a small smoggy city this track features lots of jumps and drops before a final downhill section.\r\n\r\nThe track is split in two halves, the first is a quick tour round before going beneath. The second appears to be up above, which features some po",
   "fileName": "distopiaf8",
+  "upvotes": 230,
+  "downvotes": 53,
   "leaderboard": [
     {
       "player": {
@@ -59,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 69600

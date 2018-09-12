@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "12haha",
+    "displayName": "[unknown]",
     "steamID": 76561198049638251
   },
   "displayName": "Linear Level",
-  "url": "",
+  "id": 452965493,
   "description": "A level where you can boost the whole time, with ways to cut time for anyone willing to try them.",
   "fileName": "linear level",
+  "upvotes": 126,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 99910

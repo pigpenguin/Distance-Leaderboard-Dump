@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "izi pizi",
-  "url": "",
+  "id": 664412833,
   "description": "",
   "fileName": "untitled",
+  "upvotes": 221,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -738,7 +740,7 @@
     },
     {
       "player": {
-        "displayName": "ai",
+        "displayName": "< blank >",
         "steamID": 76561197970935357
       },
       "time": 126010

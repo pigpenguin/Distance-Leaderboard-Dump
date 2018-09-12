@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Forcy",
+    "displayName": "[unknown]",
     "steamID": 76561198012944003
   },
   "displayName": "DAC #24: The Ultimate Quiz",
-  "url": "",
+  "id": 582764436,
   "description": "[WARNING: outdated level, there might be a lot of problems]\r\n\r\nDAC-Trailer: \r\nhttps://youtu.be/x_znu8n7_EA \r\n\r\n---\r\n\r\nWelcome to the show! Have fun! :D\r\n",
   "fileName": "ultimate_quiz_final",
+  "upvotes": 754,
+  "downvotes": 161,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 134000
@@ -318,7 +320,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 139990
@@ -1200,7 +1202,7 @@
     },
     {
       "player": {
-        "displayName": "OctagonogatcO",
+        "displayName": "Otacgon",
         "steamID": 76561198054033336
       },
       "time": 201620

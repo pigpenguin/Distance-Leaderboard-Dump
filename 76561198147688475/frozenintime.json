@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Frozen in time",
-  "url": "",
+  "id": 948107364,
   "description": "An awesome community level",
   "fileName": "frozenintime",
+  "upvotes": 592,
+  "downvotes": 54,
   "leaderboard": [
     {
       "player": {
@@ -199,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 104330
@@ -892,7 +894,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 110900
@@ -2369,7 +2371,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 127070
@@ -4623,7 +4625,7 @@
     },
     {
       "player": {
-        "displayName": "Seismic Seymour",
+        "displayName": "Woomy 'n Womb",
         "steamID": 76561198073415383
       },
       "time": 161270
@@ -5092,7 +5094,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 175770
@@ -5337,7 +5339,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 183520
@@ -5435,7 +5437,7 @@
     },
     {
       "player": {
-        "displayName": "gfxh",
+        "displayName": "FALCONPUNCH",
         "steamID": 76561198075775102
       },
       "time": 189620
@@ -5799,7 +5801,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 214220

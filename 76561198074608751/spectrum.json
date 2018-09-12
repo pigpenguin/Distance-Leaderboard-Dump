@@ -4,9 +4,11 @@
     "steamID": 76561198074608751
   },
   "displayName": "Spectrum",
-  "url": "",
+  "id": 1119433580,
   "description": "Race through a spectrum of emotion and color. Try to survive.",
   "fileName": "spectrum",
+  "upvotes": 19,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {
@@ -31,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 450970
@@ -45,17 +47,17 @@
     },
     {
       "player": {
+        "displayName": "Bastard Queen",
+        "steamID": 76561198153472095
+      },
+      "time": 604520
+    },
+    {
+      "player": {
         "displayName": "2001 Volkswagen Jetta",
         "steamID": 76561198146694889
       },
       "time": 622400
-    },
-    {
-      "player": {
-        "displayName": "Bastard Queen",
-        "steamID": 76561198153472095
-      },
-      "time": 627060
     },
     {
       "player": {

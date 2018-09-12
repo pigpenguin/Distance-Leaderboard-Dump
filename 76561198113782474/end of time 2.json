@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Guizmodo",
+    "displayName": "[unknown]",
     "steamID": 76561198113782474
   },
   "displayName": "End Of Time 2",
-  "url": "",
+  "id": 489214389,
   "description": "UPDATE 2 : Available for BETA 4139.\r\n\r\nFighting against time is always important to finish first in the race except this time, tunnels began to be seriously damaged. \r\nDifficulty : Advanced \r\nGame mode : Sprint - Speed And Style \r\nBoost : Infinite \r\nJump :",
   "fileName": "end of time 2",
+  "upvotes": 910,
+  "downvotes": 165,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 147890
@@ -1480,7 +1482,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 231450
@@ -2579,7 +2581,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 324320

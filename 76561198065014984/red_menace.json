@@ -4,9 +4,11 @@
     "steamID": 76561198065014984
   },
   "displayName": "Red menace",
-  "url": "",
+  "id": 681515280,
   "description": "A simple level using some obstacles where you need to use the grip thrusters (Q) I'm not saying it's easy and I'm not saying it's hard.",
   "fileName": "red_menace",
+  "upvotes": 21,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198025476042
   },
   "displayName": "Midnight Highway",
-  "url": "",
+  "id": 631998206,
   "description": "A midnight drive through the streets; don't let the lights blind you.",
   "fileName": "midnight highway",
+  "upvotes": 214,
+  "downvotes": 52,
   "leaderboard": [
     {
       "player": {
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 273180

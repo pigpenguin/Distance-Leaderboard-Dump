@@ -4,9 +4,11 @@
     "steamID": 76561198057730015
   },
   "displayName": "Atomic",
-  "url": "",
+  "id": 603827272,
   "description": "An awesome community level",
   "fileName": "atomic",
+  "upvotes": 316,
+  "downvotes": 58,
   "leaderboard": [
     {
       "player": {

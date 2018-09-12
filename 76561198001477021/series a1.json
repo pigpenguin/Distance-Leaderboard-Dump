@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Fash",
+    "displayName": "[unknown]",
     "steamID": 76561198001477021
   },
   "displayName": "A1: Twisted City",
-  "url": "",
+  "id": 569549151,
   "description": "A broken city hangs in the stratosphere, twisting out and back in in a knot of winding roads.  Race your way through the spiralling architecture to find your way out.  No flight, suitable for Sprint mode.",
   "fileName": "series a1",
+  "upvotes": 272,
+  "downvotes": 87,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 129770
@@ -1078,6 +1080,13 @@
         "steamID": 76561198126199105
       },
       "time": 540010
+    },
+    {
+      "player": {
+        "displayName": "Gordon_Fan",
+        "steamID": 76561198236145494
+      },
+      "time": 547050
     },
     {
       "player": {

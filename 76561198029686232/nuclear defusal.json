@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "Nuclear Defusal",
-  "url": "",
+  "id": 576050976,
   "description": "A Nuclear device has been detected in the city, but the nearest disarming tools are located in the factory district. Rush over to the city with the tools just in case the nuclear device is dangerous.\r\n\r\nJust a quick little level to test out customised spaw",
   "fileName": "nuclear defusal",
+  "upvotes": 412,
+  "downvotes": 128,
   "leaderboard": [
     {
       "player": {
@@ -381,7 +383,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 117340

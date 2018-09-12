@@ -4,9 +4,11 @@
     "steamID": 76561197973602876
   },
   "displayName": "Luxor's Rising",
-  "url": "",
+  "id": 482832902,
   "description": "Race up a giant spire to view the crowning jewel of the city, Luxor. A deceptively challenging Sprint track that should enjoy new racers and veterans alike.",
   "fileName": "luxorrising",
+  "upvotes": 548,
+  "downvotes": 95,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 47070
@@ -1025,7 +1027,7 @@
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 92370

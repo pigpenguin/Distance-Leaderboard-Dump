@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Dimensional Shift Reconstructed",
-  "url": "",
+  "id": 861455761,
   "description": "A complete revamp of one of my first tracks on the workshop; complete with loving detail, 8 total styles, and skip teleporters in (almost) every environment, ideal for practicing your skipping abilities!",
   "fileName": "dimensional shift reconstructed",
+  "upvotes": 338,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {
@@ -143,7 +145,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 260420
@@ -2411,7 +2413,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 449840

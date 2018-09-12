@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "[STE2] Nitronic Celebration",
-  "url": "",
+  "id": 1488389902,
   "description": "submission for Survive The Editor 2[STE2]\n\n\r\nGather around New Nitronic City!!\r\nCelebration is under way as we roll out\r\nthe 1st version release....\r\nbut\r\na virus threatens your fun.\r\nIt aims to destroy the city in hopes\r\nof ruining the celebration.\r\nYour ",
   "fileName": ". ste2 nitronic celebration",
+  "upvotes": 111,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 179050
@@ -231,6 +233,13 @@
         "steamID": 76561198104224393
       },
       "time": 223740
+    },
+    {
+      "player": {
+        "displayName": "Aquadoff",
+        "steamID": 76561198053342129
+      },
+      "time": 225640
     },
     {
       "player": {
@@ -493,6 +502,13 @@
     },
     {
       "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 260290
+    },
+    {
+      "player": {
         "displayName": "SandGator17",
         "steamID": 76561198170039661
       },
@@ -532,13 +548,6 @@
         "steamID": 76561198010221256
       },
       "time": 267390
-    },
-    {
-      "player": {
-        "displayName": "Aquadoff",
-        "steamID": 76561198053342129
-      },
-      "time": 267440
     },
     {
       "player": {
@@ -675,7 +684,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 287830
@@ -791,6 +800,13 @@
         "steamID": 76561198331148378
       },
       "time": 323860
+    },
+    {
+      "player": {
+        "displayName": "Shray",
+        "steamID": 76561198071320228
+      },
+      "time": 324350
     },
     {
       "player": {

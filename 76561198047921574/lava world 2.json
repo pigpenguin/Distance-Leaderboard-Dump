@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Superheated",
-  "url": "",
+  "id": 916735824,
   "description": "An awesome community level.\r\nIt's pretty hot, don't touch the lava.\r\nAs with most of my maps, this one favors visuals over difficulty, but I think it's still fun.\r\n\r\n[changelog: decreased particle count in an attempt to save some framerates]\r\n",
   "fileName": "lava world 2",
+  "upvotes": 864,
+  "downvotes": 79,
   "leaderboard": [
     {
       "player": {
@@ -1564,7 +1566,7 @@
     },
     {
       "player": {
-        "displayName": "Io",
+        "displayName": "< blank >",
         "steamID": 76561198002269974
       },
       "time": 121700
@@ -2390,7 +2392,7 @@
     },
     {
       "player": {
-        "displayName": "OK",
+        "displayName": "< blank >",
         "steamID": 76561198044630891
       },
       "time": 137580
@@ -2866,7 +2868,7 @@
     },
     {
       "player": {
-        "displayName": "evyatarz",
+        "displayName": "[unknown]",
         "steamID": 76561198338694432
       },
       "time": 148360
@@ -3468,7 +3470,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 160720
@@ -4280,7 +4282,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 179350
@@ -4581,7 +4583,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 184410
@@ -7248,7 +7250,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 296960
@@ -7815,7 +7817,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 346950
@@ -8137,7 +8139,7 @@
     },
     {
       "player": {
-        "displayName": "pd",
+        "displayName": "< blank >",
         "steamID": 76561198064544714
       },
       "time": 418270
@@ -8221,7 +8223,7 @@
     },
     {
       "player": {
-        "displayName": "ph",
+        "displayName": "< blank >",
         "steamID": 76561198028051360
       },
       "time": 452320

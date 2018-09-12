@@ -4,9 +4,11 @@
     "steamID": 76561198361504752
   },
   "displayName": "The Maze",
-  "url": "",
+  "id": 892636683,
   "description": "A nice level, still in the beta version but it will look better over time. No obstacles yet, but try to find the secret shortcut!",
   "fileName": "the maze",
+  "upvotes": 24,
+  "downvotes": 9,
   "leaderboard": [
     {
       "player": {

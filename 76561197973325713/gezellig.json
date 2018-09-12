@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Gezellig",
-  "url": "",
+  "id": 440380746,
   "description": "Experience the true meaning of Gezellig; fight gravity with your main thruster and downforce, squeeze through the particle accelerator, and tunnel the detector like a sub-atomic particle! \r\n\r\nFlying is disabled, skills in thrust vectoring are recommended, ",
   "fileName": "gezellig",
+  "upvotes": 162,
+  "downvotes": 183,
   "leaderboard": [
     {
       "player": {
@@ -381,7 +383,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 267000

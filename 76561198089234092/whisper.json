@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "DAC #13: Whisper",
-  "url": "",
+  "id": 1230827393,
   "description": "Welcome to Whisper City!",
   "fileName": "whisper",
+  "upvotes": 395,
+  "downvotes": 50,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 116880
@@ -486,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 118440
@@ -2817,7 +2819,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 149730
@@ -4063,7 +4065,7 @@
     },
     {
       "player": {
-        "displayName": "hh",
+        "displayName": "< blank >",
         "steamID": 76561198134399181
       },
       "time": 244390
@@ -4161,7 +4163,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 338490
@@ -4175,7 +4177,7 @@
     },
     {
       "player": {
-        "displayName": "TW",
+        "displayName": "< blank >",
         "steamID": 76561198023557909
       },
       "time": 356010

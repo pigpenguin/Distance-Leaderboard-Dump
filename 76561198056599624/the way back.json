@@ -4,9 +4,11 @@
     "steamID": 76561198056599624
   },
   "displayName": "Evac",
-  "url": "",
+  "id": 611262415,
   "description": "Escape from the chaos of an ambush.\r\n\r\n(DISCLAIMER!! The map may cause mild framerate dips. Consider changing your settings in the options menu accordingly)",
   "fileName": "the way back",
+  "upvotes": 41,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {

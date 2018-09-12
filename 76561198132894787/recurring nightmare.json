@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "Widow Maker",
-  "url": "",
+  "id": 872499872,
   "description": "An awesome community level",
   "fileName": "recurring nightmare",
+  "upvotes": 20,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {

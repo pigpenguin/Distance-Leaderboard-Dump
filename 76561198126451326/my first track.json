@@ -4,9 +4,11 @@
     "steamID": 76561198126451326
   },
   "displayName": "My first map (fixed)",
-  "url": "",
+  "id": 708409608,
   "description": "An awesome community level",
   "fileName": "my first track",
+  "upvotes": 38,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {

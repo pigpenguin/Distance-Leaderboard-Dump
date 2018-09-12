@@ -4,9 +4,11 @@
     "steamID": 76561198067258571
   },
   "displayName": "Woeful Errand",
-  "url": "",
+  "id": 1298806486,
   "description": "Keep your head down and stay out of the city at all costs\r\n\r\nI can't lose you again \r\n\r\n\r\n\r\nHUGE special thanks to Kenaz, Jay2a, Birch, and Kantei for offering their time & thoughts during level testing",
   "fileName": "woeful errand",
+  "upvotes": 202,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -73,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 55760
@@ -1690,7 +1692,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 94520

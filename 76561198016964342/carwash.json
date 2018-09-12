@@ -4,9 +4,11 @@
     "steamID": 76561198016964342
   },
   "displayName": "CarWash: Turbo",
-  "url": "",
+  "id": 461934103,
   "description": "Bind jet rotate to right stick and steer to left stick as you need both simultaneously in this track.",
   "fileName": "carwash",
+  "upvotes": 94,
+  "downvotes": 91,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 200280

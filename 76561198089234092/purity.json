@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "DAC #3: Tomorrow",
-  "url": "",
+  "id": 811131428,
   "description": "Tomorrow never dies. \r\n",
   "fileName": "purity",
+  "upvotes": 498,
+  "downvotes": 54,
   "leaderboard": [
     {
       "player": {
@@ -199,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 121470
@@ -2299,7 +2301,7 @@
     },
     {
       "player": {
-        "displayName": "e",
+        "displayName": "< blank >",
         "steamID": 76561197968573255
       },
       "time": 155670
@@ -2369,7 +2371,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 157280
@@ -2397,7 +2399,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 157980
@@ -5400,7 +5402,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 578250

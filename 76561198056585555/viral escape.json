@@ -4,9 +4,11 @@
     "steamID": 76561198056585555
   },
   "displayName": "Sector Escape",
-  "url": "",
+  "id": 1299972586,
   "description": "Boost your way out of an infected industrial zone and through a cityscape of pulsating lights as you dodge relentless obstacles and jump through shortcuts.\n\nFun Fact: The general layout was generated using track mog with the seed \"Long Twisty Marathon\" bef",
   "fileName": "viral escape",
+  "upvotes": 124,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -1130,7 +1132,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 659910
@@ -1179,7 +1181,7 @@
     },
     {
       "player": {
-        "displayName": "Skoll",
+        "displayName": "Tyrfang",
         "steamID": 76561198037731254
       },
       "time": 779580

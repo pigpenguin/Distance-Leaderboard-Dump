@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "stormageddon",
+    "displayName": "[unknown]",
     "steamID": 76561198098825246
   },
   "displayName": "Energy Storm",
-  "url": "",
+  "id": 414834676,
   "description": "An awesome community level",
   "fileName": "energy storm",
+  "upvotes": 869,
+  "downvotes": 110,
   "leaderboard": [
     {
       "player": {

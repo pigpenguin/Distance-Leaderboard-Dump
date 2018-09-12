@@ -4,9 +4,11 @@
     "steamID": 76561198068049868
   },
   "displayName": "Sun Leaves",
-  "url": "",
+  "id": 823213192,
   "description": "A casual level for mindless driving in warm colors",
   "fileName": "amazing",
+  "upvotes": 160,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -605,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 139830
@@ -2047,7 +2049,7 @@
     },
     {
       "player": {
-        "displayName": "hh",
+        "displayName": "< blank >",
         "steamID": 76561198134399181
       },
       "time": 144220

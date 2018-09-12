@@ -4,9 +4,11 @@
     "steamID": 76561198095189543
   },
   "displayName": "Corrupted Machines",
-  "url": "",
+  "id": 457306211,
   "description": "Well, here's my first level that I made since I got this game. The title might be a little misleading. There's nothing really corrupted here. XD\r\n---------------------------------------------------------------------------\r\nDifficulty : Normal\r\nWings are di",
   "fileName": "corrupt machines",
+  "upvotes": 389,
+  "downvotes": 68,
   "leaderboard": [
     {
       "player": {
@@ -1039,7 +1041,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 181320

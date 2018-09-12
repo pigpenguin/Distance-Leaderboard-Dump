@@ -4,9 +4,11 @@
     "steamID": 76561198041276435
   },
   "displayName": "Jump Realm",
-  "url": "",
+  "id": 895673368,
   "description": "CAR TEXT IS CURRENTLY BROKEN so this level doesn't really do much unfortunately.\r\n_____________________________________________________________________\r\n\r\nThe best realm of all time aka the jump realm for when you don't have enough speed for that jump.\r\n\r\n",
   "fileName": "youdonthaveenoughspeedforthatjump",
+  "upvotes": 32,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -28,6 +30,13 @@
         "steamID": 76561198211520711
       },
       "time": 11320
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 12000
     },
     {
       "player": {

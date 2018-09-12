@@ -4,9 +4,11 @@
     "steamID": 76561198121310718
   },
   "displayName": "Ice realm",
-  "url": "",
+  "id": 974261282,
   "description": "An awesome community level",
   "fileName": "ice realm",
+  "upvotes": 517,
+  "downvotes": 61,
   "leaderboard": [
     {
       "player": {
@@ -1207,7 +1209,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 324210
@@ -1970,7 +1972,7 @@
     },
     {
       "player": {
-        "displayName": ":>",
+        "displayName": "< blank >",
         "steamID": 76561197981644196
       },
       "time": 341510
@@ -4000,7 +4002,7 @@
     },
     {
       "player": {
-        "displayName": "Hosh Posh",
+        "displayName": "Hosh Posh cs.money",
         "steamID": 76561198191880189
       },
       "time": 420060

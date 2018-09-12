@@ -4,9 +4,11 @@
     "steamID": 76561198103748338
   },
   "displayName": "Overflow Of Obstacle",
-  "url": "",
+  "id": 468217889,
   "description": "It's not me if they are too many obstacle in this level.",
   "fileName": "excess of obstacle",
+  "upvotes": 143,
+  "downvotes": 82,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 67230
@@ -269,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 106450

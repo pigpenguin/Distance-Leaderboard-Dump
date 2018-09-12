@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Generic Oonorio",
+    "displayName": "[unknown]",
     "steamID": 76561198040954632
   },
   "displayName": "Clocktower",
-  "url": "",
+  "id": 704301841,
   "description": "Remember the time.",
   "fileName": "rockclimb",
+  "upvotes": 1199,
+  "downvotes": 197,
   "leaderboard": [
     {
       "player": {
@@ -661,7 +663,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 34760
@@ -2621,7 +2623,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 69810
@@ -2828,6 +2830,13 @@
         "steamID": 76561198123513705
       },
       "time": 75050
+    },
+    {
+      "player": {
+        "displayName": "NovaStorm",
+        "steamID": 76561198129214232
+      },
+      "time": 75280
     },
     {
       "player": {
@@ -3230,7 +3239,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 90330
@@ -3559,7 +3568,7 @@
     },
     {
       "player": {
-        "displayName": "Nero",
+        "displayName": "Nero CS.MONEY",
         "steamID": 76561198156872796
       },
       "time": 125060

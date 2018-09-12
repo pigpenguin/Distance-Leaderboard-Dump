@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "THE 7",
-  "url": "",
+  "id": 545890912,
   "description": "An awesome community level",
   "fileName": "the 7",
+  "upvotes": 2304,
+  "downvotes": 159,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 119330
@@ -710,7 +712,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 121570
@@ -1907,7 +1909,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 127590
@@ -2089,7 +2091,7 @@
     },
     {
       "player": {
-        "displayName": "//PLUSHIE RETAKES JERUSALEM//",
+        "displayName": "//I AM THE TABLE//",
         "steamID": 76561197967237675
       },
       "time": 128800
@@ -2341,7 +2343,7 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 130140
@@ -2936,7 +2938,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 135330
@@ -3447,7 +3449,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 139050
@@ -3748,7 +3750,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 141650
@@ -3937,7 +3939,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 144120
@@ -4049,7 +4051,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 144990
@@ -4882,7 +4884,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 153730
@@ -5855,7 +5857,7 @@
     },
     {
       "player": {
-        "displayName": "21",
+        "displayName": "< blank >",
         "steamID": 76561198245435212
       },
       "time": 168340
@@ -6310,7 +6312,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 179060
@@ -7430,7 +7432,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 229310
@@ -7591,7 +7593,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 253140
@@ -7717,7 +7719,7 @@
     },
     {
       "player": {
-        "displayName": "NL egg smell",
+        "displayName": "Uraraka Ochako",
         "steamID": 76561198110568856
       },
       "time": 297540

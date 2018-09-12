@@ -4,9 +4,11 @@
     "steamID": 76561198358580830
   },
   "displayName": "Longrun",
-  "url": "",
+  "id": 1358175481,
   "description": "An awesome community level",
   "fileName": "longrun",
+  "upvotes": 18,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 109590

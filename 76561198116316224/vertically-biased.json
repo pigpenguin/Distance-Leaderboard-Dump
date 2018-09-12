@@ -4,9 +4,11 @@
     "steamID": 76561198116316224
   },
   "displayName": "vertical-bias",
-  "url": "",
+  "id": 606044566,
   "description": "because straight up is always better.",
   "fileName": "vertically-biased",
+  "upvotes": 214,
+  "downvotes": 54,
   "leaderboard": [
     {
       "player": {
@@ -479,7 +481,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 294440

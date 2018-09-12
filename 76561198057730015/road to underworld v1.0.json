@@ -4,9 +4,11 @@
     "steamID": 76561198057730015
   },
   "displayName": "Road to Underworld v1.0",
-  "url": "",
+  "id": 596390725,
   "description": "",
   "fileName": "road to underworld v1.0",
+  "upvotes": 1438,
+  "downvotes": 102,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 122120
@@ -1200,7 +1202,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 134240
@@ -2054,7 +2056,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 148040
@@ -2264,7 +2266,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 153460
@@ -2880,7 +2882,7 @@
     },
     {
       "player": {
-        "displayName": "Zea mays [NTAH...]",
+        "displayName": "Zea mays [nevermind.]",
         "steamID": 76561198030119958
       },
       "time": 168410
@@ -3370,7 +3372,7 @@
     },
     {
       "player": {
-        "displayName": "21",
+        "displayName": "< blank >",
         "steamID": 76561198245435212
       },
       "time": 182140
@@ -4504,7 +4506,7 @@
     },
     {
       "player": {
-        "displayName": "2z",
+        "displayName": "< blank >",
         "steamID": 76561198035076530
       },
       "time": 331750

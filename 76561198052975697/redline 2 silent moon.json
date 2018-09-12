@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "///Redline 2\\\\\\ Silent moon",
-  "url": "",
+  "id": 768782602,
   "description": "GRIP is a must for certain areas \r\nsoo please refer to your control manual options for needed adjustments!\r\n2nd level in the ///REDLINE\\\\\\ SPRINT series\r\nWelcome to the ziotosh station!\r\nSeems we've been overrun by aliens,\r\nget to the escape pod at the end",
   "fileName": "redline 2 silent moon",
+  "upvotes": 621,
+  "downvotes": 94,
   "leaderboard": [
     {
       "player": {
@@ -381,7 +383,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 157770
@@ -2922,7 +2924,7 @@
     },
     {
       "player": {
-        "displayName": "At",
+        "displayName": "< blank >",
         "steamID": 76561198101526824
       },
       "time": 254870
@@ -3643,7 +3645,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 312810

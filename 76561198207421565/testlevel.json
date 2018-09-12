@@ -4,9 +4,11 @@
     "steamID": 76561198207421565
   },
   "displayName": "Testlevel",
-  "url": "",
+  "id": 887972048,
   "description": "An awesome community level",
   "fileName": "testlevel",
+  "upvotes": 0,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {

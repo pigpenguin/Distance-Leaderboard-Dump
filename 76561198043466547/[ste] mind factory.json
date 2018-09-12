@@ -4,9 +4,11 @@
     "steamID": 76561198043466547
   },
   "displayName": "[STE] Mind Factory",
-  "url": "",
+  "id": 529735576,
   "description": "A lvl for the Survive the Editor Event \r\n\r\nHope you like it ^^\r\n\r\n(Btw i really think this is off-topic but well..... At least i tried)",
   "fileName": "[ste] mind factory",
+  "upvotes": 81,
+  "downvotes": 102,
   "leaderboard": [
     {
       "player": {
@@ -227,7 +229,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 571350

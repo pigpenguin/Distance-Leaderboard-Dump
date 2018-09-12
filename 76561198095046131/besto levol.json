@@ -4,9 +4,11 @@
     "steamID": 76561198095046131
   },
   "displayName": "My Map",
-  "url": "",
+  "id": 716497472,
   "description": "Beta",
   "fileName": "besto levol",
+  "upvotes": 13,
+  "downvotes": 11,
   "leaderboard": [
     {
       "player": {

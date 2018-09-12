@@ -4,9 +4,11 @@
     "steamID": 76561198116956902
   },
   "displayName": "Into green city",
-  "url": "",
+  "id": 715322140,
   "description": "Ok, so this was originally meant to be a simple level but instead it into a sort of birthday special (mainly because I have run out of ideas and didn't know how to end it). I'm gonna go blow out some candles and leave you with this short and (hopefully fun",
   "fileName": "greenlevelthing",
+  "upvotes": 527,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -1060,7 +1062,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 169020

@@ -4,9 +4,11 @@
     "steamID": 76561198021122126
   },
   "displayName": "The Battle of Aragon",
-  "url": "",
+  "id": 821772262,
   "description": "Loosely based on a song I made a few months ago, the Battle of Aragon takes place in city in the middle of an apocalypse caused by Ignis, the angry god of destruction, fire, and chaos.\r\n\r\nI'm really sorry about how the level ends-- I was kind of rushing to",
   "fileName": "battle of aragon",
+  "upvotes": 171,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -1473,7 +1475,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 122430
@@ -2040,7 +2042,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 140970

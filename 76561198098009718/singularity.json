@@ -4,9 +4,11 @@
     "steamID": 76561198098009718
   },
   "displayName": "Singularity",
-  "url": "",
+  "id": 1474266980,
   "description": "We are all part of our on singularity.",
   "fileName": "singularity",
+  "upvotes": 10,
+  "downvotes": 8,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 121250

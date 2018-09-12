@@ -4,9 +4,11 @@
     "steamID": 76561198001947706
   },
   "displayName": "I'm a box! [Nightmare]",
-  "url": "",
+  "id": 628994166,
   "description": "This is my second level in Nightmare difficulty.\r\n\r\nFeel free to leave a comment below or contact me on Steam.\r\n\r\n\r\nHave a nice day!",
   "fileName": "i'm_still_a_box",
+  "upvotes": 411,
+  "downvotes": 146,
   "leaderboard": [
     {
       "player": {
@@ -577,7 +579,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 251010

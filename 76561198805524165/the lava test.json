@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "The Lava Test",
-  "url": "",
+  "id": 1480460713,
   "description": "This Takes Place After Unkown, And This Is The First Real Test.",
   "fileName": "the lava test",
+  "upvotes": 13,
+  "downvotes": 3,
   "leaderboard": [
     {
       "player": {
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 234420

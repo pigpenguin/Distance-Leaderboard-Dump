@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Neon Black",
-  "url": "",
+  "id": 953706925,
   "description": "A remake of the original Nitronic Rush level: Hardcore Black.\r\nThere are more colors now.",
   "fileName": "neon black",
+  "upvotes": 171,
+  "downvotes": 36,
   "leaderboard": [
     {
       "player": {
@@ -283,7 +285,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 80520
@@ -1557,7 +1559,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 203550

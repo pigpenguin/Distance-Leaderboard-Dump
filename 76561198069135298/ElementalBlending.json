@@ -4,9 +4,11 @@
     "steamID": 76561198069135298
   },
   "displayName": "Elemental Blending",
-  "url": "",
+  "id": 447187083,
   "description": "An awesome community level with multiple paths and nice colors and lights. Every path has a different difficulty, so choose wisely. There are also many shortcuts on this track, obvious and hidden :) Can you find them and beat 1:35 to reach Diamond?\r\n\r\nThan",
   "fileName": "ElementalBlending",
+  "upvotes": 309,
+  "downvotes": 81,
   "leaderboard": [
     {
       "player": {
@@ -213,7 +215,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 167730
@@ -360,7 +362,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 202230

@@ -4,9 +4,11 @@
     "steamID": 76561198072192038
   },
   "displayName": "Tempered Glass",
-  "url": "",
+  "id": 683909829,
   "description": "A short 45 second track i whipped up in around 3 hours.\r\n\r\nNothing special, just get to the end, and admire the scenery.",
   "fileName": "city of security",
+  "upvotes": 61,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 46300

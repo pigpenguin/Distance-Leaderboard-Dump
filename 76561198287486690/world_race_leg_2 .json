@@ -4,9 +4,11 @@
     "steamID": 76561198287486690
   },
   "displayName": "DAC#16 Highway 35 World Race Leg 2",
-  "url": "",
+  "id": 1233014363,
   "description": "The Second Leg of the world race with winding mountain track and vast canyon jumps, I am accepting any feedback as I am still new to map making, thanks!, try and find the secret I have planted at the end of the map and have fun!\r\n\r\n",
   "fileName": "world_race_leg_2 ",
+  "upvotes": 39,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -3363,7 +3365,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 584120
@@ -3552,7 +3554,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 631540
@@ -3622,7 +3624,7 @@
     },
     {
       "player": {
-        "displayName": "[Icez] Syncro",
+        "displayName": "Out Of Black",
         "steamID": 76561198384597961
       },
       "time": 648310

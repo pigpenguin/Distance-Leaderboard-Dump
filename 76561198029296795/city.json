@@ -4,9 +4,11 @@
     "steamID": 76561198029296795
   },
   "displayName": "City 21",
-  "url": "",
+  "id": 1125802508,
   "description": "A map that is not too hard and is pretty fun.",
   "fileName": "city",
+  "upvotes": 41,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {

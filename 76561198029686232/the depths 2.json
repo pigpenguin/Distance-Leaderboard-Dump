@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "The Depths 2: Caverns of Chaos",
-  "url": "",
+  "id": 1108913349,
   "description": "Investgate the old underground caverns in search of the source of some gravitational anomalies.\r\n\r\nBuilt for the 2017 Sprint Tournament\r\nThe version used in the tournament had boost enabled for the starting dive, to avoid confusing players.",
   "fileName": "the depths 2",
+  "upvotes": 246,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 292430
@@ -465,7 +467,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 338020

@@ -4,9 +4,11 @@
     "steamID": 76561198095785426
   },
   "displayName": "Low Roof",
-  "url": "",
+  "id": 1120574549,
   "description": "This level is strictly designed to help with the 1,000 Jump achievement, \"Jump for Joy\". If you just want to grind it out quickly like me, use this level. It should take roughly 10 minutes of continous jumping if you start from 0.\r\n\r\nAlso, it smushes your ",
   "fileName": "low roof",
+  "upvotes": 12,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -24,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 6630

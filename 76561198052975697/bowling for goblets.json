@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "Bowling For Goblets",
-  "url": "",
+  "id": 691773027,
   "description": "How many can you get + the best time?\r\nJust for Laughs :)",
   "fileName": "bowling for goblets",
+  "upvotes": 52,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -444,7 +446,7 @@
     },
     {
       "player": {
-        "displayName": "[LMD] Banana",
+        "displayName": "[unknown]",
         "steamID": 76561197985278144
       },
       "time": 9550
@@ -493,7 +495,7 @@
     },
     {
       "player": {
-        "displayName": "At",
+        "displayName": "< blank >",
         "steamID": 76561198101526824
       },
       "time": 10310

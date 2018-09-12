@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "Refraction",
-  "url": "",
+  "id": 576567067,
   "description": "ERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\nERROR.\r\n..",
   "fileName": "refraction.",
+  "upvotes": 287,
+  "downvotes": 133,
   "leaderboard": [
     {
       "player": {
@@ -1053,7 +1055,7 @@
     },
     {
       "player": {
-        "displayName": "Mystzr",
+        "displayName": "[unknown]",
         "steamID": 76561198038838532
       },
       "time": 350420

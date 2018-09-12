@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "Parallel Realm Demo",
-  "url": "",
+  "id": 1445195500,
   "description": "An awesome community level",
   "fileName": "parallel realm demo",
+  "upvotes": 2,
+  "downvotes": 5,
   "leaderboard": [
     {
       "player": {

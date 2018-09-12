@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "Carcass",
-  "url": "",
+  "id": 1229453288,
   "description": "If you don't have InfoBoxes appear, note this. \r\n\r\nFinal large chamber, follow the cooldown drones, move to the upper rear platform, drive past the bomb. Then return the way you came until you see a new path oepn to your left. \r\n\r\nRead all dialoge! It will",
   "fileName": "carcassedit",
+  "upvotes": 136,
+  "downvotes": 68,
   "leaderboard": [
     {
       "player": {
@@ -409,7 +411,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 402720
@@ -1060,7 +1062,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 700730

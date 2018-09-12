@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Moize Master",
+    "displayName": "[unknown]",
     "steamID": 76561198065745743
   },
   "displayName": "First",
-  "url": "",
+  "id": 608530264,
   "description": "An awesome community level",
   "fileName": "first",
+  "upvotes": 1,
+  "downvotes": 5,
   "leaderboard": [
     {
       "player": {

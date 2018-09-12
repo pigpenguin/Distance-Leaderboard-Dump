@@ -4,9 +4,11 @@
     "steamID": 76561198090372870
   },
   "displayName": "Twister",
-  "url": "",
+  "id": 911287018,
   "description": "An awesome community level",
   "fileName": "twister",
+  "upvotes": 15,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {

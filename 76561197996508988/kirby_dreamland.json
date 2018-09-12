@@ -4,9 +4,11 @@
     "steamID": 76561197996508988
   },
   "displayName": "Whispy Woods",
-  "url": "",
+  "id": 584758052,
   "description": "Empire of the forest king Whispy Woods.",
   "fileName": "kirby_dreamland",
+  "upvotes": 613,
+  "downvotes": 112,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 137840
@@ -290,7 +292,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 141660
@@ -332,7 +334,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 142290
@@ -682,7 +684,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 156480
@@ -1116,7 +1118,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 199290

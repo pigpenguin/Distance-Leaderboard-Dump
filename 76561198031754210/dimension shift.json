@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Darnoc703",
+    "displayName": "[unknown]",
     "steamID": 76561198031754210
   },
   "displayName": "Dimension Shift",
-  "url": "",
+  "id": 407358413,
   "description": "Travel through the wastelands of a once habited thriving city. Come across the corrupted ancients of the past. Discover the darkend city that will soon meet its end. \r\n\r\nEnjoy! This is my second map! Still getting used to all the features in the level edit",
   "fileName": "dimension shift",
+  "upvotes": 4439,
+  "downvotes": 446,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 135820
@@ -269,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 137300
@@ -1435,6 +1437,13 @@
         "steamID": 76561198024372216
       },
       "time": 153190
+    },
+    {
+      "player": {
+        "displayName": "Gmanextreme",
+        "steamID": 76561198106158108
+      },
+      "time": 153330
     },
     {
       "player": {
@@ -3293,7 +3302,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 176810
@@ -4049,7 +4058,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 186220
@@ -4252,7 +4261,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 189350
@@ -4483,7 +4492,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 192230
@@ -5848,7 +5857,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 212860
@@ -6387,7 +6396,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 225030

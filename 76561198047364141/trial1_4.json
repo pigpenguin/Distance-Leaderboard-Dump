@@ -4,9 +4,11 @@
     "steamID": 76561198047364141
   },
   "displayName": "Hotline Blitz",
-  "url": "",
+  "id": 1077815461,
   "description": "Sprint level meant for intermediate players. Short track featuring a couple o' varied routes. Lemme know what you think in the comments :)",
   "fileName": "trial1_4",
+  "upvotes": 18,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {

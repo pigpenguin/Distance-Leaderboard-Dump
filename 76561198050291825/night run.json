@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Aku Ryou",
+    "displayName": "[unknown]",
     "steamID": 76561198050291825
   },
   "displayName": "Night Run",
-  "url": "",
+  "id": 460804132,
   "description": "An awesome community level",
   "fileName": "night run",
+  "upvotes": 120,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {

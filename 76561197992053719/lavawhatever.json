@@ -4,9 +4,11 @@
     "steamID": 76561197992053719
   },
   "displayName": "Lava_Whatever",
-  "url": "",
+  "id": 531063324,
   "description": "\"Oh god, everything's covered in lava.\"\r\n\r\nWow, I made a level!\r\n\r\nMost of the work on this was done during the thursday-night streams, but I had a LOT of help from Krispy off-camera.\r\nThanks to everyone who helped out during the streams by yelling at me a",
   "fileName": "lavawhatever",
+  "upvotes": 1702,
+  "downvotes": 198,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 102090
@@ -1081,7 +1083,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 123490
@@ -4154,7 +4156,7 @@
     },
     {
       "player": {
-        "displayName": "OK",
+        "displayName": "< blank >",
         "steamID": 76561198044630891
       },
       "time": 232120

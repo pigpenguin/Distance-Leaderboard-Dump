@@ -4,9 +4,11 @@
     "steamID": 76561198130536406
   },
   "displayName": "Old Data",
-  "url": "",
+  "id": 686185094,
   "description": ">Initilizing sector <254.12/2> loading sequence\r\n>10%\r\n>20%\r\n>32%\r\n>ERROR: Chunkfile [23/543] missing!\r\n>Proceed? Y/N\r\n> Y\r\n>ERROR: Segfault at memory address 0x3241248\r\n>FATAL ERROR: Sector loading sequence failed!\r\n>Load archived file> Y/N\r\n> Y\r\n>Loading",
   "fileName": "old data",
+  "upvotes": 209,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -367,7 +369,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 136540

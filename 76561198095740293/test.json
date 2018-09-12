@@ -4,9 +4,11 @@
     "steamID": 76561198095740293
   },
   "displayName": "Simple level",
-  "url": "",
+  "id": 945479441,
   "description": "An awesome community level",
   "fileName": "test",
+  "upvotes": 0,
+  "downvotes": 4,
   "leaderboard": [
     {
       "player": {

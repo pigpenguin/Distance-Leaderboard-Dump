@@ -4,9 +4,11 @@
     "steamID": 76561198054792683
   },
   "displayName": "Diachromatic",
-  "url": "",
+  "id": 655693021,
   "description": "Well, here goes nothing!\r\n\r\nI uploaded another level, as you can see. I'm kind of worried it won't be as good as Glasscity. Then again, Glasscity was thrown together in a couple hours, whereas this is the result of over two weeks of work. So, on with the d",
   "fileName": "diachromatic",
+  "upvotes": 385,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -1067,7 +1069,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 299340
@@ -1172,7 +1174,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 424740

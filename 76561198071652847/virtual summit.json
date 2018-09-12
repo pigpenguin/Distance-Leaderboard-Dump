@@ -4,9 +4,11 @@
     "steamID": 76561198071652847
   },
   "displayName": "Virtual Summit",
-  "url": "",
+  "id": 627359916,
   "description": "You've been tasked to investigate a large mass of data that is rumored to be infected. It's up to you to determine what's keeping this mountain together. Good Luck.",
   "fileName": "virtual summit",
+  "upvotes": 144,
+  "downvotes": 51,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198056550249
   },
   "displayName": "The space race",
-  "url": "",
+  "id": 756814252,
   "description": "My first ever map! Have fun!",
   "fileName": "spacerace",
+  "upvotes": 184,
+  "downvotes": 54,
   "leaderboard": [
     {
       "player": {
@@ -311,6 +313,13 @@
     },
     {
       "player": {
+        "displayName": "SpicyMiku-chan",
+        "steamID": 76561198017945328
+      },
+      "time": 83220
+    },
+    {
+      "player": {
         "displayName": "Kuenkiller78",
         "steamID": 76561198055838833
       },
@@ -371,6 +380,13 @@
         "steamID": 76561198004871577
       },
       "time": 91010
+    },
+    {
+      "player": {
+        "displayName": "NovaStorm",
+        "steamID": 76561198129214232
+      },
+      "time": 91360
     },
     {
       "player": {
@@ -602,6 +618,13 @@
         "steamID": 76561198235815224
       },
       "time": 122930
+    },
+    {
+      "player": {
+        "displayName": "IllKIllU",
+        "steamID": 76561198216635512
+      },
+      "time": 123040
     },
     {
       "player": {

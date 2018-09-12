@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Kyldros",
+    "displayName": "[unknown]",
     "steamID": 76561198060577567
   },
   "displayName": "Viridian City",
-  "url": "",
+  "id": 469597554,
   "description": "A Sprint Race through the little Viridian City from Pokemon!",
   "fileName": "viridian city con strade",
+  "upvotes": 206,
+  "downvotes": 62,
   "leaderboard": [
     {
       "player": {
@@ -339,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 353550
@@ -486,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 554190

@@ -4,9 +4,11 @@
     "steamID": 76561198009448655
   },
   "displayName": "White",
-  "url": "",
+  "id": 458338248,
   "description": "Can you white-knuckle your way to first place?",
   "fileName": "white",
+  "upvotes": 4018,
+  "downvotes": 449,
   "leaderboard": [
     {
       "player": {
@@ -332,7 +334,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 118700
@@ -1683,7 +1685,7 @@
     },
     {
       "player": {
-        "displayName": "McCain Homechips",
+        "displayName": "Akunda",
         "steamID": 76561198021405140
       },
       "time": 122090
@@ -2796,6 +2798,13 @@
     },
     {
       "player": {
+        "displayName": "Magh",
+        "steamID": 76561198043889873
+      },
+      "time": 136100
+    },
+    {
+      "player": {
         "displayName": "Horus1939",
         "steamID": 76561198010892864
       },
@@ -3528,13 +3537,6 @@
         "steamID": 76561198065749238
       },
       "time": 143470
-    },
-    {
-      "player": {
-        "displayName": "Magh",
-        "steamID": 76561198043889873
-      },
-      "time": 143500
     },
     {
       "player": {
@@ -4518,7 +4520,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 156880
@@ -4868,7 +4870,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 162390
@@ -5323,7 +5325,7 @@
     },
     {
       "player": {
-        "displayName": "OctagonogatcO",
+        "displayName": "Otacgon",
         "steamID": 76561198054033336
       },
       "time": 169090
@@ -7171,7 +7173,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 201040
@@ -8487,7 +8489,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 243870
@@ -8550,7 +8552,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 246200
@@ -8823,7 +8825,7 @@
     },
     {
       "player": {
-        "displayName": "LH",
+        "displayName": "< blank >",
         "steamID": 76561198036402226
       },
       "time": 259320

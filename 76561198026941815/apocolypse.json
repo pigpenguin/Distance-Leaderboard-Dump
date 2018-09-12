@@ -4,9 +4,11 @@
     "steamID": 76561198026941815
   },
   "displayName": "Apocolypse",
-  "url": "",
+  "id": 1250986925,
   "description": "An awesome community level",
   "fileName": "apocolypse",
+  "upvotes": 39,
+  "downvotes": 27,
   "leaderboard": [
     {
       "player": {

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Matt The Martian",
+    "displayName": "[unknown]",
     "steamID": 76561198159353345
   },
   "displayName": "Die",
-  "url": "",
+  "id": 627400158,
   "description": "An awesome community level",
   "fileName": "die",
+  "upvotes": 17,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {

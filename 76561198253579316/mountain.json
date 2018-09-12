@@ -4,9 +4,11 @@
     "steamID": 76561198253579316
   },
   "displayName": "Mountain",
-  "url": "",
+  "id": 1449728467,
   "description": "On this map, your goal is to reach the City at the base of the Mountain. Can you do it?",
   "fileName": "mountain",
+  "upvotes": 29,
+  "downvotes": 11,
   "leaderboard": [
     {
       "player": {

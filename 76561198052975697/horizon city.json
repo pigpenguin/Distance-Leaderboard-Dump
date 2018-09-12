@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "Horizon City",
-  "url": "",
+  "id": 702048120,
   "description": "A level by a creator trying to make something within the realm of the games atmosphere.",
   "fileName": "horizon city",
+  "upvotes": 1120,
+  "downvotes": 124,
   "leaderboard": [
     {
       "player": {
@@ -626,7 +628,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 145340
@@ -2229,7 +2231,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 162280
@@ -2418,7 +2420,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 165030
@@ -4063,7 +4065,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 195940
@@ -4819,7 +4821,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 226050
@@ -5099,7 +5101,7 @@
     },
     {
       "player": {
-        "displayName": "hundredfortyfourth",
+        "displayName": "ВОСПИТАТЕЛЬ",
         "steamID": 76561198095142552
       },
       "time": 245180

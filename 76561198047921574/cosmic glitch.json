@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "DAC 6: Cosmic Glitch",
-  "url": "",
+  "id": 1223087451,
   "description": "Happy 6th day of Christmas! \nThis level is in SPACE! Which means gravity might be a bit crazy. You'll also wanna watch out for toxic sludge, it's kinda nasty.",
   "fileName": "cosmic glitch",
+  "upvotes": 663,
+  "downvotes": 59,
   "leaderboard": [
     {
       "player": {
@@ -500,7 +502,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 194280
@@ -542,7 +544,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 195620
@@ -3979,7 +3981,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 454330
@@ -4987,7 +4989,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 602260
@@ -5337,7 +5339,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 726600
@@ -5645,7 +5647,7 @@
     },
     {
       "player": {
-        "displayName": "TW",
+        "displayName": "< blank >",
         "steamID": 76561198023557909
       },
       "time": 956490

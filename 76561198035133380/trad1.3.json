@@ -4,9 +4,11 @@
     "steamID": 76561198035133380
   },
   "displayName": "Recovering",
-  "url": "",
+  "id": 941191706,
   "description": "Don't think, just drive.\r\n\r\nThis map was made as an exercise in editor tools, in a semi-traditional style because that's the easiest to make.\r\n\r\nHuge thanks to Tiedye(tophat) and Skirmisher on Discord for playing and helping me tweak this level.",
   "fileName": "trad1.3",
+  "upvotes": 193,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -514,7 +516,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 208680
@@ -1130,7 +1132,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 289420
@@ -1599,7 +1601,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 470320

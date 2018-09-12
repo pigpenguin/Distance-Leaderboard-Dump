@@ -4,9 +4,11 @@
     "steamID": 76561197999259044
   },
   "displayName": "Vivid Solstice",
-  "url": "",
+  "id": 858229129,
   "description": "A simple course with a non-green aesthetic (As opposed to my last course).",
   "fileName": "vividsolstice",
+  "upvotes": 286,
+  "downvotes": 44,
   "leaderboard": [
     {
       "player": {
@@ -52,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 179650
@@ -2936,7 +2938,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 359360

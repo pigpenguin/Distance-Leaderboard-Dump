@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "4Walls-v1.3",
-  "url": "",
+  "id": 409275701,
   "description": "ADDED optional CHECKPOINTS\r\n\r\nTeleporter = Checkpoint\r\nevery Checkpoint you choose to take will slow you down for a few seconds",
   "fileName": "4walls-v1.3",
+  "upvotes": 95,
+  "downvotes": 98,
   "leaderboard": [
     {
       "player": {

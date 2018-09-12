@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Lambda-Core® #1",
-  "url": "",
+  "id": 503342235,
   "description": "Play in average gamma. His critique would help me improve .\r\nHistory:\r\nYou're an explorer .\r\nThe city issued a warning of possible virus 1 year .\r\nYou will investigate what has happened there until you realize that it's already way too late to escape and t",
   "fileName": "lambda-core®",
+  "upvotes": 351,
+  "downvotes": 79,
   "leaderboard": [
     {
       "player": {
@@ -829,7 +831,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 212230

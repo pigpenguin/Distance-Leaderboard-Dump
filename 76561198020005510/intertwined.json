@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "CyclopsDragon",
+    "displayName": "[unknown]",
     "steamID": 76561198020005510
   },
   "displayName": "Intertwined",
-  "url": "",
+  "id": 283138502,
   "description": "I made a small list of adjectives and chose one at random to get a theme for this level. The word I got was \"claustrophobic\". I hope I did a decent job of conveying that theme :)\r\n\r\nThis is my first serious attempt at using the level editor, learning the m",
   "fileName": "intertwined",
+  "upvotes": 1234,
+  "downvotes": 173,
   "leaderboard": [
     {
       "player": {
@@ -59,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 69030
@@ -1144,6 +1146,13 @@
     },
     {
       "player": {
+        "displayName": "Turret 49",
+        "steamID": 76561197976303459
+      },
+      "time": 89400
+    },
+    {
+      "player": {
         "displayName": "[Gent] Vinyatta",
         "steamID": 76561197990963142
       },
@@ -2194,7 +2203,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 129540
@@ -2383,7 +2392,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 145750

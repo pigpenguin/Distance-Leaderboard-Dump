@@ -4,9 +4,11 @@
     "steamID": 76561197973294992
   },
   "displayName": "Neon Fury 2",
-  "url": "",
+  "id": 710744574,
   "description": "Welcome back to Neon Fury, but with a whole new track to test your skills on. As always feel free to give feedback and let me know of any changes or additions you would like to see. I'll do my best to implement them but I still may not be able to update my",
   "fileName": "neon fury 2",
+  "upvotes": 836,
+  "downvotes": 97,
   "leaderboard": [
     {
       "player": {
@@ -570,7 +572,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 138050
@@ -994,6 +996,13 @@
         "steamID": 76561198129657655
       },
       "time": 155800
+    },
+    {
+      "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 155920
     },
     {
       "player": {

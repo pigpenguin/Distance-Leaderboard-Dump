@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Wired",
-  "url": "",
+  "id": 1425812313,
   "description": "Before anything is built a frame must be made.\r\n",
   "fileName": "wired",
+  "upvotes": 319,
+  "downvotes": 11,
   "leaderboard": [
     {
       "player": {
@@ -49,6 +51,13 @@
         "steamID": 76561198117452750
       },
       "time": 78460
+    },
+    {
+      "player": {
+        "displayName": "The long named guy",
+        "steamID": 76561197997368571
+      },
+      "time": 94650
     },
     {
       "player": {
@@ -133,13 +142,6 @@
         "steamID": 76561198114257183
       },
       "time": 96010
-    },
-    {
-      "player": {
-        "displayName": "The long named guy",
-        "steamID": 76561197997368571
-      },
-      "time": 96160
     },
     {
       "player": {
@@ -661,7 +663,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 107570
@@ -913,7 +915,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 117900
@@ -1074,6 +1076,13 @@
     },
     {
       "player": {
+        "displayName": "Ultimate Level 100 Vegan Wizard",
+        "steamID": 76561198024615093
+      },
+      "time": 123170
+    },
+    {
+      "player": {
         "displayName": "flamewardenlunash",
         "steamID": 76561198151983440
       },
@@ -1120,6 +1129,13 @@
         "steamID": 76561198007058921
       },
       "time": 125290
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 125610
     },
     {
       "player": {
@@ -2026,6 +2042,13 @@
     },
     {
       "player": {
+        "displayName": ".fortune",
+        "steamID": 76561198011649312
+      },
+      "time": 170720
+    },
+    {
+      "player": {
         "displayName": "E0N",
         "steamID": 76561198139815712
       },
@@ -2229,7 +2252,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 203450
@@ -2625,6 +2648,13 @@
         "steamID": 76561198004529909
       },
       "time": 298010
+    },
+    {
+      "player": {
+        "displayName": "Native Reaver",
+        "steamID": 76561198017529575
+      },
+      "time": 299900
     },
     {
       "player": {

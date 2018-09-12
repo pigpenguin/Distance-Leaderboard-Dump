@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Sunset Grime",
-  "url": "",
+  "id": 654213689,
   "description": "Rust plauges this sector.",
   "fileName": "lava color",
+  "upvotes": 165,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -654,7 +656,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 150960
@@ -2124,7 +2126,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 247200

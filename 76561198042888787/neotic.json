@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "DVDrive",
+    "displayName": "[unknown]",
     "steamID": 76561198042888787
   },
   "displayName": "neotic",
-  "url": "",
+  "id": 465977874,
   "description": "An awesome community level",
   "fileName": "neotic",
+  "upvotes": 38,
+  "downvotes": 27,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 207010
@@ -199,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 229120
@@ -234,7 +236,7 @@
     },
     {
       "player": {
-        "displayName": "dreambeetle",
+        "displayName": "[unknown]",
         "steamID": 76561198060410822
       },
       "time": 324160

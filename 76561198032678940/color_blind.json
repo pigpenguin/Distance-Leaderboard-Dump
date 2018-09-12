@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "BadBlock",
+    "displayName": "[unknown]",
     "steamID": 76561198032678940
   },
   "displayName": "Color Blind",
-  "url": "",
+  "id": 463631427,
   "description": "A level with three different path choices, each of which will effect your sprint time.  Find the fastest path to win.  \r\n\r\nPlease feel free to leave comments and suggestions.",
   "fileName": "color_blind",
+  "upvotes": 188,
+  "downvotes": 76,
   "leaderboard": [
     {
       "player": {
@@ -353,7 +355,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 197190

@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "[BUMP #7]10% Milk",
-  "url": "",
+  "id": 1408907846,
   "description": "\"Bright fish, wracked fish.\r\nWhite fish, Black fish.\r\nI'm dead inside.\"\r\n\r\n\r\n-Excerpt from either Dr. Seuss or Some Homeless Guy.",
   "fileName": "10 milk",
+  "upvotes": 27,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 121370

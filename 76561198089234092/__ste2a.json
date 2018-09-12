@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "[STE2] Sanctum",
-  "url": "",
+  "id": 1489566735,
   "description": "IT'S ACTUALLY HAPPENING!\r\n\r\n\r\n\r\nGameplay may be impacted by having particles disabled\r\n\r\nThanks to Pinapl and Plasmawario for testing the level!",
   "fileName": "__ste2a",
+  "upvotes": 131,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 123990
@@ -476,6 +478,13 @@
         "steamID": 76561198021567209
       },
       "time": 139150
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 140220
     },
     {
       "player": {
@@ -857,6 +866,13 @@
     },
     {
       "player": {
+        "displayName": "darklight437",
+        "steamID": 76561198028115659
+      },
+      "time": 171050
+    },
+    {
+      "player": {
         "displayName": "main5tream",
         "steamID": 76561198010221256
       },
@@ -969,6 +985,13 @@
     },
     {
       "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 185880
+    },
+    {
+      "player": {
         "displayName": "ＧＯＲＯＮ",
         "steamID": 76561198016964342
       },
@@ -1074,6 +1097,13 @@
     },
     {
       "player": {
+        "displayName": ".fortune",
+        "steamID": 76561198011649312
+      },
+      "time": 199550
+    },
+    {
+      "player": {
         "displayName": "Mistake not...",
         "steamID": 76561198055203857
       },
@@ -1162,6 +1192,13 @@
         "steamID": 76561198024615093
       },
       "time": 223150
+    },
+    {
+      "player": {
+        "displayName": "Krazy8s",
+        "steamID": 76561198078867563
+      },
+      "time": 226670
     },
     {
       "player": {

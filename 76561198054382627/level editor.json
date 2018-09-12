@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "[BUMP #1]Level Editor",
-  "url": "",
+  "id": 1408904821,
   "description": "WELCOME TO THE DISTANCE LEVEL EDITOR\r\nHere are some helpful tips!\r\n\r\n- Test your level by pressing ~(tilde)\r\n- View hot keys in the tools menu by hovering over the buttons\r\n- Tweak level options by clicking on Level Settings",
   "fileName": "level editor",
+  "upvotes": 53,
+  "downvotes": 7,
   "leaderboard": [
     {
       "player": {

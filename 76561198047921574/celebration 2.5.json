@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "[STE2] Sugar Rush",
-  "url": "",
+  "id": 1490487850,
   "description": "This level will rot your teeth out if you take too long.\n\n1.0 is finally being released, what better way to celebrate than with hot chocolate lakes, ice cream hills, candied roads and rock candy caves?\n\nAs usual, thank you Jay for testing my level <3\n\nAll ",
   "fileName": "celebration 2.5",
+  "upvotes": 147,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 100510
@@ -542,6 +544,13 @@
     },
     {
       "player": {
+        "displayName": "Batt",
+        "steamID": 76561198024189114
+      },
+      "time": 132540
+    },
+    {
+      "player": {
         "displayName": "Ravicale",
         "steamID": 76561198094372705
       },
@@ -770,6 +779,13 @@
         "steamID": 76561198121692733
       },
       "time": 164420
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 164800
     },
     {
       "player": {
@@ -1067,6 +1083,13 @@
     },
     {
       "player": {
+        "displayName": "Alex Chosen",
+        "steamID": 76561197999606289
+      },
+      "time": 198700
+    },
+    {
+      "player": {
         "displayName": "Rando",
         "steamID": 76561198049852739
       },
@@ -1102,7 +1125,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 202670

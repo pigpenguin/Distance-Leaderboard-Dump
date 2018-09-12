@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Fire Marshal Crazy",
+    "displayName": "[unknown]",
     "steamID": 76561197972401663
   },
   "displayName": "Solar Electric",
-  "url": "",
+  "id": 691181228,
   "description": "Electric ride through the darkness, searching for the sun.\r\n\r\nHops, flips, and flights.",
   "fileName": "electrosynth-v2",
+  "upvotes": 436,
+  "downvotes": 52,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 155800
@@ -731,7 +733,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 179710
@@ -1123,7 +1125,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 181530
@@ -1144,7 +1146,7 @@
     },
     {
       "player": {
-        "displayName": ":c",
+        "displayName": "< blank >",
         "steamID": 76561198062112951
       },
       "time": 181680
@@ -3300,7 +3302,7 @@
     },
     {
       "player": {
-        "displayName": "Joe",
+        "displayName": "Scout main",
         "steamID": 76561198025044742
       },
       "time": 185540
@@ -6415,6 +6417,13 @@
     },
     {
       "player": {
+        "displayName": "HammerPavel",
+        "steamID": 76561198113168057
+      },
+      "time": 191800
+    },
+    {
+      "player": {
         "displayName": "Scarlet Spring",
         "steamID": 76561198039237438
       },
@@ -7675,7 +7684,7 @@
     },
     {
       "player": {
-        "displayName": "gfxh",
+        "displayName": "FALCONPUNCH",
         "steamID": 76561198075775102
       },
       "time": 194530
@@ -8823,7 +8832,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 197530
@@ -9103,7 +9112,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 198450
@@ -9124,7 +9133,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 198500
@@ -9254,13 +9263,6 @@
         "steamID": 76561198052244061
       },
       "time": 198860
-    },
-    {
-      "player": {
-        "displayName": "HammerPavel",
-        "steamID": 76561198113168057
-      },
-      "time": 198870
     },
     {
       "player": {
@@ -9509,7 +9511,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 199760
@@ -10272,7 +10274,7 @@
     },
     {
       "player": {
-        "displayName": "RS",
+        "displayName": "RKS",
         "steamID": 76561198051371884
       },
       "time": 202170
@@ -10342,7 +10344,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 202490
@@ -11007,7 +11009,7 @@
     },
     {
       "player": {
-        "displayName": "NyattaFaux",
+        "displayName": "Nyatta",
         "steamID": 76561198009347262
       },
       "time": 204560
@@ -11067,6 +11069,13 @@
         "steamID": 76561198044924684
       },
       "time": 204740
+    },
+    {
+      "player": {
+        "displayName": "CL-Casual",
+        "steamID": 76561198059048549
+      },
+      "time": 204750
     },
     {
       "player": {
@@ -11658,7 +11667,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 206930
@@ -12477,7 +12486,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 210480
@@ -12666,7 +12675,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 211130
@@ -13639,7 +13648,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 215120
@@ -14500,7 +14509,7 @@
     },
     {
       "player": {
-        "displayName": ":>",
+        "displayName": "< blank >",
         "steamID": 76561197981644196
       },
       "time": 219110
@@ -15508,7 +15517,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 224240
@@ -15662,7 +15671,7 @@
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 225360
@@ -15760,7 +15769,7 @@
     },
     {
       "player": {
-        "displayName": "NL egg smell",
+        "displayName": "Uraraka Ochako",
         "steamID": 76561198110568856
       },
       "time": 226080
@@ -16971,7 +16980,7 @@
     },
     {
       "player": {
-        "displayName": "{_",
+        "displayName": "< blank >",
         "steamID": 76561198069186337
       },
       "time": 235180
@@ -18224,7 +18233,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 246260
@@ -18644,7 +18653,7 @@
     },
     {
       "player": {
-        "displayName": "pd",
+        "displayName": "< blank >",
         "steamID": 76561198064544714
       },
       "time": 250960
@@ -19197,7 +19206,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 259160
@@ -19428,7 +19437,7 @@
     },
     {
       "player": {
-        "displayName": "Catzuku Meowdoria",
+        "displayName": "Pennyless Mac",
         "steamID": 76561198033455518
       },
       "time": 265170
@@ -19918,7 +19927,7 @@
     },
     {
       "player": {
-        "displayName": "JJ",
+        "displayName": "< blank >",
         "steamID": 76561198081724295
       },
       "time": 273720
@@ -20212,7 +20221,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 279910
@@ -20597,7 +20606,7 @@
     },
     {
       "player": {
-        "displayName": "Pi",
+        "displayName": "< blank >",
         "steamID": 76561198042103633
       },
       "time": 289300

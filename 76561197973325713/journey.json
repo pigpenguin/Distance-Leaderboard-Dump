@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Night train",
-  "url": "",
+  "id": 1085532938,
   "description": "Get all the checkpoints and a second train carrying the endzone will arrive, its recommended to turn game brightness to full while playing this map.",
   "fileName": "journey",
+  "upvotes": 45,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {

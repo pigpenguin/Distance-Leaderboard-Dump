@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "DAC #25: Mirror Mirror",
-  "url": "",
+  "id": 583372092,
   "description": "Mirror mirror, tell me something- who's the loneliest of all?\r\n\r\nTURN OFF REAL TIME REFLECTIONS\r\n\r\nA level based on the song Mirror Mirror from RWBY: https://www.youtube.com/watch?v=qROQOpei73Q",
   "fileName": "mirrormirrorfinal",
+  "upvotes": 1439,
+  "downvotes": 240,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 151780
@@ -2516,7 +2518,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 245070
@@ -2726,7 +2728,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 255490
@@ -3111,7 +3113,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 275500

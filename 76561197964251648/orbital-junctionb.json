@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "UnreliableTeammate",
+    "displayName": "[unknown]",
     "steamID": 76561197964251648
   },
   "displayName": "ORBITAL JUNCTION",
-  "url": "",
+  "id": 588840696,
   "description": "Tribute to a race in \"Kinetica\".\r\n\r\nIf it's any good, I'll make Orbital Junction II\r\n\r\nEnjoy!",
   "fileName": "orbital-junctionb",
+  "upvotes": 1093,
+  "downvotes": 163,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 155350
@@ -563,7 +565,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 182100

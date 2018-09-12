@@ -4,9 +4,11 @@
     "steamID": 76561198116956902
   },
   "displayName": "Heat death",
-  "url": "",
+  "id": 654314275,
   "description": "Is it hot in here or is it jus OH MY GOD THE ROADS ON FIRE!!!\r\n\r\nFinally made my second level! I've tried to make it a little harder so that everyone can enjoy. Have fun!\r\n\r\n*UPDATE* \r\n- All medal times reworked! You can now get a diamond medal (and the ga",
   "fileName": "out of time",
+  "upvotes": 189,
+  "downvotes": 63,
   "leaderboard": [
     {
       "player": {
@@ -815,7 +817,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 345900

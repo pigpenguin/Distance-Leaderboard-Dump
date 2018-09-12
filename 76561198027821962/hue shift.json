@@ -4,9 +4,11 @@
     "steamID": 76561198027821962
   },
   "displayName": "Hue Shift",
-  "url": "",
+  "id": 348219940,
   "description": "A colorful level that was created to show how the colors of objects can be edited in the Level Editor.",
   "fileName": "hue shift",
+  "upvotes": 189,
+  "downvotes": 150,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 26190

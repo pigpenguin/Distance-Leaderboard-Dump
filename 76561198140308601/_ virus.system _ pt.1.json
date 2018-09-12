@@ -4,9 +4,11 @@
     "steamID": 76561198140308601
   },
   "displayName": "> Virus.system < Pt.1 United Empire",
-  "url": "",
+  "id": 669536048,
   "description": "Nitronic City and Empire have united, you can now look at the first combined town EVER existed!",
   "fileName": "_ virus.system _ pt.1",
+  "upvotes": 111,
+  "downvotes": 71,
   "leaderboard": [
     {
       "player": {
@@ -38,7 +40,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 29340

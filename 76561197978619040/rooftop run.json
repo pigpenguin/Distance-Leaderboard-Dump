@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Artix Fox",
+    "displayName": "[unknown]",
     "steamID": 76561197978619040
   },
   "displayName": "Rooftop Run",
-  "url": "",
+  "id": 712356663,
   "description": "An acrobatic jaunt across some rooftops. Fairly short with a rather strict Diamond timer.\r\nBetter know how to use those down thrusters.",
   "fileName": "rooftop run",
+  "upvotes": 32,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {

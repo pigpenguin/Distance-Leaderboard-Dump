@@ -4,9 +4,11 @@
     "steamID": 76561198040481255
   },
   "displayName": "A.R.L.T.R. II",
-  "url": "",
+  "id": 722535949,
   "description": "The second of the \"All Roads Lead To Rome\" series \r\n\r\nEnjoy! \r\n\r\n(Constructive critisism VERY welcome)",
   "fileName": "a.r.l.t..r.ii",
+  "upvotes": 518,
+  "downvotes": 61,
   "leaderboard": [
     {
       "player": {
@@ -206,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 100140
@@ -472,7 +474,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 101880
@@ -2285,7 +2287,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 154100

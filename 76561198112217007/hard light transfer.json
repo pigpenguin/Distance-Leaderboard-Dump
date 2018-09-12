@@ -4,9 +4,11 @@
     "steamID": 76561198112217007
   },
   "displayName": "Hard Light Transfer",
-  "url": "",
+  "id": 818253727,
   "description": "DAC 2016 #14\r\n\r\nActivate light bridges and navigate a vertical city.\r\n\r\nThanks to MCrekna1 and Jay2a for playtesting.\r\nCustom objects for this level:\r\n https://www.dropbox.com/sh/wl84nontchcqxjp/AACqbnPR-4IA5NS-fUwmVDe_a?dl=0\r\n[img]http://i.imgur.com/fLYtc",
   "fileName": "hard light transfer",
+  "upvotes": 540,
+  "downvotes": 75,
   "leaderboard": [
     {
       "player": {
@@ -458,7 +460,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 131240
@@ -2173,7 +2175,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 183340
@@ -5421,7 +5423,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 365440
@@ -5680,7 +5682,7 @@
     },
     {
       "player": {
-        "displayName": "autumn keys.",
+        "displayName": "ptr prkr",
         "steamID": 76561198193014827
       },
       "time": 423110

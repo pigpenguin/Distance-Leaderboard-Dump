@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "NotSoAccurate",
+    "displayName": "[unknown]",
     "steamID": 76561198052357839
   },
   "displayName": "sightless v1.01",
-  "url": "",
+  "id": 495142546,
   "description": "((corrently working on a total revision for this level))\r\nFour roads chase eachother down a common path.\r\nmode: sprint\r\nboost: yes\r\nflight: no\r\n\r\nsafety note: all roads are sideless\r\n\r\n-----\r\nupdate 1.01\r\n-cooldown rings have been added throughout the trac",
   "fileName": "4roads",
+  "upvotes": 169,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {

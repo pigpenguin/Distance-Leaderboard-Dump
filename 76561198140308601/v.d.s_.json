@@ -4,9 +4,11 @@
     "steamID": 76561198140308601
   },
   "displayName": "V.D.S.",
-  "url": "",
+  "id": 697916578,
   "description": "You heard that something happened in a sector called \"V.D.S.\" ([B]V[/B]irus [B]D[/B]isecting [B]S[/B]ector) and you want to find out what happened as it is a secret. You ignore the warnings and drive in.............",
   "fileName": "v.d.s_",
+  "upvotes": 38,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -339,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 212770

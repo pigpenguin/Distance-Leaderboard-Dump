@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Red City",
-  "url": "",
+  "id": 706995943,
   "description": "This was the first track I ever made. Redone with particales and more decorations! There are four ways to go once in the city. So pick your poison: Gravity, Blockers, Lasers or Saws. Choose wisely!",
   "fileName": "redcityrevamped",
+  "upvotes": 311,
+  "downvotes": 35,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 119100

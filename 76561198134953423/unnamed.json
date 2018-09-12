@@ -4,9 +4,11 @@
     "steamID": 76561198134953423
   },
   "displayName": "Sky Empire",
-  "url": "",
+  "id": 648304914,
   "description": "An awesome community level",
   "fileName": "unnamed",
+  "upvotes": 63,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 365930

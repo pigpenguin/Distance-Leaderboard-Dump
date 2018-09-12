@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "DAC #18: Impossibility",
-  "url": "",
+  "id": 820894606,
   "description": "It could kill millions or nobody.\r\nI suppose it might even bring a few people back to life.\r\nAnything is possible in science.",
   "fileName": "sphere",
+  "upvotes": 214,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -269,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 52670
@@ -1074,7 +1076,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 87060

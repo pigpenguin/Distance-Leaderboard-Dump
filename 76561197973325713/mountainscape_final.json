@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Megaboost: Downhill jam",
-  "url": "",
+  "id": 1318644800,
   "description": "This snowy descend is littered with boost pads and rails, wich you can combo to \"mega boost\" pads; this triples their power and lasts for 10 seconds.\r\n\r\npad info:\r\ncombo fill cooldown - 4 seconds per pad\r\ncombo fill rate - 33% per pad\r\nfill on rails - 25% ",
   "fileName": "mountainscape_final",
+  "upvotes": 270,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -2138,7 +2140,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 375180
@@ -2747,7 +2749,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 615300

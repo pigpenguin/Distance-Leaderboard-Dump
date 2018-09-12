@@ -4,9 +4,11 @@
     "steamID": 76561198120713058
   },
   "displayName": "White symmetry",
-  "url": "",
+  "id": 702444721,
   "description": "Its a rainy day in the city of Broken symmetry, and a strange infection has taken over. can you discover its secret?",
   "fileName": "white infection of symmetry",
+  "upvotes": 111,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -465,7 +467,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 113920

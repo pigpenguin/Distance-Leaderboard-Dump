@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Dystopia",
-  "url": "",
+  "id": 557363031,
   "description": "THIS LEVEL WAS MADE IN 3 HOURS.\r\nIt is not the best level you have done in 3 hours, but at least hize .\r\nThe editor is always freezes me and does not save files :( .\r\nThe level is not as difficult .",
   "fileName": "dystopia",
+  "upvotes": 337,
+  "downvotes": 73,
   "leaderboard": [
     {
       "player": {
@@ -899,7 +901,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 159480

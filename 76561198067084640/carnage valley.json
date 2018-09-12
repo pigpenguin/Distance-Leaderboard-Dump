@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "For We Reach For The Sun...",
-  "url": "",
+  "id": 1311941014,
   "description": "...In hope of a brighter life, beyond the Dust.",
   "fileName": "carnage valley",
+  "upvotes": 91,
+  "downvotes": 36,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 158750

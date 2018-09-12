@@ -4,9 +4,11 @@
     "steamID": 76561198131606447
   },
   "displayName": "Split Decision (Beta)",
-  "url": "",
+  "id": 745275369,
   "description": "Decisions Decisions, what's the quickest way?\r\n\r\nStill a work in progress. If you play it in this state be sure to tell me what you think/any improvements that could be made.",
   "fileName": "untitled 2",
+  "upvotes": 265,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 150290
@@ -1410,7 +1412,7 @@
     },
     {
       "player": {
-        "displayName": "Øutlaw",
+        "displayName": "Abyssal",
         "steamID": 76561198043211426
       },
       "time": 196110
@@ -1662,7 +1664,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 207270
@@ -1788,7 +1790,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 218010
@@ -2376,7 +2378,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 392140

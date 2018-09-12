@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Ruby Rose",
+    "displayName": "[unknown]",
     "steamID": 76561198049067232
   },
   "displayName": "Ascension",
-  "url": "",
+  "id": 953876036,
   "description": "A track I made to challenge control in high speeds.\r\nNo wings.",
   "fileName": "ascension",
+  "upvotes": 41,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -535,7 +537,7 @@
     },
     {
       "player": {
-        "displayName": "Θ",
+        "displayName": "< blank >",
         "steamID": 76561198113791004
       },
       "time": 294130

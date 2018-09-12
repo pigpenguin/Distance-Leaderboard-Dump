@@ -4,9 +4,11 @@
     "steamID": 76561198002349397
   },
   "displayName": "DAC #5 - Natural Gift",
-  "url": "",
+  "id": 812900153,
   "description": "Day 5 of the third year of DAC and my ninth Sprint level.",
   "fileName": "natural gift",
+  "upvotes": 1195,
+  "downvotes": 103,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 131140
@@ -2194,7 +2196,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 145500
@@ -4140,7 +4142,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 162260
@@ -4882,7 +4884,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 169200
@@ -6233,7 +6235,7 @@
     },
     {
       "player": {
-        "displayName": "e",
+        "displayName": "< blank >",
         "steamID": 76561197968573255
       },
       "time": 185230
@@ -7080,7 +7082,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 198120
@@ -10279,7 +10281,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 269860
@@ -11672,7 +11674,7 @@
     },
     {
       "player": {
-        "displayName": "Zea mays [NTAH...]",
+        "displayName": "Zea mays [nevermind.]",
         "steamID": 76561198030119958
       },
       "time": 373940

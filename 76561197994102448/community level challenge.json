@@ -4,9 +4,11 @@
     "steamID": 76561197994102448
   },
   "displayName": "Frankenstein",
-  "url": "",
+  "id": 515627334,
   "description": "This level was made in 4 hours.\r\n\r\n2 hours where given to the participating community members to make a segment (15 seconds worth of level)\r\nI then had 2 hours to piece all of it togheter and polish it as much as i possibly could before the deadline. \r\n\r\nS",
   "fileName": "community level challenge",
+  "upvotes": 1190,
+  "downvotes": 245,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 127890
@@ -2999,7 +3001,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 322480

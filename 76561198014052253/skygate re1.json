@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Skygate RE1",
-  "url": "",
+  "id": 683230376,
   "description": "i was making this and it was killing the editor the update came out and i reworked this level  [v 2.0] \r\n---------------- \r\n\r\ni have been rebuilding this track now its not a load killer from 2.126MB to 880KB !!",
   "fileName": "skygate re1",
+  "upvotes": 347,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 132720
@@ -787,7 +789,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 158580

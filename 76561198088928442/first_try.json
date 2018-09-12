@@ -4,9 +4,11 @@
     "steamID": 76561198088928442
   },
   "displayName": "First_try",
-  "url": "",
+  "id": 569963370,
   "description": "An awesome community level",
   "fileName": "first_try",
+  "upvotes": 57,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {

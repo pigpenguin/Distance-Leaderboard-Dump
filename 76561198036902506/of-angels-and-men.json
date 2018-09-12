@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Enai Siaion",
+    "displayName": "[unknown]",
     "steamID": 76561198036902506
   },
   "displayName": "Of Angels and Men",
-  "url": "",
+  "id": 696260301,
   "description": "[i]\"For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first.\"[/i]\r\n\r\nFixed an unentertaining cut.",
   "fileName": "of-angels-and-men",
+  "upvotes": 487,
+  "downvotes": 194,
   "leaderboard": [
     {
       "player": {
@@ -1137,7 +1139,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 151710
@@ -1221,7 +1223,7 @@
     },
     {
       "player": {
-        "displayName": "Nero",
+        "displayName": "Nero CS.MONEY",
         "steamID": 76561198156872796
       },
       "time": 156410

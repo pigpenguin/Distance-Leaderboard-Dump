@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "DAC #15: Join",
-  "url": "",
+  "id": 818568355,
   "description": "Join Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join\r\nJoin Join Join Join.\r\n\r\n[",
   "fileName": "join",
+  "upvotes": 181,
+  "downvotes": 66,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 136390
@@ -1354,7 +1356,7 @@
     },
     {
       "player": {
-        "displayName": "vurs",
+        "displayName": "[unknown]",
         "steamID": 76561198168911970
       },
       "time": 245320
@@ -1823,7 +1825,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 286830
@@ -2173,7 +2175,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 325830
@@ -2432,7 +2434,7 @@
     },
     {
       "player": {
-        "displayName": "sondarium",
+        "displayName": "[unknown]",
         "steamID": 76561198008219900
       },
       "time": 370940
@@ -2467,7 +2469,7 @@
     },
     {
       "player": {
-        "displayName": "Ketalis",
+        "displayName": "[unknown]",
         "steamID": 76561198006625765
       },
       "time": 382600
@@ -2705,7 +2707,7 @@
     },
     {
       "player": {
-        "displayName": "Reaper",
+        "displayName": "[unknown]",
         "steamID": 76561198190729791
       },
       "time": 455380
@@ -2726,7 +2728,7 @@
     },
     {
       "player": {
-        "displayName": "ccfoster121",
+        "displayName": "[unknown]",
         "steamID": 76561198087123548
       },
       "time": 459330

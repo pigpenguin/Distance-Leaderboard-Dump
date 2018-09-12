@@ -4,9 +4,11 @@
     "steamID": 76561198065540876
   },
   "displayName": "MrMii's Epic Boardwalk v1.5 (MNR)",
-  "url": "",
+  "id": 1227031692,
   "description": "This version is separate due to the amount of gameplay and cosmetic changes. It no longer uses two laps, but instead one lap with a checkpoint requirement. There are no more invisible killgrids everywhere. Instead, the only one you need worry about is on t",
   "fileName": "boardwalk test rev 2",
+  "upvotes": 12,
+  "downvotes": 11,
   "leaderboard": [
     {
       "player": {

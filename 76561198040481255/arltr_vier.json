@@ -4,9 +4,11 @@
     "steamID": 76561198040481255
   },
   "displayName": "ARLTR Four",
-  "url": "",
+  "id": 739257821,
   "description": "The forth in the \"All Roads Lead To Rome\" series \r\n\r\nEnjoy! \r\n\r\n(Constructive critisism VERY welcome)",
   "fileName": "arltr_vier",
+  "upvotes": 836,
+  "downvotes": 66,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 57170
@@ -2796,7 +2798,7 @@
     },
     {
       "player": {
-        "displayName": "zz",
+        "displayName": "< blank >",
         "steamID": 76561198086502792
       },
       "time": 123950
@@ -3517,7 +3519,7 @@
     },
     {
       "player": {
-        "displayName": "gf",
+        "displayName": "gamerfrank",
         "steamID": 76561198254173586
       },
       "time": 130820
@@ -3622,7 +3624,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 131930
@@ -4252,7 +4254,7 @@
     },
     {
       "player": {
-        "displayName": "no",
+        "displayName": "< blank >",
         "steamID": 76561198039857588
       },
       "time": 139040

@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 55",
-  "url": "",
+  "id": 970168687,
   "description": "How did the crazy man escape the forrest? he took the phsycopath",
   "fileName": "sector 55",
+  "upvotes": 211,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {
@@ -780,7 +782,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 122730

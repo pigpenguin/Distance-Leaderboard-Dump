@@ -4,9 +4,11 @@
     "steamID": 76561198036210548
   },
   "displayName": "The Ride",
-  "url": "",
+  "id": 420793448,
   "description": "An awesome community level",
   "fileName": "theride",
+  "upvotes": 202,
+  "downvotes": 57,
   "leaderboard": [
     {
       "player": {

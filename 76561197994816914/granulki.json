@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Julian",
+    "displayName": "[unknown]",
     "steamID": 76561197994816914
   },
   "displayName": "Granulki",
-  "url": "",
+  "id": 771204915,
   "description": "First attempt at a somewhat serious map.\r\nShort, with few diverse themes.\r\n\r\nNo, I'm not sorry for the memes.",
   "fileName": "granulki",
+  "upvotes": 204,
+  "downvotes": 37,
   "leaderboard": [
     {
       "player": {
@@ -1095,14 +1097,14 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 338720
     },
     {
       "player": {
-        "displayName": "『Mute』",
+        "displayName": "『Mute』(Birthday!)",
         "steamID": 76561198053520812
       },
       "time": 356700

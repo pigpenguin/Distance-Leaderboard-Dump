@@ -4,9 +4,11 @@
     "steamID": 76561198018342862
   },
   "displayName": "Spaghetti Sauce",
-  "url": "",
+  "id": 1192177615,
   "description": "This my first map. I hope you like it.\r\n\r\nNo flying, (unless of course you mean boost griping) everything else is allowed.\r\nBronze, Silver, and Gold are all possible on Track.\r\nDiamond requires skips.\r\n\r\nI made the basic layout of the track in an hour just",
   "fileName": "spaghetti sauce",
+  "upvotes": 239,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {
@@ -199,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 55560
@@ -644,6 +646,13 @@
         "steamID": 76561198060548488
       },
       "time": 84060
+    },
+    {
+      "player": {
+        "displayName": "Bastard Queen",
+        "steamID": 76561198153472095
+      },
+      "time": 84130
     },
     {
       "player": {
@@ -1319,7 +1328,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 92840
@@ -1767,7 +1776,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 102600
@@ -1809,7 +1818,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 103190

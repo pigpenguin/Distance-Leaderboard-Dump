@@ -4,9 +4,11 @@
     "steamID": 76561198193380891
   },
   "displayName": "Hexed (alpha test track)",
-  "url": "",
+  "id": 1288500396,
   "description": "Test track. Alpha version.",
   "fileName": "hexed4",
+  "upvotes": 39,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {

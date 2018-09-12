@@ -4,9 +4,11 @@
     "steamID": 76561198116956902
   },
   "displayName": "Dusk City",
-  "url": "",
+  "id": 691710240,
   "description": "I've finally finished it! Whooop!\r\n\r\nHere it is, the level that has been in the making for some time now. I wanted to make this simple but visualy pleasing at the same time. Normal gameplay time: around 00:01:30.\r\n\r\nA video should appear soon I just need t",
   "fileName": "dusk city",
+  "upvotes": 577,
+  "downvotes": 62,
   "leaderboard": [
     {
       "player": {
@@ -80,17 +82,17 @@
     },
     {
       "player": {
-        "displayName": "G9",
-        "steamID": 76561197974733660
-      },
-      "time": 101140
-    },
-    {
-      "player": {
         "displayName": "IllKIllU",
         "steamID": 76561198216635512
       },
-      "time": 101180
+      "time": 101110
+    },
+    {
+      "player": {
+        "displayName": "< blank >",
+        "steamID": 76561197974733660
+      },
+      "time": 101140
     },
     {
       "player": {
@@ -154,6 +156,13 @@
         "steamID": 76561198097996356
       },
       "time": 101410
+    },
+    {
+      "player": {
+        "displayName": "SpicyMiku-chan",
+        "steamID": 76561198017945328
+      },
+      "time": 101460
     },
     {
       "player": {
@@ -406,13 +415,6 @@
         "steamID": 76561198129195427
       },
       "time": 102110
-    },
-    {
-      "player": {
-        "displayName": "SpicyMiku-chan",
-        "steamID": 76561198017945328
-      },
-      "time": 102130
     },
     {
       "player": {
@@ -731,6 +733,13 @@
     },
     {
       "player": {
+        "displayName": "NovaStorm",
+        "steamID": 76561198129214232
+      },
+      "time": 102790
+    },
+    {
+      "player": {
         "displayName": "Nameless",
         "steamID": 76561198068612657
       },
@@ -948,7 +957,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 103430

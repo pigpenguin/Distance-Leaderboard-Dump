@@ -4,9 +4,11 @@
     "steamID": 76561198119249742
   },
   "displayName": "Mana",
-  "url": "",
+  "id": 688209553,
   "description": "An awesome community level",
   "fileName": "mana",
+  "upvotes": 16,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {

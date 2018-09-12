@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "[BBMP #1]Babbilythus",
-  "url": "",
+  "id": 1494943656,
   "description": "Pass our Ink.\r\nEnter our Sun.\r\nBreathe.",
   "fileName": "babbilythus",
+  "upvotes": 39,
+  "downvotes": 9,
   "leaderboard": [
     {
       "player": {
@@ -98,6 +100,13 @@
         "steamID": 76561198122532195
       },
       "time": 68110
+    },
+    {
+      "player": {
+        "displayName": "M500",
+        "steamID": 76561197998363138
+      },
+      "time": 68170
     },
     {
       "player": {
@@ -255,6 +264,13 @@
     },
     {
       "player": {
+        "displayName": "Powerman123",
+        "steamID": 76561198054792683
+      },
+      "time": 69010
+    },
+    {
+      "player": {
         "displayName": "Ravicale",
         "steamID": 76561198094372705
       },
@@ -306,6 +322,13 @@
       "player": {
         "displayName": "Siddey10",
         "steamID": 76561198027365378
+      },
+      "time": 69430
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
       },
       "time": 69430
     },
@@ -472,6 +495,13 @@
     },
     {
       "player": {
+        "displayName": "Alex Chosen",
+        "steamID": 76561197999606289
+      },
+      "time": 73550
+    },
+    {
+      "player": {
         "displayName": "Nocrex",
         "steamID": 76561198193363878
       },
@@ -556,7 +586,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 98970

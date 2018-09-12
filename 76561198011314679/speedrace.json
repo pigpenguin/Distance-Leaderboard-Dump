@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Trastar",
+    "displayName": "[unknown]",
     "steamID": 76561198011314679
   },
   "displayName": "SpeedRace",
-  "url": "",
+  "id": 482080929,
   "description": "A Track with less obstacles on the track.\r\nMaster every kind of jumps",
   "fileName": "speedrace",
+  "upvotes": 197,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -451,7 +453,7 @@
     },
     {
       "player": {
-        "displayName": "JJ3570",
+        "displayName": "Big Pamp",
         "steamID": 76561198217883203
       },
       "time": 396760

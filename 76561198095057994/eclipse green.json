@@ -4,9 +4,11 @@
     "steamID": 76561198095057994
   },
   "displayName": "eclipse green",
-  "url": "",
+  "id": 817594357,
   "description": "An awesome community level",
   "fileName": "eclipse green",
+  "upvotes": 32,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -269,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 173110

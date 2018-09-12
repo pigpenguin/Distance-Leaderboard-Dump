@@ -4,9 +4,11 @@
     "steamID": 76561198207489511
   },
   "displayName": "A Casual Freeway Drive",
-  "url": "",
+  "id": 676295717,
   "description": "",
   "fileName": "map003",
+  "upvotes": 190,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 307250

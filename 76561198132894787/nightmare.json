@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "Nightmare",
-  "url": "",
+  "id": 411045780,
   "description": "Can you survive the nightmare?  Test your skills on this chalenging track.",
   "fileName": "nightmare",
+  "upvotes": 987,
+  "downvotes": 185,
   "leaderboard": [
     {
       "player": {
@@ -213,7 +215,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 142060
@@ -511,6 +513,13 @@
         "steamID": 76561198024516513
       },
       "time": 154340
+    },
+    {
+      "player": {
+        "displayName": "ONI",
+        "steamID": 76561198243985902
+      },
+      "time": 154640
     },
     {
       "player": {
@@ -1004,7 +1013,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 181770
@@ -1676,7 +1685,7 @@
     },
     {
       "player": {
-        "displayName": "McCain Homechips",
+        "displayName": "Akunda",
         "steamID": 76561198021405140
       },
       "time": 224110
@@ -2355,7 +2364,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 288890

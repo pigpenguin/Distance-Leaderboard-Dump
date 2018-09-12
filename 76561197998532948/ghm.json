@@ -4,9 +4,11 @@
     "steamID": 76561197998532948
   },
   "displayName": "GHM",
-  "url": "",
+  "id": 558003546,
   "description": "An awesome community level",
   "fileName": "ghm",
+  "upvotes": 81,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {

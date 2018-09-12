@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "[STE] Forgotten Temple",
-  "url": "",
+  "id": 539530475,
   "description": "Race through the ruins of a once powerful civilisation. Beware the curse, and avoid straying from the track.\r\n\r\nI have built this level for week 3 of the Survive the Editor [STE] competition.\r\nhttp://www.survivethedistance.com/survivetheeditor/\r\n\r\nSafe Jou",
   "fileName": "[ste] forgotten temple",
+  "upvotes": 755,
+  "downvotes": 149,
   "leaderboard": [
     {
       "player": {
@@ -290,7 +292,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 105480
@@ -423,7 +425,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 116720

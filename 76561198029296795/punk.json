@@ -4,9 +4,11 @@
     "steamID": 76561198029296795
   },
   "displayName": "City 251",
-  "url": "",
+  "id": 1129531239,
   "description": "Ay look mom, I did it again!\r\nShouldn't be a too hard level.",
   "fileName": "punk",
+  "upvotes": 34,
+  "downvotes": 19,
   "leaderboard": [
     {
       "player": {
@@ -423,7 +425,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 433430

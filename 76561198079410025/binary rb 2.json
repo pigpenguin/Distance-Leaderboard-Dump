@@ -4,9 +4,11 @@
     "steamID": 76561198079410025
   },
   "displayName": "DAC #14: Alternation",
-  "url": "",
+  "id": 1231328336,
   "description": "Short level focused on transfers. Has a lot of blue and orange. Sorta reminiscent of Hardcore Black.\r\n\r\nThis level might be somewhat mediocre, since I kinda slapped this together in a week or something, but I figured a mediocre DAC map was better than no D",
   "fileName": "binary rb 2",
+  "upvotes": 205,
+  "downvotes": 59,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 74590

@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "River Racing",
-  "url": "",
+  "id": 548292553,
   "description": "This is just a short little track where you have to get around by sliding on your roof.\r\nIt's pretty tricky, and landing on your wheels in the water will explode your car.\r\n\r\nI would have made a longer track, but certain lighting effects are dulled in fogl",
   "fileName": "river racing",
+  "upvotes": 27,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {

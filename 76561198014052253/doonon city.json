@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Di-onn City",
-  "url": "",
+  "id": 567657470,
   "description": "i have followers i make this track for you thx guys\r\n\r\nAnyone got any ideas on what i should make next or what you want next drop a comment :)",
   "fileName": "doonon city",
+  "upvotes": 210,
+  "downvotes": 51,
   "leaderboard": [
     {
       "player": {
@@ -31,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 139010

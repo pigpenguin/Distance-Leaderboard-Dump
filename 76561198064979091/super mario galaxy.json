@@ -4,9 +4,11 @@
     "steamID": 76561198064979091
   },
   "displayName": "DAC #8: Super Mario Galaxy",
-  "url": "",
+  "id": 571362922,
   "description": "Still partially a work in progress, any feedback you can give is welcomed! Enjoy, and Merry Christmas.",
   "fileName": "super mario galaxy",
+  "upvotes": 1338,
+  "downvotes": 235,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 97120
@@ -1655,7 +1657,7 @@
     },
     {
       "player": {
-        "displayName": "Vaeb41",
+        "displayName": "[unknown]",
         "steamID": 76561198048054312
       },
       "time": 144020
@@ -2586,7 +2588,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 175140
@@ -3426,7 +3428,7 @@
     },
     {
       "player": {
-        "displayName": "Sparkinstripes",
+        "displayName": "[unknown]",
         "steamID": 76561198103174857
       },
       "time": 325220

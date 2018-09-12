@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "pop",
-  "url": "",
+  "id": 604549551,
   "description": "An awesome community level",
   "fileName": "pop",
+  "upvotes": 647,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -535,7 +537,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 149300
@@ -1676,7 +1678,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 311990

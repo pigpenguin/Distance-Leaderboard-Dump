@@ -4,9 +4,11 @@
     "steamID": 76561198069434681
   },
   "displayName": "DAC #7: Leviathan",
-  "url": "",
+  "id": 814073655,
   "description": "A track that takes it's colors from a local roller coaster, Leviathan is an industrial level that focuses on peculiar angles.\r\n\r\n\r\n\r\nThis track is my \"Hello world!\" and took months to design. The level was originally intended to resemble a snake, but I was",
   "fileName": "leviathandac",
+  "upvotes": 419,
+  "downvotes": 119,
   "leaderboard": [
     {
       "player": {
@@ -955,7 +957,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 193300
@@ -1060,7 +1062,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 200090
@@ -4133,7 +4135,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 388260

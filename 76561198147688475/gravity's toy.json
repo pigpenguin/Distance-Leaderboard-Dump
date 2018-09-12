@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Gravity's Toy",
-  "url": "",
+  "id": 592749494,
   "description": "An awesome community level",
   "fileName": "gravity's toy",
+  "upvotes": 143,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -255,7 +257,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 202690

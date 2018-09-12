@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Antimap",
-  "url": "",
+  "id": 442465947,
   "description": "A short and strange level for advanced players, wings are disabled so some thrust vectoring is involved, but driving/dodging the floating rings at the right timing will be your main concern!",
   "fileName": "the antimap",
+  "upvotes": 55,
+  "downvotes": 80,
   "leaderboard": [
     {
       "player": {

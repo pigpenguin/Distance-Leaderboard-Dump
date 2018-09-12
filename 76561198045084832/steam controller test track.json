@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "ChaDonSom",
+    "displayName": "[unknown]",
     "steamID": 76561198045084832
   },
   "displayName": "Steam Controller Test Track",
-  "url": "",
+  "id": 585735406,
   "description": "An awesome community level",
   "fileName": "steam controller test track",
+  "upvotes": 6,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {

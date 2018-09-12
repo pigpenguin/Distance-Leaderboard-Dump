@@ -4,9 +4,11 @@
     "steamID": 76561198045809289
   },
   "displayName": "DAC #22: Twist & Shout",
-  "url": "",
+  "id": 1239583606,
   "description": "A casino has been infected by a mischievous virus. You'll need more than just luck in this gamble.\n\n\nMade for DAC 2017, day 22.\nFeedback appreciated.\r Let me know how bad this one is.\n\r\nThe original pitch involved a lot of twisty roads. I apparently forgot",
   "fileName": "twistandshout",
+  "upvotes": 170,
+  "downvotes": 45,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 103050
@@ -465,7 +467,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 184970
@@ -773,7 +775,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 221560

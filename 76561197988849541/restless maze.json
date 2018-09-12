@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Crafted",
+    "displayName": "[unknown]",
     "steamID": 76561197988849541
   },
   "displayName": "Interstellar Sprint",
-  "url": "",
+  "id": 474486115,
   "description": "My second map. Lot's of time and hard work into this one and hope it is more of a challenge. Currently a huge update released, making the level very visual as well as very challenging in terms of the \"Diamond Medal\". \r\n\r\nMain updates are finished and all t",
   "fileName": "restless maze",
+  "upvotes": 2111,
+  "downvotes": 320,
   "leaderboard": [
     {
       "player": {
@@ -73,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 147860
@@ -2264,7 +2266,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 215960
@@ -3678,7 +3680,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 263550

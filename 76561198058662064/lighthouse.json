@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Lighthouse",
-  "url": "",
+  "id": 1140646412,
   "description": "Surprisingly heavy.\r\n\r\n\r\n(Edit: Fixed medal times)",
   "fileName": "lighthouse",
+  "upvotes": 89,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -122,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 188720
@@ -500,7 +502,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 292630

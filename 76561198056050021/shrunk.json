@@ -4,9 +4,11 @@
     "steamID": 76561198056050021
   },
   "displayName": "We Shrunk",
-  "url": "",
+  "id": 698442439,
   "description": "An awesome community level",
   "fileName": "shrunk",
+  "upvotes": 20,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {

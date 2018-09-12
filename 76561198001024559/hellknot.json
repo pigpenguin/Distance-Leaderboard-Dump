@@ -4,9 +4,11 @@
     "steamID": 76561198001024559
   },
   "displayName": "The Hellknot",
-  "url": "",
+  "id": 737900653,
   "description": "The first level I've made entirely without Trackmogrify. I intend to go back sometime and decorate it, but as is the thing is done. Nothing truly difficult here, but plenty of strangeness such as sudden divisions in turf (beyond branching paths) horizontal",
   "fileName": "hellknot",
+  "upvotes": 31,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {

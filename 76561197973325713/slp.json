@@ -4,8 +4,10 @@
     "steamID": 76561197973325713
   },
   "displayName": "Super laser person (alpha)",
-  "url": "",
+  "id": 1332325104,
   "description": "An early public test of a 2d platforming \"arcade game\" built entirely with the animation system, give feedback if you like!\r\n\r\ncontrols:\r\njet pitch - jump/interact\r\njet roll - move left/right\r\nself destruct - pause/call menu\r\n\r\ndebug ring:\r\norange - proces",
   "fileName": "slp",
+  "upvotes": 3,
+  "downvotes": 0,
   "leaderboard": []
 }

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "NERD",
+    "displayName": "[unknown]",
     "steamID": 76561198006860266
   },
   "displayName": "LIGHTRIDER 1: CHASING THE LIMIT",
-  "url": "",
+  "id": 702944651,
   "description": "An awesome community level",
   "fileName": "provav3",
+  "upvotes": 235,
+  "downvotes": 78,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 222450

@@ -4,9 +4,11 @@
     "steamID": 76561198142485496
   },
   "displayName": "Blizzard Realm",
-  "url": "",
+  "id": 1095057720,
   "description": "An awesome community level",
   "fileName": "blizzard realm",
+  "upvotes": 126,
+  "downvotes": 61,
   "leaderboard": [
     {
       "player": {
@@ -1011,7 +1013,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 448490

@@ -4,9 +4,11 @@
     "steamID": 76561198123626406
   },
   "displayName": "Jockel Race",
-  "url": "",
+  "id": 891383133,
   "description": "An awesome community level",
   "fileName": "jockel race",
+  "upvotes": 16,
+  "downvotes": 8,
   "leaderboard": [
     {
       "player": {

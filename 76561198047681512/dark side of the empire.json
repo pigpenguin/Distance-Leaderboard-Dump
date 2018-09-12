@@ -4,9 +4,11 @@
     "steamID": 76561198047681512
   },
   "displayName": "dark side of the empire",
-  "url": "",
+  "id": 681755388,
   "description": "I noticed that some of the buildings look like the ones shooting lasers into the earth. This level plays with the idea that the Alliance isn't all good.",
   "fileName": "dark side of the empire",
+  "upvotes": 493,
+  "downvotes": 70,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 171950
@@ -1711,7 +1713,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 264750

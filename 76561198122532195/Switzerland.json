@@ -4,9 +4,11 @@
     "steamID": 76561198122532195
   },
   "displayName": "Switzerland",
-  "url": "",
+  "id": 1286750565,
   "description": "1. Green land level (Highway and Land route)\r\n2. Snow Mountain pass level",
   "fileName": "Switzerland",
+  "upvotes": 74,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 382580

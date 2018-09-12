@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "Hollow",
-  "url": "",
+  "id": 1293822950,
   "description": "[i]\"Never forget what once was lost, yet do not let it tie you down\"[/i]",
   "fileName": "hollow",
+  "upvotes": 192,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {
@@ -920,7 +922,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 125340
@@ -1620,7 +1622,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 180850
@@ -1851,7 +1853,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 228980

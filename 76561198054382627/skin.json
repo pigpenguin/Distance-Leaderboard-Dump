@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "Skin",
-  "url": "",
+  "id": 518641023,
   "description": "The Skin hides the truth.",
   "fileName": "skin",
+  "upvotes": 1334,
+  "downvotes": 140,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 99950
@@ -885,7 +887,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 105530
@@ -3559,7 +3561,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 174330
@@ -3727,7 +3729,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 188950
@@ -4203,7 +4205,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 371210

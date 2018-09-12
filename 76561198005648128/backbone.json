@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "4P",
+    "displayName": "< blank >",
     "steamID": 76561198005648128
   },
   "displayName": "Off the grid",
-  "url": "",
+  "id": 866029143,
   "description": "An awesome community level",
   "fileName": "backbone",
+  "upvotes": 81,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {
@@ -654,7 +656,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 220530

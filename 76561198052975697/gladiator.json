@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "GLADIATOR",
-  "url": "",
+  "id": 728461052,
   "description": "The NitronicRush remake of the obstacle course from RUSH2049 has been reborn!\r\n\r\nProps to Cyclopsdragon and Phimeek for getting the timing right on vertical blocks and falling rocks.",
   "fileName": "gladiator",
+  "upvotes": 452,
+  "downvotes": 90,
   "leaderboard": [
     {
       "player": {
@@ -1564,7 +1566,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 361760

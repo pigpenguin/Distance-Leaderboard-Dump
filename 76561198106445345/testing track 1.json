@@ -4,9 +4,11 @@
     "steamID": 76561198106445345
   },
   "displayName": "Testing Track 1",
-  "url": "",
+  "id": 1154969120,
   "description": "My first attempt at a track. Dont expect something brilliant\r\n",
   "fileName": "testing track 1",
+  "upvotes": 12,
+  "downvotes": 5,
   "leaderboard": [
     {
       "player": {

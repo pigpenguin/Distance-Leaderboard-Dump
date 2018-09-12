@@ -4,9 +4,11 @@
     "steamID": 76561198065040574
   },
   "displayName": "Cosmic Realm",
-  "url": "",
+  "id": 1449026196,
   "description": "For anyone not in the know, a while back Distance released an update that discontinued support for workshop maps with non-alphanumeric characters in the title. The original file was named \"cosmic realm (acceleracers).bytes\", hence the reupload.\r\n\r\nI wanted",
   "fileName": "cosmic realm",
+  "upvotes": 80,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {
@@ -493,7 +495,7 @@
     },
     {
       "player": {
-        "displayName": "Julia_will_spielen",
+        "displayName": "[unknown]",
         "steamID": 76561198440152796
       },
       "time": 351180

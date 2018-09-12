@@ -4,9 +4,11 @@
     "steamID": 76561198045491187
   },
   "displayName": "Simplicity City",
-  "url": "",
+  "id": 680841931,
   "description": "My first level, a short simple sprint level.",
   "fileName": "simplicity city",
+  "upvotes": 55,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "2DRIVE",
-  "url": "",
+  "id": 528364072,
   "description": "An awesome community level with lots of tracks shortcuts hard tracks easy tracks just enjoy 2drive the track",
   "fileName": "2drive",
+  "upvotes": 121,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 145620

@@ -4,9 +4,11 @@
     "steamID": 76561198274537149
   },
   "displayName": "Violet City",
-  "url": "",
+  "id": 919255509,
   "description": "My first level ever made in Distance. Go easy on me, alright? XD",
   "fileName": "violet city",
+  "upvotes": 52,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {
@@ -255,7 +257,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 83950
@@ -647,7 +649,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 133520

@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "Darkness Space",
-  "url": "",
+  "id": 1445067306,
   "description": "An awesome community level",
   "fileName": "darkness space",
+  "upvotes": 13,
+  "downvotes": 5,
   "leaderboard": [
     {
       "player": {

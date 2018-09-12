@@ -4,9 +4,11 @@
     "steamID": 76561198088043194
   },
   "displayName": "Industrial Fury",
-  "url": "",
+  "id": 452135640,
   "description": "Inspired by the game's official level \"Monolith\", drive through a massive power plant that is infected by a deadly virus. Be able to dodge lasers, wall jump, and more through this visually-appealing and high-difficulty level.\r\n\r\nLet me know what you think ",
   "fileName": "fury",
+  "upvotes": 5368,
+  "downvotes": 431,
   "leaderboard": [
     {
       "player": {
@@ -325,7 +327,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 134560
@@ -1417,7 +1419,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 139700
@@ -1949,7 +1951,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 146020
@@ -4812,7 +4814,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 178560
@@ -5085,7 +5087,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 182210
@@ -5456,7 +5458,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 186610
@@ -6632,6 +6634,13 @@
     },
     {
       "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 199740
+    },
+    {
+      "player": {
         "displayName": "мистер-пипистер",
         "steamID": 76561198430127994
       },
@@ -6996,7 +7005,7 @@
     },
     {
       "player": {
-        "displayName": "Skoll",
+        "displayName": "Tyrfang",
         "steamID": 76561198037731254
       },
       "time": 205250
@@ -7255,7 +7264,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 208760
@@ -8099,6 +8108,13 @@
         "steamID": 76561198143063903
       },
       "time": 222410
+    },
+    {
+      "player": {
+        "displayName": ".fortune",
+        "steamID": 76561198011649312
+      },
+      "time": 222480
     },
     {
       "player": {
@@ -9488,7 +9504,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 245610
@@ -9530,7 +9546,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 246100
@@ -10482,7 +10498,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 271710
@@ -10853,7 +10869,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 282860
@@ -12260,7 +12276,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 346220
@@ -12428,7 +12444,14 @@
     },
     {
       "player": {
-        "displayName": "B.",
+        "displayName": "Krazy8s",
+        "steamID": 76561198078867563
+      },
+      "time": 358500
+    },
+    {
+      "player": {
+        "displayName": "< blank >",
         "steamID": 76561198058596470
       },
       "time": 359050
@@ -13240,7 +13263,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 475360

@@ -4,9 +4,11 @@
     "steamID": 76561198071406674
   },
   "displayName": "Futuristic Highway - Tech District",
-  "url": "",
+  "id": 895852129,
   "description": "Race through a city filled with loops and unrealistic roads.",
   "fileName": "futuristic highway - tech district (beta)",
+  "upvotes": 119,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -126,6 +128,13 @@
         "steamID": 76561198123626406
       },
       "time": 242780
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 242970
     },
     {
       "player": {

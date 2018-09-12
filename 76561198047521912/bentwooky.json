@@ -4,9 +4,11 @@
     "steamID": 76561198047521912
   },
   "displayName": "bent wooky demo",
-  "url": "",
+  "id": 408231516,
   "description": "An awesome community level",
   "fileName": "bentwooky",
+  "upvotes": 60,
+  "downvotes": 45,
   "leaderboard": [
     {
       "player": {

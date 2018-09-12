@@ -4,9 +4,11 @@
     "steamID": 76561198015809913
   },
   "displayName": "City Run (Fog)",
-  "url": "",
+  "id": 664097725,
   "description": "This is basiacly the same but the editor didnt let me update the old one so I had to make it a separate level. However this level shouldnt have much problems and there is fog on this level",
   "fileName": "city run",
+  "upvotes": 162,
+  "downvotes": 43,
   "leaderboard": [
     {
       "player": {

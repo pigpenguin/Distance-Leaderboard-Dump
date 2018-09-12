@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Prakes",
+    "displayName": "[unknown]",
     "steamID": 76561198278074801
   },
   "displayName": "Try and don`t die",
-  "url": "",
+  "id": 724955278,
   "description": "This is my first Level. This Level is created for Beginners and is super easy.\r\n!!!Sometimes in the level it`ll say that you`re going the wrong direction. However if you continue on road you`ll be fine!!!",
   "fileName": "1richtigeslvl",
+  "upvotes": 20,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {

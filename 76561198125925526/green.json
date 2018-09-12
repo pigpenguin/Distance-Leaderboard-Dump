@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "kreator",
+    "displayName": "[unknown]",
     "steamID": 76561198125925526
   },
   "displayName": "Green [Sprint/Speed&Style]",
-  "url": "",
+  "id": 557642148,
   "description": "I hope you like the color green. ;)",
   "fileName": "green",
+  "upvotes": 231,
+  "downvotes": 63,
   "leaderboard": [
     {
       "player": {
@@ -276,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 175990

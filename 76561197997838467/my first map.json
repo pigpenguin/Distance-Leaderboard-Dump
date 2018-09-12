@@ -1,13 +1,22 @@
 {
   "author": {
-    "displayName": "East Coast Los",
+    "displayName": "[unknown]",
     "steamID": 76561197997838467
   },
   "displayName": "Alternate Ending",
-  "url": "",
+  "id": 484478340,
   "description": "A straightforward, quick track that splits halfway through.  Which path will yout take?",
   "fileName": "my first map",
+  "upvotes": 88,
+  "downvotes": 53,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 32530
+    },
     {
       "player": {
         "displayName": "Nerf",

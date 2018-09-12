@@ -4,9 +4,11 @@
     "steamID": 76561198154586707
   },
   "displayName": "Kinder Haus",
-  "url": "",
+  "id": 413971603,
   "description": "Easy to race, difficult to master. Level designed with no superfluous buildings. No \"cheating\" shortcuts, but plenty of shortcuts to find and combine!",
   "fileName": "kinder_haus",
+  "upvotes": 86,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 223650

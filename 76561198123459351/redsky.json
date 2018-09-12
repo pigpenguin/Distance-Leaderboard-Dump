@@ -4,9 +4,11 @@
     "steamID": 76561198123459351
   },
   "displayName": "Red Sky (Quick Map)",
-  "url": "",
+  "id": 888735728,
   "description": "My first ever level! :D \r\n\r\nPlease tell me in the comments what you thought about it.",
   "fileName": "redsky",
+  "upvotes": 89,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 54290

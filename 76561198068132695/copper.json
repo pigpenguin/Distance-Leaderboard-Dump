@@ -4,9 +4,11 @@
     "steamID": 76561198068132695
   },
   "displayName": "Copper",
-  "url": "",
+  "id": 863408901,
   "description": "This track leads you through an old city, with districts built entirely out of copper.\r\n\r\nHave fun! (And use your thrusters or else you will have a few problems staying on the road)\r\nBtw there are some hidden shortcuts, you need to take in order to get gol",
   "fileName": "copper",
+  "upvotes": 397,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 85130
@@ -913,6 +915,13 @@
     },
     {
       "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 115050
+    },
+    {
+      "player": {
         "displayName": "Royal | Lone",
         "steamID": 76561198209332733
       },
@@ -1333,7 +1342,7 @@
     },
     {
       "player": {
-        "displayName": "Marino",
+        "displayName": "[unknown]",
         "steamID": 76561198030385611
       },
       "time": 125780
@@ -1354,7 +1363,7 @@
     },
     {
       "player": {
-        "displayName": "Empty Slot",
+        "displayName": "Empty_Slot",
         "steamID": 76561198043497063
       },
       "time": 125880
@@ -1396,7 +1405,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 126800
@@ -3566,6 +3575,13 @@
     },
     {
       "player": {
+        "displayName": "Krazy8s",
+        "steamID": 76561198078867563
+      },
+      "time": 211220
+    },
+    {
+      "player": {
         "displayName": "Gentleman Octopus",
         "steamID": 76561198023612134
       },
@@ -3930,7 +3946,7 @@
     },
     {
       "player": {
-        "displayName": "spb327",
+        "displayName": "[unknown]",
         "steamID": 76561198025777818
       },
       "time": 248920
@@ -4056,7 +4072,7 @@
     },
     {
       "player": {
-        "displayName": "MEЯRY",
+        "displayName": "[unknown]",
         "steamID": 76561197993761275
       },
       "time": 289230
@@ -4273,7 +4289,7 @@
     },
     {
       "player": {
-        "displayName": "slim yoshi: Origins",
+        "displayName": "[unknown]",
         "steamID": 76561198040636120
       },
       "time": 462190

@@ -4,9 +4,11 @@
     "steamID": 76561198122532195
   },
   "displayName": "Lopper",
-  "url": "",
+  "id": 1286093141,
   "description": "Freeride!!!!",
   "fileName": "Lopper",
+  "upvotes": 9,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 205900

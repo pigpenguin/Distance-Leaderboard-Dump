@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "BENTCITY",
-  "url": "",
+  "id": 554271056,
   "description": "a dark city i made in 3 hours while my food baked",
   "fileName": "bent",
+  "upvotes": 730,
+  "downvotes": 78,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 109900
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 110900
@@ -1459,7 +1461,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 137000

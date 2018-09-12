@@ -4,9 +4,11 @@
     "steamID": 76561198027398137
   },
   "displayName": "Windrealm",
-  "url": "",
+  "id": 974430447,
   "description": "An awesome community level",
   "fileName": "windrealm",
+  "upvotes": 159,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -1032,7 +1034,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 403950

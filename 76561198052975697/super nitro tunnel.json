@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "Super Nitro Tunnel",
-  "url": "",
+  "id": 239504086,
   "description": "A SPRINT custom level  remake of turbo tunnel from The Super Nintendo version of Battletoads In Battlemaniacs.\r\n",
   "fileName": "super nitro tunnel",
+  "upvotes": 501,
+  "downvotes": 162,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 177710
@@ -273,6 +275,13 @@
         "steamID": 76561198039316695
       },
       "time": 208110
+    },
+    {
+      "player": {
+        "displayName": "Eld",
+        "steamID": 76561198016417731
+      },
+      "time": 208320
     },
     {
       "player": {
@@ -1557,7 +1566,7 @@
     },
     {
       "player": {
-        "displayName": "Skoll",
+        "displayName": "Tyrfang",
         "steamID": 76561198037731254
       },
       "time": 477190
@@ -1760,7 +1769,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 617880

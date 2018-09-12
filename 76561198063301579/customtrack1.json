@@ -4,9 +4,11 @@
     "steamID": 76561198063301579
   },
   "displayName": "SkyLineTestDrive",
-  "url": "",
+  "id": 586173439,
   "description": "WIP but is functional",
   "fileName": "customtrack1",
+  "upvotes": 79,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {

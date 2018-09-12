@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Adistar",
+    "displayName": "[unknown]",
     "steamID": 76561198088976205
   },
   "displayName": "Power Down",
-  "url": "",
+  "id": 476378723,
   "description": "An awesome community level",
   "fileName": "power down",
+  "upvotes": 12,
+  "downvotes": 19,
   "leaderboard": [
     {
       "player": {

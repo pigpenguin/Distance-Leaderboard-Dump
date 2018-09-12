@@ -4,9 +4,11 @@
     "steamID": 76561198091627523
   },
   "displayName": "DAC #12: The Arrival (Remake)",
-  "url": "",
+  "id": 817141334,
   "description": "The Virus Has Arrived.",
   "fileName": "the arrival (remake)",
+  "upvotes": 620,
+  "downvotes": 58,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 154950
@@ -619,7 +621,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 156120
@@ -2215,7 +2217,7 @@
     },
     {
       "player": {
-        "displayName": "e",
+        "displayName": "< blank >",
         "steamID": 76561197968573255
       },
       "time": 164220
@@ -6520,7 +6522,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 212800
@@ -7724,7 +7726,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 390640

@@ -4,9 +4,11 @@
     "steamID": 76561197999606289
   },
   "displayName": "World Race Leg 1",
-  "url": "",
+  "id": 947999471,
   "description": "An awesome community level",
   "fileName": "world race leg 1",
+  "upvotes": 635,
+  "downvotes": 79,
   "leaderboard": [
     {
       "player": {
@@ -24,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 171320
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "England is my city",
+        "displayName": "LucarioRoolz",
         "steamID": 76561198060001544
       },
       "time": 335640
@@ -1466,7 +1468,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 404720
@@ -1921,7 +1923,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 424640
@@ -2226,6 +2228,13 @@
         "steamID": 76561198089235708
       },
       "time": 434930
+    },
+    {
+      "player": {
+        "displayName": "Eld",
+        "steamID": 76561198016417731
+      },
+      "time": 435380
     },
     {
       "player": {
@@ -3104,7 +3113,7 @@
     },
     {
       "player": {
-        "displayName": ".f",
+        "displayName": "< blank >",
         "steamID": 76561198041496914
       },
       "time": 483680
@@ -4273,7 +4282,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 553120
@@ -4476,7 +4485,7 @@
     },
     {
       "player": {
-        "displayName": "fleetmastereddie",
+        "displayName": "[unknown]",
         "steamID": 76561198032830231
       },
       "time": 576650
@@ -5071,13 +5080,6 @@
     },
     {
       "player": {
-        "displayName": "Eld",
-        "steamID": 76561198016417731
-      },
-      "time": 640570
-    },
-    {
-      "player": {
         "displayName": "GuyofCars4th",
         "steamID": 76561198353461867
       },
@@ -5267,7 +5269,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 675520

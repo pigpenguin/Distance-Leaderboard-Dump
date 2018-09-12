@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "The Depths",
-  "url": "",
+  "id": 550511777,
   "description": "Enter an old minshaft, and find the infernal structure within. Be sure to use your wings when the road is treacherous.\r\n\r\nBuilt to make use of the new Biosphere objects, which allow for great manipulation of fog and global lights.",
   "fileName": "the depths",
+  "upvotes": 990,
+  "downvotes": 144,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 204810
@@ -1522,7 +1524,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 242600
@@ -1669,7 +1671,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 249500
@@ -1984,7 +1986,7 @@
     },
     {
       "player": {
-        "displayName": "ED",
+        "displayName": "< blank >",
         "steamID": 76561198036754085
       },
       "time": 263630
@@ -2047,7 +2049,7 @@
     },
     {
       "player": {
-        "displayName": "Zea mays [NTAH...]",
+        "displayName": "Zea mays [nevermind.]",
         "steamID": 76561198030119958
       },
       "time": 265040
@@ -2397,7 +2399,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 288190

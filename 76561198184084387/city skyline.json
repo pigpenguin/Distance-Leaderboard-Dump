@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "THESEA",
+    "displayName": "[unknown]",
     "steamID": 76561198184084387
   },
   "displayName": "skyline",
-  "url": "",
+  "id": 588890250,
   "description": "My first level to be published to the workshop.\r\nThe story is that you drive fast.\r\nNear the end is a split path.",
   "fileName": "city skyline",
+  "upvotes": 20,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {

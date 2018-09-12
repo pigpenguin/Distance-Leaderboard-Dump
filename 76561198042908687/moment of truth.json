@@ -4,9 +4,11 @@
     "steamID": 76561198042908687
   },
   "displayName": "Two Paths",
-  "url": "",
+  "id": 899757341,
   "description": "It may look like there's only one path, but there are really two... which will you take?",
   "fileName": "moment of truth",
+  "upvotes": 88,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {
@@ -185,6 +187,13 @@
     },
     {
       "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 40810
+    },
+    {
+      "player": {
         "displayName": "EveTheOne",
         "steamID": 76561198064838276
       },
@@ -332,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 59440
@@ -717,7 +726,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 161880

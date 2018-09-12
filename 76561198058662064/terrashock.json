@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Energy Crisis",
-  "url": "",
+  "id": 1132716143,
   "description": "The energy is unstable; it's no longer safe here!\r\n\r\nVersion 1.0",
   "fileName": "terrashock",
+  "upvotes": 109,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -94,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 75940

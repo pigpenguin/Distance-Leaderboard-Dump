@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Enai Siaion",
+    "displayName": "[unknown]",
     "steamID": 76561198036902506
   },
   "displayName": "Artificial Sun",
-  "url": "",
+  "id": 442826785,
   "description": "[b]Artificial Sun[/b]\r\n\r\nA speedtech track with a length of about 1:30 and many small jumps. Should be viable in multiplayer as well.",
   "fileName": "artificialsun",
+  "upvotes": 1327,
+  "downvotes": 417,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 84510
@@ -717,6 +719,13 @@
     },
     {
       "player": {
+        "displayName": "sheepington11211",
+        "steamID": 76561198057071313
+      },
+      "time": 94730
+    },
+    {
+      "player": {
         "displayName": "Chef",
         "steamID": 76561198018691981
       },
@@ -864,7 +873,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 100020
@@ -2607,7 +2616,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 176700
@@ -2663,7 +2672,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 178960
@@ -2677,7 +2686,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 179430

@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Psychedelic Phantasm",
-  "url": "",
+  "id": 1256421263,
   "description": " [h1]!!! SEIZURE WARNING!!!:[/h1]\r\n[b] Seriously, Strobe light effects in use. If you have any medical history of photosensitive epilepsy or epilepsy at all, [u]DO NOT PLAY THIS TRACK![/u] I will not be responsible for what happens should you proceed anywa",
   "fileName": "psychedelic phantasm",
+  "upvotes": 455,
+  "downvotes": 45,
   "leaderboard": [
     {
       "player": {
@@ -122,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 108190
@@ -325,7 +327,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 109680
@@ -850,7 +852,7 @@
     },
     {
       "player": {
-        "displayName": "cz-terorist",
+        "displayName": "[unknown]",
         "steamID": 76561198120409344
       },
       "time": 129550
@@ -927,7 +929,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 131600
@@ -1529,7 +1531,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 161150
@@ -2754,7 +2756,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 227740

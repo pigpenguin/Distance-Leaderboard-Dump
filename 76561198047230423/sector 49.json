@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 49",
-  "url": "",
+  "id": 1250586029,
   "description": "Here, I made a level. \n\nThere will most likely be updates to this one",
   "fileName": "sector 49",
+  "upvotes": 338,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 106840
@@ -948,7 +950,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 116050
@@ -1963,7 +1965,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 138180
@@ -3034,7 +3036,7 @@
     },
     {
       "player": {
-        "displayName": "One man bandit",
+        "displayName": "One man tango",
         "steamID": 76561198040184762
       },
       "time": 196660
@@ -3090,7 +3092,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 200200
@@ -3433,7 +3435,7 @@
     },
     {
       "player": {
-        "displayName": "JP",
+        "displayName": "< blank >",
         "steamID": 76561198143436502
       },
       "time": 293700

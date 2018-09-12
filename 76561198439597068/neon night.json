@@ -4,9 +4,11 @@
     "steamID": 76561198439597068
   },
   "displayName": "Neon Night",
-  "url": "",
+  "id": 1202920938,
   "description": "An awesome community level",
   "fileName": "neon night",
+  "upvotes": 52,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -448,6 +450,13 @@
         "steamID": 76561197991355968
       },
       "time": 164720
+    },
+    {
+      "player": {
+        "displayName": "Kaede",
+        "steamID": 76561198086717945
+      },
+      "time": 168200
     },
     {
       "player": {

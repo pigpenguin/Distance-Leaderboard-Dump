@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "FuryOS",
+    "displayName": "[unknown]",
     "steamID": 76561198122572619
   },
   "displayName": "Shroud",
-  "url": "",
+  "id": 603924313,
   "description": "A mysterious tower in space...\r\n\r\nTest level, getting used to the editor.",
   "fileName": "shroud",
+  "upvotes": 1,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {

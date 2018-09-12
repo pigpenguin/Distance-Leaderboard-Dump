@@ -4,9 +4,11 @@
     "steamID": 76561198217905579
   },
   "displayName": "Yellow Park",
-  "url": "",
+  "id": 959048981,
   "description": "An awesome community level",
   "fileName": "yellow park",
+  "upvotes": 10,
+  "downvotes": 7,
   "leaderboard": [
     {
       "player": {

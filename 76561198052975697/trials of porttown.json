@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "Trials Of PortTown",
-  "url": "",
+  "id": 705655427,
   "description": "A compilation of porttowns from across the F-zero series.\r\nPort Town II from-SNES\r\nPort Town Long Jump-N64\r\nPort Town AeroDive-Gamecube\r\nPort Town Long Pipe-Gamecube\r\n\r\nFuture trials of will have gba porttowns",
   "fileName": "trials of porttown",
+  "upvotes": 957,
+  "downvotes": 142,
   "leaderboard": [
     {
       "player": {
@@ -1207,7 +1209,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 173640
@@ -1697,7 +1699,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 194480
@@ -1865,7 +1867,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 206500

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Generic Oonorio",
+    "displayName": "[unknown]",
     "steamID": 76561198040954632
   },
   "displayName": "Humming Bird",
-  "url": "",
+  "id": 709891657,
   "description": "It's summer. Do you like summer?",
   "fileName": "hummingbird",
+  "upvotes": 76,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {

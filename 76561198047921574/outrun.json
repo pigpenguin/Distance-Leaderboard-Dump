@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Outrun",
-  "url": "",
+  "id": 1256414329,
   "description": "2018? More like 1980.\nThis level is based off of the 80's synthwave stuff that we all know and love.\n\nThanks as always to my playtesters for making sure this map doesn't suck.",
   "fileName": "outrun",
+  "upvotes": 1004,
+  "downvotes": 60,
   "leaderboard": [
     {
       "player": {
@@ -913,7 +915,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 110570
@@ -1270,7 +1272,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 115430
@@ -3930,7 +3932,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 163760
@@ -5505,7 +5507,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 201720
@@ -6191,7 +6193,7 @@
     },
     {
       "player": {
-        "displayName": "HakPed",
+        "displayName": "OneMnstr",
         "steamID": 76561198012894975
       },
       "time": 226300
@@ -6709,7 +6711,7 @@
     },
     {
       "player": {
-        "displayName": "One man bandit",
+        "displayName": "One man tango",
         "steamID": 76561198040184762
       },
       "time": 248050
@@ -6772,7 +6774,7 @@
     },
     {
       "player": {
-        "displayName": "G$",
+        "displayName": "< blank >",
         "steamID": 76561197970413979
       },
       "time": 250810
@@ -7017,7 +7019,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 266870

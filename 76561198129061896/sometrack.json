@@ -4,9 +4,11 @@
     "steamID": 76561198129061896
   },
   "displayName": "Antivirus",
-  "url": "",
+  "id": 1121751811,
   "description": "Two viruses, one can survive, you are the antivirus\r\n\r\n\r\nTrack I made in my spare time, and although I have a lot of it, that doesn't mean the track is good ;P",
   "fileName": "sometrack",
+  "upvotes": 72,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -52,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 98540

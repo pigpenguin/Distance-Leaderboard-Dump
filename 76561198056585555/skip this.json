@@ -4,9 +4,11 @@
     "steamID": 76561198056585555
   },
   "displayName": "SKIP THIS!",
-  "url": "",
+  "id": 1120185991,
   "description": "A level I made in under 15 minutes.",
   "fileName": "skip this",
+  "upvotes": 16,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 32620

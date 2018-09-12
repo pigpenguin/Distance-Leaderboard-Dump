@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "EthanThePenguin",
+    "displayName": "[unknown]",
     "steamID": 76561198341246212
   },
   "displayName": "Programm",
-  "url": "",
+  "id": 971671341,
   "description": "An awesome community level",
   "fileName": "programm",
+  "upvotes": 3,
+  "downvotes": 8,
   "leaderboard": [
     {
       "player": {

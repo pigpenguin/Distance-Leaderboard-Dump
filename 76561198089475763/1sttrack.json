@@ -4,9 +4,11 @@
     "steamID": 76561198089475763
   },
   "displayName": "A Wonderful Track",
-  "url": "",
+  "id": 910464077,
   "description": "The best track you'll ever see",
   "fileName": "1sttrack",
+  "upvotes": 6,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198041276435
   },
   "displayName": "You're Just Another Machine",
-  "url": "",
+  "id": 1371496782,
   "description": "Stay focused...\r\n\r\nThis level has been sitting on my hard drive for like 4 months now without any real changes so I said what the hell I'll throw a few more decorations at it and release it. Feel free to tell me what you liked and didn't like about it, pre",
   "fileName": "yourejustanothermachine",
+  "upvotes": 144,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -1452,7 +1454,7 @@
     },
     {
       "player": {
-        "displayName": "Adam West",
+        "displayName": "GrófAzUhl",
         "steamID": 76561198018084993
       },
       "time": 574030

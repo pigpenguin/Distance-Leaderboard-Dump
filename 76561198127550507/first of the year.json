@@ -4,9 +4,11 @@
     "steamID": 76561198127550507
   },
   "displayName": "No more stress",
-  "url": "",
+  "id": 592896000,
   "description": "Short track with some obstacles.\r\n\r\nFirst track done, hope you enjoy it!",
   "fileName": "first of the year",
+  "upvotes": 97,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 69660

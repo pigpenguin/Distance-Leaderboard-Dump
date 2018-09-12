@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "The Grind",
-  "url": "",
+  "id": 1507097020,
   "description": "The only trick that matters.",
   "fileName": "thegrind",
+  "upvotes": 9,
+  "downvotes": 4,
   "leaderboard": [
     {
       "player": {
@@ -77,6 +79,13 @@
         "steamID": 76561198138713238
       },
       "time": 467160
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 550000
     }
   ]
 }

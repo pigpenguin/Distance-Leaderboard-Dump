@@ -4,9 +4,11 @@
     "steamID": 76561198090662432
   },
   "displayName": "Twisty Loops",
-  "url": "",
+  "id": 424303468,
   "description": "A challenging level.\r\nIntended to make you work them corners hard.",
   "fileName": "twisty loops",
+  "upvotes": 50,
+  "downvotes": 50,
   "leaderboard": [
     {
       "player": {

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Kyldros",
+    "displayName": "[unknown]",
     "steamID": 76561198060577567
   },
   "displayName": "Pallet Town",
-  "url": "",
+  "id": 431174092,
   "description": "In collaboration with Ancient Hero. A beatiful sprint race in the first Pokemon Town of Heart Gold Game.",
   "fileName": "biancavilla con strada",
+  "upvotes": 117,
+  "downvotes": 76,
   "leaderboard": [
     {
       "player": {
@@ -353,7 +355,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 928860

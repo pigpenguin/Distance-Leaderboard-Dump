@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Dotted",
-  "url": "",
+  "id": 1270755386,
   "description": "Inspiration provided by Robin Yiff. and this gif: https://i.imgur.com/vcAreNR.gif\r\n\r\nThe question: Can you turn a .gif into a track?\r\nThe answer: Yes\r\n\r\nA super short track that can be finished in under 60 seconds\r\nNote: Particles must be on to play this t",
   "fileName": "dotted",
+  "upvotes": 291,
+  "downvotes": 48,
   "leaderboard": [
     {
       "player": {
@@ -276,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 49470
@@ -1914,7 +1916,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 90060
@@ -2068,7 +2070,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 97890

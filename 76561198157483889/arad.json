@@ -4,9 +4,11 @@
     "steamID": 76561198157483889
   },
   "displayName": "My first Distance level !  :)",
-  "url": "",
+  "id": 711947345,
   "description": "An awesome community level",
   "fileName": "arad",
+  "upvotes": 6,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Alt-הַקפָּאָה",
-  "url": "",
+  "id": 875714188,
   "description": "The name is Alt [german for ancient]  הַקפָּאָה [hebrew for freeze]",
   "fileName": "aaaahhhhhhhh",
+  "upvotes": 276,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 101750

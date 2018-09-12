@@ -4,9 +4,11 @@
     "steamID": 76561198001947706
   },
   "displayName": "Onslaught",
-  "url": "",
+  "id": 651821506,
   "description": "Streams of light are with you to conquer even darker corridors of corruption! Fight your way through and try to survive.\r\n\r\n\r\nHad to upload the map again, because I messed up my original map save which didn't allow me to update.\r\nIf there's an admin able t",
   "fileName": "random_again_1_16",
+  "upvotes": 365,
+  "downvotes": 74,
   "leaderboard": [
     {
       "player": {
@@ -605,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 143630
@@ -1109,7 +1111,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 240180

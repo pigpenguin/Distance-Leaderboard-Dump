@@ -4,9 +4,11 @@
     "steamID": 76561198023940697
   },
   "displayName": "100% Distance juice",
-  "url": "",
+  "id": 1209954147,
   "description": "Take on the floating city is this very orange map.\r\n\r\nThis map is still very WIP.",
   "fileName": "100 distance juice",
+  "upvotes": 128,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 78820

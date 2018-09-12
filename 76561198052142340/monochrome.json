@@ -4,9 +4,11 @@
     "steamID": 76561198052142340
   },
   "displayName": "Monochrome",
-  "url": "",
+  "id": 941138207,
   "description": "A black and white level.\r\n\r\n[url=https://steamcommunity.com/profiles/76561198052142340/myworkshopfiles/?appid=233610] [img]http://i.imgur.com/BoLW3DW.png[/img] [/url]",
   "fileName": "monochrome",
+  "upvotes": 67,
+  "downvotes": 29,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 145430
@@ -836,7 +838,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 476600

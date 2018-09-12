@@ -4,9 +4,11 @@
     "steamID": 76561198143813541
   },
   "displayName": "Usual",
-  "url": "",
+  "id": 909926249,
   "description": "A short level with a decent amount of obstacles and decorations. I planned to scrap this project but ended up uploading it anyways, atleast after some polishing",
   "fileName": "usual",
+  "upvotes": 20,
+  "downvotes": 8,
   "leaderboard": [
     {
       "player": {
@@ -311,7 +313,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 169710

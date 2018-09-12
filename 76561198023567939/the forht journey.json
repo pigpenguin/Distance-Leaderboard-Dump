@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "The 4th Journey",
-  "url": "",
+  "id": 459109012,
   "description": "This time i tried to not create landscapes, but a sad story.\r\nThere are 5 places where you can cut the road (if you got the skill) and i hope that someone will find the last shortcut wich is realy hidden but realy cool.",
   "fileName": "the forht journey",
+  "upvotes": 1429,
+  "downvotes": 158,
   "leaderboard": [
     {
       "player": {
@@ -2537,7 +2539,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 283010

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Amono",
+    "displayName": "[unknown]",
     "steamID": 76561198000494121
   },
   "displayName": "Evacuate 0.2",
-  "url": "",
+  "id": 609270714,
   "description": "A continuation of ''Evacuate'' with minor additions and mostly fixes of spawners\r\n\r\nThis level is still in a state of developing an asthetic and I am trying my best to work with the objects that exist in the game since making custom objects is surprisingly",
   "fileName": "evacuate. 0",
+  "upvotes": 104,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {

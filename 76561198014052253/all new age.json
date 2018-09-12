@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Gargantua",
-  "url": "",
+  "id": 879200797,
   "description": "the city is going into a black hole",
   "fileName": "all new age",
+  "upvotes": 336,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -31,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 89730

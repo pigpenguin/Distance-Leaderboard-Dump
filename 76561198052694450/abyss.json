@@ -4,9 +4,11 @@
     "steamID": 76561198052694450
   },
   "displayName": "Abyss",
-  "url": "",
+  "id": 844661919,
   "description": "My first map, please give feedback\r\n\r\nSprintmap - Advanced dificulty\r\n\r\nDiamond time: 2:50\r\nGold time: 3:00\r\nSilver time 3:30\r\nBronze time 4:00",
   "fileName": "abyss",
+  "upvotes": 40,
+  "downvotes": 35,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 173540

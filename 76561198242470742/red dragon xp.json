@@ -4,9 +4,11 @@
     "steamID": 76561198242470742
   },
   "displayName": "Red Dragon Xp",
-  "url": "",
+  "id": 771244329,
   "description": "An awesome community level",
   "fileName": "red dragon xp",
+  "upvotes": 50,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {

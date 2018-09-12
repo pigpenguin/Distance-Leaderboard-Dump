@@ -4,9 +4,11 @@
     "steamID": 76561198112217007
   },
   "displayName": "Static Fire Signal",
-  "url": "",
+  "id": 841587936,
   "description": "Beacons flash neon pink in the blue-grey dark. Harmonics penetrate the static. Decoded from the stream, abstract symbols resolve. Cold light permeates the inky night; crystalline castles shine in vibrant contrast. Cryptic signals lead to a shattered heart.",
   "fileName": "signal",
+  "upvotes": 643,
+  "downvotes": 65,
   "leaderboard": [
     {
       "player": {
@@ -283,7 +285,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 50500
@@ -1949,7 +1951,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 89860
@@ -4063,7 +4065,7 @@
     },
     {
       "player": {
-        "displayName": "e",
+        "displayName": "< blank >",
         "steamID": 76561197968573255
       },
       "time": 147140
@@ -4987,7 +4989,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 147890
@@ -6121,7 +6123,7 @@
     },
     {
       "player": {
-        "displayName": "Requiem",
+        "displayName": "[unknown]",
         "steamID": 76561198033143932
       },
       "time": 150500
@@ -6261,7 +6263,7 @@
     },
     {
       "player": {
-        "displayName": "Craptik",
+        "displayName": "[unknown]",
         "steamID": 76561198019934391
       },
       "time": 151480

@@ -4,9 +4,11 @@
     "steamID": 76561198354293671
   },
   "displayName": "The Chase",
-  "url": "",
+  "id": 1086822627,
   "description": "T.E.M.P.E.S.T knows we're on to them. Our satellites inform us that they are moving powerful tech to the Geo-Atmos station in space. We can't let that happen. If they get that technology to the station and use it to bypass the Geo-Atmos' security protocols",
   "fileName": "crimson headquarters",
+  "upvotes": 82,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {
@@ -906,7 +908,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 703230

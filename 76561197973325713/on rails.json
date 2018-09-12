@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "On Rails",
-  "url": "",
+  "id": 1237900607,
   "description": "A simple map with one-way grindable rails",
   "fileName": "on rails",
+  "upvotes": 293,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 58310
@@ -1123,7 +1125,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 77630
@@ -1571,7 +1573,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 87090
@@ -2901,7 +2903,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 153220

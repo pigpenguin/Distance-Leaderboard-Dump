@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "42 Errors(Fixed Version)",
-  "url": "",
+  "id": 660834369,
   "description": "42 errors, 42 glitches. Run away.",
   "fileName": "story mode",
+  "upvotes": 229,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {
@@ -59,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 100140
@@ -703,7 +705,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 156480

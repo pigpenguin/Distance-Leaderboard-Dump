@@ -4,9 +4,11 @@
     "steamID": 76561198100929724
   },
   "displayName": "Anomaly",
-  "url": "",
+  "id": 852353638,
   "description": "My first level!\r\n\r\nThe city isn't safe anymore. \r\nEvacuate while you still can.",
   "fileName": "anomaly",
+  "upvotes": 117,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {

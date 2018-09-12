@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "DAC #17: NWBO 5: The Hub",
-  "url": "",
+  "id": 1234218018,
   "description": "A hard community level. Requires knowledge of most of the mechanics of the game to complete.",
   "fileName": "nwbo5",
+  "upvotes": 71,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -164,6 +166,13 @@
     },
     {
       "player": {
+        "displayName": "Flauschekissen",
+        "steamID": 76561198122532195
+      },
+      "time": 227520
+    },
+    {
+      "player": {
         "displayName": "vem",
         "steamID": 76561198373979674
       },
@@ -280,13 +289,6 @@
         "steamID": 76561197997368571
       },
       "time": 322800
-    },
-    {
-      "player": {
-        "displayName": "Flauschekissen",
-        "steamID": 76561198122532195
-      },
-      "time": 337660
     },
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198009448655
   },
   "displayName": "Violet",
-  "url": "",
+  "id": 356509535,
   "description": "Roses are grey.\r\nViolets are grey.\r\nI am a dog.",
   "fileName": "violet",
+  "upvotes": 2381,
+  "downvotes": 231,
   "leaderboard": [
     {
       "player": {
@@ -213,7 +215,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 138670
@@ -486,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 140510
@@ -1081,7 +1083,7 @@
     },
     {
       "player": {
-        "displayName": "McCain Homechips",
+        "displayName": "Akunda",
         "steamID": 76561198021405140
       },
       "time": 142440
@@ -1487,7 +1489,7 @@
     },
     {
       "player": {
-        "displayName": "LH",
+        "displayName": "< blank >",
         "steamID": 76561198036402226
       },
       "time": 143290
@@ -2530,7 +2532,7 @@
     },
     {
       "player": {
-        "displayName": "Ox",
+        "displayName": "< blank >",
         "steamID": 76561197986808149
       },
       "time": 149230
@@ -3517,7 +3519,7 @@
     },
     {
       "player": {
-        "displayName": "Sentry, the Lightbringer",
+        "displayName": "Sentry",
         "steamID": 76561198167310916
       },
       "time": 160510
@@ -4490,7 +4492,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 171880
@@ -4700,7 +4702,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 175890
@@ -5554,7 +5556,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 194300
@@ -5701,7 +5703,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 196630
@@ -6485,7 +6487,7 @@
     },
     {
       "player": {
-        "displayName": "Skoll",
+        "displayName": "Tyrfang",
         "steamID": 76561198037731254
       },
       "time": 237010

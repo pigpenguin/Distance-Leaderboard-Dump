@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "Ancient Lands Demo",
-  "url": "",
+  "id": 1447811289,
   "description": "An awesome community level",
   "fileName": "ancient lands demo",
+  "upvotes": 10,
+  "downvotes": 7,
   "leaderboard": [
     {
       "player": {

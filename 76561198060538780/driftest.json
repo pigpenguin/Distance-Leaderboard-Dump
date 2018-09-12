@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "DualPlayer",
+    "displayName": "[unknown]",
     "steamID": 76561198060538780
   },
   "displayName": "Driftest",
-  "url": "",
+  "id": 716718807,
   "description": "An awesome community level",
   "fileName": "driftest",
+  "upvotes": 17,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198142850337
   },
   "displayName": "Level MAN",
-  "url": "",
+  "id": 905840616,
   "description": "An awesome community level",
   "fileName": "levelman",
+  "upvotes": 39,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -647,7 +649,7 @@
     },
     {
       "player": {
-        "displayName": "lobster",
+        "displayName": "[unknown]",
         "steamID": 76561198342306797
       },
       "time": 205420

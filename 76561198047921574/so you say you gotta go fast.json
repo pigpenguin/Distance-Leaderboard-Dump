@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "So You Say You Gotta Go Fast",
-  "url": "",
+  "id": 1433689827,
   "description": "Be careful what you wish for.\n\n\n\n\n.\n\n\n\n\n.\n\n\n\n\nThis track is awful",
   "fileName": "so you say you gotta go fast",
+  "upvotes": 56,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -98,6 +100,13 @@
         "steamID": 76561198129120223
       },
       "time": 54270
+    },
+    {
+      "player": {
+        "displayName": "echance01",
+        "steamID": 76561198086489612
+      },
+      "time": 54760
     },
     {
       "player": {
@@ -224,6 +233,13 @@
         "steamID": 76561198070319748
       },
       "time": 136310
+    },
+    {
+      "player": {
+        "displayName": "thatonesilly",
+        "steamID": 76561198078385812
+      },
+      "time": 138740
     },
     {
       "player": {

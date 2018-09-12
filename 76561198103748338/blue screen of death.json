@@ -4,9 +4,11 @@
     "steamID": 76561198103748338
   },
   "displayName": "Blue Screen Of Distance",
-  "url": "",
+  "id": 407255707,
   "description": "Its my first sprint track!\r\n\r\nThe color of the object are the same that the blue screen of death from windows.\r\n\r\nCan you find the ultimate shorcut?",
   "fileName": "blue screen of death",
+  "upvotes": 454,
+  "downvotes": 96,
   "leaderboard": [
     {
       "player": {
@@ -164,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 50260
@@ -955,7 +957,7 @@
     },
     {
       "player": {
-        "displayName": "Fluffy~",
+        "displayName": "[unknown]",
         "steamID": 76561198144457888
       },
       "time": 109040

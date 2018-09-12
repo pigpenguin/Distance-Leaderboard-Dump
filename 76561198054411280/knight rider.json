@@ -4,9 +4,11 @@
     "steamID": 76561198054411280
   },
   "displayName": "Knight Rider",
-  "url": "",
+  "id": 797466926,
   "description": "Ride through a long, winding, mid air track. With only the light of the track to tell you where to go. There is a shortcut, and it is the only way you can get the diamond medal. (The shortcut can be seen in the picture if you look close enough). Good luck.",
   "fileName": "knight rider",
+  "upvotes": 4,
+  "downvotes": 13,
   "leaderboard": [
     {
       "player": {

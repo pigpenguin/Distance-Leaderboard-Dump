@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "LakanusMf2",
+    "displayName": "[unknown]",
     "steamID": 76561198123279082
   },
   "displayName": "Victory Road",
-  "url": "",
+  "id": 592393450,
   "description": "This is my second level. Its intended for Multiplayer, but of course can also be played by a single person. There is only one road that leads to the goal, no shortcuts, no detours, no flying. The level gets progressively harder but there are many checkpoin",
   "fileName": "victory road",
+  "upvotes": 12,
+  "downvotes": 13,
   "leaderboard": [
     {
       "player": {

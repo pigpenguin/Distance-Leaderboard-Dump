@@ -4,9 +4,11 @@
     "steamID": 76561198253579316
   },
   "displayName": "The Tower",
-  "url": "",
+  "id": 1208395856,
   "description": "In this map, you have to reach the exit portal at the bottom of The Tower without falling from it, so watch out for the sideless roads!\r\n\r\nKidding, it's really easy to reach the end, this map is just to have fun, so... try it out!",
   "fileName": "layers",
+  "upvotes": 118,
+  "downvotes": 43,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 49640

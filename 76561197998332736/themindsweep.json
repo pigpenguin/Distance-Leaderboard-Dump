@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "zuse",
+    "displayName": "[unknown]",
     "steamID": 76561197998332736
   },
   "displayName": "TheMindsweep",
-  "url": "",
+  "id": 465352571,
   "description": "Around 2:30 of distance for your pleasure.\r\nA colorfull track with some jumps, wallrids and a flying section. This is my first attempt with the distance editor and I took my time (Over 6 months)  to realease this track. I don't feel like it is done, but de",
   "fileName": "themindsweep",
+  "upvotes": 858,
+  "downvotes": 192,
   "leaderboard": [
     {
       "player": {
@@ -24,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 135680
@@ -252,6 +254,13 @@
         "steamID": 76561198041500742
       },
       "time": 153160
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 153840
     },
     {
       "player": {

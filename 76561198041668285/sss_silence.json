@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Super Short Six, #2: Silence",
-  "url": "",
+  "id": 1127563340,
   "description": "Where am I? I cannot tell.\r\nThis isn't Heaven, nor is it Hell.\r\n\r\nI really do not wish to stay.\r\nSo through the darkness I'll make my way.\r\n\r\nAs the pathway twists and turns and breaks.\r\nI'll keep my speed till the final gate.\r\n\r\n==========================",
   "fileName": "sss_silence",
+  "upvotes": 170,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -143,7 +145,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 51470
@@ -1340,7 +1342,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 80080

@@ -4,9 +4,11 @@
     "steamID": 76561198121709059
   },
   "displayName": "Easy Drive",
-  "url": "",
+  "id": 639127757,
   "description": "An awesome community level",
   "fileName": "goingthef_ingdistance",
+  "upvotes": 128,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 138060

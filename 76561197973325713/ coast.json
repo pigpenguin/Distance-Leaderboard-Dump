@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Shaky grounds: Coast",
-  "url": "",
+  "id": 614101462,
   "description": "This section was once a harbor, then a ship breaking yard to cover dredging costs, only to be acquired by the dodgy owner of the mega scrapyard behind the storm drain. \r\nShaky grounds has been living up to it's nickname, and not just because of dangerous w",
   "fileName": " coast",
+  "upvotes": 496,
+  "downvotes": 113,
   "leaderboard": [
     {
       "player": {
@@ -1018,7 +1020,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 323310
@@ -1382,7 +1384,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 467260

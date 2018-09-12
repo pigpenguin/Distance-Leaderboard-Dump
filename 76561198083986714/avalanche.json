@@ -4,9 +4,11 @@
     "steamID": 76561198083986714
   },
   "displayName": "Alliance Avalanche",
-  "url": "",
+  "id": 1483626055,
   "description": "An avalanche has damaged our equipment! Preliminary provisions have already been sent out, but it's your job to survey the scene. You'll be rewarded accordingly!\n\n",
   "fileName": "avalanche",
+  "upvotes": 11,
+  "downvotes": 4,
   "leaderboard": [
     {
       "player": {

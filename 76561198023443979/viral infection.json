@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Viral Infection",
-  "url": "",
+  "id": 459401941,
   "description": "A highly-detailed track taking place in an unknown virus-filled city.",
   "fileName": "viral infection",
+  "upvotes": 1124,
+  "downvotes": 185,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 166520
@@ -843,7 +845,7 @@
     },
     {
       "player": {
-        "displayName": "McCain Homechips",
+        "displayName": "Akunda",
         "steamID": 76561198021405140
       },
       "time": 216610
@@ -1585,7 +1587,7 @@
     },
     {
       "player": {
-        "displayName": "Al",
+        "displayName": "< blank >",
         "steamID": 76561198044430474
       },
       "time": 259760

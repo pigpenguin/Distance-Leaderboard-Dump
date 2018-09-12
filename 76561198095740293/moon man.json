@@ -4,9 +4,11 @@
     "steamID": 76561198095740293
   },
   "displayName": "Moon Man",
-  "url": "",
+  "id": 946924811,
   "description": "An awesome community level",
   "fileName": "moon man",
+  "upvotes": 9,
+  "downvotes": 9,
   "leaderboard": [
     {
       "player": {

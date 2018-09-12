@@ -4,9 +4,11 @@
     "steamID": 76561198095189543
   },
   "displayName": "Fallen Cities",
-  "url": "",
+  "id": 481546119,
   "description": "My second level. I decided to go a little colorful for this track. Wings are enabled, but I'm sure you won't be able to skip the whole level from the start :) There are hidden shortcuts. Good luck finding them and get the fastest time possible.\r\nHave fun!",
   "fileName": "fallen city",
+  "upvotes": 732,
+  "downvotes": 87,
   "leaderboard": [
     {
       "player": {
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 179910

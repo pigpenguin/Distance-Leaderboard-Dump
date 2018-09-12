@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Instability_fixed",
-  "url": "",
+  "id": 1249888512,
   "description": "\"\"\"\"After the orginial Instability had decided to die on me - this version should work (sorry for having to seperate files - the old save itself seems cursed). There is no longer any fancy warp anchor mechanics that made the orginal so awesome with narrati",
   "fileName": "futurev2",
+  "upvotes": 240,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {
@@ -59,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 82480
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 93530
@@ -1760,7 +1762,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 115560
@@ -2411,7 +2413,7 @@
     },
     {
       "player": {
-        "displayName": "JP",
+        "displayName": "< blank >",
         "steamID": 76561198143436502
       },
       "time": 145960
@@ -2425,7 +2427,7 @@
     },
     {
       "player": {
-        "displayName": "BigDickMcGee",
+        "displayName": "DrAltzheimer",
         "steamID": 76561198164159390
       },
       "time": 146320

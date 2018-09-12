@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "City plunge",
-  "url": "",
+  "id": 1277713543,
   "description": "classic city, winding rails, steep plunge; go get that endzone!",
   "fileName": " downhill",
+  "upvotes": 299,
+  "downvotes": 32,
   "leaderboard": [
     {
       "player": {
@@ -353,7 +355,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 111420

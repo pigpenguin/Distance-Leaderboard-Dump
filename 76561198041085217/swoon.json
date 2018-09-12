@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Swoon",
-  "url": "",
+  "id": 665151393,
   "description": "Sunset in a floating city.\r\nReally tried to take a different approach to decorating this time, with buildings being placed first and then road following which created some interesting sections. Big thanks to Ashamael who gave me a lot of constructive feedb",
   "fileName": "swoon",
+  "upvotes": 883,
+  "downvotes": 60,
   "leaderboard": [
     {
       "player": {
@@ -311,7 +313,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 82990
@@ -1032,10 +1034,17 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 90770
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 90780
     },
     {
       "player": {
@@ -3412,7 +3421,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 147000
@@ -3860,7 +3869,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 212320
@@ -4007,14 +4016,14 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 319200
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 361500

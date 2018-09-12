@@ -4,9 +4,11 @@
     "steamID": 76561198039316695
   },
   "displayName": "DAC #20: My Dear December",
-  "url": "",
+  "id": 1237022962,
   "description": "Meet me once more\r\nWhere we met before\r\nIt's growing colder\r\nWill you remember\r\nTo fall like the snow\r\nHolding me close\r\nBring me winter\r\n\r\nMy dear December",
   "fileName": "my_dear_december_010",
+  "upvotes": 624,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {
@@ -241,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 68660
@@ -1354,7 +1356,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 72850
@@ -3104,7 +3106,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 81920
@@ -4980,7 +4982,7 @@
     },
     {
       "player": {
-        "displayName": "sc",
+        "displayName": "< blank >",
         "steamID": 76561198034644930
       },
       "time": 108860
@@ -5589,7 +5591,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 135960
@@ -5603,14 +5605,14 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 136910
     },
     {
       "player": {
-        "displayName": "JP",
+        "displayName": "< blank >",
         "steamID": 76561198143436502
       },
       "time": 137180

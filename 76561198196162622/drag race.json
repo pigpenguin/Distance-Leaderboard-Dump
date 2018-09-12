@@ -4,9 +4,11 @@
     "steamID": 76561198196162622
   },
   "displayName": "Drag Race",
-  "url": "",
+  "id": 517846651,
   "description": "An awesome community level",
   "fileName": "drag race",
+  "upvotes": 66,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 62640

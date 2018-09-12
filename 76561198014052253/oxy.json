@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Oxy",
-  "url": "",
+  "id": 557452827,
   "description": "its green so green ;)",
   "fileName": "oxy",
+  "upvotes": 1204,
+  "downvotes": 116,
   "leaderboard": [
     {
       "player": {
@@ -2194,7 +2196,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 124870
@@ -2516,7 +2518,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 137150
@@ -2670,7 +2672,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 144100
@@ -2957,7 +2959,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 162030
@@ -3346,6 +3348,13 @@
         "steamID": 76561197977448768
       },
       "time": 232840
+    },
+    {
+      "player": {
+        "displayName": "Flauschekissen",
+        "steamID": 76561198122532195
+      },
+      "time": 247660
     },
     {
       "player": {

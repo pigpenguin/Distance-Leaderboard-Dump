@@ -4,9 +4,11 @@
     "steamID": 76561198121310718
   },
   "displayName": "Canyon realm! WHEN ENTERING HYPERPOD KEEP REVERSING AND WAIT FOR IT TO START OR DEATH CAN OCCURE",
-  "url": "",
+  "id": 971978089,
   "description": "NOTE, BIG NOTE - WHEN ENTERING HYPER POD IT IS LIABLE TO MAKE U DIE\r\nJUST STAY IN REVERSE UNTIL IT STARTS",
   "fileName": "cannyon thingy",
+  "upvotes": 434,
+  "downvotes": 43,
   "leaderboard": [
     {
       "player": {
@@ -2033,7 +2035,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 429260
@@ -2548,6 +2550,13 @@
         "steamID": 76561198069113081
       },
       "time": 464310
+    },
+    {
+      "player": {
+        "displayName": "thxgamemaster",
+        "steamID": 76561198424200115
+      },
+      "time": 464820
     },
     {
       "player": {
@@ -3230,7 +3239,7 @@
     },
     {
       "player": {
-        "displayName": "xG:A Rabid",
+        "displayName": "Seth",
         "steamID": 76561198035542209
       },
       "time": 536700
@@ -3468,13 +3477,6 @@
     },
     {
       "player": {
-        "displayName": "thxgamemaster",
-        "steamID": 76561198424200115
-      },
-      "time": 582390
-    },
-    {
-      "player": {
         "displayName": "GalacticSpike",
         "steamID": 76561198207869735
       },
@@ -3671,7 +3673,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 613750

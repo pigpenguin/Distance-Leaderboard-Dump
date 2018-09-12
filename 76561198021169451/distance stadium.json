@@ -4,9 +4,11 @@
     "steamID": 76561198021169451
   },
   "displayName": "Distance Stadium",
-  "url": "",
+  "id": 558148771,
   "description": "This is my first Distance track.\r\nI built it based of Trackmania Turbo gameplay video (International Stadium).\r\nHope you like it :)",
   "fileName": "distance stadium",
+  "upvotes": 310,
+  "downvotes": 84,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 29440

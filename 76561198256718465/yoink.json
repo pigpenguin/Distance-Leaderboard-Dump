@@ -4,9 +4,11 @@
     "steamID": 76561198256718465
   },
   "displayName": "Yoink",
-  "url": "",
+  "id": 1209184527,
   "description": "my first level so enjoy",
   "fileName": "yoink",
+  "upvotes": 24,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {

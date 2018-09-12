@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "REDLINE 4 - Velocity Heights",
-  "url": "",
+  "id": 1095710721,
   "description": "4th level in this REDLINE series.\r\nVelocity heights main look is ripped from FAST RACING NEO,FAST RMX chuoko city.\r\nAssets from F-Zero GX Aeropolis have been added such as info sphere and signs.\r\n",
   "fileName": "redline 4 velocity heights",
+  "upvotes": 339,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 156250
@@ -969,7 +971,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 179880
@@ -2397,7 +2399,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 252880

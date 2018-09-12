@@ -4,9 +4,11 @@
     "steamID": 76561198253579316
   },
   "displayName": "Planet X-55 (FIXED)",
-  "url": "",
+  "id": 1230757383,
   "description": "An awesome community level",
   "fileName": "x55",
+  "upvotes": 46,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {

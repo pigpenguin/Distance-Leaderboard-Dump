@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "Inferno",
-  "url": "",
+  "id": 701091987,
   "description": "We're uploading you now to a reactor in the midst of a\r\nmeltdown, if this situation goes untreated this could\r\nturn into a Stage Six Void Cascade Event! \r\nThe only coolant that can possibley resolve such a sudden\r\nconflict is a \"Cap44-Tube\" we've implanted",
   "fileName": "inferno",
+  "upvotes": 441,
+  "downvotes": 180,
   "leaderboard": [
     {
       "player": {
@@ -633,6 +635,13 @@
     },
     {
       "player": {
+        "displayName": "Pinapl",
+        "steamID": 76561198047921574
+      },
+      "time": 210820
+    },
+    {
+      "player": {
         "displayName": "Latapi",
         "steamID": 76561198071239933
       },
@@ -679,13 +688,6 @@
         "steamID": 76561198181401557
       },
       "time": 213710
-    },
-    {
-      "player": {
-        "displayName": "Pinapl",
-        "steamID": 76561198047921574
-      },
-      "time": 215910
     },
     {
       "player": {
@@ -745,7 +747,7 @@
     },
     {
       "player": {
-        "displayName": "->",
+        "displayName": "< blank >",
         "steamID": 76561198067340918
       },
       "time": 230280
@@ -1137,7 +1139,7 @@
     },
     {
       "player": {
-        "displayName": "jayoku",
+        "displayName": "Jayoku Houtenjin!",
         "steamID": 76561198060363705
       },
       "time": 347240

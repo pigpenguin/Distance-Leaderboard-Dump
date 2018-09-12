@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "Immunity",
-  "url": "",
+  "id": 1082353981,
   "description": "Immunity has been granted...\r\nFor now",
   "fileName": "immunity",
+  "upvotes": 214,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -1585,7 +1587,7 @@
     },
     {
       "player": {
-        "displayName": "--",
+        "displayName": "< blank >",
         "steamID": 76561198055998730
       },
       "time": 189510
@@ -2103,14 +2105,14 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 286920
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 290800

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Darnoc703",
+    "displayName": "[unknown]",
     "steamID": 76561198031754210
   },
   "displayName": "Hidden Metropolis",
-  "url": "",
+  "id": 415650365,
   "description": "My newest level! \r\n\r\nI KNOW IT LAGS A TON! I will fix it asap but here is the level in the meantime. Enjoy it at 15 fps!",
   "fileName": "hiddenmetropolis",
+  "upvotes": 438,
+  "downvotes": 68,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 97160

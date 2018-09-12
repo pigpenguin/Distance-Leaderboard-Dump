@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Lamp Realm (Pinapl Redux)",
-  "url": "",
+  "id": 895766725,
   "description": "Happy April Fools :D",
   "fileName": "lamp realm",
+  "upvotes": 62,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -448,6 +450,13 @@
         "steamID": 76561198001115310
       },
       "time": 94660
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 114140
     },
     {
       "player": {

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Isaac Holmes",
+    "displayName": "[unknown]",
     "steamID": 76561198221689492
   },
   "displayName": "Neon Park",
-  "url": "",
+  "id": 1237569276,
   "description": "An awesome community level",
   "fileName": "neon park",
+  "upvotes": 6,
+  "downvotes": 9,
   "leaderboard": [
     {
       "player": {

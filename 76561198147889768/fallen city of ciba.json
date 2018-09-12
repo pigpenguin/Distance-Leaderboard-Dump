@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "vinzenzius",
+    "displayName": "[unknown]",
     "steamID": 76561198147889768
   },
   "displayName": "fallen city of ciba",
-  "url": "",
+  "id": 1254781312,
   "description": "super epic mega track, with awesome space city!!!! !!!!! !!!!",
   "fileName": "fallen city of ciba",
+  "upvotes": 32,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 115060

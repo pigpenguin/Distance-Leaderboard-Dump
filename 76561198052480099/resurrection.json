@@ -4,9 +4,11 @@
     "steamID": 76561198052480099
   },
   "displayName": "Resurrection",
-  "url": "",
+  "id": 407945563,
   "description": "Break free.\r\n\r\nThis short Sprint, S&S, Stune, and Reverse Tag level was based on an old level that I never published. It's not designed to be difficult, but instead is designed to see how fast you can complete it.",
   "fileName": "resurrection",
+  "upvotes": 328,
+  "downvotes": 91,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 39470

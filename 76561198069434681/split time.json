@@ -4,9 +4,11 @@
     "steamID": 76561198069434681
   },
   "displayName": "Split Times",
-  "url": "",
+  "id": 842241732,
   "description": "This level started work immedietly after the layout for Floating Point was finished. My first take on an infected level, Split Times is a short track involving quick path choice.",
   "fileName": "split time",
+  "upvotes": 44,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {

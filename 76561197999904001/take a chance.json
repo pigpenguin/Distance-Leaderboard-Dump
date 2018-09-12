@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Stickdude. <3",
+    "displayName": "[unknown]",
     "steamID": 76561197999904001
   },
   "displayName": "Take A Chance",
-  "url": "",
+  "id": 655226084,
   "description": "Strong gavitational pulses have been coming from beyond the old district, and it's caused some damage to the city. \r\nGet to the other side of the city as fast as you can, and head into the old district.\r\nLevel 1 security has been activated by the pulses, s",
   "fileName": "take a chance",
+  "upvotes": 698,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -2124,7 +2126,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 173000

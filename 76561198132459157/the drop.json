@@ -4,9 +4,11 @@
     "steamID": 76561198132459157
   },
   "displayName": "The Drop",
-  "url": "",
+  "id": 587563234,
   "description": "An awesome community level",
   "fileName": "the drop",
+  "upvotes": 165,
+  "downvotes": 53,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561197994102448
   },
   "displayName": "Sword",
-  "url": "",
+  "id": 694430289,
   "description": "A retro level with emphazis on lane switching gameplay. Meant to have a very arcade feel. I had lots of different inspirations for this one, see if you can find them ;)\r\n\r\nThanks to Splaysh, Skirmisher and Fork for helping me Test <3\r\n\r\nEnjoy!",
   "fileName": "sword",
+  "upvotes": 1566,
+  "downvotes": 200,
   "leaderboard": [
     {
       "player": {
@@ -619,7 +621,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 122090
@@ -1074,7 +1076,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 137530
@@ -2971,7 +2973,7 @@
     },
     {
       "player": {
-        "displayName": "[NikoNikoNii~] Fighter_C3",
+        "displayName": "[unknown]",
         "steamID": 76561198083756309
       },
       "time": 189960
@@ -3531,7 +3533,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 205440
@@ -3867,7 +3869,7 @@
     },
     {
       "player": {
-        "displayName": "pretty s o u r",
+        "displayName": "[unknown]",
         "steamID": 76561198083171366
       },
       "time": 217050

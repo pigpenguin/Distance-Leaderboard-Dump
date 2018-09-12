@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "4P",
+    "displayName": "< blank >",
     "steamID": 76561198005648128
   },
   "displayName": "The Empire's locker",
-  "url": "",
+  "id": 713430333,
   "description": "Inside the Empire lies secrets that could overthrow the government. Manage a way to get inside the Empire's security and find what you're looking for.\r\n\r\nFirst upload. Won't be the last.\r\nComments and feedback are appreciated.",
   "fileName": "the unfinished",
+  "upvotes": 160,
+  "downvotes": 60,
   "leaderboard": [
     {
       "player": {
@@ -234,7 +236,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 131010

@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "scrap brain zone",
-  "url": "",
+  "id": 815478791,
   "description": "I dreamed of making this one for awhile but could never find the right fit.\r\nI hope you enjoy it.",
   "fileName": "dac10 scrap brain zone",
+  "upvotes": 372,
+  "downvotes": 58,
   "leaderboard": [
     {
       "player": {
@@ -94,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 122400
@@ -3349,7 +3351,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 329270

@@ -4,9 +4,11 @@
     "steamID": 76561198007572917
   },
   "displayName": "DAC #3: Liquinox Facility",
-  "url": "",
+  "id": 1220215515,
   "description": "Here's my mediocre DAC map that I probably should have put more work into :^\r\n\r\nmore of a concept map than anything :^\r\n\r\nDid you know map making is actually really difficult?",
   "fileName": "liquinox facility",
+  "upvotes": 102,
+  "downvotes": 100,
   "leaderboard": [
     {
       "player": {
@@ -1270,7 +1272,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 580530
@@ -1480,7 +1482,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 1176960

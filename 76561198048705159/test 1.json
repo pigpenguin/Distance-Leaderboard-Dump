@@ -4,9 +4,11 @@
     "steamID": 76561198048705159
   },
   "displayName": "[STE] Catacomb Run",
-  "url": "",
+  "id": 539522270,
   "description": "You're driving home from work (in a car that can pull 20 G) when you notice that a building has fallen, blocking the road.  Time to take a detour through some catacombs...",
   "fileName": "test 1",
+  "upvotes": 210,
+  "downvotes": 50,
   "leaderboard": [
     {
       "player": {
@@ -94,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 129780

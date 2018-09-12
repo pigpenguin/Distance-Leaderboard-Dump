@@ -4,16 +4,60 @@
     "steamID": 76561197997950572
   },
   "displayName": "Negative Charge",
-  "url": "",
+  "id": 1509128960,
   "description": "Will you conquer the eye of the storm, or meet with a dishonorable...\n\n\ndischarge?",
   "fileName": "eye of the storm",
+  "upvotes": 5,
+  "downvotes": 2,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "i0nTempest",
+        "steamID": 76561198244554216
+      },
+      "time": 95420
+    },
+    {
+      "player": {
+        "displayName": "M500",
+        "steamID": 76561197998363138
+      },
+      "time": 100130
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 132840
+    },
+    {
+      "player": {
+        "displayName": "Winter's Crescendo",
+        "steamID": 76561198046935617
+      },
+      "time": 163400
+    },
     {
       "player": {
         "displayName": "JediKai",
         "steamID": 76561197997950572
       },
-      "time": 176120
+      "time": 175790
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 194500
+    },
+    {
+      "player": {
+        "displayName": "SherryCoco♪♫",
+        "steamID": 76561198158182682
+      },
+      "time": 218150
     }
   ]
 }

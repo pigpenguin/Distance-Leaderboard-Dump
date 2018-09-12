@@ -4,9 +4,11 @@
     "steamID": 76561198056050021
   },
   "displayName": "Such Great Heights",
-  "url": "",
+  "id": 687721121,
   "description": "An awesome community level",
   "fileName": "such_great_heights",
+  "upvotes": 162,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 111130

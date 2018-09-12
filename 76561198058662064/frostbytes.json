@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Frostbytes (Reloaded)",
-  "url": "",
+  "id": 1150599551,
   "description": "A pretty chill level. I think it's cool at least. Come on, don't be so cold, give it a try.\r\n\r\n\r\nReuploaded with a fix to the way too easy skip route. Hopefully the replacement will make it a better experience for all.",
   "fileName": "frostbytes",
+  "upvotes": 74,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 160630

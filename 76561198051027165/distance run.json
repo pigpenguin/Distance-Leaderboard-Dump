@@ -4,9 +4,11 @@
     "steamID": 76561198051027165
   },
   "displayName": "Distance Run",
-  "url": "",
+  "id": 643902824,
   "description": "It's like Temple Run with cars and without temples.",
   "fileName": "distance run",
+  "upvotes": 683,
+  "downvotes": 82,
   "leaderboard": [
     {
       "player": {

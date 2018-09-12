@@ -4,9 +4,11 @@
     "steamID": 76561198145290584
   },
   "displayName": "Do Not Fall",
-  "url": "",
+  "id": 463717768,
   "description": "Very first attempt at creating a level with the editor. Don't hold back with criticism; I'll need it to improve.",
   "fileName": "dont fall",
+  "upvotes": 13,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "CyclopsDragon",
+    "displayName": "[unknown]",
     "steamID": 76561198020005510
   },
   "displayName": "Panic Paroxysm",
-  "url": "",
+  "id": 530340487,
   "description": "A returning vision, arriving suddenly and fading as quickly as it came...\r\n\r\nA reasonably short sprint track with dark environments, tricky dodging and hidden pathways.\r\n\r\nThis level seems to have major framerate problems on certain kinds of graphics cards",
   "fileName": "panic paroxysm",
+  "upvotes": 619,
+  "downvotes": 139,
   "leaderboard": [
     {
       "player": {
@@ -612,7 +614,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 146150
@@ -822,7 +824,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 167230
@@ -1354,7 +1356,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 270820

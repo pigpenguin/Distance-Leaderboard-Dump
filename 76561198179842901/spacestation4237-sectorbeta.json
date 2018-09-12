@@ -4,9 +4,11 @@
     "steamID": 76561198179842901
   },
   "displayName": "Space Station 4237 - Sector Beta",
-  "url": "",
+  "id": 696498219,
   "description": "Story: \"It seems that some of the research at Space Station 4237 has gone horribly wrong, causing the whole station to take heavy damage and be sent into an unstable pocket dimension. You are the only survivor, and you are trying to survey the damage in se",
   "fileName": "spacestation4237-sectorbeta",
+  "upvotes": 68,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 149410

@@ -4,9 +4,11 @@
     "steamID": 76561198065040574
   },
   "displayName": "The Dark Ascent",
-  "url": "",
+  "id": 600638421,
   "description": "Short, but (hopefully) challenging. Wanted to experiment with moodiness and shadows, so I thought I'd make this.",
   "fileName": "the dark ascent",
+  "upvotes": 11,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {

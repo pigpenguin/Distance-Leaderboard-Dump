@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Katze Waffe",
+    "displayName": "[unknown]",
     "steamID": 76561198072916952
   },
   "displayName": "test1",
-  "url": "",
+  "id": 631560156,
   "description": "An awesome community level",
   "fileName": "test1",
+  "upvotes": 2,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "Brink",
-  "url": "",
+  "id": 1238124477,
   "description": "",
   "fileName": "brink_final",
+  "upvotes": 494,
+  "downvotes": 61,
   "leaderboard": [
     {
       "player": {
@@ -206,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 103630
@@ -906,7 +908,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 123010
@@ -1662,7 +1664,7 @@
     },
     {
       "player": {
-        "displayName": "Дядюшка Олег",
+        "displayName": "Офицер Олег",
         "steamID": 76561198165672198
       },
       "time": 152400
@@ -3769,7 +3771,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 264240
@@ -4504,7 +4506,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 362600

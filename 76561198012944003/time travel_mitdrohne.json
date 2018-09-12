@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Forcy",
+    "displayName": "[unknown]",
     "steamID": 76561198012944003
   },
   "displayName": "Time Machine",
-  "url": "",
+  "id": 360997859,
   "description": "[WARNING: outdated level, there might be a lot of problems]\r\n\r\nhttps://youtu.be/BqtE0pa8yfM\r\n(or Workshop-Page)\r\n\r\n-------\r\n\r\nDid you ever want to travel through time?        \r\n\r\nIt's dangerous but here you go!\r\n\r\n-------\r\n\r\nAlso, check out my new project:",
   "fileName": "time travel_mitdrohne",
+  "upvotes": 1792,
+  "downvotes": 266,
   "leaderboard": [
     {
       "player": {
@@ -2460,7 +2462,7 @@
     },
     {
       "player": {
-        "displayName": "K9",
+        "displayName": "< blank >",
         "steamID": 76561198066105371
       },
       "time": 493400

@@ -4,9 +4,11 @@
     "steamID": 76561198140308601
   },
   "displayName": "Virus out of blank V2",
-  "url": "",
+  "id": 657860419,
   "description": "Better version of virus out of blank, fixed many issues.\r\n\r\n\r\nStory:\r\nWhen a virus builds a city its really unstable. It could even erase space and time and you need to terminate the virus city before  it erases space and time. FAST!!! Drive away!",
   "fileName": "virus out of blank",
+  "upvotes": 11,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {
@@ -241,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 190540

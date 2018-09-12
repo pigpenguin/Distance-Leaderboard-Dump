@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "The First of Them All",
-  "url": "",
+  "id": 439275658,
   "description": "A twisty full velocity track",
   "fileName": "the first of them all",
+  "upvotes": 312,
+  "downvotes": 56,
   "leaderboard": [
     {
       "player": {
@@ -122,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 55650
@@ -395,7 +397,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 72760

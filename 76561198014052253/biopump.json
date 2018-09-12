@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "BIOPUMP",
-  "url": "",
+  "id": 557440825,
   "description": "An awesome community level",
   "fileName": "biopump",
+  "upvotes": 1006,
+  "downvotes": 178,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 107120
@@ -2289,6 +2291,13 @@
         "steamID": 76561198012407359
       },
       "time": 228100
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 228380
     },
     {
       "player": {

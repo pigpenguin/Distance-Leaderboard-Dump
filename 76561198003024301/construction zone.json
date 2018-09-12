@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Gun Safety",
+    "displayName": "[unknown]",
     "steamID": 76561198003024301
   },
   "displayName": "Construction",
-  "url": "",
+  "id": 485318467,
   "description": "Hey! You can't race here, this area is off-limits for construction. Get lost!\r\n\r\nEven if you made it through all the security checkpoints, the road is dangerous. So don't even consider it.\r\n\r\nA ~2 minute level with flight disabled. Give it a try and commen",
   "fileName": "construction zone",
+  "upvotes": 1222,
+  "downvotes": 151,
   "leaderboard": [
     {
       "player": {
@@ -1298,7 +1300,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 145060
@@ -1886,7 +1888,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 159460
@@ -3258,7 +3260,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 264580

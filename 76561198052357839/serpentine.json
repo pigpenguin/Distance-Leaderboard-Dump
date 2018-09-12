@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "NotSoAccurate",
+    "displayName": "[unknown]",
     "steamID": 76561198052357839
   },
   "displayName": "DAC #1: Serpentine",
-  "url": "",
+  "id": 550714228,
   "description": "Made for the 2015 Advent Calender (December 01)!\r\nBoost your way through a tight, sideless road with fast turns.",
   "fileName": "serpentine",
+  "upvotes": 1639,
+  "downvotes": 226,
   "leaderboard": [
     {
       "player": {
@@ -129,7 +131,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 81870
@@ -1823,7 +1825,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 140590
@@ -1855,6 +1857,13 @@
         "steamID": 76561198013266035
       },
       "time": 141240
+    },
+    {
+      "player": {
+        "displayName": "PineFreshGuy",
+        "steamID": 76561198344556686
+      },
+      "time": 141300
     },
     {
       "player": {
@@ -2922,7 +2931,7 @@
     },
     {
       "player": {
-        "displayName": "OctagonogatcO",
+        "displayName": "Otacgon",
         "steamID": 76561198054033336
       },
       "time": 183000

@@ -4,9 +4,11 @@
     "steamID": 76561198065540876
   },
   "displayName": "DAC #2: Sector 99: Snow Storm Valley",
-  "url": "",
+  "id": 1218463527,
   "description": "Merry Christmas to everyone, 23 days early! :D (Make sure to enable trick text and disable all adventure abilities)\r\nAfter the Refractor's OS crashed on Destination Unknown, it was rebooted and as warped to an unknown location instead of the Credits. Littl",
   "fileName": "snowstorm valley",
+  "upvotes": 438,
+  "downvotes": 51,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 304050
@@ -227,7 +229,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 324100
@@ -2425,7 +2427,7 @@
     },
     {
       "player": {
-        "displayName": "Bluwu",
+        "displayName": "Bluwu TWITCH",
         "steamID": 76561198058912438
       },
       "time": 443410
@@ -3426,7 +3428,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 516740
@@ -4042,7 +4044,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 639310

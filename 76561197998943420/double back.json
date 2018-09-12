@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Bonsewswesa",
+    "displayName": "[unknown]",
     "steamID": 76561197998943420
   },
   "displayName": "Double Back",
-  "url": "",
+  "id": 599965879,
   "description": "An awesome community level",
   "fileName": "double back",
+  "upvotes": 45,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 9380

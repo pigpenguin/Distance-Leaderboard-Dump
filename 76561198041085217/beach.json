@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Island Hopping",
-  "url": "",
+  "id": 592629829,
   "description": "Thanks to Elrontur for playtesting! This map had two goals in mind, no roads and no preset obstacles. This map is super casual on difficulty, it is more focused on the decoration. Enjoy and as always, all feedback is appreciated. :D",
   "fileName": "beach",
+  "upvotes": 2811,
+  "downvotes": 276,
   "leaderboard": [
     {
       "player": {
@@ -1046,7 +1048,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 68730
@@ -2145,7 +2147,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 73820
@@ -4392,7 +4394,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 86310
@@ -5043,7 +5045,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 89880
@@ -5365,7 +5367,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 91950
@@ -6384,6 +6386,13 @@
         "steamID": 76561198048068799
       },
       "time": 100660
+    },
+    {
+      "player": {
+        "displayName": "Malcom",
+        "steamID": 76561198013718629
+      },
+      "time": 100830
     },
     {
       "player": {
@@ -7906,7 +7915,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 122510
@@ -7983,7 +7992,7 @@
     },
     {
       "player": {
-        "displayName": ".f",
+        "displayName": "< blank >",
         "steamID": 76561198041496914
       },
       "time": 126620
@@ -8053,7 +8062,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 128770
@@ -8172,7 +8181,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 133830

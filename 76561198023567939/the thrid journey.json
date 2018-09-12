@@ -4,9 +4,11 @@
     "steamID": 76561198023567939
   },
   "displayName": "The 3rd Journey",
-  "url": "",
+  "id": 422826790,
   "description": "In this one are 2 or 3 difficult shortcuts. (depends on what you call a shortcut)",
   "fileName": "the thrid journey",
+  "upvotes": 1822,
+  "downvotes": 183,
   "leaderboard": [
     {
       "player": {
@@ -626,7 +628,7 @@
     },
     {
       "player": {
-        "displayName": "//PLUSHIE RETAKES JERUSALEM//",
+        "displayName": "//I AM THE TABLE//",
         "steamID": 76561197967237675
       },
       "time": 147470
@@ -1904,6 +1906,13 @@
         "steamID": 76561198119440545
       },
       "time": 161500
+    },
+    {
+      "player": {
+        "displayName": "Malcom",
+        "steamID": 76561198013718629
+      },
+      "time": 161560
     },
     {
       "player": {
@@ -3706,7 +3715,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 238450
@@ -3741,7 +3750,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 243670

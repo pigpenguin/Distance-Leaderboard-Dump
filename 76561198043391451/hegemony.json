@@ -4,9 +4,11 @@
     "steamID": 76561198043391451
   },
   "displayName": "Assimilation",
-  "url": "",
+  "id": 628294550,
   "description": "Everything seemed OK until a power surge left the city in utter darkness. That was when things took a turn for the worse. Save the city and restore peace or forever be stuck in a perpetual state of darkness and despair.",
   "fileName": "hegemony",
+  "upvotes": 1893,
+  "downvotes": 191,
   "leaderboard": [
     {
       "player": {
@@ -486,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 127340
@@ -1564,7 +1566,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 142580
@@ -3321,7 +3323,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 171450
@@ -4868,7 +4870,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 211920

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Sveltess",
+    "displayName": "[unknown]",
     "steamID": 76561198124897223
   },
   "displayName": "Svelt001_Ertos_Town",
-  "url": "",
+  "id": 606211808,
   "description": "An awesome community level",
   "fileName": "svelt001_ertos town002",
+  "upvotes": 15,
+  "downvotes": 19,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 625310

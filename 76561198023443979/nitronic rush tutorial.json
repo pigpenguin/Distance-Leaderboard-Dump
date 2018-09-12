@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Nitronic Rush Tutorial",
-  "url": "",
+  "id": 835582398,
   "description": "A remake of the original Nitronic Rush basic tutorial level! \r\n\r\nfeel free to use any custom nitronic assets (such as the PCB floor lights or ramp) in your own nitronic levels \r\n\r\nthis level was built to be as close to the original as possible, while not b",
   "fileName": "nitronic rush tutorial",
+  "upvotes": 151,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -808,7 +810,7 @@
     },
     {
       "player": {
-        "displayName": "Vazeyo",
+        "displayName": "[unknown]",
         "steamID": 76561198206999976
       },
       "time": 98760
@@ -1214,7 +1216,7 @@
     },
     {
       "player": {
-        "displayName": "LeD`s Mast3r",
+        "displayName": "[unknown]",
         "steamID": 76561197960561765
       },
       "time": 104260
@@ -1571,7 +1573,7 @@
     },
     {
       "player": {
-        "displayName": "2z",
+        "displayName": "< blank >",
         "steamID": 76561198035076530
       },
       "time": 111590
@@ -1620,7 +1622,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 112460
@@ -1746,7 +1748,7 @@
     },
     {
       "player": {
-        "displayName": "Machinae Ray",
+        "displayName": "[unknown]",
         "steamID": 76561198009055206
       },
       "time": 115110
@@ -1998,7 +2000,7 @@
     },
     {
       "player": {
-        "displayName": "Mr3and8",
+        "displayName": "[unknown]",
         "steamID": 76561198121590126
       },
       "time": 129940
@@ -2187,7 +2189,7 @@
     },
     {
       "player": {
-        "displayName": "slatkaa",
+        "displayName": "[unknown]",
         "steamID": 76561198318030951
       },
       "time": 163110
@@ -2215,14 +2217,14 @@
     },
     {
       "player": {
-        "displayName": "Wattzcat",
+        "displayName": "[unknown]",
         "steamID": 76561198280883381
       },
       "time": 188850
     },
     {
       "player": {
-        "displayName": "stoneyrocket",
+        "displayName": "[unknown]",
         "steamID": 76561197999179775
       },
       "time": 189350

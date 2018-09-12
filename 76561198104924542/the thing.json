@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Pandamonium",
+    "displayName": "[unknown]",
     "steamID": 76561198104924542
   },
   "displayName": "The Thing",
-  "url": "",
+  "id": 590871223,
   "description": "Defying Gravity",
   "fileName": "the thing",
+  "upvotes": 8,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198033370644
   },
   "displayName": "Rising Up To Hell",
-  "url": "",
+  "id": 282905405,
   "description": "First track to play around with the level editor. The track itself is finished; future updates will include more decoration and buildings.",
   "fileName": "rising up to hell",
+  "upvotes": 258,
+  "downvotes": 137,
   "leaderboard": [
     {
       "player": {
@@ -549,7 +551,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 152230
@@ -640,7 +642,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 164300

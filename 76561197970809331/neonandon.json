@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Shamus Young",
+    "displayName": "[unknown]",
     "steamID": 76561197970809331
   },
   "displayName": "Neon And On",
-  "url": "",
+  "id": 632713480,
   "description": "An experimental, exploration-based level with multiple criss-crossing routes to discover.",
   "fileName": "neonandon",
+  "upvotes": 400,
+  "downvotes": 51,
   "leaderboard": [
     {
       "player": {

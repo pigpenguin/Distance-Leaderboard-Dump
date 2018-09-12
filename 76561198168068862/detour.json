@@ -4,9 +4,11 @@
     "steamID": 76561198168068862
   },
   "displayName": "Detour",
-  "url": "",
+  "id": 975103123,
   "description": "This is my Detour level i took one day to make it have fun",
   "fileName": "detour",
+  "upvotes": 33,
+  "downvotes": 13,
   "leaderboard": [
     {
       "player": {

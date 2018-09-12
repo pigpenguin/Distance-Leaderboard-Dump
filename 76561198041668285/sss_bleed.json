@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Super Short Six, #4: Bleed",
-  "url": "",
+  "id": 1127564186,
   "description": "This track is not for the squeamish. As the title implies this is a blood themed track. And if you get sick looking at it well... I guess the track did its job.\r\n\r\n=============================================================================\r\nSuper Short S",
   "fileName": "sss_bleed",
+  "upvotes": 139,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 50000
@@ -843,7 +845,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 79400

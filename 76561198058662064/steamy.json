@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "High Pressure",
-  "url": "",
+  "id": 1150580126,
   "description": "The steam ships have begun their departure, it is only a matter of time.",
   "fileName": "steamy",
+  "upvotes": 96,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -143,7 +145,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 112100
@@ -493,7 +495,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 207330
@@ -731,7 +733,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 283380

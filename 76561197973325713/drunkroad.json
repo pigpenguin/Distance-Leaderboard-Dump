@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Ring modulator",
-  "url": "",
+  "id": 443446486,
   "description": "This level has indoor and outdoor locations, oscillating roads, a few counterintuitive transfers, and some great shortcuts, but the best ones are kept behind (dangerous) rings.. don't let the rings modulate you to pieces!",
   "fileName": "drunkroad",
+  "upvotes": 31,
+  "downvotes": 56,
   "leaderboard": [
     {
       "player": {

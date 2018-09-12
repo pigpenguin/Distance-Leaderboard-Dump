@@ -4,9 +4,11 @@
     "steamID": 76561198027365378
   },
   "displayName": "[STE2] Celebrations",
-  "url": "",
+  "id": 1490907043,
   "description": "Everyone has a reason to celebrate, Whats yours?\n\nAn easy track, decorated with objects you would find at various yearly celebrations.",
   "fileName": "ste2 celebrations",
+  "upvotes": 39,
+  "downvotes": 11,
   "leaderboard": [
     {
       "player": {
@@ -367,7 +369,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 91820

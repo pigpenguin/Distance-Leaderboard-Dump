@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Maze",
-  "url": "",
+  "id": 1433882771,
   "description": "It's the worst map i've made yet! :D",
   "fileName": "maze",
+  "upvotes": 8,
+  "downvotes": 2,
   "leaderboard": [
     {
       "player": {

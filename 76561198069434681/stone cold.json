@@ -4,9 +4,11 @@
     "steamID": 76561198069434681
   },
   "displayName": "Stone Cold",
-  "url": "",
+  "id": 1122285810,
   "description": "Crystals are formations with geometric structures. \r\n\r\nThis level is not complete yet, but I'm uploading it so PlasmaWario doesn't get the green crystal glory\r\n\r\nEvery crystal has its own color. Each... and every... single... one...",
   "fileName": "stone cold",
+  "upvotes": 39,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {
@@ -290,7 +292,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 165460
@@ -325,7 +327,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 178760

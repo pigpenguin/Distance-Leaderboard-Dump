@@ -4,9 +4,11 @@
     "steamID": 76561198001024559
   },
   "displayName": "Escape from Bubblegrunge City",
-  "url": "",
+  "id": 737303549,
   "description": "My first track, made with a mixture of trackmogrify and a little hard work. I'm still learning this, so having trackmogrify as a starter basis really helps.\r\n\r\nThis is a very casual track, minus a few lasers and blockers- and a fairly nasty trick in the be",
   "fileName": "bubblegum breaker",
+  "upvotes": 205,
+  "downvotes": 56,
   "leaderboard": [
     {
       "player": {
@@ -745,7 +747,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 423910

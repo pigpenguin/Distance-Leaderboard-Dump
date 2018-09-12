@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Virtual Reality?",
-  "url": "",
+  "id": 1090352935,
   "description": "Wow technology is really advancing fast! With great examples like the pocket  TV, the walkman, the cell phone, digital synthesizers, computers, and the greatest of all, The Power Glove! Who knows what is next over the horizon.\r\n\r\nThis track is Super Simple",
   "fileName": "virtual reality",
+  "upvotes": 770,
+  "downvotes": 67,
   "leaderboard": [
     {
       "player": {
@@ -1494,7 +1496,7 @@
     },
     {
       "player": {
-        "displayName": "At",
+        "displayName": "< blank >",
         "steamID": 76561198101526824
       },
       "time": 134570
@@ -1732,7 +1734,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 135080
@@ -3783,7 +3785,7 @@
     },
     {
       "player": {
-        "displayName": "Seismic Seymour",
+        "displayName": "Woomy 'n Womb",
         "steamID": 76561198073415383
       },
       "time": 154430
@@ -4245,14 +4247,14 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 160540
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 160550
@@ -5981,7 +5983,7 @@
     },
     {
       "player": {
-        "displayName": "--",
+        "displayName": "< blank >",
         "steamID": 76561198055998730
       },
       "time": 199920

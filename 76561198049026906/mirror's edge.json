@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Entirity",
+    "displayName": "[unknown]",
     "steamID": 76561198049026906
   },
   "displayName": "DAC Extra: Runner Vision",
-  "url": "",
+  "id": 361745387,
   "description": "A Sprint track inspired by Mirror's Edge. Your runner vision highlights important objects red. follow your runner vision to reach the end. The true \"carkour\" track. \r\n---\r\nNEVER\r\n",
   "fileName": "mirror's edge",
+  "upvotes": 440,
+  "downvotes": 135,
   "leaderboard": [
     {
       "player": {
@@ -31,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 105660
@@ -801,7 +803,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 162840

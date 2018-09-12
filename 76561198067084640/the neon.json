@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "The Amber Sprawl",
-  "url": "",
+  "id": 1273845239,
   "description": "The Amber Sprawl- an aging city set high above a desert planet. Full of flickering lights, aged subsystems, and a decaying population, the Sprawl is dying. The last departure ship is leaving, and its too late to get to the space port where it once was. But",
   "fileName": "the neon",
+  "upvotes": 35,
+  "downvotes": 22,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 169200

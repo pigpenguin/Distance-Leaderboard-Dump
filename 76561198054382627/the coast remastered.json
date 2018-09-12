@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "[BUMP #2]The Coast Remastered",
-  "url": "",
+  "id": 1408905671,
   "description": "Ride along The Coast with the beautiful sky to your side. Take each turn as tight as possible to save time and pass fellow drivers.",
   "fileName": "the coast remastered",
+  "upvotes": 265,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -1585,7 +1587,7 @@
     },
     {
       "player": {
-        "displayName": "Pickarix",
+        "displayName": "[unknown]",
         "steamID": 76561198156017365
       },
       "time": 95990
@@ -3083,7 +3085,7 @@
     },
     {
       "player": {
-        "displayName": "trondo10",
+        "displayName": "[unknown]",
         "steamID": 76561198354237334
       },
       "time": 153600

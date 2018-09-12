@@ -4,9 +4,11 @@
     "steamID": 76561198064267450
   },
   "displayName": "Science",
-  "url": "",
+  "id": 437371139,
   "description": "Look at me still talking while there's science to do!",
   "fileName": "portal",
+  "upvotes": 1161,
+  "downvotes": 250,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 111770
@@ -1893,7 +1895,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 165950
@@ -2306,7 +2308,7 @@
     },
     {
       "player": {
-        "displayName": "Wolf | Gamdom.com",
+        "displayName": "Vagabond",
         "steamID": 76561198186662870
       },
       "time": 179010

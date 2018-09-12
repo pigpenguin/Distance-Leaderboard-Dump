@@ -4,9 +4,11 @@
     "steamID": 76561198050024594
   },
   "displayName": "Thorn Apart",
-  "url": "",
+  "id": 1394544957,
   "description": "An esay level with  L A S E R S\n\n\n\nSidenote : Toasters can run this level .",
   "fileName": "thorn apart",
+  "upvotes": 162,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {
@@ -31,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 106360

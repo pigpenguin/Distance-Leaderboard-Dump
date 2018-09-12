@@ -4,10 +4,19 @@
     "steamID": 76561198113058579
   },
   "displayName": "Amethyst Rush",
-  "url": "",
+  "id": 662889537,
   "description": "Hello all! This is a reupload of Amethyst Rush I messed up last time and it got deleted from the workshop. So, once again, please comment any questions, concerns, and changes I should make. Thank you, I hope you Enjoy!",
   "fileName": "amethyst rush",
+  "upvotes": 28,
+  "downvotes": 24,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 68040
+    },
     {
       "player": {
         "displayName": "IllKIllU",
@@ -45,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 195630

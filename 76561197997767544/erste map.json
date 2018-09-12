@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "ArteezyCosplay",
+    "displayName": "[unknown]",
     "steamID": 76561197997767544
   },
   "displayName": "Test 1",
-  "url": "",
+  "id": 406845008,
   "description": "An awesome community level",
   "fileName": "erste map",
+  "upvotes": 19,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {

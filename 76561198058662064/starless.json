@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Starless",
-  "url": "",
+  "id": 1178067426,
   "description": "Can I wish on an airplane then?",
   "fileName": "starless",
+  "upvotes": 157,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -122,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 134380
@@ -668,7 +670,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 159540
@@ -703,7 +705,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 161050
@@ -717,7 +719,7 @@
     },
     {
       "player": {
-        "displayName": "LittlemanSMG",
+        "displayName": "[unknown]",
         "steamID": 76561198087604225
       },
       "time": 161170
@@ -1319,7 +1321,7 @@
     },
     {
       "player": {
-        "displayName": "Buffalo Custard Bath",
+        "displayName": "[unknown]",
         "steamID": 76561198112528138
       },
       "time": 200330
@@ -1480,7 +1482,7 @@
     },
     {
       "player": {
-        "displayName": "NL egg smell",
+        "displayName": "Uraraka Ochako",
         "steamID": 76561198110568856
       },
       "time": 231140

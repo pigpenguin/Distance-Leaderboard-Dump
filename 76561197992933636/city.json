@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "DaviDeMo",
+    "displayName": "[unknown]",
     "steamID": 76561197992933636
   },
   "displayName": "Escape from Empire",
-  "url": "",
+  "id": 465459892,
   "description": "An awesome community level",
   "fileName": "city",
+  "upvotes": 28,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {

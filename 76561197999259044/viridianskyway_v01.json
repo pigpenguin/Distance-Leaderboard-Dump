@@ -4,9 +4,11 @@
     "steamID": 76561197999259044
   },
   "displayName": "Veridian Skyway",
-  "url": "",
+  "id": 842743434,
   "description": "A simple course set within an overly green universe. Take to the skyway and ride over the city.",
   "fileName": "viridianskyway_v01",
+  "upvotes": 262,
+  "downvotes": 32,
   "leaderboard": [
     {
       "player": {
@@ -367,7 +369,7 @@
     },
     {
       "player": {
-        "displayName": "//PLUSHIE RETAKES JERUSALEM//",
+        "displayName": "//I AM THE TABLE//",
         "steamID": 76561197967237675
       },
       "time": 196110
@@ -395,7 +397,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 196360
@@ -913,7 +915,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 210760
@@ -1151,7 +1153,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 214490
@@ -2866,7 +2868,7 @@
     },
     {
       "player": {
-        "displayName": "Ox",
+        "displayName": "< blank >",
         "steamID": 76561197986808149
       },
       "time": 259250
@@ -3258,7 +3260,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 285590

@@ -4,9 +4,11 @@
     "steamID": 76561198001043815
   },
   "displayName": "Increase",
-  "url": "",
+  "id": 1466815378,
   "description": "Starts easy, gaining speed few obstacles. Then the diffculty slowly starts to ramp up. Making situations tighter and tougher. Then slowly lowering difficulty into a smooth sailing. \n\nFirst level I made. Hope it doesn't suck to bad.",
   "fileName": "transition",
+  "upvotes": 8,
+  "downvotes": 5,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Upsidedown Skiing(WIP)",
-  "url": "",
+  "id": 620267556,
   "description": "Been In progress for a while now... Disable Self righting in the controls menu for best results.",
   "fileName": "skiing",
+  "upvotes": 40,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {

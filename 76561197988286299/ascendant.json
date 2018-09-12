@@ -4,9 +4,11 @@
     "steamID": 76561197988286299
   },
   "displayName": "Ascendant",
-  "url": "",
+  "id": 1239724003,
   "description": "My maiden voyage unto the world of the level editor. Relatively straightforward sprint map.",
   "fileName": "ascendant",
+  "upvotes": 106,
+  "downvotes": 27,
   "leaderboard": [
     {
       "player": {
@@ -374,7 +376,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 97690
@@ -395,7 +397,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 98770

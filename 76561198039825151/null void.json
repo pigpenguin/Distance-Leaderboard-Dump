@@ -4,9 +4,11 @@
     "steamID": 76561198039825151
   },
   "displayName": "Null Void",
-  "url": "",
+  "id": 418825019,
   "description": "Something around Nothing\r\n\r\nFixed the terrible look of the map that happened after a certain patch.",
   "fileName": "null void",
+  "upvotes": 1243,
+  "downvotes": 353,
   "leaderboard": [
     {
       "player": {
@@ -598,14 +600,14 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 196810
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 197730
@@ -619,7 +621,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 198900
@@ -934,7 +936,7 @@
     },
     {
       "player": {
-        "displayName": "Nero",
+        "displayName": "Nero CS.MONEY",
         "steamID": 76561198156872796
       },
       "time": 223400
@@ -1004,7 +1006,7 @@
     },
     {
       "player": {
-        "displayName": "SSAFp",
+        "displayName": "[unknown]",
         "steamID": 76561198041432782
       },
       "time": 228660
@@ -1522,7 +1524,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 285190
@@ -1893,7 +1895,7 @@
     },
     {
       "player": {
-        "displayName": "BophaFett",
+        "displayName": "[unknown]",
         "steamID": 76561198145883018
       },
       "time": 367070

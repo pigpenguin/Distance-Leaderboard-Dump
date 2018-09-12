@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Red Sorta Terrifying World",
-  "url": "",
+  "id": 880270412,
   "description": "This level was fueled by the PAX 2016 live stream that Refract Studios had. After drawing inspiration from the New Departure level, and a meme that was born from the stream, this level came to be!",
   "fileName": "red sorta terrifying world",
+  "upvotes": 853,
+  "downvotes": 51,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 108290
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 110330
@@ -2691,7 +2693,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 129730
@@ -2819,6 +2821,13 @@
       "player": {
         "displayName": "Holdwick",
         "steamID": 76561198027821962
+      },
+      "time": 129810
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
       },
       "time": 129810
     },
@@ -3335,7 +3344,7 @@
     },
     {
       "player": {
-        "displayName": "SteelDrake",
+        "displayName": "TRESH",
         "steamID": 76561197986362857
       },
       "time": 130270
@@ -4483,7 +4492,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 131900
@@ -4889,7 +4898,7 @@
     },
     {
       "player": {
-        "displayName": "kbot",
+        "displayName": "battleroyalefan4k69",
         "steamID": 76561198046351575
       },
       "time": 133200
@@ -5449,7 +5458,7 @@
     },
     {
       "player": {
-        "displayName": "RH",
+        "displayName": "< blank >",
         "steamID": 76561198179254646
       },
       "time": 135540
@@ -6387,7 +6396,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 140020
@@ -7262,7 +7271,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 145830
@@ -8165,7 +8174,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 155930

@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "Yellow city V 1.0",
-  "url": "",
+  "id": 436416400,
   "description": "k.",
   "fileName": "yellow city",
+  "upvotes": 1526,
+  "downvotes": 170,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 62530
@@ -507,7 +509,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 63860
@@ -2019,7 +2021,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 87010
@@ -2047,7 +2049,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 87440
@@ -3132,7 +3134,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 124090

@@ -4,9 +4,11 @@
     "steamID": 76561198029557889
   },
   "displayName": "Deserted",
-  "url": "",
+  "id": 468467862,
   "description": "This is my first map I've created in Distance so excuse me if it's a little bland and there's a few errors but I think I did well for my first attempt!",
   "fileName": "deserted",
+  "upvotes": 341,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 171120

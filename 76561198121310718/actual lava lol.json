@@ -4,9 +4,11 @@
     "steamID": 76561198121310718
   },
   "displayName": "lava realm attempt 2 xD",
-  "url": "",
+  "id": 964549713,
   "description": "An awesome community level",
   "fileName": "actual lava lol",
+  "upvotes": 261,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {
@@ -2467,7 +2469,7 @@
     },
     {
       "player": {
-        "displayName": "Hosh Posh",
+        "displayName": "Hosh Posh cs.money",
         "steamID": 76561198191880189
       },
       "time": 651560

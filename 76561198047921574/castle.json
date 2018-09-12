@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Ruin Running",
-  "url": "",
+  "id": 1272549879,
   "description": "Short and simple, a nice drive through some old ruins.\n\nThis level is a sort of proof-of-concept for me. The results are promising, and pretty. Expect greater things in the future.\nGreater object count than you could imagine...\n\nAs usual, thank you Discord",
   "fileName": "castle",
+  "upvotes": 389,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -129,7 +131,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 108220
@@ -997,7 +999,7 @@
     },
     {
       "player": {
-        "displayName": "Empty Slot",
+        "displayName": "Empty_Slot",
         "steamID": 76561198043497063
       },
       "time": 132990
@@ -1263,7 +1265,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 137760
@@ -2152,6 +2154,13 @@
     },
     {
       "player": {
+        "displayName": "Turret 49",
+        "steamID": 76561197976303459
+      },
+      "time": 154750
+    },
+    {
+      "player": {
         "displayName": "NLNemesis",
         "steamID": 76561198192753481
       },
@@ -2408,6 +2417,13 @@
         "steamID": 76561198331148378
       },
       "time": 160910
+    },
+    {
+      "player": {
+        "displayName": "Gmanextreme",
+        "steamID": 76561198106158108
+      },
+      "time": 160920
     },
     {
       "player": {
@@ -3342,7 +3358,7 @@
     },
     {
       "player": {
-        "displayName": "Fecker",
+        "displayName": "You Fecker",
         "steamID": 76561198284810084
       },
       "time": 187720

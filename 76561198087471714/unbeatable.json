@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Bobo",
+    "displayName": "[unknown]",
     "steamID": 76561198087471714
   },
   "displayName": "Unbeatable",
-  "url": "",
+  "id": 587674949,
   "description": "An awesome community level",
   "fileName": "unbeatable",
+  "upvotes": 18,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {

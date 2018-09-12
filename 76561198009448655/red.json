@@ -4,9 +4,11 @@
     "steamID": 76561198009448655
   },
   "displayName": "Red",
-  "url": "",
+  "id": 447900318,
   "description": "Paint the town red.",
   "fileName": "red",
+  "upvotes": 3226,
+  "downvotes": 289,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 115230
@@ -1844,7 +1846,7 @@
     },
     {
       "player": {
-        "displayName": "Sentry, the Lightbringer",
+        "displayName": "Sentry",
         "steamID": 76561198167310916
       },
       "time": 117790
@@ -3608,7 +3610,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 132430
@@ -4336,7 +4338,7 @@
     },
     {
       "player": {
-        "displayName": "McCain Homechips",
+        "displayName": "Akunda",
         "steamID": 76561198021405140
       },
       "time": 143310
@@ -5183,7 +5185,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 156880
@@ -6121,7 +6123,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 180720
@@ -6541,7 +6543,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 199280
@@ -7318,7 +7320,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 252690
@@ -7808,7 +7810,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 386800

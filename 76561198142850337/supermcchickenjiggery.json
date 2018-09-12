@@ -4,9 +4,11 @@
     "steamID": 76561198142850337
   },
   "displayName": "Test",
-  "url": "",
+  "id": 905814910,
   "description": "An awesome community level",
   "fileName": "supermcchickenjiggery",
+  "upvotes": 0,
+  "downvotes": 4,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198066095508
   },
   "displayName": "Trackmogrify_UltraMarathonSevenTurnsEclipse",
-  "url": "",
+  "id": 550855164,
   "description": "a rather long track i found while doing various forms of \"STE\" in the track morgify. theres 3 different versions to choose from this is the first, and my favorite. ive changed the fog and the background to reduce any eye strain and so that you can take in ",
   "fileName": "trackmogrify_ultramarathonseventurnseclipse",
+  "upvotes": 105,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 246050

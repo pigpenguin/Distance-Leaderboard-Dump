@@ -4,9 +4,11 @@
     "steamID": 76561198067258571
   },
   "displayName": "Dormant Cluster",
-  "url": "",
+  "id": 1256449581,
   "description": "04.15.2814 WARNING: Ion storm detected\n04.15.2814 ERROR: Critical systems failure\n04.15.2814 ERROR: Repair hatch inoperable\n04.18.2814 Diverting res.pow to life support\n06.12.2819 Diverting AI.pow to life support\n\nContributors: VirtualSol & Kantei\n",
   "fileName": "dormant cluster",
+  "upvotes": 90,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -206,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 107210

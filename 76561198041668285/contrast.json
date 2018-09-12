@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Contrast",
-  "url": "",
+  "id": 873881908,
   "description": "If Neon City's blinding colors and lights are getting on your nerves, or worse, it might be time to move to its polar opposite, Achromic City. The entire city is in black and white, allowing those who overdosed on color a well needed recovery zone.\r\n\r\nThis",
   "fileName": "contrast",
+  "upvotes": 331,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -3503,7 +3505,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 159060

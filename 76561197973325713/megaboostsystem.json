@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Megaboost system",
-  "url": "",
+  "id": 1416560247,
   "description": "50 easy to copy pads on a simple map, for creators who want to use the mega boost system, is also a sprint.\r\n\r\npad info:\r\ncombo fill cooldown - 4 seconds per pad\r\ncombo fill rate - 25% per pad\r\n\r\ncombo depletion rate - 12.5% per second\r\npads trigger megabo",
   "fileName": "megaboostsystem",
+  "upvotes": 17,
+  "downvotes": 3,
   "leaderboard": [
     {
       "player": {

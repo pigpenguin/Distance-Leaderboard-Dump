@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Quantity",
-  "url": "",
+  "id": 655233048,
   "description": "A multiplayer* puzzle that upgrades shortcuts to a track when players cooperate, every new stage in the modify lane will increase the skip distance accessible to groups \"solving\" it, self destruct to spawn at the route acces device if the puzzle traps you.",
   "fileName": "qmaze",
+  "upvotes": 73,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {

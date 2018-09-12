@@ -4,9 +4,11 @@
     "steamID": 76561198035133380
   },
   "displayName": "If at First you don't Succeed...",
-  "url": "",
+  "id": 1148452714,
   "description": "This level gets easier as you play.  It's nearly impossible to beat on the first attempt, but anyone should be able to beat it after dying four times.\r\n\r\n[b]EDIT:[/b] Herp Derp, forgot to remove collision on the killgrid/GS combo.  Fixed now, and the cours",
   "fileName": "ifatfirst",
+  "upvotes": 59,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {
@@ -759,7 +761,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 108960
@@ -801,7 +803,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 119890
@@ -871,7 +873,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 195730

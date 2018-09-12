@@ -4,9 +4,11 @@
     "steamID": 76561198090483226
   },
   "displayName": "Level One",
-  "url": "",
+  "id": 883316091,
   "description": "My first level for Distance. It's still in progress, I want to smoothen some things and close the level up more so you can't see other portions of the track. Feedback is always appreciated, so please leave a comment!\r\n\r\n",
   "fileName": "firstlevel",
+  "upvotes": 24,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {

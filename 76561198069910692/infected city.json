@@ -4,9 +4,11 @@
     "steamID": 76561198069910692
   },
   "displayName": "Shard (old)",
-  "url": "",
+  "id": 674815592,
   "description": "edit: I remade this course with much better visuals and an improved track design. I recomend playing that one instead:\r\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=768687880\r\n\r\nWow this level took too long to make. I'm pretty happy with how it tu",
   "fileName": "infected city",
+  "upvotes": 386,
+  "downvotes": 58,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 138570

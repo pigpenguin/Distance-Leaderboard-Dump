@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Enai Siaion",
+    "displayName": "[unknown]",
     "steamID": 76561198036902506
   },
   "displayName": "Candles of Hekate",
-  "url": "",
+  "id": 504676792,
   "description": "[i]Mar 24, 2043: Perhaps building the track on top of that old druid sanctuary was a bad idea after all. Evacuation is complete, but the streamers demand a race and threaten to downvote. There is no time to fix the track, so let's hope and pray no one has ",
   "fileName": "candlesofhekate",
+  "upvotes": 984,
+  "downvotes": 303,
   "leaderboard": [
     {
       "player": {
@@ -892,6 +894,13 @@
     },
     {
       "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 182970
+    },
+    {
+      "player": {
         "displayName": "Plasmawario",
         "steamID": 76561198023443979
       },
@@ -927,7 +936,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 189840
@@ -1907,7 +1916,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 297330

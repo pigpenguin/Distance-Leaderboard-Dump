@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "DAC #23: [BFMP #5] A001",
-  "url": "",
+  "id": 1240851319,
   "description": "Our Scanner Layers are silent tonight.\r\n...\r\n\r\n\r\nThough pilot,\r\n\tWould you take a look inside the first 'Pilox Layer Conductor' of our Scanner.\r\nIt seems to be having trouble updating like the others. We'll place you in with a form that you'll most likely ",
   "fileName": "a001",
+  "upvotes": 101,
+  "downvotes": 77,
   "leaderboard": [
     {
       "player": {
@@ -255,6 +257,13 @@
     },
     {
       "player": {
+        "displayName": "blue42u",
+        "steamID": 76561198128622930
+      },
+      "time": 228200
+    },
+    {
+      "player": {
         "displayName": "★yote★",
         "steamID": 76561198024428920
       },
@@ -290,7 +299,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 239850
@@ -458,13 +467,6 @@
     },
     {
       "player": {
-        "displayName": "blue42u",
-        "steamID": 76561198128622930
-      },
-      "time": 293230
-    },
-    {
-      "player": {
         "displayName": "soyatu",
         "steamID": 76561198040771422
       },
@@ -486,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 297450
@@ -1025,7 +1027,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 465180

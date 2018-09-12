@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Guizmodo",
+    "displayName": "[unknown]",
     "steamID": 76561198113782474
   },
   "displayName": "Morning Competition",
-  "url": "",
+  "id": 409491643,
   "description": "In this city, the competition is in the morning just in front of many obstacles including drones and lasers.\r\nDifficulty : Normal \r\nGame mode : Sprint - Speed And Style\r\nBoost : Infinite \r\nJump : Yes\r\nFly : No\r\nRotate : Yes\r\n\r\nUPDATE 2 : Invisible walls re",
   "fileName": "morning competition",
+  "upvotes": 1803,
+  "downvotes": 321,
   "leaderboard": [
     {
       "player": {
@@ -1060,7 +1062,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 91410
@@ -1466,7 +1468,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 97540
@@ -1718,7 +1720,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 103060
@@ -2712,7 +2714,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 122900

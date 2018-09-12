@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Otto",
+    "displayName": "[unknown]",
     "steamID": 76561198047429267
   },
   "displayName": "Capital Empires",
-  "url": "",
+  "id": 442664406,
   "description": "My first map. Ride through the Capitals of two hostile Empires. Pleas Rate and Comment so I can see weather it's bad or good. :P Have Fun",
   "fileName": "capitalempires",
+  "upvotes": 185,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {

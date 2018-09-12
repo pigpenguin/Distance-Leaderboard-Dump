@@ -4,9 +4,11 @@
     "steamID": 76561198055309255
   },
   "displayName": "Bluetion",
-  "url": "",
+  "id": 542072199,
   "description": "Laser cannon!",
   "fileName": "bluetion",
+  "upvotes": 336,
+  "downvotes": 86,
   "leaderboard": [
     {
       "player": {
@@ -836,7 +838,7 @@
     },
     {
       "player": {
-        "displayName": "Chaika",
+        "displayName": "[unknown]",
         "steamID": 76561198070758591
       },
       "time": 337660

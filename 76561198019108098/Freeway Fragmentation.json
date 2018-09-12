@@ -4,9 +4,11 @@
     "steamID": 76561198019108098
   },
   "displayName": "Freeway Fragmentation",
-  "url": "",
+  "id": 528707786,
   "description": "I was working on this through the experimental build (silly me). But finally a stable build released so I could put this up, enjoy!",
   "fileName": "Freeway Fragmentation",
+  "upvotes": 626,
+  "downvotes": 91,
   "leaderboard": [
     {
       "player": {
@@ -1032,7 +1034,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 584260

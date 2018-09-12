@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Minute of Ascension",
-  "url": "",
+  "id": 444859097,
   "description": "Everyone wants to be pure, right? \r\n\r\n\"Well you've only got a minute to prove yourself s0n\" - God",
   "fileName": "purity",
+  "upvotes": 303,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 55170
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 71210
@@ -563,7 +565,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 127710

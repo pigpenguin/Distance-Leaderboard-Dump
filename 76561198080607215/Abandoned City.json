@@ -4,9 +4,11 @@
     "steamID": 76561198080607215
   },
   "displayName": "Abandoned City",
-  "url": "",
+  "id": 612666741,
   "description": "Abandoned City - Map #1\r\n\r\nOld and dangerous city awaits new victims...",
   "fileName": "Abandoned City",
+  "upvotes": 1328,
+  "downvotes": 133,
   "leaderboard": [
     {
       "player": {
@@ -24,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 152010
@@ -591,7 +593,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 158880
@@ -980,6 +982,13 @@
         "steamID": 76561197970765040
       },
       "time": 166360
+    },
+    {
+      "player": {
+        "displayName": "[TAG]Torofad",
+        "steamID": 76561198025659777
+      },
+      "time": 166490
     },
     {
       "player": {
@@ -2068,7 +2077,7 @@
     },
     {
       "player": {
-        "displayName": "jayoku",
+        "displayName": "Jayoku Houtenjin!",
         "steamID": 76561198060363705
       },
       "time": 192120
@@ -3223,7 +3232,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 235690
@@ -3902,7 +3911,7 @@
     },
     {
       "player": {
-        "displayName": "LB",
+        "displayName": "< blank >",
         "steamID": 76561198167454566
       },
       "time": 309490

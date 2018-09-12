@@ -4,9 +4,11 @@
     "steamID": 76561197994102448
   },
   "displayName": "DAC #11: Hypercubes",
-  "url": "",
+  "id": 573082650,
   "description": "A long time in the making. Its finally time to re-enter the realm of plenty cubes!",
   "fileName": "hypercubes",
+  "upvotes": 581,
+  "downvotes": 322,
   "leaderboard": [
     {
       "player": {
@@ -402,7 +404,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 207250
@@ -864,7 +866,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 366430

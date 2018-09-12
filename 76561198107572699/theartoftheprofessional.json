@@ -4,9 +4,11 @@
     "steamID": 76561198107572699
   },
   "displayName": "The Art of the Professional",
-  "url": "",
+  "id": 946437935,
   "description": "The final stage of training for new pilots.",
   "fileName": "theartoftheprofessional",
+  "upvotes": 45,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {

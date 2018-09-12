@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Kōchich",
+    "displayName": "[unknown]",
     "steamID": 76561198036934584
   },
   "displayName": "Antimatter factory",
-  "url": "",
+  "id": 488570957,
   "description": "First of all, Big thanks to the developers for letting the game come with this awesome editor! If only TrackMania had this.\r\n\r\nAnyway, this started as a 'small' test of what the level editor can do,aaand has eventually turned into what I believe is quite d",
   "fileName": "antimatter",
+  "upvotes": 294,
+  "downvotes": 115,
   "leaderboard": [
     {
       "player": {
@@ -213,7 +215,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 174780

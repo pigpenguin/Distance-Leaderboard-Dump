@@ -4,9 +4,11 @@
     "steamID": 76561198373558412
   },
   "displayName": "cliffside realm",
-  "url": "",
+  "id": 1219590940,
   "description": "An awesome community level",
   "fileName": "s realm",
+  "upvotes": 125,
+  "downvotes": 23,
   "leaderboard": [
     {
       "player": {
@@ -731,7 +733,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 349980

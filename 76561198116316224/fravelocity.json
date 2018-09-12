@@ -4,9 +4,11 @@
     "steamID": 76561198116316224
   },
   "displayName": "fravelocity",
-  "url": "",
+  "id": 761013587,
   "description": "visit the fravelous city at tremendous velocity.",
   "fileName": "fravelocity",
+  "upvotes": 549,
+  "downvotes": 65,
   "leaderboard": [
     {
       "player": {
@@ -2747,7 +2749,7 @@
     },
     {
       "player": {
-        "displayName": "v9",
+        "displayName": "< blank >",
         "steamID": 76561198201510858
       },
       "time": 292780

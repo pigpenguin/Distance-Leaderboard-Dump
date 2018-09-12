@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Dominique Grieshofer",
+    "displayName": "[unknown]",
     "steamID": 76561198145599629
   },
   "displayName": "Sea",
-  "url": "",
+  "id": 355389584,
   "description": "Sea is about flow and actual driving featuring interesting bumps, jumps, curves and verticality. You will need smooth handling and precision to rank among the best. Are you ready?",
   "fileName": "sea",
+  "upvotes": 1443,
+  "downvotes": 174,
   "leaderboard": [
     {
       "player": {
@@ -129,7 +131,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 69350
@@ -2327,7 +2329,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 88650
@@ -3636,7 +3638,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 120960

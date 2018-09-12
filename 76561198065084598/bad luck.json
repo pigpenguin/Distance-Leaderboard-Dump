@@ -4,10 +4,19 @@
     "steamID": 76561198065084598
   },
   "displayName": "Bad Luck",
-  "url": "",
+  "id": 673010454,
   "description": "An awesome community level",
   "fileName": "bad luck",
+  "upvotes": 33,
+  "downvotes": 22,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 30140
+    },
     {
       "player": {
         "displayName": "Danny Burke",

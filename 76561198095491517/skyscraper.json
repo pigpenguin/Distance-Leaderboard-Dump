@@ -4,9 +4,11 @@
     "steamID": 76561198095491517
   },
   "displayName": "Empire Dive",
-  "url": "",
+  "id": 1098599734,
   "description": "My second level thusfar, so I figured I'd try something different from the first. Still another high speed race with smooth transitions, but this time I've focused on trying to maintain speed whilst traveling downwards. I present to you - Empire Dive. Main",
   "fileName": "skyscraper",
+  "upvotes": 337,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -451,7 +453,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 157460
@@ -1242,7 +1244,7 @@
     },
     {
       "player": {
-        "displayName": "pnus",
+        "displayName": "negus",
         "steamID": 76561198043862737
       },
       "time": 213350
@@ -1277,7 +1279,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 214160
@@ -1431,7 +1433,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 218480
@@ -1970,7 +1972,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 239730
@@ -2110,7 +2112,7 @@
     },
     {
       "player": {
-        "displayName": "NyattaFaux",
+        "displayName": "Nyatta",
         "steamID": 76561198009347262
       },
       "time": 245510
@@ -3188,7 +3190,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 388020

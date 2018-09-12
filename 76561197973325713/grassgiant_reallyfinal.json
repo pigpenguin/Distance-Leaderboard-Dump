@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "DAC #10: GrassGiant",
-  "url": "",
+  "id": 1226186679,
   "description": "Activate the 3 mysterious beacons to find the endzone, recommended to play without realtime reflections.",
   "fileName": "grassgiant_reallyfinal",
+  "upvotes": 172,
+  "downvotes": 48,
   "leaderboard": [
     {
       "player": {
@@ -381,7 +383,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 250760

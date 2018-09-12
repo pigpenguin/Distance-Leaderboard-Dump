@@ -4,9 +4,11 @@
     "steamID": 76561198029686232
   },
   "displayName": "Backdoor [Biodome Update!]",
-  "url": "",
+  "id": 571358400,
   "description": "Reach the depths of the city by taking the short route straight down.\r\n\r\nThis is an updated version, using the new Biodome objects. I felt that the old one should be left up, for a comparison of old and new tools. A few parts were tweaked, generally making",
   "fileName": "backdoor [bio]",
+  "upvotes": 782,
+  "downvotes": 79,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 83260
@@ -2698,7 +2700,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 99610

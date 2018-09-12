@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "DAC 7: Trial of the Frost Drake",
-  "url": "",
+  "id": 1223956089,
   "description": "Had a lot of fun making this map, animating the drake took forever, but I'm happy with how it turned out. Hope you all enjoy it!",
   "fileName": "dragonon",
+  "upvotes": 294,
+  "downvotes": 61,
   "leaderboard": [
     {
       "player": {
@@ -304,14 +306,14 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 360420
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 360480
@@ -2110,7 +2112,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 496370
@@ -2243,7 +2245,7 @@
     },
     {
       "player": {
-        "displayName": "Sir Borflord Von Borfington",
+        "displayName": "The Crawler",
         "steamID": 76561198112485265
       },
       "time": 516870
@@ -2264,7 +2266,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 520800

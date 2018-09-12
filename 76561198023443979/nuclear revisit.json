@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Nuclear Revisit",
-  "url": "",
+  "id": 819555229,
   "description": "Sort of a remaster of the original Nuclear level using the new fog, particles, and biodome (which aren't THAT new but the original nuclear level was out before any of these were added so yeah ¯\\_(ツ)_/¯ )",
   "fileName": "nuclear revisit",
+  "upvotes": 70,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -892,7 +894,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 138860

@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "Thrive",
-  "url": "",
+  "id": 528897180,
   "description": "Check out my latest map, Refuge!\r\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=532448385\r\n\r\nThe thriving heart of the Alliance.\r\n\r\nThrive features smooth, challenging gameplay, and awesome light shows synced to the music!",
   "fileName": "thrivefinal",
+  "upvotes": 961,
+  "downvotes": 113,
   "leaderboard": [
     {
       "player": {
@@ -66,7 +68,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 106330
@@ -318,7 +320,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 112840
@@ -1718,7 +1720,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 155530
@@ -2131,7 +2133,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 183150

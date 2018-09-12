@@ -4,9 +4,11 @@
     "steamID": 76561198054792683
   },
   "displayName": "Reaction",
-  "url": "",
+  "id": 660116469,
   "description": "Ok, so I actually made this one a while ago. It was originally supposed to be the second of a three-part series, but now, I think I'll just condense that series into a single track later on. Of course, it would be a shame to just leave this completely fini",
   "fileName": "reaction",
+  "upvotes": 415,
+  "downvotes": 45,
   "leaderboard": [
     {
       "player": {
@@ -59,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 102820

@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Zer0 bin0pse - Hapax",
-  "url": "",
+  "id": 600103481,
   "description": "[b]The ID method of audio events has changed, meaning this map is now completely silent... i'll probably attempt a fix one day, demo on youtube: [/b] https://www.youtube.com/watch?v=Zj9deR5-MLs\r\n\r\nEveryone knows you can't share custom music in workshop map",
   "fileName": "zero bin0pse - hapax2",
+  "upvotes": 272,
+  "downvotes": 162,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "depfryer",
+        "displayName": "[unknown]",
         "steamID": 76561198069364849
       },
       "time": 61160
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "Lowjames22",
+        "displayName": "[unknown]",
         "steamID": 76561198055806466
       },
       "time": 61250

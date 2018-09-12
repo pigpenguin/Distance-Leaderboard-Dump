@@ -4,9 +4,11 @@
     "steamID": 76561198016964342
   },
   "displayName": "Normal Force",
-  "url": "",
+  "id": 1262502376,
   "description": "boost your way through tortuous tunnels in 0g",
   "fileName": "spacetunnels",
+  "upvotes": 5,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {

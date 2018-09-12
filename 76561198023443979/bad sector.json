@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Bad Sector",
-  "url": "",
+  "id": 692019980,
   "description": "This level, when it started out,was supposed to take advantage of a texture glitch that happened when a golden simple was stretched to it's maximum. Over time, it became some sort of a badly generated sector or something. Just enjoy anyway.",
   "fileName": "bad sector",
+  "upvotes": 479,
+  "downvotes": 134,
   "leaderboard": [
     {
       "player": {
@@ -1809,7 +1811,7 @@
     },
     {
       "player": {
-        "displayName": "SteelDrake",
+        "displayName": "TRESH",
         "steamID": 76561197986362857
       },
       "time": 750480

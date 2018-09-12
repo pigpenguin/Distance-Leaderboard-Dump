@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Neon Speedway",
-  "url": "",
+  "id": 772867934,
   "description": "Take an exit off of Neon Highway and you will end up at Neon City's own race course, aptly named Neon Speedway. \r\n\r\nThis is what I call a False Circuit race. There will be 5 laps, each with their own set of traps. Doing this track with max boombox mode is ",
   "fileName": "neon speedway",
+  "upvotes": 334,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -1144,7 +1146,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 346170
@@ -1340,7 +1342,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 399240
@@ -1473,7 +1475,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 483350

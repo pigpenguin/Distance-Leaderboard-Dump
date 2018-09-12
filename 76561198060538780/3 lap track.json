@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "DualPlayer",
+    "displayName": "[unknown]",
     "steamID": 76561198060538780
   },
   "displayName": "3 lap track",
-  "url": "",
+  "id": 781279223,
   "description": "An awesome community level",
   "fileName": "3 lap track",
+  "upvotes": 5,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {

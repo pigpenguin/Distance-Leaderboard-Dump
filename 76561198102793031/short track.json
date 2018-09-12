@@ -4,9 +4,11 @@
     "steamID": 76561198102793031
   },
   "displayName": "My First Level",
-  "url": "",
+  "id": 834007106,
   "description": "An awesome community level",
   "fileName": "short track",
+  "upvotes": 0,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {

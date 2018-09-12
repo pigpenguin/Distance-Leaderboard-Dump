@@ -4,9 +4,11 @@
     "steamID": 76561198033370644
   },
   "displayName": "Thruster Control 101",
-  "url": "",
+  "id": 426637551,
   "description": "Basic tutorial track for a more advanced mechanic. Use small thruster rotations while in-air to precisely control where to land.\r\n\r\nI suck at decorating so the track is fairly bare in that respect, but it accomplishes what I mean for it to do.",
   "fileName": "thrustercontrol101y",
+  "upvotes": 339,
+  "downvotes": 89,
   "leaderboard": [
     {
       "player": {
@@ -360,7 +362,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 85440

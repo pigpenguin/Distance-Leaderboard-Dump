@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Титан",
+    "displayName": "[unknown]",
     "steamID": 76561198084329921
   },
   "displayName": "Forward to the past",
-  "url": "",
+  "id": 1483963842,
   "description": "Was made this map for a long time ago, now it's finished. Hope you'll enjoy. There's a lot lasers, desert and caves.\r\nIt's my first map, so...",
   "fileName": "lasers2",
+  "upvotes": 15,
+  "downvotes": 8,
   "leaderboard": [
     {
       "player": {
@@ -112,6 +114,13 @@
         "steamID": 76561198117876048
       },
       "time": 321640
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 324030
     },
     {
       "player": {

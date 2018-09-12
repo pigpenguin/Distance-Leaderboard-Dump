@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Turning Point",
-  "url": "",
+  "id": 1347457045,
   "description": "There comes a time where each of us must face reality. But which reality is reality?",
   "fileName": "laps",
+  "upvotes": 91,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {
@@ -822,7 +824,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 316720

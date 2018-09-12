@@ -4,9 +4,11 @@
     "steamID": 76561198098009718
   },
   "displayName": "Going the Distance",
-  "url": "",
+  "id": 1279725082,
   "description": "First level with the help of the trackmogrify system. I hope you enjoy.",
   "fileName": "going the distance",
+  "upvotes": 212,
+  "downvotes": 37,
   "leaderboard": [
     {
       "player": {
@@ -171,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 64640
@@ -339,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "Nigjares",
+        "displayName": "[unknown]",
         "steamID": 76561198009283120
       },
       "time": 65610
@@ -509,6 +511,13 @@
       "player": {
         "displayName": "Adolf Hipster's Vinyl Solutions",
         "steamID": 76561198086956826
+      },
+      "time": 66270
+    },
+    {
+      "player": {
+        "displayName": "Tkach",
+        "steamID": 76561198146514915
       },
       "time": 66270
     },
@@ -1340,6 +1349,13 @@
     },
     {
       "player": {
+        "displayName": "AlExIsAwEsOmE",
+        "steamID": 76561198074293809
+      },
+      "time": 70650
+    },
+    {
+      "player": {
         "displayName": "disappointment",
         "steamID": 76561198050580530
       },
@@ -1550,7 +1566,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 73540
@@ -1596,13 +1612,6 @@
         "steamID": 76561198052002649
       },
       "time": 74270
-    },
-    {
-      "player": {
-        "displayName": "AlExIsAwEsOmE",
-        "steamID": 76561198074293809
-      },
-      "time": 74410
     },
     {
       "player": {
@@ -2156,13 +2165,6 @@
         "steamID": 76561198087794419
       },
       "time": 86120
-    },
-    {
-      "player": {
-        "displayName": "Tkach",
-        "steamID": 76561198146514915
-      },
-      "time": 86910
     },
     {
       "player": {

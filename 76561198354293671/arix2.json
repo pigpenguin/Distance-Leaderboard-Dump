@@ -4,9 +4,11 @@
     "steamID": 76561198354293671
   },
   "displayName": "Arix City [Improved.]",
-  "url": "",
+  "id": 1084971881,
   "description": "My very first map. Don't expect too much, I worked with just the basics so I could get a feel for the editor engine.\r\nThis is an updated version of my map. Contents include:\r\n(1) Short map (2 minutes at the most.)\r\n(2) Flying disabled for certain segments.",
   "fileName": "arix2",
+  "upvotes": 35,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "DAC #9: Wither",
-  "url": "",
+  "id": 814863220,
   "description": "I know I'll wither, so peel away the bark\r\n'Cause nothing grows when it is dark\r\nIn spite of all my fears, I can see it all so clear\r\nI see it all so clear",
   "fileName": "wither",
+  "upvotes": 382,
+  "downvotes": 64,
   "leaderboard": [
     {
       "player": {
@@ -206,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 117980
@@ -269,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 119220
@@ -3251,7 +3253,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 336100

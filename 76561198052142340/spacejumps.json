@@ -4,9 +4,11 @@
     "steamID": 76561198052142340
   },
   "displayName": "Cobalt",
-  "url": "",
+  "id": 1279002338,
   "description": " Color coordinates\r\nHex triplet\t#0047AB\r\nsRGBB  (r, g, b)\t(0, 71, 171)\r\nCMYKH   (c, m, y, k)\t(1, 1, 0, 0)\r\nHSV       (h, s, v)\t(215°, 100%, 67%)\r\nSource\t[Unsourced]\r\nB: Normalized to [0–255] (byte)\r\nH: Normalized to [0–100] (hundred)",
   "fileName": "spacejumps",
+  "upvotes": 38,
+  "downvotes": 19,
   "leaderboard": [
     {
       "player": {

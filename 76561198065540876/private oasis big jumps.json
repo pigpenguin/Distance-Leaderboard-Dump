@@ -4,9 +4,11 @@
     "steamID": 76561198065540876
   },
   "displayName": "Private Oasis: Big Jumps (MNR)",
-  "url": "",
+  "id": 1349832497,
   "description": "The second track to be ported from ModNation Racers. Private Oasis: Big Jumps is an improvement on the original Big Jumps map created in MNR. Details, appearance, and gameplay were improved when this was shared with the PlayStation community. The middle wo",
   "fileName": "private oasis big jumps",
+  "upvotes": 68,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 38020

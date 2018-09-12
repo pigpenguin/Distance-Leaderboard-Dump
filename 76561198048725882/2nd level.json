@@ -4,9 +4,11 @@
     "steamID": 76561198048725882
   },
   "displayName": "Triple Spires",
-  "url": "",
+  "id": 693999485,
   "description": "An awesome community level",
   "fileName": "2nd level",
+  "upvotes": 17,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {

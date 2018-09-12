@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Mechfried",
+    "displayName": "[unknown]",
     "steamID": 76561198099224360
   },
   "displayName": "Nebula Sprint",
-  "url": "",
+  "id": 1449339696,
   "description": "A race through a nebula. Stunts are needed for survival.",
   "fileName": "space rush",
+  "upvotes": 9,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {

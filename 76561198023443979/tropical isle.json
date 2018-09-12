@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Tropical Isle",
-  "url": "",
+  "id": 819639338,
   "description": "Drive through some rocky terrain and into a cave out in the middle of an ocean. Better hurry, a storm might be on its way!",
   "fileName": "tropical isle",
+  "upvotes": 125,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 109370
@@ -423,7 +425,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 142380
@@ -1102,7 +1104,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 187050
@@ -1907,7 +1909,7 @@
     },
     {
       "player": {
-        "displayName": "One man bandit",
+        "displayName": "One man tango",
         "steamID": 76561198040184762
       },
       "time": 253640
@@ -1970,7 +1972,7 @@
     },
     {
       "player": {
-        "displayName": "MUFFINMAN700",
+        "displayName": "Modern Panda",
         "steamID": 76561198380985868
       },
       "time": 266050
@@ -2068,7 +2070,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 285250

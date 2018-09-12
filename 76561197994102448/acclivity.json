@@ -4,9 +4,11 @@
     "steamID": 76561197994102448
   },
   "displayName": "Acclivity",
-  "url": "",
+  "id": 321902236,
   "description": "A pretty short sprint level focused around multiple paths and synced lights.\r\n\r\nAny and all comments/suggestions are welcome ;)\r\n\r\nEnjoy!\r\n\r\n",
   "fileName": "acclivity",
+  "upvotes": 1569,
+  "downvotes": 331,
   "leaderboard": [
     {
       "player": {
@@ -269,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 117930
@@ -3097,7 +3099,7 @@
     },
     {
       "player": {
-        "displayName": "Calver",
+        "displayName": "[unknown]",
         "steamID": 76561197999398072
       },
       "time": 273390
@@ -3181,7 +3183,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 280070
@@ -3825,7 +3827,7 @@
     },
     {
       "player": {
-        "displayName": "Navaja",
+        "displayName": "[unknown]",
         "steamID": 76561198278667735
       },
       "time": 369010
@@ -3874,7 +3876,7 @@
     },
     {
       "player": {
-        "displayName": "andytheyang",
+        "displayName": "[unknown]",
         "steamID": 76561198099303839
       },
       "time": 375030
@@ -4007,7 +4009,7 @@
     },
     {
       "player": {
-        "displayName": "Agrrox",
+        "displayName": "[unknown]",
         "steamID": 76561198083884296
       },
       "time": 414230
@@ -4273,7 +4275,7 @@
     },
     {
       "player": {
-        "displayName": "Ty",
+        "displayName": "< blank >",
         "steamID": 76561198035399253
       },
       "time": 560140
@@ -4315,7 +4317,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 630650
@@ -4357,7 +4359,7 @@
     },
     {
       "player": {
-        "displayName": "Dr.Cola",
+        "displayName": "[unknown]",
         "steamID": 76561197963653249
       },
       "time": 755930

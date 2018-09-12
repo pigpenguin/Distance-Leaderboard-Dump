@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Generic Oonorio",
+    "displayName": "[unknown]",
     "steamID": 76561198040954632
   },
   "displayName": "SpaceRace",
-  "url": "",
+  "id": 708886359,
   "description": "In space, nobody can see you go fast.",
   "fileName": "spacerace",
+  "upvotes": 390,
+  "downvotes": 89,
   "leaderboard": [
     {
       "player": {
@@ -1389,7 +1391,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 207240

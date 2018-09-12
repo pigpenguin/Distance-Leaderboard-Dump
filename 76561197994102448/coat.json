@@ -4,9 +4,11 @@
     "steamID": 76561197994102448
   },
   "displayName": "COAT Speedway",
-  "url": "",
+  "id": 354490197,
   "description": "So. The original idea for this came from an interesting enviroment i saw in a flash called \"COAT\" on newgrounds:\r\nhttp://www.newgrounds.com/portal/view/648535\r\nLater i decided that i wanted it to have the feel of a real life race track with some elements o",
   "fileName": "coat",
+  "upvotes": 3725,
+  "downvotes": 567,
   "leaderboard": [
     {
       "player": {
@@ -283,7 +285,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 96350
@@ -885,7 +887,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 97670
@@ -4119,7 +4121,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 116300
@@ -4140,7 +4142,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 116580
@@ -5743,7 +5745,7 @@
     },
     {
       "player": {
-        "displayName": "Ty",
+        "displayName": "< blank >",
         "steamID": 76561198035399253
       },
       "time": 133200
@@ -7255,7 +7257,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 167590
@@ -7290,7 +7292,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 168550

@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Neon Underground",
-  "url": "",
+  "id": 859329376,
   "description": "Neon City, The city of blinding colors. With the new built on top of the old, the lower part of Neon City has many ways to get to your destination. Whether it be the Rainbow Rave nightclub, store, or an apartment complex, there are many pathways to get to ",
   "fileName": "neon underground",
+  "upvotes": 232,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 122510
@@ -2572,7 +2574,7 @@
     },
     {
       "player": {
-        "displayName": "jayoku",
+        "displayName": "Jayoku Houtenjin!",
         "steamID": 76561198060363705
       },
       "time": 317240

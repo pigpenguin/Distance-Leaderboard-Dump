@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "Slum",
-  "url": "",
+  "id": 835623461,
   "description": "Once a great city, this burg is now brought to decrepitness. Glittering glass spires coated with dirt, skies filled with smog, and road starting to crumble away and bend. Most have left since a whole region of the city collapsed under its own weight ad was",
   "fileName": "slum",
+  "upvotes": 71,
+  "downvotes": 29,
   "leaderboard": [
     {
       "player": {
@@ -759,7 +761,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 285870
@@ -885,7 +887,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 308110
@@ -1172,7 +1174,7 @@
     },
     {
       "player": {
-        "displayName": "XephyrEnigma",
+        "displayName": "[unknown]",
         "steamID": 76561198051629914
       },
       "time": 523930

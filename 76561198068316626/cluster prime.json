@@ -4,9 +4,11 @@
     "steamID": 76561198068316626
   },
   "displayName": "Cluster Prime",
-  "url": "",
+  "id": 695564012,
   "description": "An awesome community level",
   "fileName": "cluster prime",
+  "upvotes": 31,
+  "downvotes": 49,
   "leaderboard": [
     {
       "player": {
@@ -227,7 +229,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 114210

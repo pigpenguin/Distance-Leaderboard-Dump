@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "Liver",
-  "url": "",
+  "id": 510857956,
   "description": "Speed threw the cold caverns of the Liver.",
   "fileName": "liver",
+  "upvotes": 1086,
+  "downvotes": 183,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 121590
@@ -2369,7 +2371,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 195260
@@ -2950,7 +2952,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 266680

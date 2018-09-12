@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "[STE] Riverside",
-  "url": "",
+  "id": 540547153,
   "description": "A SPOOKY SPRINT level for the #survivetheeditor contest.\r\nThe skeletons are the main attrations but i didn't forget about speed,stunts and overall gameplay this time!\r\n",
   "fileName": "[ste] riverside",
+  "upvotes": 714,
+  "downvotes": 117,
   "leaderboard": [
     {
       "player": {
@@ -73,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 143660
@@ -1067,7 +1069,7 @@
     },
     {
       "player": {
-        "displayName": "gf",
+        "displayName": "gamerfrank",
         "steamID": 76561198254173586
       },
       "time": 175840

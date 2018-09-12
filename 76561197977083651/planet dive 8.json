@@ -4,9 +4,11 @@
     "steamID": 76561197977083651
   },
   "displayName": "Planet Dive",
-  "url": "",
+  "id": 875624913,
   "description": "An awesome community level",
   "fileName": "planet dive 8",
+  "upvotes": 38,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {
@@ -45,7 +47,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 120700

@@ -4,9 +4,11 @@
     "steamID": 76561198052142340
   },
   "displayName": "A Long Way Down",
-  "url": "",
+  "id": 938169628,
   "description": "Make your way down to a planet on a vertical road.\r\n\r\n[url=https://steamcommunity.com/profiles/76561198052142340/myworkshopfiles/?appid=233610] [img]http://i.imgur.com/BoLW3DW.png[/img] [/url]",
   "fileName": "a long way down",
+  "upvotes": 389,
+  "downvotes": 79,
   "leaderboard": [
     {
       "player": {
@@ -108,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 73170
@@ -325,7 +327,7 @@
     },
     {
       "player": {
-        "displayName": "v9",
+        "displayName": "< blank >",
         "steamID": 76561198201510858
       },
       "time": 79700
@@ -976,7 +978,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 91170
@@ -4042,7 +4044,7 @@
     },
     {
       "player": {
-        "displayName": "Spawn Patrol Sergeant",
+        "displayName": "flatlander",
         "steamID": 76561198076503678
       },
       "time": 171370
@@ -4168,7 +4170,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 179840

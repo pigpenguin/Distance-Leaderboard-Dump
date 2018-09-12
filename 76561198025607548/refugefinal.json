@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "Refuge",
-  "url": "",
+  "id": 532448385,
   "description": "District 23, one of the Alliance's last remaining safe havens against the Virus.\r\n\r\nA collaborative level made by Ashamael, Snowstate, Krispy, and JTrevail.",
   "fileName": "refugefinal",
+  "upvotes": 1149,
+  "downvotes": 118,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 113120
@@ -486,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 117000
@@ -3713,7 +3715,7 @@
     },
     {
       "player": {
-        "displayName": "21",
+        "displayName": "< blank >",
         "steamID": 76561198245435212
       },
       "time": 270270

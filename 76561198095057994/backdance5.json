@@ -4,10 +4,19 @@
     "steamID": 76561198095057994
   },
   "displayName": "BackDance V0.4",
-  "url": "",
+  "id": 781844797,
   "description": "An awesome community level",
   "fileName": "backdance5",
+  "upvotes": 36,
+  "downvotes": 18,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 16990
+    },
     {
       "player": {
         "displayName": "jay",
@@ -56,13 +65,6 @@
         "steamID": 76561198119179836
       },
       "time": 40290
-    },
-    {
-      "player": {
-        "displayName": "noah",
-        "steamID": 76561198129061896
-      },
-      "time": 48260
     },
     {
       "player": {

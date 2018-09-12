@@ -4,9 +4,11 @@
     "steamID": 76561198117876048
   },
   "displayName": "Vector Valley",
-  "url": "",
+  "id": 762183701,
   "description": "My 3rd Sprint Level. A casual map based on Vector Valley from Power Drive 2000. As usual please give feedback, decided to push it out without getting a last minute peer review this time. So if there is anything you think could be tweaked without impacting ",
   "fileName": "vectorvalley_final-stable4491",
+  "upvotes": 1315,
+  "downvotes": 125,
   "leaderboard": [
     {
       "player": {
@@ -675,7 +677,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 71220
@@ -2229,7 +2231,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 104800
@@ -2418,7 +2420,7 @@
     },
     {
       "player": {
-        "displayName": "OK",
+        "displayName": "< blank >",
         "steamID": 76561198044630891
       },
       "time": 104940
@@ -2432,7 +2434,7 @@
     },
     {
       "player": {
-        "displayName": "pnus",
+        "displayName": "negus",
         "steamID": 76561198043862737
       },
       "time": 104950
@@ -2733,7 +2735,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 105200
@@ -4140,7 +4142,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 106340
@@ -6128,7 +6130,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 108810
@@ -6555,7 +6557,7 @@
     },
     {
       "player": {
-        "displayName": "Zea mays [NTAH...]",
+        "displayName": "Zea mays [nevermind.]",
         "steamID": 76561198030119958
       },
       "time": 110270
@@ -6933,7 +6935,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 112650
@@ -7346,7 +7348,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 114920

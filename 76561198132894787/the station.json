@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "The Station",
-  "url": "",
+  "id": 467963344,
   "description": "A zero-G adventure...with a secret.",
   "fileName": "the station",
+  "upvotes": 85,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {

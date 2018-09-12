@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Bakoniz0r",
+    "displayName": "[unknown]",
     "steamID": 76561198071828090
   },
   "displayName": "*fixed* Dark Rainbow Museum (update 3)",
-  "url": "",
+  "id": 472138080,
   "description": "Be sure to read Update 2 and 3 notes below.\r\n\r\n---\r\n\r\nA simple and very colorful level, meant to have you speed by lots of interesting and colorful things, facing various simple challenges along the way.\r\n\r\nI tried to do a few things I haven't seen people ",
   "fileName": "dark rainbow museum",
+  "upvotes": 1191,
+  "downvotes": 282,
   "leaderboard": [
     {
       "player": {
@@ -94,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 73860
@@ -1417,7 +1419,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 117440
@@ -1585,7 +1587,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 122620
@@ -1781,7 +1783,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 128530
@@ -1858,7 +1860,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 131020

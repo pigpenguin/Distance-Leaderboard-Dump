@@ -4,9 +4,11 @@
     "steamID": 76561198125907154
   },
   "displayName": "Flippy Trip",
-  "url": "",
+  "id": 1338274291,
   "description": "This is a short level for those who like flipping off their car.\r\n\r\nAnd before you ask, not even I know what the end is meant to be.",
   "fileName": "flippy trip",
+  "upvotes": 99,
+  "downvotes": 15,
   "leaderboard": [
     {
       "player": {
@@ -1116,7 +1118,7 @@
     },
     {
       "player": {
-        "displayName": "hh",
+        "displayName": "< blank >",
         "steamID": 76561198134399181
       },
       "time": 180790

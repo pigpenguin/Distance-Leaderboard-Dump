@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "skullfish1",
+    "displayName": "[unknown]",
     "steamID": 76561197996380301
   },
   "displayName": "Barrage",
-  "url": "",
+  "id": 673553629,
   "description": "An awesome community level",
   "fileName": "barrage",
+  "upvotes": 99,
+  "downvotes": 66,
   "leaderboard": [
     {
       "player": {

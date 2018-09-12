@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Quantity 2",
-  "url": "",
+  "id": 674835484,
   "description": "this \"lapped\" map can be completed in 4 laps by a single player, multiple players can work together to complete more laps in one go and finish faster, or add more laps to prevent others from finishing first, only the first \"lap\" will have checkpoints.\r\n\r\nA",
   "fileName": "quantity2",
+  "upvotes": 9,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

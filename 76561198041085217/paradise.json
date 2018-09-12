@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "NightLife",
-  "url": "",
+  "id": 470271264,
   "description": "Bright colours in the dark sky",
   "fileName": "paradise",
+  "upvotes": 2805,
+  "downvotes": 271,
   "leaderboard": [
     {
       "player": {
@@ -241,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 88750
@@ -1599,7 +1601,7 @@
     },
     {
       "player": {
-        "displayName": "24",
+        "displayName": "< blank >",
         "steamID": 76561198067330795
       },
       "time": 95630
@@ -2824,7 +2826,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 106100
@@ -3342,7 +3344,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 110900
@@ -3755,7 +3757,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 116600
@@ -3888,7 +3890,7 @@
     },
     {
       "player": {
-        "displayName": "Modest Mouse",
+        "displayName": "PlannedPatricide",
         "steamID": 76561198065748746
       },
       "time": 118260
@@ -6345,7 +6347,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 241840
@@ -6429,7 +6431,7 @@
     },
     {
       "player": {
-        "displayName": ":)",
+        "displayName": "< blank >",
         "steamID": 76561198048884777
       },
       "time": 277200

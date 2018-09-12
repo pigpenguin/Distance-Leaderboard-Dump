@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Chaotic Combination",
-  "url": "",
+  "id": 1132715797,
   "description": "Pretty much my first level made.",
   "fileName": "untitled",
+  "upvotes": 90,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 114550
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 115960
@@ -472,7 +474,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 159310

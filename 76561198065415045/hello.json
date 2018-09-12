@@ -4,9 +4,11 @@
     "steamID": 76561198065415045
   },
   "displayName": "HellO",
-  "url": "",
+  "id": 683544289,
   "description": "Something I did a long time ago in the experimental build.",
   "fileName": "hello",
+  "upvotes": 51,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 197940

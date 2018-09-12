@@ -4,9 +4,11 @@
     "steamID": 76561198052142340
   },
   "displayName": "The Entire Bee Movie Script Except it is a Level in Distance",
-  "url": "",
+  "id": 942252798,
   "description": "According to all known laws of aviation,\r\nthere is no way a bee should be able to fly.\r\nIts wings are too small to get its fat little body off the ground.\r\nThe bee, of course, flies anyway\r\nbecause bees don't care what humans think is impossible.\r\nYellow, ",
   "fileName": "the entire bee movie script except it is a level in distance",
+  "upvotes": 31,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {
@@ -87,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "[]",
+        "displayName": "[unknown]",
         "steamID": 76561198075471866
       },
       "time": 474710

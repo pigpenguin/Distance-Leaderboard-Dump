@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "Spirit",
-  "url": "",
+  "id": 927306728,
   "description": "We'll be with you in spirit.",
   "fileName": "ghost",
+  "upvotes": 209,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -654,7 +656,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 132150
@@ -2180,7 +2182,7 @@
     },
     {
       "player": {
-        "displayName": "gfxh",
+        "displayName": "FALCONPUNCH",
         "steamID": 76561198075775102
       },
       "time": 673520

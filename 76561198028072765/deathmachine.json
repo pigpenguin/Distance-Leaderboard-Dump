@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "White Grey",
+    "displayName": "[unknown]",
     "steamID": 76561198028072765
   },
   "displayName": "White's Death Machine",
-  "url": "",
+  "id": 366277043,
   "description": "Only WHITE knows the SAFE PATH through the Death Machine.\r\n\r\nBeware watching the video, it may \"spoil\" you, but it may also help if you're having trouble.\r\n\r\nThis Speed & Style track is inspired by Hardcore Death Machine from the original Nitronic Rush. Ca",
   "fileName": "deathmachine",
+  "upvotes": 778,
+  "downvotes": 206,
   "leaderboard": [
     {
       "player": {
@@ -122,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 97070
@@ -745,7 +747,7 @@
     },
     {
       "player": {
-        "displayName": "Al",
+        "displayName": "< blank >",
         "steamID": 76561198044430474
       },
       "time": 186210
@@ -1592,7 +1594,7 @@
     },
     {
       "player": {
-        "displayName": "eo",
+        "displayName": "< blank >",
         "steamID": 76561198074005782
       },
       "time": 401370

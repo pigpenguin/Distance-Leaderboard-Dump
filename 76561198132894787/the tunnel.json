@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "The Tunnel",
-  "url": "",
+  "id": 871619219,
   "description": "An awesome community level",
   "fileName": "the tunnel",
+  "upvotes": 46,
+  "downvotes": 21,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198129201308
   },
   "displayName": "Hotwheels",
-  "url": "",
+  "id": 588232295,
   "description": "An awesome community level",
   "fileName": "hotwheels",
+  "upvotes": 29,
+  "downvotes": 50,
   "leaderboard": [
     {
       "player": {

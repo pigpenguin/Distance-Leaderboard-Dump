@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "Gears",
-  "url": "",
+  "id": 1483414218,
   "description": "This is a Gear Test.",
   "fileName": "gears",
+  "upvotes": 1,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Guizmodo",
+    "displayName": "[unknown]",
     "steamID": 76561198113782474
   },
   "displayName": "Purple Track Level 2",
-  "url": "",
+  "id": 382841663,
   "description": "Second level of the series \"Purple Track\".\r\nDifficulty: None\r\nGame mode : Sprint\r\nBoost : Yes\r\nJump : Yes\r\nFly : Yes\r\nRotate : Yes",
   "fileName": "purple track level 2",
+  "upvotes": 363,
+  "downvotes": 78,
   "leaderboard": [
     {
       "player": {
@@ -17,7 +19,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 44330

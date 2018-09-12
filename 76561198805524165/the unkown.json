@@ -4,9 +4,11 @@
     "steamID": 76561198805524165
   },
   "displayName": "The Unkown",
-  "url": "",
+  "id": 1473284313,
   "description": "This Involves Jump Tests On planet 55667325 (AKA: The Unkown)",
   "fileName": "the unkown",
+  "upvotes": 40,
+  "downvotes": 20,
   "leaderboard": [
     {
       "player": {
@@ -581,6 +583,13 @@
         "steamID": 76561198265054890
       },
       "time": 251550
+    },
+    {
+      "player": {
+        "displayName": "marcusss",
+        "steamID": 76561198041666553
+      },
+      "time": 258720
     },
     {
       "player": {

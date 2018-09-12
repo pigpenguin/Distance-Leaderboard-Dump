@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "[STE2] Untethered",
-  "url": "",
+  "id": 1488459743,
   "description": "The yearly Osbeck Festival is taking place in the city. The festival celebrates the sealing of a dark beast by Knight C. Limon. \n\nThe yearly festival is also when the beast beckons those who seek victory above all else. If one can break the seal with the a",
   "fileName": "celebration",
+  "upvotes": 137,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {
@@ -178,6 +180,13 @@
     },
     {
       "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 195830
+    },
+    {
+      "player": {
         "displayName": "Now listn",
         "steamID": 76561198060379806
       },
@@ -192,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 201110
@@ -448,6 +457,13 @@
         "steamID": 76561198086140724
       },
       "time": 232290
+    },
+    {
+      "player": {
+        "displayName": "Powerman123",
+        "steamID": 76561198054792683
+      },
+      "time": 232510
     },
     {
       "player": {
@@ -1085,6 +1101,13 @@
         "steamID": 76561198193363878
       },
       "time": 304010
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 304320
     },
     {
       "player": {

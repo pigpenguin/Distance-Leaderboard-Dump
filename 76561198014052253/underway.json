@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Underway",
-  "url": "",
+  "id": 634364516,
   "description": "An awesome community level",
   "fileName": "underway",
+  "upvotes": 579,
+  "downvotes": 57,
   "leaderboard": [
     {
       "player": {
@@ -360,7 +362,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 107230
@@ -1361,7 +1363,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 168810
@@ -1550,7 +1552,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 206070
@@ -1648,7 +1650,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 320360

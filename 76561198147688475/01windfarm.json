@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "Windfarm Repair",
-  "url": "",
+  "id": 960286168,
   "description": "Two of the turbines have gone off the grid, we need you to get them back up.",
   "fileName": "01windfarm",
+  "upvotes": 29,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {

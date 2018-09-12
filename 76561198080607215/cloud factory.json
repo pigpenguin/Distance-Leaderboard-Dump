@@ -4,9 +4,11 @@
     "steamID": 76561198080607215
   },
   "displayName": "Cloud Factory",
-  "url": "",
+  "id": 722343736,
   "description": "Cloud Factory - Map #2\r\n\r\nTake a ride on the Cloud Factory! Simple and cute relaxing map with few obstacles near a finish.",
   "fileName": "cloud factory",
+  "upvotes": 488,
+  "downvotes": 93,
   "leaderboard": [
     {
       "player": {
@@ -388,7 +390,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 103150
@@ -2390,7 +2392,7 @@
     },
     {
       "player": {
-        "displayName": "Modest Mouse",
+        "displayName": "PlannedPatricide",
         "steamID": 76561198065748746
       },
       "time": 221540

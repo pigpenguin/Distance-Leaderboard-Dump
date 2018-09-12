@@ -4,9 +4,11 @@
     "steamID": 76561198117262342
   },
   "displayName": "The Mines Bear Coal",
-  "url": "",
+  "id": 819511751,
   "description": "My first actual Sprint level. Follow the path from the mines, and see where it ends up. Let me know how I can improve it, though I made this months ago and only now released it when the stable branch updated.",
   "fileName": "bob",
+  "upvotes": 29,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198055309255
   },
   "displayName": "Boat Races",
-  "url": "",
+  "id": 580969106,
   "description": "Avast Ye Land Lovers! \r\n\r\nFlip cars upside-down, now you have a boat! \r\n\r\nDisable \"Tipped Over Self-Righting\" under Options -> Controls, for the best experience.",
   "fileName": "boat racers",
+  "upvotes": 160,
+  "downvotes": 48,
   "leaderboard": [
     {
       "player": {

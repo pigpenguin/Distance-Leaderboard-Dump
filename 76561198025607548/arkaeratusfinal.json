@@ -4,9 +4,11 @@
     "steamID": 76561198025607548
   },
   "displayName": "DAC #23: Ark Aeratus",
-  "url": "",
+  "id": 582316648,
   "description": "The Eschaton has been Immanentized.\r\n\r\nA collaboration between Ashamael and Jam.",
   "fileName": "arkaeratusfinal",
+  "upvotes": 851,
+  "downvotes": 226,
   "leaderboard": [
     {
       "player": {
@@ -1186,6 +1188,13 @@
     },
     {
       "player": {
+        "displayName": "VenomousCreature",
+        "steamID": 76561198073778678
+      },
+      "time": 164110
+    },
+    {
+      "player": {
         "displayName": "Thunderskull",
         "steamID": 76561197989191729
       },
@@ -1449,6 +1458,13 @@
         "steamID": 76561197991250430
       },
       "time": 190910
+    },
+    {
+      "player": {
+        "displayName": "sheepington11211",
+        "steamID": 76561198057071313
+      },
+      "time": 190970
     },
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198083986714
   },
   "displayName": "Casual Avenue",
-  "url": "",
+  "id": 1478658949,
   "description": "Take a stroll down Casual Avenue! It may be free of obstacles but you'll need the basics down to make it to the end! \n\nFirst 'actual' go at using the level editor :)",
   "fileName": "casual avenue",
+  "upvotes": 12,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -129,7 +131,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 95000

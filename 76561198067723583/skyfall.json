@@ -4,9 +4,11 @@
     "steamID": 76561198067723583
   },
   "displayName": "Skyfall",
-  "url": "",
+  "id": 855090898,
   "description": "This is an early or test build for a track idea I've been brewing up. Let me know if I should continue working on it or not! :)",
   "fileName": "skyfall",
+  "upvotes": 27,
+  "downvotes": 11,
   "leaderboard": [
     {
       "player": {
@@ -395,7 +397,7 @@
     },
     {
       "player": {
-        "displayName": "cashew in a people suit",
+        "displayName": "✿Chloe✿",
         "steamID": 76561198063512303
       },
       "time": 107490

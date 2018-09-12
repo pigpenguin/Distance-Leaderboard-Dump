@@ -4,9 +4,11 @@
     "steamID": 76561198047921574
   },
   "displayName": "Hot Wheels World Race: Ultimate Track Set",
-  "url": "",
+  "id": 944021845,
   "description": "It's a realms map!",
   "fileName": "worldrace 1",
+  "upvotes": 630,
+  "downvotes": 96,
   "leaderboard": [
     {
       "player": {
@@ -185,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "England is my city",
+        "displayName": "LucarioRoolz",
         "steamID": 76561198060001544
       },
       "time": 1250
@@ -934,7 +936,7 @@
     },
     {
       "player": {
-        "displayName": "[Icez] Syncro",
+        "displayName": "Out Of Black",
         "steamID": 76561198384597961
       },
       "time": 2650
@@ -1333,7 +1335,7 @@
     },
     {
       "player": {
-        "displayName": "Agent207",
+        "displayName": "[unknown]",
         "steamID": 76561198071701081
       },
       "time": 30980
@@ -1550,7 +1552,7 @@
     },
     {
       "player": {
-        "displayName": "Universe Sluper",
+        "displayName": "[unknown]",
         "steamID": 76561198041624317
       },
       "time": 67680
@@ -2292,7 +2294,7 @@
     },
     {
       "player": {
-        "displayName": "Or",
+        "displayName": "< blank >",
         "steamID": 76561198062595389
       },
       "time": 72770
@@ -3125,7 +3127,7 @@
     },
     {
       "player": {
-        "displayName": "Nifara",
+        "displayName": "[unknown]",
         "steamID": 76561198154376047
       },
       "time": 73290
@@ -3482,7 +3484,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 73620
@@ -4693,7 +4695,7 @@
     },
     {
       "player": {
-        "displayName": "Not JTURBOH",
+        "displayName": "JTURBOH | prolly lagging",
         "steamID": 76561198088893592
       },
       "time": 79740
@@ -4728,7 +4730,7 @@
     },
     {
       "player": {
-        "displayName": "LockeIT™",
+        "displayName": "Bexstin",
         "steamID": 76561198132756551
       },
       "time": 80670
@@ -5218,7 +5220,7 @@
     },
     {
       "player": {
-        "displayName": "gordidoboy",
+        "displayName": "[unknown]",
         "steamID": 76561198049834140
       },
       "time": 92350
@@ -5253,7 +5255,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 93550
@@ -5267,7 +5269,7 @@
     },
     {
       "player": {
-        "displayName": "kbot",
+        "displayName": "battleroyalefan4k69",
         "steamID": 76561198046351575
       },
       "time": 95900
@@ -5351,7 +5353,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 100470
@@ -5484,7 +5486,7 @@
     },
     {
       "player": {
-        "displayName": "Adluf Hortler",
+        "displayName": "[unknown]",
         "steamID": 76561198154194582
       },
       "time": 107230
@@ -6464,7 +6466,7 @@
     },
     {
       "player": {
-        "displayName": "Dantekrs5",
+        "displayName": "[unknown]",
         "steamID": 76561198134582960
       },
       "time": 205800

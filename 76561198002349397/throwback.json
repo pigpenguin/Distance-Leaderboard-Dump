@@ -4,9 +4,11 @@
     "steamID": 76561198002349397
   },
   "displayName": "Throwback",
-  "url": "",
+  "id": 482165701,
   "description": "NOTE: Credit to Fzeroman for the Nitronic Rush posters!\r\n\r\nInpsired by Refract's Destination Unknown, Throwback is all about relieving memories from Extreme-G for the N64 & Nitronic Rush. I had to release this level before I go on vacation for 4 days. My s",
   "fileName": "throwback",
+  "upvotes": 1692,
+  "downvotes": 195,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 199380
@@ -325,7 +327,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 202170
@@ -1655,7 +1657,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 223480
@@ -3517,7 +3519,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 259550
@@ -4420,7 +4422,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 308890
@@ -4497,7 +4499,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 316070

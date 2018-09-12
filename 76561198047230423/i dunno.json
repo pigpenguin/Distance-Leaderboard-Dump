@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Fluster Cuck",
-  "url": "",
+  "id": 773759750,
   "description": "It's a cluster of some unfnished maps that never saw the light of day. Figured these Map Fragments could use some love.",
   "fileName": "i dunno",
+  "upvotes": 233,
+  "downvotes": 55,
   "leaderboard": [
     {
       "player": {
@@ -668,7 +670,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 148730

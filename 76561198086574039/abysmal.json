@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Raven",
+    "displayName": "[unknown]",
     "steamID": 76561198086574039
   },
   "displayName": "Abysmal",
-  "url": "",
+  "id": 643441755,
   "description": "An awesome community level",
   "fileName": "abysmal",
+  "upvotes": 50,
+  "downvotes": 45,
   "leaderboard": [
     {
       "player": {

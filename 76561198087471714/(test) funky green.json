@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Bobo",
+    "displayName": "[unknown]",
     "steamID": 76561198087471714
   },
   "displayName": "B",
-  "url": "",
+  "id": 606240936,
   "description": "An awesome community level",
   "fileName": "(test) funky green",
+  "upvotes": 13,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

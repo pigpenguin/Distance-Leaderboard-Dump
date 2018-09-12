@@ -4,9 +4,11 @@
     "steamID": 76561198131606447
   },
   "displayName": "Twisted Sister",
-  "url": "",
+  "id": 680346609,
   "description": "An alright community level",
   "fileName": "untitled",
+  "upvotes": 825,
+  "downvotes": 113,
   "leaderboard": [
     {
       "player": {
@@ -143,7 +145,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 141250
@@ -2075,7 +2077,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 292290
@@ -2271,7 +2273,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 320710
@@ -2327,7 +2329,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 328740
@@ -2355,7 +2357,7 @@
     },
     {
       "player": {
-        "displayName": "Cannelle (B-day Woop)",
+        "displayName": "Cannelle",
         "steamID": 76561198087650317
       },
       "time": 333650

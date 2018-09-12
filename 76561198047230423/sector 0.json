@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector [ ]",
-  "url": "",
+  "id": 688691361,
   "description": "You've taken out it's firewalls, eliminated it's connections, stopped it's infections. It's time to End Anomaly 55 once and for all.\r\n\r\nleave that feedback yo\r\ni also wont be making maps after this one... at least not for a long while",
   "fileName": "sector 0",
+  "upvotes": 531,
+  "downvotes": 62,
   "leaderboard": [
     {
       "player": {
@@ -1417,7 +1419,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 173270

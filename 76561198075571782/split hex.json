@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Big Purp",
+    "displayName": "[unknown]",
     "steamID": 76561198075571782
   },
   "displayName": "Split Hex",
-  "url": "",
+  "id": 709350865,
   "description": "A two-track race, which will you choose? Will it matter?",
   "fileName": "split hex",
+  "upvotes": 47,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {

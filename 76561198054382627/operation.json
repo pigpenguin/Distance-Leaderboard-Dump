@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "[BBMP #2]Operation",
-  "url": "",
+  "id": 1494945133,
   "description": "Cast your eyes and pour your might through this gleaming mineral city!",
   "fileName": "operation",
+  "upvotes": 136,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {
@@ -49,6 +51,13 @@
         "steamID": 76561198089234092
       },
       "time": 73950
+    },
+    {
+      "player": {
+        "displayName": "M500",
+        "steamID": 76561197998363138
+      },
+      "time": 75170
     },
     {
       "player": {
@@ -108,6 +117,13 @@
     },
     {
       "player": {
+        "displayName": "Powerman123",
+        "steamID": 76561198054792683
+      },
+      "time": 81270
+    },
+    {
+      "player": {
         "displayName": "Nitrium",
         "steamID": 76561198090472514
       },
@@ -119,6 +135,13 @@
         "steamID": 76561198801783436
       },
       "time": 81410
+    },
+    {
+      "player": {
+        "displayName": "Tomacawk",
+        "steamID": 76561198056416008
+      },
+      "time": 81460
     },
     {
       "player": {
@@ -213,6 +236,13 @@
     },
     {
       "player": {
+        "displayName": "BlueX",
+        "steamID": 76561198034232714
+      },
+      "time": 81840
+    },
+    {
+      "player": {
         "displayName": "pinesolofchaos",
         "steamID": 76561198058662064
       },
@@ -301,13 +331,6 @@
         "steamID": 76561198007985700
       },
       "time": 82060
-    },
-    {
-      "player": {
-        "displayName": "Powerman123",
-        "steamID": 76561198054792683
-      },
-      "time": 82080
     },
     {
       "player": {
@@ -584,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 82970
@@ -892,6 +915,13 @@
     },
     {
       "player": {
+        "displayName": "Alex Chosen",
+        "steamID": 76561197999606289
+      },
+      "time": 86150
+    },
+    {
+      "player": {
         "displayName": "Banjo X",
         "steamID": 76561198050507466
       },
@@ -927,7 +957,7 @@
     },
     {
       "player": {
-        "displayName": "Fecker",
+        "displayName": "You Fecker",
         "steamID": 76561198284810084
       },
       "time": 86930
@@ -1095,7 +1125,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 89840
@@ -1333,7 +1363,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 111040

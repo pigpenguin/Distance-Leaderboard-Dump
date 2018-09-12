@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Hell",
-  "url": "",
+  "id": 1359671388,
   "description": "This is where you belong and you know why.\r\n\r\n\r\nThank you to Jay2a and Plasmawario for playtesting and feedback.",
   "fileName": "hell",
+  "upvotes": 326,
+  "downvotes": 38,
   "leaderboard": [
     {
       "player": {
@@ -220,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 120180
@@ -1459,7 +1461,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 270150

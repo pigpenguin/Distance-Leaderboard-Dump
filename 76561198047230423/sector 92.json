@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 92",
-  "url": "",
+  "id": 895652750,
   "description": "A devastating future unfolds...",
   "fileName": "sector 92",
+  "upvotes": 383,
+  "downvotes": 63,
   "leaderboard": [
     {
       "player": {
@@ -129,7 +131,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 118670
@@ -609,6 +611,13 @@
         "steamID": 76561198002020071
       },
       "time": 133170
+    },
+    {
+      "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 133210
     },
     {
       "player": {
@@ -1270,7 +1279,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 155520

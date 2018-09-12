@@ -4,9 +4,11 @@
     "steamID": 76561198121310718
   },
   "displayName": "CAVERN REALM",
-  "url": "",
+  "id": 952742235,
   "description": "An awesome community level",
   "fileName": "cavern realm o reel one lol",
+  "upvotes": 282,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {
@@ -2061,7 +2063,7 @@
     },
     {
       "player": {
-        "displayName": "Eαυѕтσ",
+        "displayName": "Fαυѕтσ",
         "steamID": 76561198027935082
       },
       "time": 397550
@@ -2775,7 +2777,7 @@
     },
     {
       "player": {
-        "displayName": "ryamziad",
+        "displayName": "[unknown]",
         "steamID": 76561198332318623
       },
       "time": 714940

@@ -4,9 +4,11 @@
     "steamID": 76561198047681512
   },
   "displayName": "Lost Sectors",
-  "url": "",
+  "id": 681751629,
   "description": "This level is like two years old, I'm uploading it now because it uses some particle effects at the end. Hope you enjoy it, and I'm open to suggestions!",
   "fileName": "hidden_sectors",
+  "upvotes": 1123,
+  "downvotes": 94,
   "leaderboard": [
     {
       "player": {
@@ -199,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 209710
@@ -511,6 +513,13 @@
         "steamID": 76561198115351864
       },
       "time": 217200
+    },
+    {
+      "player": {
+        "displayName": "NAYTOUCHETHNOTYOND",
+        "steamID": 76561198076281858
+      },
+      "time": 217220
     },
     {
       "player": {
@@ -1641,7 +1650,7 @@
     },
     {
       "player": {
-        "displayName": "S2",
+        "displayName": "< blank >",
         "steamID": 76561198319263093
       },
       "time": 241510
@@ -3797,7 +3806,7 @@
     },
     {
       "player": {
-        "displayName": "Karl Marx",
+        "displayName": "Detective Fisher",
         "steamID": 76561198064867114
       },
       "time": 327960
@@ -3860,7 +3869,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 335660
@@ -4245,7 +4254,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 382270

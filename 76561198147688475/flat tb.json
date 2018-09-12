@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "NWBO/Tb Course 1",
-  "url": "",
+  "id": 660855756,
   "description": "An awesome community level",
   "fileName": "flat tb",
+  "upvotes": 228,
+  "downvotes": 74,
   "leaderboard": [
     {
       "player": {

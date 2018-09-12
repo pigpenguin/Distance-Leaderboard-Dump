@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "[STE] Aterrador",
-  "url": "",
+  "id": 539551440,
   "description": "Spanish for scary, Aterrador delves into the broken city overwhelmed by trees and the spirit of Halloween.\r\nThere are obvious skips, the usually require jumping off or above the track but see if you can follow the arrows yourself. (Its near the start)\r\nMad",
   "fileName": "[ste] aterrador",
+  "upvotes": 1950,
+  "downvotes": 182,
   "leaderboard": [
     {
       "player": {
@@ -332,7 +334,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 79560
@@ -381,7 +383,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 79870
@@ -3342,6 +3344,13 @@
     },
     {
       "player": {
+        "displayName": "Tentacule_sama",
+        "steamID": 76561198048525153
+      },
+      "time": 115350
+    },
+    {
+      "player": {
         "displayName": "Кровожадный Пуховик",
         "steamID": 76561198029201877
       },
@@ -3608,7 +3617,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 118610
@@ -4217,7 +4226,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 131940
@@ -4917,7 +4926,7 @@
     },
     {
       "player": {
-        "displayName": "xf",
+        "displayName": "< blank >",
         "steamID": 76561198074469849
       },
       "time": 152390
@@ -4959,7 +4968,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 154570
@@ -5537,13 +5546,6 @@
         "steamID": 76561198039380901
       },
       "time": 181180
-    },
-    {
-      "player": {
-        "displayName": "Tentacule_sama",
-        "steamID": 76561198048525153
-      },
-      "time": 181400
     },
     {
       "player": {

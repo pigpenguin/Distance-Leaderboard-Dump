@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Abandoned Nightmare",
-  "url": "",
+  "id": 952788874,
   "description": "Take a journey through a spooky dark level based on some old concept art for Distance way back. This track is more on visuals than difficulty.",
   "fileName": "Abandoned Nightmare",
+  "upvotes": 1057,
+  "downvotes": 107,
   "leaderboard": [
     {
       "player": {
@@ -199,7 +201,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 58160
@@ -444,7 +446,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 118240
@@ -1137,7 +1139,7 @@
     },
     {
       "player": {
-        "displayName": "oJ",
+        "displayName": "< blank >",
         "steamID": 76561198054745133
       },
       "time": 119630
@@ -3531,7 +3533,7 @@
     },
     {
       "player": {
-        "displayName": "At",
+        "displayName": "< blank >",
         "steamID": 76561198101526824
       },
       "time": 124880
@@ -4987,7 +4989,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 131900
@@ -5561,7 +5563,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 136890
@@ -5617,7 +5619,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 137370
@@ -7304,7 +7306,7 @@
     },
     {
       "player": {
-        "displayName": "Ty",
+        "displayName": "< blank >",
         "steamID": 76561198035399253
       },
       "time": 159800
@@ -7325,7 +7327,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 160060
@@ -7850,7 +7852,7 @@
     },
     {
       "player": {
-        "displayName": "OK",
+        "displayName": "< blank >",
         "steamID": 76561198044630891
       },
       "time": 171590
@@ -8221,7 +8223,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 179880
@@ -8627,7 +8629,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 198780
@@ -8690,7 +8692,7 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 201070

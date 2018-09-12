@@ -4,9 +4,11 @@
     "steamID": 76561198039316695
   },
   "displayName": "Illusions",
-  "url": "",
+  "id": 360414296,
   "description": "Welcome to Illusions, a world where nothing is like anything you've ever seen. Beware, only some roads can be trusted, and there are many obstacles to be avoided. Remeber: \"Don't trust blue\"!\r\n\r\nInspired by the holo-buildings past the end of Destination Un",
   "fileName": "illusionrelease",
+  "upvotes": 2189,
+  "downvotes": 414,
   "leaderboard": [
     {
       "player": {
@@ -262,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 116180
@@ -1116,7 +1118,7 @@
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 147550
@@ -2663,7 +2665,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 241130

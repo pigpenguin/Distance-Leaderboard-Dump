@@ -4,9 +4,11 @@
     "steamID": 76561198168068862
   },
   "displayName": "SpeedRun",
-  "url": "",
+  "id": 932137893,
   "description": "This my first Level",
   "fileName": "speedrun",
+  "upvotes": 14,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {

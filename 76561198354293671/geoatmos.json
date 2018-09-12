@@ -4,9 +4,11 @@
     "steamID": 76561198354293671
   },
   "displayName": "Eye of the Storm (Part One of the Tempest Series.)",
-  "url": "",
+  "id": 1085423552,
   "description": "NeoNexus Corp. is a multibillion-dollar company in charge of maintaining the Geo-Atmospheric Weather Regulator, a machine capable of controlling weather anywhere on the planet. Using subscriptions to give buyers their desired weather over their property, N",
   "fileName": "geoatmos",
+  "upvotes": 166,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -1172,7 +1174,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 88190

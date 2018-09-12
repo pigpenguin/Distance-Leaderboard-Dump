@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Entering the Zone",
-  "url": "",
+  "id": 532365073,
   "description": "For best experience, use this soundtrack in this track: \r\n\r\nhttp://torcht.com/nitronic-rush-soundtrack/ 1.Torcht—Abandoned Utopia\r\n\r\nPart 2 to my little Nitronic themed tracks :)",
   "fileName": "entering the zone",
+  "upvotes": 831,
+  "downvotes": 127,
   "leaderboard": [
     {
       "player": {
@@ -346,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 98660
@@ -766,7 +768,7 @@
     },
     {
       "player": {
-        "displayName": "aw",
+        "displayName": "< blank >",
         "steamID": 76561198103585348
       },
       "time": 109990
@@ -857,7 +859,7 @@
     },
     {
       "player": {
-        "displayName": "StygianRetour",
+        "displayName": "[unknown]",
         "steamID": 76561198044984053
       },
       "time": 112050

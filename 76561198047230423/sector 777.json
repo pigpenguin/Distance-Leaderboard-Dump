@@ -4,9 +4,11 @@
     "steamID": 76561198047230423
   },
   "displayName": "Sector 423",
-  "url": "",
+  "id": 1396997297,
   "description": "Ya boi had to reupload this one, because he broke it.",
   "fileName": "sector 777",
+  "upvotes": 282,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -882,6 +884,13 @@
         "steamID": 76561198014599089
       },
       "time": 119000
+    },
+    {
+      "player": {
+        "displayName": "polybius99",
+        "steamID": 76561198093863980
+      },
+      "time": 119030
     },
     {
       "player": {

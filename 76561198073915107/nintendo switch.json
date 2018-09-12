@@ -4,9 +4,11 @@
     "steamID": 76561198073915107
   },
   "displayName": "Nintendo Switch",
-  "url": "",
+  "id": 949736913,
   "description": "A track that is based on the Nintendo Switch. It has anti-gravity roads, and chasm where you can enable your jet and make it to the other road.",
   "fileName": "nintendo switch",
+  "upvotes": 9,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {
@@ -115,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "Tubers",
+        "displayName": "[unknown]",
         "steamID": 76561198021519548
       },
       "time": 208230

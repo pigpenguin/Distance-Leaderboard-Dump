@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "DragonDraogo",
+    "displayName": "[unknown]",
     "steamID": 76561198030364879
   },
   "displayName": "The First Void",
-  "url": "",
+  "id": 684513918,
   "description": "My first attempt to create track for Distance.\r\n\r\nEnjoy!",
   "fileName": "myfirstvoid",
+  "upvotes": 287,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {
@@ -1137,7 +1139,7 @@
     },
     {
       "player": {
-        "displayName": "4P",
+        "displayName": "< blank >",
         "steamID": 76561198005648128
       },
       "time": 206500

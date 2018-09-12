@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "The_Door_Man",
+    "displayName": "[unknown]",
     "steamID": 76561198069224426
   },
   "displayName": "Test Level 02",
-  "url": "",
+  "id": 407885456,
   "description": "An awesome community level",
   "fileName": "test level 02",
+  "upvotes": 22,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {

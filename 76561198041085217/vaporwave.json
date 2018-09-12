@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Vaporwave",
-  "url": "",
+  "id": 560994060,
   "description": "Macintosh Plus - リサフランク420 / 現代のコンピュー  Meet the Asthetic.\r\nMade while in exams (reason for lack of uploads).\r\nIf you have read this far in the description, if you use your rotation jets and turn around at the very start there will be a shortcut, time to go",
   "fileName": "vaporwave",
+  "upvotes": 861,
+  "downvotes": 108,
   "leaderboard": [
     {
       "player": {
@@ -430,7 +432,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 47980
@@ -577,7 +579,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 48690
@@ -843,7 +845,7 @@
     },
     {
       "player": {
-        "displayName": "jayoku",
+        "displayName": "Jayoku Houtenjin!",
         "steamID": 76561198060363705
       },
       "time": 49240
@@ -1599,6 +1601,13 @@
     },
     {
       "player": {
+        "displayName": "TheLyricLeo",
+        "steamID": 76561198093773159
+      },
+      "time": 55800
+    },
+    {
+      "player": {
         "displayName": "Shadow Recon117",
         "steamID": 76561198026455250
       },
@@ -1755,13 +1764,6 @@
       "player": {
         "displayName": "niravdhoke",
         "steamID": 76561198033214887
-      },
-      "time": 57780
-    },
-    {
-      "player": {
-        "displayName": "TheLyricLeo",
-        "steamID": 76561198093773159
       },
       "time": 57780
     },
@@ -2593,7 +2595,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 78730
@@ -2705,7 +2707,7 @@
     },
     {
       "player": {
-        "displayName": "ER",
+        "displayName": "< blank >",
         "steamID": 76561198005638894
       },
       "time": 85580
@@ -2922,7 +2924,7 @@
     },
     {
       "player": {
-        "displayName": "KD",
+        "displayName": "< blank >",
         "steamID": 76561198037755195
       },
       "time": 98240

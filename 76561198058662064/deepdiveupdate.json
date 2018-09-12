@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Deep Dive",
-  "url": "",
+  "id": 1335051949,
   "description": "Reach the depths of the ocean to save the...ocean from...drowning?",
   "fileName": "deepdiveupdate",
+  "upvotes": 166,
+  "downvotes": 16,
   "leaderboard": [
     {
       "player": {
@@ -136,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 103640
@@ -1312,7 +1314,7 @@
     },
     {
       "player": {
-        "displayName": "Azazel | GC",
+        "displayName": "[unknown]",
         "steamID": 76561198111614630
       },
       "time": 156480

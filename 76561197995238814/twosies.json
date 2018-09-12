@@ -4,9 +4,11 @@
     "steamID": 76561197995238814
   },
   "displayName": "Angryfist Attempt II",
-  "url": "",
+  "id": 832468629,
   "description": "If a complete mongoloid like me can hack together something like this within 24 hours of starting the editor for the very first time, imagine what YOU can do with it!",
   "fileName": "twosies",
+  "upvotes": 18,
+  "downvotes": 12,
   "leaderboard": [
     {
       "player": {
@@ -402,7 +404,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 93110

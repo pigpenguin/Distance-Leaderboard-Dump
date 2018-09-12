@@ -4,9 +4,11 @@
     "steamID": 76561198147688475
   },
   "displayName": "NWBO/TB Course 4",
-  "url": "",
+  "id": 913305484,
   "description": "WARNING, THIS IS ONE OF THE HARDEST AIR CONTROL MAPS IN THE GAME.\r\nThe title of hardest has since been lost to Stretch your wings, By gammafunction, check it out.\r\nCredits to all the playtesters and brainstormers, Mcrekna1, Ferreus, TntMatthew, Jay2a, Eart",
   "fileName": "nwbo tb course 4",
+  "upvotes": 85,
+  "downvotes": 51,
   "leaderboard": [
     {
       "player": {
@@ -178,17 +180,17 @@
     },
     {
       "player": {
+        "displayName": "Frum",
+        "steamID": 76561198000807599
+      },
+      "time": 149720
+    },
+    {
+      "player": {
         "displayName": "Danny Burke",
         "steamID": 76561198159851584
       },
       "time": 152160
-    },
-    {
-      "player": {
-        "displayName": "Frum",
-        "steamID": 76561198000807599
-      },
-      "time": 155240
     },
     {
       "player": {
@@ -199,17 +201,17 @@
     },
     {
       "player": {
+        "displayName": "Flauschekissen",
+        "steamID": 76561198122532195
+      },
+      "time": 162500
+    },
+    {
+      "player": {
         "displayName": "Woodsy",
         "steamID": 76561198171634705
       },
       "time": 163410
-    },
-    {
-      "player": {
-        "displayName": "Flauschekissen",
-        "steamID": 76561198122532195
-      },
-      "time": 185850
     },
     {
       "player": {

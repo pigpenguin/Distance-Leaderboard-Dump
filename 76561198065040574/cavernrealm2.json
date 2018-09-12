@@ -4,9 +4,11 @@
     "steamID": 76561198065040574
   },
   "displayName": "Cavern Realm [Omega Redux]",
-  "url": "",
+  "id": 833276864,
   "description": "A redo of Alex Chosen's cavern relam.\r\n\r\nThis is version one, expect updates and changes as I get feedback.\r\n\r\n\r\nI turned up the speed on the track, as my first couple of playthroughs were kind of dull without it, you can abstain from boosting if it's too ",
   "fileName": "cavernrealm2",
+  "upvotes": 420,
+  "downvotes": 77,
   "leaderboard": [
     {
       "player": {
@@ -1270,7 +1272,7 @@
     },
     {
       "player": {
-        "displayName": "[Icez] Syncro",
+        "displayName": "Out Of Black",
         "steamID": 76561198384597961
       },
       "time": 230170
@@ -2691,7 +2693,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 288730
@@ -3657,7 +3659,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 337440
@@ -4147,7 +4149,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 381560

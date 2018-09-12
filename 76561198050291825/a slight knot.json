@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Aku Ryou",
+    "displayName": "[unknown]",
     "steamID": 76561198050291825
   },
   "displayName": "A Slight Knot",
-  "url": "",
+  "id": 529370808,
   "description": "This is a fast track with only a few obstacles. Find the best ideal line on this track and race to victory. If you find a shortcut, please inform me. Contrary to my other tracks, this is not out to kill you^^",
   "fileName": "a slight knot",
+  "upvotes": 339,
+  "downvotes": 68,
   "leaderboard": [
     {
       "player": {
@@ -1032,7 +1034,7 @@
     },
     {
       "player": {
-        "displayName": "Ловец натуралов",
+        "displayName": "A Real Hero",
         "steamID": 76561198039156114
       },
       "time": 150320

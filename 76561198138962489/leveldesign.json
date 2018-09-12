@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "tdubfed1",
+    "displayName": "[unknown]",
     "steamID": 76561198138962489
   },
   "displayName": "City Ways",
-  "url": "",
+  "id": 901304066,
   "description": "Drive through this beautiful city and take in the fresh atmosphere. But beware the construction and demolition, new horizons must be reached.",
   "fileName": "leveldesign",
+  "upvotes": 126,
+  "downvotes": 35,
   "leaderboard": [
     {
       "player": {
@@ -45,6 +47,13 @@
     },
     {
       "player": {
+        "displayName": "cali",
+        "steamID": 76561198033370644
+      },
+      "time": 78440
+    },
+    {
+      "player": {
         "displayName": "Devilgeek",
         "steamID": 76561198039576623
       },
@@ -73,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 115620

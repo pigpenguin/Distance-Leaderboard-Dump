@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Hexagone",
-  "url": "",
+  "id": 1255210060,
   "description": "You were hexahere and now you're hexagone...",
   "fileName": "hexagone",
+  "upvotes": 227,
+  "downvotes": 26,
   "leaderboard": [
     {
       "player": {
@@ -1746,7 +1748,7 @@
     },
     {
       "player": {
-        "displayName": "<>",
+        "displayName": "< blank >",
         "steamID": 76561198074592372
       },
       "time": 127630

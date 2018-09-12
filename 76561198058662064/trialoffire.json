@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Trial of the Flame Drake",
-  "url": "",
+  "id": 1367067516,
   "description": "Not to be confused with Trial of the Frame Rate.",
   "fileName": "trialoffire",
+  "upvotes": 407,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -304,7 +306,7 @@
     },
     {
       "player": {
-        "displayName": "SharpNeWolf @A Feeling",
+        "displayName": "SharpNeWolf @Mirror",
         "steamID": 76561198268358310
       },
       "time": 90130
@@ -843,7 +845,7 @@
     },
     {
       "player": {
-        "displayName": "Adam West",
+        "displayName": "GrófAzUhl",
         "steamID": 76561198018084993
       },
       "time": 104420
@@ -1214,7 +1216,7 @@
     },
     {
       "player": {
-        "displayName": "Empty Slot",
+        "displayName": "Empty_Slot",
         "steamID": 76561198043497063
       },
       "time": 115280
@@ -2341,7 +2343,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198106474365
       },
       "time": 142590
@@ -3444,6 +3446,13 @@
         "steamID": 76561197993179553
       },
       "time": 192000
+    },
+    {
+      "player": {
+        "displayName": "sheepington11211",
+        "steamID": 76561198057071313
+      },
+      "time": 192660
     },
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198008412100
   },
   "displayName": "The Best Track Ever",
-  "url": "",
+  "id": 443868935,
   "description": "An awesome community level",
   "fileName": "hockey",
+  "upvotes": 83,
+  "downvotes": 90,
   "leaderboard": [
     {
       "player": {
@@ -80,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 7330

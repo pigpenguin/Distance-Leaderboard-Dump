@@ -4,9 +4,11 @@
     "steamID": 76561198014052253
   },
   "displayName": "Funtrack",
-  "url": "",
+  "id": 536464635,
   "description": "An awesome community level",
   "fileName": "funtrack",
+  "upvotes": 93,
+  "downvotes": 36,
   "leaderboard": [
     {
       "player": {

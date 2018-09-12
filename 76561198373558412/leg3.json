@@ -4,9 +4,11 @@
     "steamID": 76561198373558412
   },
   "displayName": "leg3",
-  "url": "",
+  "id": 1148318061,
   "description": "An awesome community level",
   "fileName": "leg3",
+  "upvotes": 160,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {

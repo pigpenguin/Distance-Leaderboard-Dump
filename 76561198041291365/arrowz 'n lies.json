@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Zanmatô",
+    "displayName": "[unknown]",
     "steamID": 76561198041291365
   },
   "displayName": "Arrowz 'n lies",
-  "url": "",
+  "id": 430501029,
   "description": "Boost and jump only.\r\n\r\n(It's my first track.)",
   "fileName": "arrowz 'n lies",
+  "upvotes": 898,
+  "downvotes": 383,
   "leaderboard": [
     {
       "player": {
@@ -1081,7 +1083,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 356730
@@ -1333,7 +1335,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 412570

@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "R̷e̶d̵ ̷R̶i̵n̷g̸ ̶R̷i̴c̷o̷",
+    "displayName": "[unknown]",
     "steamID": 76561198011459455
   },
   "displayName": "Choices",
-  "url": "",
+  "id": 875722215,
   "description": "Each path takes the same amount of time.",
   "fileName": "choices",
+  "upvotes": 369,
+  "downvotes": 62,
   "leaderboard": [
     {
       "player": {
@@ -563,7 +565,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 126720
@@ -1221,7 +1223,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 140290
@@ -4049,7 +4051,7 @@
     },
     {
       "player": {
-        "displayName": "Shiroe",
+        "displayName": "鳳沢 暁月",
         "steamID": 76561198084720034
       },
       "time": 399910

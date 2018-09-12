@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "TheAccommodator",
+    "displayName": "[unknown]",
     "steamID": 76561198027850209
   },
   "displayName": "RateMe If you can...",
-  "url": "",
+  "id": 583312140,
   "description": "An awesome community level. Let me know what I can improve, since I'm sure there's a lot :).",
   "fileName": "1stlevel",
+  "upvotes": 117,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {

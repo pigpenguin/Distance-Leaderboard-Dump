@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "#Meme Monday",
-  "url": "",
+  "id": 681695601,
   "description": "OFFICIAL version!!!!\r\nParticles galore :)",
   "fileName": "#meme monday",
+  "upvotes": 437,
+  "downvotes": 126,
   "leaderboard": [
     {
       "player": {
@@ -234,7 +236,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 203490
@@ -689,7 +691,7 @@
     },
     {
       "player": {
-        "displayName": "ProlificPaizuri",
+        "displayName": "[unknown]",
         "steamID": 76561198072420466
       },
       "time": 264340
@@ -780,7 +782,7 @@
     },
     {
       "player": {
-        "displayName": "Impeccable Waifu",
+        "displayName": "[unknown]",
         "steamID": 76561198034890202
       },
       "time": 271030
@@ -1830,7 +1832,7 @@
     },
     {
       "player": {
-        "displayName": "lil' slippy",
+        "displayName": "Garold Skittledick",
         "steamID": 76561198108017225
       },
       "time": 385670
@@ -1893,7 +1895,7 @@
     },
     {
       "player": {
-        "displayName": "Posidia",
+        "displayName": "[unknown]",
         "steamID": 76561198162377143
       },
       "time": 396660
@@ -2124,7 +2126,7 @@
     },
     {
       "player": {
-        "displayName": "Erufu-desu",
+        "displayName": "[unknown]",
         "steamID": 76561198219832671
       },
       "time": 455830

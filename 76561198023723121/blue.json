@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Poofoo",
+    "displayName": "[unknown]",
     "steamID": 76561198023723121
   },
   "displayName": "Clean Blue",
-  "url": "",
+  "id": 585761115,
   "description": "A clean level with fun elements but no overwhelming particles and lights.",
   "fileName": "blue",
+  "upvotes": 233,
+  "downvotes": 61,
   "leaderboard": [
     {
       "player": {

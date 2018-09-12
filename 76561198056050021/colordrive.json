@@ -4,9 +4,11 @@
     "steamID": 76561198056050021
   },
   "displayName": "Color Drive _SemiFinished",
-  "url": "",
+  "id": 690228616,
   "description": "An awesome community level",
   "fileName": "colordrive",
+  "upvotes": 0,
+  "downvotes": 3,
   "leaderboard": [
     {
       "player": {
@@ -206,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 185070

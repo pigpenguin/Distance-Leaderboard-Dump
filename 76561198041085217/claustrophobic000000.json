@@ -4,9 +4,11 @@
     "steamID": 76561198041085217
   },
   "displayName": "Claustrophobic",
-  "url": "",
+  "id": 713130793,
   "description": "What could be down that cave?\r\n\r\nA lot of hours have gone into this so I hope you enjoy it! Thanks to Sperzieb00n and MCrekna1; for providing some of the underlying water particles and for giving constructive feedback on the track respectively.",
   "fileName": "claustrophobic000000",
+  "upvotes": 542,
+  "downvotes": 93,
   "leaderboard": [
     {
       "player": {
@@ -703,7 +705,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 172430
@@ -794,7 +796,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 182580
@@ -2453,7 +2455,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 422790

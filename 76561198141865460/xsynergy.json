@@ -4,9 +4,11 @@
     "steamID": 76561198141865460
   },
   "displayName": "X synergy",
-  "url": "",
+  "id": 489227418,
   "description": "DO NOT PLAY THIS LEVEL IN UNITY 5\r\nA small level of speed",
   "fileName": "xsynergy",
+  "upvotes": 394,
+  "downvotes": 62,
   "leaderboard": [
     {
       "player": {
@@ -248,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "LA BOUL DE LAVAJ",
+        "displayName": "la boule magique",
         "steamID": 76561197991062148
       },
       "time": 83330

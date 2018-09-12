@@ -4,9 +4,11 @@
     "steamID": 76561197994102448
   },
   "displayName": "Gotham 1992",
-  "url": "",
+  "id": 310766874,
   "description": "Ever wondered how it would be like to feel like batman in a closely resembeling the 1992 animated series Distance enviroment?\r\n\r\nNo?\r\n\r\nWell now you don't have to!\r\nHeavily inspired by the 1992 animated series this level will take you through a stretch of ",
   "fileName": "gotham",
+  "upvotes": 929,
+  "downvotes": 249,
   "leaderboard": [
     {
       "player": {
@@ -703,7 +705,7 @@
     },
     {
       "player": {
-        "displayName": "Ka",
+        "displayName": "< blank >",
         "steamID": 76561198027251521
       },
       "time": 138090
@@ -1242,7 +1244,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 169280
@@ -1326,7 +1328,7 @@
     },
     {
       "player": {
-        "displayName": "QP",
+        "displayName": "< blank >",
         "steamID": 76561198024632017
       },
       "time": 174200
@@ -1935,7 +1937,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 218720

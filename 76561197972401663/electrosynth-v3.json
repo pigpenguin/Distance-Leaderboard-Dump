@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Fire Marshal Crazy",
+    "displayName": "[unknown]",
     "steamID": 76561197972401663
   },
   "displayName": "Solar Electric (Infected Mix)",
-  "url": "",
+  "id": 698046715,
   "description": "The expert version of Solar Electric - this time with obstacles!",
   "fileName": "electrosynth-v3",
+  "upvotes": 320,
+  "downvotes": 60,
   "leaderboard": [
     {
       "player": {
@@ -535,7 +537,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 264020
@@ -1137,7 +1139,7 @@
     },
     {
       "player": {
-        "displayName": "Elkinas [Club join 8/32]",
+        "displayName": "Elkinas [Club join 6/32]",
         "steamID": 76561198192055977
       },
       "time": 381800

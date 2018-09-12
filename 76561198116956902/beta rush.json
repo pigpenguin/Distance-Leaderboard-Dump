@@ -4,9 +4,11 @@
     "steamID": 76561198116956902
   },
   "displayName": "Beta Rush",
-  "url": "",
+  "id": 683721166,
   "description": "Here's another Nitronic level for you. I had to \"Rush\" (no pun intended) this one as I have another one currently in the making. It's pretty simple to play through so I wouldn't expect you guys to find it difficult. Playtime (without crashing) usually last",
   "fileName": "beta rush",
+  "upvotes": 202,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {
@@ -339,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 125880

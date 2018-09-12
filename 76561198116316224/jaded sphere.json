@@ -4,9 +4,11 @@
     "steamID": 76561198116316224
   },
   "displayName": "Jaded Sphere",
-  "url": "",
+  "id": 923919455,
   "description": "There's only one sphere in the whole world...",
   "fileName": "jaded sphere",
+  "upvotes": 281,
+  "downvotes": 44,
   "leaderboard": [
     {
       "player": {
@@ -1060,7 +1062,7 @@
     },
     {
       "player": {
-        "displayName": "Jd",
+        "displayName": "< blank >",
         "steamID": 76561198119217056
       },
       "time": 242800
@@ -2159,7 +2161,7 @@
     },
     {
       "player": {
-        "displayName": "z3",
+        "displayName": "< blank >",
         "steamID": 76561198046369532
       },
       "time": 348740
@@ -2754,7 +2756,7 @@
     },
     {
       "player": {
-        "displayName": "Blueblood",
+        "displayName": "[unknown]",
         "steamID": 76561198033558515
       },
       "time": 508380

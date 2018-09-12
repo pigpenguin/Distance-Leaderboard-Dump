@@ -4,9 +4,11 @@
     "steamID": 76561198041668285
   },
   "displayName": "Super Short Six, #1: Actuate",
-  "url": "",
+  "id": 1127562851,
   "description": "The blue roads will fling you in the right direction... most of the time...\r\n\r\n=============================================================================\r\nSuper Short Six - A series of six short tracks made by me (Semtex4ya) that can be finished in unde",
   "fileName": "sss_actuate",
+  "upvotes": 142,
+  "downvotes": 28,
   "leaderboard": [
     {
       "player": {
@@ -178,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 60510
@@ -640,7 +642,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 99070

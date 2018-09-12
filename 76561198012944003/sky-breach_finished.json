@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Forcy",
+    "displayName": "[unknown]",
     "steamID": 76561198012944003
   },
   "displayName": "Falling Through The Sky",
-  "url": "",
+  "id": 359097810,
   "description": "[WARNING: outdated level, there might be a lot of problems]\r\n\r\nA short and speedy level with a moderate difficulty!\r\n\r\n-------\r\n\r\nAlso, check out my new project:\r\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=547925341\r\n",
   "fileName": "sky-breach_finished",
+  "upvotes": 3531,
+  "downvotes": 351,
   "leaderboard": [
     {
       "player": {
@@ -297,7 +299,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 66620
@@ -388,7 +390,7 @@
     },
     {
       "player": {
-        "displayName": "Sb",
+        "displayName": "< blank >",
         "steamID": 76561198054892460
       },
       "time": 66950
@@ -1578,7 +1580,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 68720
@@ -3615,7 +3617,7 @@
     },
     {
       "player": {
-        "displayName": "g",
+        "displayName": "< blank >",
         "steamID": 76561198132021300
       },
       "time": 76110
@@ -3727,7 +3729,7 @@
     },
     {
       "player": {
-        "displayName": "Drugs",
+        "displayName": "Morty McFloor",
         "steamID": 76561198058644046
       },
       "time": 76650
@@ -3958,7 +3960,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198024170564
       },
       "time": 77850
@@ -4581,7 +4583,7 @@
     },
     {
       "player": {
-        "displayName": "KirPill",
+        "displayName": "there must be nickname",
         "steamID": 76561198062810357
       },
       "time": 81260
@@ -5477,7 +5479,7 @@
     },
     {
       "player": {
-        "displayName": "NUCLEAR",
+        "displayName": "18 naked cowboys",
         "steamID": 76561198076777664
       },
       "time": 87330
@@ -8088,7 +8090,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 137290
@@ -9110,7 +9112,7 @@
     },
     {
       "player": {
-        "displayName": "The Real Don Cheadle",
+        "displayName": "FK MY TEAMMATE",
         "steamID": 76561197971601017
       },
       "time": 309480

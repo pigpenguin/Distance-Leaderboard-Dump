@@ -4,9 +4,11 @@
     "steamID": 76561198116316224
   },
   "displayName": "credible-red",
-  "url": "",
+  "id": 604390865,
   "description": "choose red!",
   "fileName": "credible-red",
+  "upvotes": 169,
+  "downvotes": 69,
   "leaderboard": [
     {
       "player": {
@@ -640,7 +642,7 @@
     },
     {
       "player": {
-        "displayName": "72",
+        "displayName": "< blank >",
         "steamID": 76561198138098328
       },
       "time": 369450

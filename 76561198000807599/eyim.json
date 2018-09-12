@@ -4,9 +4,11 @@
     "steamID": 76561198000807599
   },
   "displayName": "Eyim",
-  "url": "",
+  "id": 1300135991,
   "description": "Babby's 2nd map.",
   "fileName": "eyim",
+  "upvotes": 47,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -192,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 175760

@@ -4,9 +4,11 @@
     "steamID": 76561198067723583
   },
   "displayName": "The Gauntlet [V1]",
-  "url": "",
+  "id": 798765648,
   "description": "My first level, nothing special. Made it for fun. This is a part of a project I'm considering expanding on, making the roads longer, and adding more challenge.",
   "fileName": "thegauntletv1",
+  "upvotes": 1,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {

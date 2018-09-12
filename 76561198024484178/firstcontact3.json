@@ -4,9 +4,11 @@
     "steamID": 76561198024484178
   },
   "displayName": "Underground",
-  "url": "",
+  "id": 1001396152,
   "description": "A level inspired by NFS Underground and a bit of Flatout's stunt levels by the end. Features multiple routes and pretty graphics. Ignore the wrong way warnings!",
   "fileName": "firstcontact3",
+  "upvotes": 74,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {

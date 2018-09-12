@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Village in the Skies",
-  "url": "",
+  "id": 1184942319,
   "description": "it looks pretty or something. idk",
   "fileName": "cloud village",
+  "upvotes": 119,
+  "downvotes": 35,
   "leaderboard": [
     {
       "player": {
@@ -1039,7 +1041,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 539840
@@ -1207,7 +1209,7 @@
     },
     {
       "player": {
-        "displayName": "??",
+        "displayName": "< blank >",
         "steamID": 76561198003434270
       },
       "time": 754040

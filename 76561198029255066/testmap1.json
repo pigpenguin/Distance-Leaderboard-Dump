@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "It's OK To Be White",
+    "displayName": "[unknown]",
     "steamID": 76561198029255066
   },
   "displayName": "SwagmanMcGee",
-  "url": "",
+  "id": 586780133,
   "description": "An awesome community level",
   "fileName": "testmap1",
+  "upvotes": 16,
+  "downvotes": 14,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561198121310718
   },
   "displayName": "swamp realm",
-  "url": "",
+  "id": 952623185,
   "description": "",
   "fileName": "swamp xd",
+  "upvotes": 233,
+  "downvotes": 54,
   "leaderboard": [
     {
       "player": {
@@ -2075,7 +2077,7 @@
     },
     {
       "player": {
-        "displayName": "xo",
+        "displayName": "< blank >",
         "steamID": 76561198124159265
       },
       "time": 844760

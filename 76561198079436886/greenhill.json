@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Poksonkirmar",
+    "displayName": "[unknown]",
     "steamID": 76561198079436886
   },
   "displayName": "Green Hill Zone",
-  "url": "",
+  "id": 484714901,
   "description": "A recreation of Green Hill Zone Act 2 (Modern) from Sonic Generations. Some parts were cut or modified, speicifcally the two-dimensional segments.",
   "fileName": "greenhill",
+  "upvotes": 156,
+  "downvotes": 97,
   "leaderboard": [
     {
       "player": {

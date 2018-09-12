@@ -4,9 +4,11 @@
     "steamID": 76561198089234092
   },
   "displayName": "Enforce",
-  "url": "",
+  "id": 1128800054,
   "description": "ENFORCE",
   "fileName": "enforce",
+  "upvotes": 318,
+  "downvotes": 33,
   "leaderboard": [
     {
       "player": {
@@ -430,7 +432,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 113810
@@ -2880,7 +2882,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 241760
@@ -3244,7 +3246,7 @@
     },
     {
       "player": {
-        "displayName": "Queenfoop",
+        "displayName": "[unknown]",
         "steamID": 76561198078593702
       },
       "time": 585040

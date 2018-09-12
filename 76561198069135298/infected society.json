@@ -4,9 +4,11 @@
     "steamID": 76561198069135298
   },
   "displayName": "Infected Society",
-  "url": "",
+  "id": 528408896,
   "description": "An awesome community level",
   "fileName": "infected society",
+  "upvotes": 258,
+  "downvotes": 93,
   "leaderboard": [
     {
       "player": {

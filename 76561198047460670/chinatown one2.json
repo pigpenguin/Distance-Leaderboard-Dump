@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "KAPMAH",
+    "displayName": "[unknown]",
     "steamID": 76561198047460670
   },
   "displayName": "Chinatown one",
-  "url": "",
+  "id": 517665908,
   "description": "An awesome community level",
   "fileName": "chinatown one2",
+  "upvotes": 816,
+  "downvotes": 145,
   "leaderboard": [
     {
       "player": {
@@ -101,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 62440
@@ -822,7 +824,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 85560
@@ -1865,7 +1867,7 @@
     },
     {
       "player": {
-        "displayName": "Der Laternisierer",
+        "displayName": "B-52",
         "steamID": 76561198095791517
       },
       "time": 126550
@@ -2226,6 +2228,13 @@
         "steamID": 76561198054441479
       },
       "time": 154030
+    },
+    {
+      "player": {
+        "displayName": "SpicyMiku-chan",
+        "steamID": 76561198017945328
+      },
+      "time": 154430
     },
     {
       "player": {

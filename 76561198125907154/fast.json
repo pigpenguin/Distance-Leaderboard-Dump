@@ -4,9 +4,11 @@
     "steamID": 76561198125907154
   },
   "displayName": "Fast (Social Experiment)",
-  "url": "",
+  "id": 1129740265,
   "description": "Be the Quickest!",
   "fileName": "fast",
+  "upvotes": 83,
+  "downvotes": 27,
   "leaderboard": [
     {
       "player": {
@@ -213,7 +215,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 14600
@@ -465,7 +467,7 @@
     },
     {
       "player": {
-        "displayName": "SA",
+        "displayName": "< blank >",
         "steamID": 76561198106850924
       },
       "time": 16400
@@ -605,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "Twais",
+        "displayName": "[unknown]",
         "steamID": 76561198135919032
       },
       "time": 19770

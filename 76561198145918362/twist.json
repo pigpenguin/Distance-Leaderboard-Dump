@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Reliaks",
+    "displayName": "[unknown]",
     "steamID": 76561198145918362
   },
   "displayName": "Obstacle illusion",
-  "url": "",
+  "id": 585743573,
   "description": "A very \"Twisty\" level with an amped-up feel to it and a troll-barricade.",
   "fileName": "twist",
+  "upvotes": 67,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -24,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "Reliaks",
+        "displayName": "[unknown]",
         "steamID": 76561198145918362
       },
       "time": 139370

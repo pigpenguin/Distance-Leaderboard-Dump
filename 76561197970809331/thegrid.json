@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Shamus Young",
+    "displayName": "[unknown]",
     "steamID": 76561197970809331
   },
   "displayName": "The Grid",
-  "url": "",
+  "id": 761037918,
   "description": "A Tron-style world of grids and glowing stuff, as you do. Casual difficulty.",
   "fileName": "thegrid",
+  "upvotes": 445,
+  "downvotes": 90,
   "leaderboard": [
     {
       "player": {
@@ -402,7 +404,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 180090
@@ -2537,7 +2539,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 245770
@@ -2712,7 +2714,7 @@
     },
     {
       "player": {
-        "displayName": "Zea mays [NTAH...]",
+        "displayName": "Zea mays [nevermind.]",
         "steamID": 76561198030119958
       },
       "time": 265340

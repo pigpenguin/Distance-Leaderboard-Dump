@@ -4,9 +4,11 @@
     "steamID": 76561198023443979
   },
   "displayName": "Illumination",
-  "url": "",
+  "id": 681688851,
   "description": "New track that experiments with the new particle system a little, and the new +PulseAll component!",
   "fileName": "illumination",
+  "upvotes": 345,
+  "downvotes": 91,
   "leaderboard": [
     {
       "player": {

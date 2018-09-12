@@ -4,9 +4,11 @@
     "steamID": 76561198132894787
   },
   "displayName": "The Run",
-  "url": "",
+  "id": 537837353,
   "description": "Can you find the easter egg? (Hint: it is an egg)",
   "fileName": "level 2",
+  "upvotes": 192,
+  "downvotes": 41,
   "leaderboard": [
     {
       "player": {

@@ -4,9 +4,11 @@
     "steamID": 76561197973325713
   },
   "displayName": "Anti-tower",
-  "url": "",
+  "id": 1236234749,
   "description": "Becomes less fair as you climb, can you reach the top? turn realtime reflections off for more performance.",
   "fileName": "tower",
+  "upvotes": 15,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {

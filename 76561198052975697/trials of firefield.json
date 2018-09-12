@@ -4,9 +4,11 @@
     "steamID": 76561198052975697
   },
   "displayName": "DAC#25 Trials Of FireField",
-  "url": "",
+  "id": 1242823192,
   "description": "Merry Christmas!\r\nTake a festive ride along a firey coaster. Avoid bombs and watch for uneven roads. The cylinder is the main attration but dont let it fool you. You can drive around it safely but turn too abrupt and youll have a quick death into lava.\r\nTh",
   "fileName": "trials of firefield",
+  "upvotes": 265,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {
@@ -2698,7 +2700,7 @@
     },
     {
       "player": {
-        "displayName": "Furry Pirate",
+        "displayName": "Angery Pirate",
         "steamID": 76561198356374110
       },
       "time": 415650

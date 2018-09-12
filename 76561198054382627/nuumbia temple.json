@@ -4,9 +4,11 @@
     "steamID": 76561198054382627
   },
   "displayName": "Nuumbia Temple",
-  "url": "",
+  "id": 547246101,
   "description": "The Nuumbia will control all.",
   "fileName": "nuumbia temple",
+  "upvotes": 847,
+  "downvotes": 123,
   "leaderboard": [
     {
       "player": {
@@ -241,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 59780
@@ -1704,7 +1706,7 @@
     },
     {
       "player": {
-        "displayName": "Nemesis Syn",
+        "displayName": "Neme.SYS",
         "steamID": 76561198271885258
       },
       "time": 81670

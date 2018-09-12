@@ -4,9 +4,11 @@
     "steamID": 76561198065040574
   },
   "displayName": "Swamp Realm [Omega]",
-  "url": "",
+  "id": 871582632,
   "description": "\"Finished enough\" I think is the term that best describes this map.\r\n\r\nIt's not done, though. I'll be revising it with criticism over the coming weeks, months, etc. \r\n\r\nIn the meantime, enjoy! The official set is now complete. \r\n\r\n\r\nThis was quite the coll",
   "fileName": "swamp realm",
+  "upvotes": 282,
+  "downvotes": 60,
   "leaderboard": [
     {
       "player": {
@@ -1312,7 +1314,7 @@
     },
     {
       "player": {
-        "displayName": "Mo",
+        "displayName": "< blank >",
         "steamID": 76561198037218025
       },
       "time": 335020
@@ -2471,6 +2473,13 @@
         "steamID": 76561198080341593
       },
       "time": 469530
+    },
+    {
+      "player": {
+        "displayName": "Eld",
+        "steamID": 76561198016417731
+      },
+      "time": 473670
     },
     {
       "player": {

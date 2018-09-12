@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Forcy",
+    "displayName": "[unknown]",
     "steamID": 76561198012944003
   },
   "displayName": "DAC #14: North Pole",
-  "url": "",
+  "id": 575505765,
   "description": "[WARNING: outdated level, there might be a lot of problems]\r\n\r\n- Difficulty: Advanced - \r\n\r\nLevel-Walkthrough:\r\nhttps://youtu.be/iR8916_i2Hg\r\n\r\nDAC-Trailer:\r\nhttps://youtu.be/x_znu8n7_EA\r\n\r\n---\r\n\r\nHave fun! :D",
   "fileName": "the_north_pole_final_v2",
+  "upvotes": 656,
+  "downvotes": 197,
   "leaderboard": [
     {
       "player": {
@@ -150,7 +152,7 @@
     },
     {
       "player": {
-        "displayName": "..",
+        "displayName": "< blank >",
         "steamID": 76561198033984347
       },
       "time": 102890
@@ -283,7 +285,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 107650

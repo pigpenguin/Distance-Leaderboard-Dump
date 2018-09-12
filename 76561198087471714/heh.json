@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Bobo",
+    "displayName": "[unknown]",
     "steamID": 76561198087471714
   },
   "displayName": "Heh",
-  "url": "",
+  "id": 586736199,
   "description": "An awesome community level",
   "fileName": "heh",
+  "upvotes": 9,
+  "downvotes": 13,
   "leaderboard": [
     {
       "player": {

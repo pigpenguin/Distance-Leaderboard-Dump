@@ -4,9 +4,11 @@
     "steamID": 76561198067084640
   },
   "displayName": "Guiding Light",
-  "url": "",
+  "id": 852408445,
   "description": "This city still lives- its lights still glow, its \"heart\" still beats, and its storms still thunder. \r\nAnd it wants you dead.",
   "fileName": "guiding light",
+  "upvotes": 112,
+  "downvotes": 31,
   "leaderboard": [
     {
       "player": {
@@ -822,7 +824,7 @@
     },
     {
       "player": {
-        "displayName": "TaekjoZ #ControllerDay5",
+        "displayName": "TaekjoZ #ControllerDay6",
         "steamID": 76561198144730760
       },
       "time": 206190
@@ -1193,14 +1195,14 @@
     },
     {
       "player": {
-        "displayName": "Oh No",
+        "displayName": "Obi Juan Kenobi",
         "steamID": 76561198113848678
       },
       "time": 267180
     },
     {
       "player": {
-        "displayName": "Schlechte Maus",
+        "displayName": "IAMNOOB",
         "steamID": 76561198147865162
       },
       "time": 271950

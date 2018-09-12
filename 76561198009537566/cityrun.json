@@ -1,12 +1,14 @@
 {
   "author": {
-    "displayName": "Krümelmonster",
+    "displayName": "[unknown]",
     "steamID": 76561198009537566
   },
   "displayName": "Cityrun",
-  "url": "",
+  "id": 500327233,
   "description": "A Medium long race through the city .\r\n\r\nI hope youll like it :) \r\n\r\nplease tell me if you find any bugs.",
   "fileName": "cityrun",
+  "upvotes": 1180,
+  "downvotes": 204,
   "leaderboard": [
     {
       "player": {
@@ -157,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "G9",
+        "displayName": "< blank >",
         "steamID": 76561197974733660
       },
       "time": 79710
@@ -2971,7 +2973,7 @@
     },
     {
       "player": {
-        "displayName": "LYNNUI_VOLCK",
+        "displayName": "[unknown]",
         "steamID": 76561198112602443
       },
       "time": 182580
@@ -3167,7 +3169,7 @@
     },
     {
       "player": {
-        "displayName": "FF",
+        "displayName": "< blank >",
         "steamID": 76561198027502169
       },
       "time": 211720

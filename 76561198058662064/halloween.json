@@ -4,9 +4,11 @@
     "steamID": 76561198058662064
   },
   "displayName": "Desperation",
-  "url": "",
+  "id": 1170587812,
   "description": "Attempt at going for a corruption theme. Also big worms...because why not big worms?",
   "fileName": "halloween",
+  "upvotes": 101,
+  "downvotes": 44,
   "leaderboard": [
     {
       "player": {
@@ -864,7 +866,7 @@
     },
     {
       "player": {
-        "displayName": "NewDeck Tom",
+        "displayName": "TimTam Tom",
         "steamID": 76561198045988062
       },
       "time": 371480
@@ -920,7 +922,7 @@
     },
     {
       "player": {
-        "displayName": "Ω",
+        "displayName": "< blank >",
         "steamID": 76561198121879575
       },
       "time": 404310
@@ -1081,7 +1083,7 @@
     },
     {
       "player": {
-        "displayName": "[REDACTED]",
+        "displayName": "Adustio Ausperer",
         "steamID": 76561198014371571
       },
       "time": 595240
