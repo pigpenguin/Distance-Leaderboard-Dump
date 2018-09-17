@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "DontLook4Phoebe",
+    "displayName": "[unknown]",
     "steamID": 76561198001024559
   },
   "displayName": "Violent Red Ride",
@@ -8,8 +8,15 @@
   "description": "This one used trackmogrify to place checkpoints and baseline; most decoration, obstacles and layout were all hard work and hand placements. The end result is a pulsing bright red speed challenge with each kind of obstacle and loop/jump separated into indiv",
   "fileName": "untitled",
   "upvotes": 18,
-  "downvotes": 19,
+  "downvotes": 20,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 363010
+    },
     {
       "player": {
         "displayName": "cali",

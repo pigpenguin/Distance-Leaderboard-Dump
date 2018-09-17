@@ -8,8 +8,15 @@
   "description": "An awesome community level",
   "fileName": "hello world",
   "upvotes": 6,
-  "downvotes": 14,
+  "downvotes": 15,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 24110
+    },
     {
       "player": {
         "displayName": "cali",

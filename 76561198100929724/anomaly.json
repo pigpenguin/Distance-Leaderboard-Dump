@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Metaljaw #Frontline | trade.tf",
+    "displayName": "[unknown]",
     "steamID": 76561198100929724
   },
   "displayName": "Anomaly",
   "id": 852353638,
   "description": "My first level!\r\n\r\nThe city isn't safe anymore. \r\nEvacuate while you still can.",
   "fileName": "anomaly",
-  "upvotes": 117,
+  "upvotes": 120,
   "downvotes": 33,
   "leaderboard": [
     {
@@ -471,6 +471,13 @@
         "steamID": 76561198178240410
       },
       "time": 45990
+    },
+    {
+      "player": {
+        "displayName": "TheScientist",
+        "steamID": 76561198045751098
+      },
+      "time": 46010
     },
     {
       "player": {
@@ -1167,7 +1174,7 @@
     },
     {
       "player": {
-        "displayName": "LÖÖP",
+        "displayName": "INFINITÉ LÖÖPS",
         "steamID": 76561198193380891
       },
       "time": 51250
@@ -1321,6 +1328,13 @@
     },
     {
       "player": {
+        "displayName": "theolice",
+        "steamID": 76561198039758717
+      },
+      "time": 53140
+    },
+    {
+      "player": {
         "displayName": "Zer0",
         "steamID": 76561198034621542
       },
@@ -1363,7 +1377,7 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 53570
@@ -1734,7 +1748,7 @@
     },
     {
       "player": {
-        "displayName": "Desiré",
+        "displayName": "Misty-",
         "steamID": 76561198033098196
       },
       "time": 62990
@@ -1850,6 +1864,13 @@
         "steamID": 76561198019693424
       },
       "time": 68100
+    },
+    {
+      "player": {
+        "displayName": "Green Dune",
+        "steamID": 76561198042027221
+      },
+      "time": 68240
     },
     {
       "player": {

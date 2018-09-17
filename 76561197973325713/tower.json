@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Sperzieb00n",
+    "displayName": "[unknown]",
     "steamID": 76561197973325713
   },
   "displayName": "Anti-tower",
@@ -8,7 +8,7 @@
   "description": "Becomes less fair as you climb, can you reach the top? turn realtime reflections off for more performance.",
   "fileName": "tower",
   "upvotes": 15,
-  "downvotes": 24,
+  "downvotes": 25,
   "leaderboard": [
     {
       "player": {
@@ -26,6 +26,13 @@
     },
     {
       "player": {
+        "displayName": "wit",
+        "steamID": 76561198047147439
+      },
+      "time": 88630
+    },
+    {
+      "player": {
         "displayName": "PPPaul",
         "steamID": 76561198023567939
       },
@@ -37,13 +44,6 @@
         "steamID": 76561198045059228
       },
       "time": 90220
-    },
-    {
-      "player": {
-        "displayName": "wit",
-        "steamID": 76561198047147439
-      },
-      "time": 105230
     },
     {
       "player": {

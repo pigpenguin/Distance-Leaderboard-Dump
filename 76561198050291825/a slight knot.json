@@ -208,6 +208,13 @@
     },
     {
       "player": {
+        "displayName": "CuddleStrike",
+        "steamID": 76561198001373228
+      },
+      "time": 64870
+    },
+    {
+      "player": {
         "displayName": "Paradox92",
         "steamID": 76561198076201821
       },
@@ -254,13 +261,6 @@
         "steamID": 76561198065909567
       },
       "time": 65010
-    },
-    {
-      "player": {
-        "displayName": "CuddleStrike",
-        "steamID": 76561198001373228
-      },
-      "time": 65040
     },
     {
       "player": {
@@ -747,6 +747,13 @@
     },
     {
       "player": {
+        "displayName": "Mini Satan",
+        "steamID": 76561198048901654
+      },
+      "time": 82890
+    },
+    {
+      "player": {
         "displayName": "Guardsman Marbo",
         "steamID": 76561198023579762
       },
@@ -793,13 +800,6 @@
         "steamID": 76561198042702860
       },
       "time": 89750
-    },
-    {
-      "player": {
-        "displayName": "Mini Satan",
-        "steamID": 76561198048901654
-      },
-      "time": 90490
     },
     {
       "player": {

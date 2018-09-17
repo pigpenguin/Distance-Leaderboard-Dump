@@ -7,7 +7,7 @@
   "id": 571362922,
   "description": "Still partially a work in progress, any feedback you can give is welcomed! Enjoy, and Merry Christmas.",
   "fileName": "super mario galaxy",
-  "upvotes": 1338,
+  "upvotes": 1341,
   "downvotes": 235,
   "leaderboard": [
     {
@@ -138,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 97120
@@ -866,6 +866,13 @@
     },
     {
       "player": {
+        "displayName": "Piiec",
+        "steamID": 76561198255620812
+      },
+      "time": 123140
+    },
+    {
+      "player": {
         "displayName": "Emerald_Pick",
         "steamID": 76561198108145031
       },
@@ -1405,6 +1412,13 @@
     },
     {
       "player": {
+        "displayName": "Snails",
+        "steamID": 76561198163264307
+      },
+      "time": 137620
+    },
+    {
+      "player": {
         "displayName": "Cruiser_No_1",
         "steamID": 76561198078893732
       },
@@ -1433,7 +1447,7 @@
     },
     {
       "player": {
-        "displayName": "IJ_01",
+        "displayName": "ULTRACOMFY",
         "steamID": 76561198243733818
       },
       "time": 138660
@@ -1657,7 +1671,7 @@
     },
     {
       "player": {
-        "displayName": "[unknown]",
+        "displayName": "Vaeb41",
         "steamID": 76561198048054312
       },
       "time": 144020
@@ -1822,6 +1836,13 @@
         "steamID": 76561197994891172
       },
       "time": 148650
+    },
+    {
+      "player": {
+        "displayName": "tellmeninetails",
+        "steamID": 76561198146279270
+      },
+      "time": 148720
     },
     {
       "player": {
@@ -2028,7 +2049,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 155560
@@ -2672,7 +2693,7 @@
     },
     {
       "player": {
-        "displayName": "Times New Roman [GER]",
+        "displayName": "[unknown]",
         "steamID": 76561198072960238
       },
       "time": 181620
@@ -3344,7 +3365,7 @@
     },
     {
       "player": {
-        "displayName": "웃_LIL RAFF_웃",
+        "displayName": "웃 FVCK ENRICO웃",
         "steamID": 76561198315370984
       },
       "time": 276550
@@ -3428,7 +3449,7 @@
     },
     {
       "player": {
-        "displayName": "[unknown]",
+        "displayName": "Sparkinstripes",
         "steamID": 76561198103174857
       },
       "time": 325220

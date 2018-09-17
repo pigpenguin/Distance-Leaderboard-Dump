@@ -348,7 +348,7 @@
     },
     {
       "player": {
-        "displayName": "domi (away)",
+        "displayName": "domi",
         "steamID": 76561198103316789
       },
       "time": 116460
@@ -443,6 +443,13 @@
         "steamID": 76561198068642092
       },
       "time": 125580
+    },
+    {
+      "player": {
+        "displayName": "rip in pieces",
+        "steamID": 76561198078651607
+      },
+      "time": 126640
     },
     {
       "player": {
@@ -541,13 +548,6 @@
         "steamID": 76561198206014791
       },
       "time": 139040
-    },
-    {
-      "player": {
-        "displayName": "rip in pieces",
-        "steamID": 76561198078651607
-      },
-      "time": 148060
     },
     {
       "player": {

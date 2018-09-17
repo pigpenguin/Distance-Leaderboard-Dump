@@ -8,7 +8,7 @@
   "description": "A hard community level. Requires knowledge of most of the mechanics of the game to complete.",
   "fileName": "nwbo5",
   "upvotes": 71,
-  "downvotes": 41,
+  "downvotes": 42,
   "leaderboard": [
     {
       "player": {
@@ -96,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 187940
@@ -117,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 198070
@@ -278,6 +278,13 @@
     },
     {
       "player": {
+        "displayName": "slowscan",
+        "steamID": 76561197994748278
+      },
+      "time": 315160
+    },
+    {
+      "player": {
         "displayName": "Oddity",
         "steamID": 76561198049342775
       },
@@ -383,13 +390,6 @@
     },
     {
       "player": {
-        "displayName": "slowscan",
-        "steamID": 76561197994748278
-      },
-      "time": 493370
-    },
-    {
-      "player": {
         "displayName": "xsmreox",
         "steamID": 76561198241722914
       },
@@ -408,6 +408,13 @@
         "steamID": 76561197992022148
       },
       "time": 545200
+    },
+    {
+      "player": {
+        "displayName": "λLEλNTE",
+        "steamID": 76561198025701308
+      },
+      "time": 546220
     },
     {
       "player": {
@@ -464,13 +471,6 @@
         "steamID": 76561198114721305
       },
       "time": 707120
-    },
-    {
-      "player": {
-        "displayName": "λLEλNTE",
-        "steamID": 76561198025701308
-      },
-      "time": 766670
     },
     {
       "player": {

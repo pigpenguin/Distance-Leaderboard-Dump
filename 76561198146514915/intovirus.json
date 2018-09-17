@@ -1,0 +1,70 @@
+{
+  "author": {
+    "displayName": "[unknown]",
+    "steamID": 76561198146514915
+  },
+  "displayName": "Falling into The Virus",
+  "id": 1513737672,
+  "description": "An easy short level.",
+  "fileName": "intovirus",
+  "upvotes": 1,
+  "downvotes": 2,
+  "leaderboard": [
+    {
+      "player": {
+        "displayName": "Kenaz",
+        "steamID": 76561198214868559
+      },
+      "time": 52630
+    },
+    {
+      "player": {
+        "displayName": "Dog Arms",
+        "steamID": 76561198021567209
+      },
+      "time": 55710
+    },
+    {
+      "player": {
+        "displayName": "jason",
+        "steamID": 76561198182286527
+      },
+      "time": 67180
+    },
+    {
+      "player": {
+        "displayName": "Tkach",
+        "steamID": 76561198146514915
+      },
+      "time": 68890
+    },
+    {
+      "player": {
+        "displayName": "i0nTempest",
+        "steamID": 76561198244554216
+      },
+      "time": 70410
+    },
+    {
+      "player": {
+        "displayName": "=PF= Robin Yiff",
+        "steamID": 76561197968927325
+      },
+      "time": 77940
+    },
+    {
+      "player": {
+        "displayName": "kildert5",
+        "steamID": 76561198078526316
+      },
+      "time": 121440
+    },
+    {
+      "player": {
+        "displayName": "Ачиро",
+        "steamID": 76561198156791459
+      },
+      "time": 260980
+    }
+  ]
+}

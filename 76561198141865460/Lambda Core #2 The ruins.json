@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "karlitosxddd",
+    "displayName": "[unknown]",
     "steamID": 76561198141865460
   },
   "displayName": "Lambda Core #2 The ruins",
@@ -10,6 +10,13 @@
   "upvotes": 72,
   "downvotes": 47,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 49770
+    },
     {
       "player": {
         "displayName": "cali",
@@ -82,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 51110

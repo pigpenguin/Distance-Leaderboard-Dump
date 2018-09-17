@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Lukas",
+    "displayName": "[unknown]",
     "steamID": 76561198065415045
   },
   "displayName": "Night Will Fall",
@@ -107,6 +107,13 @@
         "steamID": 76561197991166378
       },
       "time": 856520
+    },
+    {
+      "player": {
+        "displayName": "BoredMalek",
+        "steamID": 76561198010612550
+      },
+      "time": 1037270
     },
     {
       "player": {

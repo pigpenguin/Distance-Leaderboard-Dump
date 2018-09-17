@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "ben008",
+    "displayName": "[unknown]",
     "steamID": 76561198076076457
   },
   "displayName": "first sprint the coruptor",
@@ -334,6 +334,13 @@
     },
     {
       "player": {
+        "displayName": "rip in pieces",
+        "steamID": 76561198078651607
+      },
+      "time": 71750
+    },
+    {
+      "player": {
         "displayName": "Griz",
         "steamID": 76561198087420830
       },
@@ -362,13 +369,6 @@
     },
     {
       "player": {
-        "displayName": "rip in pieces",
-        "steamID": 76561198078651607
-      },
-      "time": 81450
-    },
-    {
-      "player": {
         "displayName": "Sad Derek",
         "steamID": 76561198102441470
       },
@@ -376,7 +376,7 @@
     },
     {
       "player": {
-        "displayName": "GlonK",
+        "displayName": "Not fat no more",
         "steamID": 76561198079982782
       },
       "time": 83390

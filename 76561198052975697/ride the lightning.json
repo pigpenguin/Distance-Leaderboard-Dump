@@ -7,7 +7,7 @@
   "id": 689586771,
   "description": "The most METAL, BRUTAL level ever!",
   "fileName": "ride the lightning",
-  "upvotes": 360,
+  "upvotes": 361,
   "downvotes": 59,
   "leaderboard": [
     {
@@ -54,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 111140
@@ -642,6 +642,13 @@
     },
     {
       "player": {
+        "displayName": "cocofou",
+        "steamID": 76561198142866504
+      },
+      "time": 202550
+    },
+    {
+      "player": {
         "displayName": "Jagat",
         "steamID": 76561198314733548
       },
@@ -982,6 +989,13 @@
         "steamID": 76561198124912729
       },
       "time": 254000
+    },
+    {
+      "player": {
+        "displayName": "Tentacule_sama",
+        "steamID": 76561198048525153
+      },
+      "time": 254280
     },
     {
       "player": {

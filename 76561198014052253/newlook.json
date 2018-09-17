@@ -75,6 +75,13 @@
     },
     {
       "player": {
+        "displayName": "CuddleStrike",
+        "steamID": 76561198001373228
+      },
+      "time": 73370
+    },
+    {
+      "player": {
         "displayName": "Alopex",
         "steamID": 76561198091495023
       },
@@ -124,13 +131,6 @@
     },
     {
       "player": {
-        "displayName": "CuddleStrike",
-        "steamID": 76561198001373228
-      },
-      "time": 75010
-    },
-    {
-      "player": {
         "displayName": "Thunderskull",
         "steamID": 76561197989191729
       },
@@ -173,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "father cool",
+        "displayName": "we have technology",
         "steamID": 76561198024545911
       },
       "time": 77240
@@ -726,7 +726,7 @@
     },
     {
       "player": {
-        "displayName": "zealotsthename † 狂热者",
+        "displayName": "zealotsthename † 狂热",
         "steamID": 76561198081649681
       },
       "time": 134430

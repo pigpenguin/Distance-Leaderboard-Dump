@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Xaiux",
+    "displayName": "[unknown]",
     "steamID": 76561198060944272
   },
   "displayName": "Pluto",
@@ -121,6 +121,13 @@
         "steamID": 76561198148309691
       },
       "time": 60110
+    },
+    {
+      "player": {
+        "displayName": "Wizard the Wizard",
+        "steamID": 76561198035725910
+      },
+      "time": 63120
     },
     {
       "player": {
@@ -397,13 +404,6 @@
     },
     {
       "player": {
-        "displayName": "Wizard the Wizard",
-        "steamID": 76561198035725910
-      },
-      "time": 101820
-    },
-    {
-      "player": {
         "displayName": "Dread Phantom",
         "steamID": 76561198069419955
       },
@@ -443,6 +443,13 @@
         "steamID": 76561198044728013
       },
       "time": 104560
+    },
+    {
+      "player": {
+        "displayName": "Jarred746",
+        "steamID": 76561198201817425
+      },
+      "time": 104830
     },
     {
       "player": {
@@ -628,7 +635,7 @@
     },
     {
       "player": {
-        "displayName": "УЧЕНИК ЕХУС #69 (МонструганАйше)",
+        "displayName": "УЧЕНИК ЕХУС №69 (МонструганАйше)",
         "steamID": 76561198183795330
       },
       "time": 141930

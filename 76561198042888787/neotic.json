@@ -7,7 +7,7 @@
   "id": 465977874,
   "description": "An awesome community level",
   "fileName": "neotic",
-  "upvotes": 38,
+  "upvotes": 39,
   "downvotes": 27,
   "leaderboard": [
     {
@@ -159,6 +159,20 @@
     },
     {
       "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 189030
+    },
+    {
+      "player": {
+        "displayName": "AntuMarin",
+        "steamID": 76561198021836687
+      },
+      "time": 194000
+    },
+    {
+      "player": {
         "displayName": "AshDies",
         "steamID": 76561198110992162
       },
@@ -236,7 +250,7 @@
     },
     {
       "player": {
-        "displayName": "[unknown]",
+        "displayName": "dreambeetle",
         "steamID": 76561198060410822
       },
       "time": 324160

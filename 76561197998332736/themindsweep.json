@@ -7,8 +7,8 @@
   "id": 465352571,
   "description": "Around 2:30 of distance for your pleasure.\r\nA colorfull track with some jumps, wallrids and a flying section. This is my first attempt with the distance editor and I took my time (Over 6 months)  to realease this track. I don't feel like it is done, but de",
   "fileName": "themindsweep",
-  "upvotes": 858,
-  "downvotes": 192,
+  "upvotes": 861,
+  "downvotes": 193,
   "leaderboard": [
     {
       "player": {
@@ -26,7 +26,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 135680
@@ -184,6 +184,13 @@
         "steamID": 76561198053240849
       },
       "time": 148210
+    },
+    {
+      "player": {
+        "displayName": "slowscan",
+        "steamID": 76561197994748278
+      },
+      "time": 148600
     },
     {
       "player": {
@@ -516,7 +523,7 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 177730
@@ -541,6 +548,13 @@
         "steamID": 76561198173922483
       },
       "time": 179110
+    },
+    {
+      "player": {
+        "displayName": "VenomousCreature",
+        "steamID": 76561198073778678
+      },
+      "time": 179290
     },
     {
       "player": {
@@ -579,6 +593,13 @@
     },
     {
       "player": {
+        "displayName": "Dirky",
+        "steamID": 76561198008177013
+      },
+      "time": 181930
+    },
+    {
+      "player": {
         "displayName": "GrandRad",
         "steamID": 76561198153210182
       },
@@ -600,7 +621,7 @@
     },
     {
       "player": {
-        "displayName": "IJ_01",
+        "displayName": "ULTRACOMFY",
         "steamID": 76561198243733818
       },
       "time": 185420
@@ -667,6 +688,20 @@
         "steamID": 76561198011974329
       },
       "time": 194880
+    },
+    {
+      "player": {
+        "displayName": "James Bong",
+        "steamID": 76561198018652678
+      },
+      "time": 195660
+    },
+    {
+      "player": {
+        "displayName": "AlExIsAwEsOmE",
+        "steamID": 76561198074293809
+      },
+      "time": 196470
     },
     {
       "player": {
@@ -800,6 +835,13 @@
         "steamID": 76561198050599225
       },
       "time": 208160
+    },
+    {
+      "player": {
+        "displayName": "Kashuzu",
+        "steamID": 76561197997776263
+      },
+      "time": 209000
     },
     {
       "player": {
@@ -992,6 +1034,13 @@
     },
     {
       "player": {
+        "displayName": "Andy95",
+        "steamID": 76561198019990363
+      },
+      "time": 238550
+    },
+    {
+      "player": {
         "displayName": "Don KliBa",
         "steamID": 76561197999491546
       },
@@ -1153,6 +1202,13 @@
     },
     {
       "player": {
+        "displayName": "Åchoo™",
+        "steamID": 76561198009091066
+      },
+      "time": 274840
+    },
+    {
+      "player": {
         "displayName": "guilherme giuseppe",
         "steamID": 76561198151413319
       },
@@ -1269,6 +1325,13 @@
         "steamID": 76561198048444482
       },
       "time": 317090
+    },
+    {
+      "player": {
+        "displayName": "Misery_Max",
+        "steamID": 76561198255317517
+      },
+      "time": 317180
     },
     {
       "player": {

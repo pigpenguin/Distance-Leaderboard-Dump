@@ -7,8 +7,8 @@
   "id": 457143740,
   "description": "Somewhere in this desert is an oasis at which to rest -- this isn't it.",
   "fileName": "perspective",
-  "upvotes": 1051,
-  "downvotes": 126,
+  "upvotes": 1054,
+  "downvotes": 127,
   "leaderboard": [
     {
       "player": {
@@ -285,7 +285,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 143020
@@ -422,6 +422,13 @@
         "steamID": 76561197998363138
       },
       "time": 146000
+    },
+    {
+      "player": {
+        "displayName": "Flauschekissen",
+        "steamID": 76561198122532195
+      },
+      "time": 146270
     },
     {
       "player": {
@@ -733,6 +740,13 @@
     },
     {
       "player": {
+        "displayName": "EdgeMiles",
+        "steamID": 76561198024372216
+      },
+      "time": 155460
+    },
+    {
+      "player": {
         "displayName": "free full",
         "steamID": 76561198024953268
       },
@@ -779,6 +793,13 @@
         "steamID": 76561198117262342
       },
       "time": 157270
+    },
+    {
+      "player": {
+        "displayName": "Relyk'Terrah",
+        "steamID": 76561198067807968
+      },
+      "time": 157330
     },
     {
       "player": {
@@ -947,6 +968,13 @@
         "steamID": 76561197970765040
       },
       "time": 162150
+    },
+    {
+      "player": {
+        "displayName": "Fraiser",
+        "steamID": 76561197978576894
+      },
+      "time": 162220
     },
     {
       "player": {
@@ -1335,7 +1363,7 @@
     },
     {
       "player": {
-        "displayName": "big feed",
+        "displayName": "trej",
         "steamID": 76561198025013467
       },
       "time": 177980
@@ -1447,6 +1475,13 @@
     },
     {
       "player": {
+        "displayName": "Kashuzu",
+        "steamID": 76561197997776263
+      },
+      "time": 181970
+    },
+    {
+      "player": {
         "displayName": "Magovitch Pokov",
         "steamID": 76561198035893922
       },
@@ -1503,7 +1538,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 184230
@@ -1692,7 +1727,7 @@
     },
     {
       "player": {
-        "displayName": "thatlunchboxguy",
+        "displayName": "My Hog?",
         "steamID": 76561198028917300
       },
       "time": 192150
@@ -2112,6 +2147,13 @@
     },
     {
       "player": {
+        "displayName": "Jhonofretro",
+        "steamID": 76561198036245243
+      },
+      "time": 218140
+    },
+    {
+      "player": {
         "displayName": "SneakyBomber",
         "steamID": 76561198001611403
       },
@@ -2217,6 +2259,13 @@
     },
     {
       "player": {
+        "displayName": "Snails",
+        "steamID": 76561198163264307
+      },
+      "time": 225040
+    },
+    {
+      "player": {
         "displayName": "Seasalt Carmel",
         "steamID": 76561198042699196
       },
@@ -2301,7 +2350,7 @@
     },
     {
       "player": {
-        "displayName": "Brotosstech",
+        "displayName": "Brotoss404",
         "steamID": 76561198144750108
       },
       "time": 234020
@@ -2581,7 +2630,7 @@
     },
     {
       "player": {
-        "displayName": "The Phattest of Yeets",
+        "displayName": "Stryker0208",
         "steamID": 76561198112701213
       },
       "time": 271500
@@ -2644,7 +2693,7 @@
     },
     {
       "player": {
-        "displayName": "Crow",
+        "displayName": "Tabula Rasa",
         "steamID": 76561198096501024
       },
       "time": 283210

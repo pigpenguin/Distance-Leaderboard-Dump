@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "-Ω-",
+    "displayName": "[unknown]",
     "steamID": 76561198065040574
   },
   "displayName": "The darkness at the end of the tunnel",
@@ -8,7 +8,7 @@
   "description": "I always knew this day would come. When I was younger I would think about it sometimes, but never at length. I would kid myself into thinking that death didn't bother me, but deep down inside I think we're all scared. People are scared of what they don't k",
   "fileName": "darkness",
   "upvotes": 50,
-  "downvotes": 16,
+  "downvotes": 17,
   "leaderboard": [
     {
       "player": {
@@ -303,6 +303,13 @@
         "steamID": 76561198017945328
       },
       "time": 225610
+    },
+    {
+      "player": {
+        "displayName": "Freakazoid",
+        "steamID": 76561198000393363
+      },
+      "time": 241310
     },
     {
       "player": {

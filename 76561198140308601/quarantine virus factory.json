@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "thenukeluis",
+    "displayName": "[unknown]",
     "steamID": 76561198140308601
   },
   "displayName": "Quarantine virus factory",
   "id": 643045260,
   "description": "After you drived around in \"Empire center\" you now got to look at an virus factory!",
   "fileName": "quarantine virus factory",
-  "upvotes": 37,
+  "upvotes": 39,
   "downvotes": 36,
   "leaderboard": [
     {
@@ -149,6 +149,13 @@
         "steamID": 76561197961733740
       },
       "time": 63810
+    },
+    {
+      "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 64700
     },
     {
       "player": {

@@ -320,7 +320,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 109440
@@ -614,6 +614,13 @@
     },
     {
       "player": {
+        "displayName": "Iceblice9",
+        "steamID": 76561198090494326
+      },
+      "time": 136380
+    },
+    {
+      "player": {
         "displayName": "Kirito",
         "steamID": 76561198021122126
       },
@@ -670,7 +677,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "S2",
         "steamID": 76561198319263093
       },
       "time": 148730
@@ -943,7 +950,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 181140
@@ -1216,7 +1223,7 @@
     },
     {
       "player": {
-        "displayName": "OG Walt ㋛",
+        "displayName": "OG Walt ㋛ swap.gg",
         "steamID": 76561198217866709
       },
       "time": 230390
@@ -1279,7 +1286,7 @@
     },
     {
       "player": {
-        "displayName": "Eriyo2000",
+        "displayName": "eriyo2000",
         "steamID": 76561198091875500
       },
       "time": 246470
@@ -1612,13 +1619,6 @@
         "steamID": 76561198053442367
       },
       "time": 567820
-    },
-    {
-      "player": {
-        "displayName": "Iceblice9",
-        "steamID": 76561198090494326
-      },
-      "time": 568950
     },
     {
       "player": {

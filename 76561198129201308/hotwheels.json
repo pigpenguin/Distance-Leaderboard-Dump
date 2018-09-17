@@ -1,15 +1,22 @@
 {
   "author": {
-    "displayName": "Tony Twohands",
+    "displayName": "[unknown]",
     "steamID": 76561198129201308
   },
   "displayName": "Hotwheels",
   "id": 588232295,
   "description": "An awesome community level",
   "fileName": "hotwheels",
-  "upvotes": 29,
+  "upvotes": 30,
   "downvotes": 50,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "geo.emmer",
+        "steamID": 76561198801783436
+      },
+      "time": 158470
+    },
     {
       "player": {
         "displayName": "crazymaurice",

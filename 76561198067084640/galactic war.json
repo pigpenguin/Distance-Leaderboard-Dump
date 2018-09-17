@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Yipp",
+    "displayName": "[unknown]",
     "steamID": 76561198067084640
   },
   "displayName": "The Sky War",
   "id": 859430306,
   "description": "As an operative of the Fushia Legion, you were tasked to take down the Azure Empire's main base, high, high in the clouds. It's going to be a brutal trip, operative- fight your way through the active city, and find a way to shut it down and escape.\r\n\r\nEdit",
   "fileName": "galactic war",
-  "upvotes": 74,
+  "upvotes": 75,
   "downvotes": 20,
   "leaderboard": [
     {
@@ -488,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 385770
@@ -863,6 +863,13 @@
         "steamID": 76561198067400417
       },
       "time": 564730
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 566430
     },
     {
       "player": {

@@ -1,15 +1,22 @@
 {
   "author": {
-    "displayName": "Schnarf",
+    "displayName": "[unknown]",
     "steamID": 76561198068316626
   },
   "displayName": "Cluster Prime",
   "id": 695564012,
   "description": "An awesome community level",
   "fileName": "cluster prime",
-  "upvotes": 31,
+  "upvotes": 32,
   "downvotes": 49,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 31360
+    },
     {
       "player": {
         "displayName": "jay",
@@ -30,13 +37,6 @@
         "steamID": 76561198159851584
       },
       "time": 36690
-    },
-    {
-      "player": {
-        "displayName": "noah",
-        "steamID": 76561198129061896
-      },
-      "time": 36820
     },
     {
       "player": {

@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Creepersrock24Gaming",
+    "displayName": "[unknown]",
     "steamID": 76561198805524165
   },
   "displayName": "Darkness Space",
@@ -8,7 +8,7 @@
   "description": "An awesome community level",
   "fileName": "darkness space",
   "upvotes": 13,
-  "downvotes": 5,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {
@@ -142,6 +142,13 @@
         "steamID": 76561198240266948
       },
       "time": 141740
+    },
+    {
+      "player": {
+        "displayName": "Wizard the Wizard",
+        "steamID": 76561198035725910
+      },
+      "time": 146730
     },
     {
       "player": {

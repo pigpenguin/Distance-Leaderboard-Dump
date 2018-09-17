@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Xaiier",
+    "displayName": "[unknown]",
     "steamID": 76561198048863509
   },
   "displayName": "Directionality",
   "id": 445728088,
   "description": "A short level I put together based on the concept of driving the same track with different gravity each time.\r\n\r\nAlso my first published level :D",
   "fileName": "directionality",
-  "upvotes": 137,
+  "upvotes": 138,
   "downvotes": 61,
   "leaderboard": [
     {
@@ -632,6 +632,13 @@
         "steamID": 76561198181401557
       },
       "time": 150340
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 153800
     },
     {
       "player": {

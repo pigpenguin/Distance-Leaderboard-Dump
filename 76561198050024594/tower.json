@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "\\(-_-')/ (☞ﾟヮﾟ)☞ Mich",
+    "displayName": "[unknown]",
     "steamID": 76561198050024594
   },
   "displayName": "Car-kour above the clouds",
   "id": 1414670860,
   "description": "Climb this mysterious tower without being kicked down by it's security systems and defy gravity to it's summit ...\r\n\r\nThis track is inspired by the game DeadCore\r\n\r\nSidenote : I still don't know how to make levels that can run on toasters :)",
   "fileName": "tower",
-  "upvotes": 35,
+  "upvotes": 37,
   "downvotes": 14,
   "leaderboard": [
     {
@@ -219,6 +219,13 @@
         "steamID": 76561198049071050
       },
       "time": 277350
+    },
+    {
+      "player": {
+        "displayName": "theninjacat799",
+        "steamID": 76561198110843048
+      },
+      "time": 277980
     },
     {
       "player": {

@@ -7,8 +7,8 @@
   "id": 1408907505,
   "description": "Race through this distorted muse and reach the farthest three points of the area to unlock the Endzone. \r\n\r\n\r\n**The most messy, broken, speghetti-track and just terrible map ive ever made.",
   "fileName": "full",
-  "upvotes": 35,
-  "downvotes": 7,
+  "upvotes": 36,
+  "downvotes": 8,
   "leaderboard": [
     {
       "player": {
@@ -138,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "Eriyo2000",
+        "displayName": "eriyo2000",
         "steamID": 76561198091875500
       },
       "time": 116400
@@ -184,6 +184,13 @@
         "steamID": 76561198136946798
       },
       "time": 119350
+    },
+    {
+      "player": {
+        "displayName": "Kramatus",
+        "steamID": 76561198041743735
+      },
+      "time": 125890
     },
     {
       "player": {
@@ -278,6 +285,13 @@
     },
     {
       "player": {
+        "displayName": "Freakazoid",
+        "steamID": 76561198000393363
+      },
+      "time": 156830
+    },
+    {
+      "player": {
         "displayName": "Trojano",
         "steamID": 76561198207779068
       },
@@ -306,6 +320,13 @@
     },
     {
       "player": {
+        "displayName": "Jos",
+        "steamID": 76561197991355968
+      },
+      "time": 170930
+    },
+    {
+      "player": {
         "displayName": "endertrot",
         "steamID": 76561198128542457
       },
@@ -320,7 +341,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 179080
@@ -394,13 +415,6 @@
         "steamID": 76561198069269515
       },
       "time": 209810
-    },
-    {
-      "player": {
-        "displayName": "Kramatus",
-        "steamID": 76561198041743735
-      },
-      "time": 218160
     },
     {
       "player": {

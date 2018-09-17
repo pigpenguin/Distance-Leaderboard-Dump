@@ -7,8 +7,8 @@
   "id": 627423846,
   "description": "An awesome community level",
   "fileName": "high speed",
-  "upvotes": 28,
-  "downvotes": 23,
+  "upvotes": 29,
+  "downvotes": 24,
   "leaderboard": [
     {
       "player": {
@@ -135,6 +135,13 @@
         "steamID": 76561198193363878
       },
       "time": 95950
+    },
+    {
+      "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 105300
     },
     {
       "player": {

@@ -8,7 +8,7 @@
   "description": "Initializing...\r\n//Local time: 3:17 am\r\n/Date: Error:Error:Error\r\n/Skipping\r\n\r\n//Location: City 16.5, Salvation Hospital\r\n/Surrounding area indicates City 16.5 is in orbit above Error\r\n/Error\r\n/Skipping\r\n\r\n//Anomaly active in area\r\n/Rouge process detected\r",
   "fileName": "patient zero",
   "upvotes": 214,
-  "downvotes": 46,
+  "downvotes": 47,
   "leaderboard": [
     {
       "player": {
@@ -61,7 +61,7 @@
     },
     {
       "player": {
-        "displayName": "please be patient i have autism",
+        "displayName": "The Expert",
         "steamID": 76561198119060261
       },
       "time": 162260
@@ -254,6 +254,13 @@
         "steamID": 76561198107572699
       },
       "time": 181830
+    },
+    {
+      "player": {
+        "displayName": "Relyk'Terrah",
+        "steamID": 76561198067807968
+      },
+      "time": 182580
     },
     {
       "player": {

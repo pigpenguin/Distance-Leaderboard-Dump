@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "LoovyTurgz",
+    "displayName": "[unknown]",
     "steamID": 76561198029557889
   },
   "displayName": "Deserted",
   "id": 468467862,
   "description": "This is my first map I've created in Distance so excuse me if it's a little bland and there's a few errors but I think I did well for my first attempt!",
   "fileName": "deserted",
-  "upvotes": 341,
+  "upvotes": 342,
   "downvotes": 49,
   "leaderboard": [
     {
@@ -23,6 +23,13 @@
         "steamID": 76561198047147439
       },
       "time": 24250
+    },
+    {
+      "player": {
+        "displayName": "Danny Burke",
+        "steamID": 76561198159851584
+      },
+      "time": 24570
     },
     {
       "player": {
@@ -131,7 +138,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 83770
@@ -222,7 +229,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 171120
@@ -432,7 +439,7 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 204350

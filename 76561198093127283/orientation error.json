@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Luuklin ♥",
+    "displayName": "[unknown]",
     "steamID": 76561198093127283
   },
   "displayName": "Orientation Error",
@@ -58,6 +58,13 @@
         "steamID": 76561198004430321
       },
       "time": 62740
+    },
+    {
+      "player": {
+        "displayName": "Shinikiba",
+        "steamID": 76561198037464070
+      },
+      "time": 63000
     },
     {
       "player": {
@@ -233,13 +240,6 @@
         "steamID": 76561198040630941
       },
       "time": 87700
-    },
-    {
-      "player": {
-        "displayName": "Shinikiba",
-        "steamID": 76561198037464070
-      },
-      "time": 87960
     },
     {
       "player": {

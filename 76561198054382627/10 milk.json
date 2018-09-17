@@ -222,7 +222,7 @@
     },
     {
       "player": {
-        "displayName": "Angery Pirate",
+        "displayName": "Pirate",
         "steamID": 76561198356374110
       },
       "time": 121370
@@ -289,6 +289,13 @@
         "steamID": 76561198119440545
       },
       "time": 129210
+    },
+    {
+      "player": {
+        "displayName": "thewozz101",
+        "steamID": 76561198100957248
+      },
+      "time": 129870
     },
     {
       "player": {

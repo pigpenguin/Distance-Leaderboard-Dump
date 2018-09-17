@@ -7,7 +7,7 @@
   "id": 631437702,
   "description": "The next Anomaly on your list lurks in Sector 323. This virus put this city through a freeze blast due to the heat it produced. Find this Anomaly, take it down and free this city.",
   "fileName": "sector 323",
-  "upvotes": 380,
+  "upvotes": 381,
   "downvotes": 64,
   "leaderboard": [
     {
@@ -264,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "..",
         "steamID": 76561198024170564
       },
       "time": 105970
@@ -544,7 +544,7 @@
     },
     {
       "player": {
-        "displayName": "father cool",
+        "displayName": "we have technology",
         "steamID": 76561198024545911
       },
       "time": 129950
@@ -576,6 +576,13 @@
         "steamID": 76561198050762765
       },
       "time": 132940
+    },
+    {
+      "player": {
+        "displayName": "Rurumu",
+        "steamID": 76561198123502334
+      },
+      "time": 133180
     },
     {
       "player": {
@@ -1111,7 +1118,7 @@
     },
     {
       "player": {
-        "displayName": "Dracoyse",
+        "displayName": "Twitch.tv/Dracoyse",
         "steamID": 76561198067445389
       },
       "time": 265940

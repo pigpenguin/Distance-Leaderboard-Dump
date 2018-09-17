@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "MayorDump",
+    "displayName": "[unknown]",
     "steamID": 76561198069910692
   },
   "displayName": "Shard (old)",
@@ -16,6 +16,13 @@
         "steamID": 76561198040630941
       },
       "time": 101190
+    },
+    {
+      "player": {
+        "displayName": "Tony",
+        "steamID": 76561197979964307
+      },
+      "time": 113250
     },
     {
       "player": {
@@ -68,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 121720
@@ -152,7 +159,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 138570
@@ -369,7 +376,7 @@
     },
     {
       "player": {
-        "displayName": "Koba [FuSeCo]",
+        "displayName": "Koba",
         "steamID": 76561198093885906
       },
       "time": 176750

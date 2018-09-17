@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Traplover",
+    "displayName": "[unknown]",
     "steamID": 76561198001043815
   },
   "displayName": "Increase",
@@ -8,7 +8,7 @@
   "description": "Starts easy, gaining speed few obstacles. Then the diffculty slowly starts to ramp up. Making situations tighter and tougher. Then slowly lowering difficulty into a smooth sailing. \n\nFirst level I made. Hope it doesn't suck to bad.",
   "fileName": "transition",
   "upvotes": 8,
-  "downvotes": 5,
+  "downvotes": 6,
   "leaderboard": [
     {
       "player": {
@@ -96,6 +96,13 @@
     },
     {
       "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 519140
+    },
+    {
+      "player": {
         "displayName": "Papa Thrash",
         "steamID": 76561198053831555
       },
@@ -114,13 +121,6 @@
         "steamID": 76561198331148378
       },
       "time": 596840
-    },
-    {
-      "player": {
-        "displayName": "Zurd",
-        "steamID": 76561198014744965
-      },
-      "time": 607340
     },
     {
       "player": {

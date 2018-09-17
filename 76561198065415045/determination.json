@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Lukas",
+    "displayName": "[unknown]",
     "steamID": 76561198065415045
   },
   "displayName": "Determination",
   "id": 610423218,
   "description": "Heavily focused on Obstacles (and reading)! Recommended for experienced players (/readers) only!\r\n\r\n\r\nYou were on a normal patrol and just wanted to jump to the next sector. But something interrupted your jump and... it seems to be accompanying you...\r\n\r\nA",
   "fileName": "determination",
-  "upvotes": 426,
+  "upvotes": 428,
   "downvotes": 91,
   "leaderboard": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "[unknown]",
+        "displayName": "Handsome_Lone",
         "steamID": 76561198083258725
       },
       "time": 223570
@@ -530,6 +530,13 @@
     },
     {
       "player": {
+        "displayName": "e dragon",
+        "steamID": 76561198010234897
+      },
+      "time": 325290
+    },
+    {
+      "player": {
         "displayName": "HellGamePlus/Twitch",
         "steamID": 76561198028240683
       },
@@ -646,6 +653,13 @@
         "steamID": 76561198040630941
       },
       "time": 366500
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 372060
     },
     {
       "player": {
@@ -838,7 +852,7 @@
     },
     {
       "player": {
-        "displayName": "REVILO",
+        "displayName": "i'm a dog",
         "steamID": 76561198046114191
       },
       "time": 455280
@@ -943,7 +957,7 @@
     },
     {
       "player": {
-        "displayName": "RanD0",
+        "displayName": "Milles",
         "steamID": 76561198008450865
       },
       "time": 517220
@@ -1104,7 +1118,7 @@
     },
     {
       "player": {
-        "displayName": "[unknown]",
+        "displayName": "Rotten Ruthus",
         "steamID": 76561198145655617
       },
       "time": 723160
@@ -1153,7 +1167,7 @@
     },
     {
       "player": {
-        "displayName": "鳳沢 暁月",
+        "displayName": "Мэриодасу",
         "steamID": 76561198084720034
       },
       "time": 805180

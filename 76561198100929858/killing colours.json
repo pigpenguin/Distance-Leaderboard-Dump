@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Rephlex",
+    "displayName": "[unknown]",
     "steamID": 76561198100929858
   },
   "displayName": "Killing colours",
   "id": 451162571,
   "description": "A hard level, you have to pass all of the colours.(Follow the arrows and signs)",
   "fileName": "killing colours",
-  "upvotes": 77,
+  "upvotes": 78,
   "downvotes": 61,
   "leaderboard": [
     {
@@ -93,6 +93,13 @@
         "steamID": 76561198025480120
       },
       "time": 606560
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 650610
     },
     {
       "player": {

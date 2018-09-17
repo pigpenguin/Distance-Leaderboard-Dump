@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "TenTo",
+    "displayName": "[unknown]",
     "steamID": 76561198001947706
   },
   "displayName": "Equinox",
@@ -103,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 180780
@@ -411,7 +411,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 468900
@@ -625,6 +625,13 @@
         "steamID": 76561198039315280
       },
       "time": 941840
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 961620
     },
     {
       "player": {

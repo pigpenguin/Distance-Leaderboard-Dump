@@ -194,7 +194,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 175760
@@ -327,6 +327,13 @@
     },
     {
       "player": {
+        "displayName": "slowscan",
+        "steamID": 76561197994748278
+      },
+      "time": 268590
+    },
+    {
+      "player": {
         "displayName": "FluffyTheZombie",
         "steamID": 76561198134309424
       },
@@ -383,7 +390,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 349890
@@ -439,13 +446,6 @@
     },
     {
       "player": {
-        "displayName": "slowscan",
-        "steamID": 76561197994748278
-      },
-      "time": 398650
-    },
-    {
-      "player": {
         "displayName": "N-Jin",
         "steamID": 76561198085054630
       },
@@ -460,7 +460,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 478980

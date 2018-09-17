@@ -96,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 88490
@@ -250,6 +250,13 @@
     },
     {
       "player": {
+        "displayName": "CoffeeGremlin",
+        "steamID": 76561198046496747
+      },
+      "time": 177580
+    },
+    {
+      "player": {
         "displayName": "遠くの愛好家",
         "steamID": 76561198067258571
       },
@@ -264,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 195240
@@ -628,7 +635,7 @@
     },
     {
       "player": {
-        "displayName": "Sola Angelus 🍓",
+        "displayName": "Sola_Angelus",
         "steamID": 76561198074238345
       },
       "time": 422530

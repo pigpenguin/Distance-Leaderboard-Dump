@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Semtex4ya",
+    "displayName": "[unknown]",
     "steamID": 76561198041668285
   },
   "displayName": "Psychedelic Blitz",
   "id": 1199467328,
   "description": "With a title like that you should already know what to expect. Vivid and contrasting colors provide a blinding and hectic time as lights blink to the beat of the music.\r\n\r\nMAX BOOMBOX MODE is hard mode. Dare you try it?\r\n\r\nThis goes without saying for this",
   "fileName": "psychedelic blitz",
-  "upvotes": 772,
+  "upvotes": 776,
   "downvotes": 59,
   "leaderboard": [
     {
@@ -236,7 +236,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "Mo",
         "steamID": 76561198106474365
       },
       "time": 105420
@@ -257,7 +257,7 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 105480
@@ -278,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 105580
@@ -443,6 +443,13 @@
         "steamID": 76561197997950572
       },
       "time": 106180
+    },
+    {
+      "player": {
+        "displayName": "AlExIsAwEsOmE",
+        "steamID": 76561198074293809
+      },
+      "time": 106200
     },
     {
       "player": {
@@ -754,7 +761,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 107340
@@ -1076,7 +1083,7 @@
     },
     {
       "player": {
-        "displayName": "Easy-Bake Auschwitz",
+        "displayName": "Andrew",
         "steamID": 76561198032155414
       },
       "time": 115340
@@ -1157,6 +1164,13 @@
         "steamID": 76561198037464070
       },
       "time": 116140
+    },
+    {
+      "player": {
+        "displayName": "Relyk'Terrah",
+        "steamID": 76561198067807968
+      },
+      "time": 116170
     },
     {
       "player": {
@@ -1342,17 +1356,17 @@
     },
     {
       "player": {
+        "displayName": "Batt",
+        "steamID": 76561198024189114
+      },
+      "time": 119180
+    },
+    {
+      "player": {
         "displayName": "Ejotapg",
         "steamID": 76561198019596311
       },
       "time": 119320
-    },
-    {
-      "player": {
-        "displayName": "Relyk'Terrah",
-        "steamID": 76561198067807968
-      },
-      "time": 119500
     },
     {
       "player": {
@@ -1370,7 +1384,7 @@
     },
     {
       "player": {
-        "displayName": "Gerroh",
+        "displayName": "Gerroni Pizza",
         "steamID": 76561198046720656
       },
       "time": 119700
@@ -1566,6 +1580,13 @@
     },
     {
       "player": {
+        "displayName": "luziferius",
+        "steamID": 76561198074485542
+      },
+      "time": 123420
+    },
+    {
+      "player": {
         "displayName": "free full",
         "steamID": 76561198024953268
       },
@@ -1720,7 +1741,7 @@
     },
     {
       "player": {
-        "displayName": "sileonemo",
+        "displayName": "Caitlin",
         "steamID": 76561198137118763
       },
       "time": 126400
@@ -1902,13 +1923,6 @@
     },
     {
       "player": {
-        "displayName": "AlExIsAwEsOmE",
-        "steamID": 76561198074293809
-      },
-      "time": 129450
-    },
-    {
-      "player": {
         "displayName": "BIG HECKIN Revengeance",
         "steamID": 76561198013257090
       },
@@ -1916,7 +1930,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 129630
@@ -1934,13 +1948,6 @@
         "steamID": 76561198065616580
       },
       "time": 129870
-    },
-    {
-      "player": {
-        "displayName": "luziferius",
-        "steamID": 76561198074485542
-      },
-      "time": 130000
     },
     {
       "player": {
@@ -2378,14 +2385,21 @@
     },
     {
       "player": {
-        "displayName": "[𝕐𝕚𝕗𝕗] 𝕐𝕚𝕗𝕗𝕄𝕒𝕤𝕥𝕖𝕣",
+        "displayName": "EdgeMiles",
+        "steamID": 76561198024372216
+      },
+      "time": 141820
+    },
+    {
+      "player": {
+        "displayName": "[Yiff] BigLargeMcHuge",
         "steamID": 76561198150835100
       },
       "time": 142100
     },
     {
       "player": {
-        "displayName": "Murizar",
+        "displayName": "Erika",
         "steamID": 76561198046000963
       },
       "time": 142370
@@ -2413,7 +2427,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 142820
@@ -2686,7 +2700,7 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 147500
@@ -2697,6 +2711,13 @@
         "steamID": 76561198129955466
       },
       "time": 147680
+    },
+    {
+      "player": {
+        "displayName": "Dandy",
+        "steamID": 76561198130778547
+      },
+      "time": 147710
     },
     {
       "player": {
@@ -2917,7 +2938,7 @@
     },
     {
       "player": {
-        "displayName": "domi (away)",
+        "displayName": "domi",
         "steamID": 76561198103316789
       },
       "time": 153580
@@ -3715,6 +3736,13 @@
     },
     {
       "player": {
+        "displayName": "Rurumu",
+        "steamID": 76561198123502334
+      },
+      "time": 175660
+    },
+    {
+      "player": {
         "displayName": "stealth1192",
         "steamID": 76561198049227918
       },
@@ -3841,7 +3869,7 @@
     },
     {
       "player": {
-        "displayName": "Der Brecher",
+        "displayName": "PrimeGod",
         "steamID": 76561198088099138
       },
       "time": 178360
@@ -4303,7 +4331,7 @@
     },
     {
       "player": {
-        "displayName": "Now listn",
+        "displayName": "El_Nacho",
         "steamID": 76561198060379806
       },
       "time": 191500
@@ -4597,7 +4625,7 @@
     },
     {
       "player": {
-        "displayName": "EmeraldSlash リオ",
+        "displayName": "EmeraldSlash",
         "steamID": 76561198127118123
       },
       "time": 201500
@@ -4674,7 +4702,7 @@
     },
     {
       "player": {
-        "displayName": "Angery Pirate",
+        "displayName": "Pirate",
         "steamID": 76561198356374110
       },
       "time": 202790
@@ -4926,7 +4954,7 @@
     },
     {
       "player": {
-        "displayName": "Woomy 'n Womb",
+        "displayName": "Boi Hek",
         "steamID": 76561198073415383
       },
       "time": 214340
@@ -5213,6 +5241,13 @@
     },
     {
       "player": {
+        "displayName": "Snails",
+        "steamID": 76561198163264307
+      },
+      "time": 226150
+    },
+    {
+      "player": {
         "displayName": "Spooky Tanooki",
         "steamID": 76561198058772708
       },
@@ -5276,7 +5311,7 @@
     },
     {
       "player": {
-        "displayName": "Noah Redcorn",
+        "displayName": "Fat Chunky Jaundice",
         "steamID": 76561198055909220
       },
       "time": 227270
@@ -5472,6 +5507,13 @@
     },
     {
       "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 240230
+    },
+    {
+      "player": {
         "displayName": "Zinos97",
         "steamID": 76561198132148094
       },
@@ -5612,7 +5654,7 @@
     },
     {
       "player": {
-        "displayName": "Biscuito",
+        "displayName": "QOP of Pain",
         "steamID": 76561198148997350
       },
       "time": 247810
@@ -5665,6 +5707,13 @@
         "steamID": 76561198045309036
       },
       "time": 250180
+    },
+    {
+      "player": {
+        "displayName": "deathx88",
+        "steamID": 76561197976001863
+      },
+      "time": 250190
     },
     {
       "player": {
@@ -5801,7 +5850,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "Ka",
         "steamID": 76561198027251521
       },
       "time": 257620
@@ -6011,7 +6060,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": ".f",
         "steamID": 76561198041496914
       },
       "time": 275750
@@ -6106,6 +6155,13 @@
         "steamID": 76561198048445118
       },
       "time": 280710
+    },
+    {
+      "player": {
+        "displayName": "233Isaac",
+        "steamID": 76561198253676068
+      },
+      "time": 280840
     },
     {
       "player": {
@@ -6564,7 +6620,7 @@
     },
     {
       "player": {
-        "displayName": "FK MY TEAMMATE",
+        "displayName": "ABSOLUTE MADLAD",
         "steamID": 76561197971601017
       },
       "time": 347910
@@ -6585,7 +6641,7 @@
     },
     {
       "player": {
-        "displayName": "Doug Dimmadome",
+        "displayName": "Penis Parker",
         "steamID": 76561198063170561
       },
       "time": 352530
@@ -6613,7 +6669,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "Ω",
         "steamID": 76561198121879575
       },
       "time": 356760
@@ -6858,7 +6914,7 @@
     },
     {
       "player": {
-        "displayName": "Netztrenner",
+        "displayName": "ZebraChicken",
         "steamID": 76561198010283519
       },
       "time": 466200
@@ -6942,7 +6998,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "JP",
         "steamID": 76561198143436502
       },
       "time": 535870

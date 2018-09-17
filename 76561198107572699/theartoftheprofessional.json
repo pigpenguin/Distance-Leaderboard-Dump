@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "RaiderZulu",
+    "displayName": "[unknown]",
     "steamID": 76561198107572699
   },
   "displayName": "The Art of the Professional",
   "id": 946437935,
   "description": "The final stage of training for new pilots.",
   "fileName": "theartoftheprofessional",
-  "upvotes": 45,
+  "upvotes": 46,
   "downvotes": 14,
   "leaderboard": [
     {
@@ -264,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 284720
@@ -338,6 +338,13 @@
         "steamID": 76561197998874249
       },
       "time": 448160
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 463260
     },
     {
       "player": {
@@ -530,7 +537,7 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 1184720
@@ -572,7 +579,7 @@
     },
     {
       "player": {
-        "displayName": "LÖÖP",
+        "displayName": "INFINITÉ LÖÖPS",
         "steamID": 76561198193380891
       },
       "time": 2949170

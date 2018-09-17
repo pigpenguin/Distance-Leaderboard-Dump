@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "MarbalTm",
+    "displayName": "[unknown]",
     "steamID": 76561198042908687
   },
   "displayName": "Two Paths",
@@ -8,7 +8,7 @@
   "description": "It may look like there's only one path, but there are really two... which will you take?",
   "fileName": "moment of truth",
   "upvotes": 88,
-  "downvotes": 38,
+  "downvotes": 39,
   "leaderboard": [
     {
       "player": {
@@ -138,6 +138,13 @@
     },
     {
       "player": {
+        "displayName": "Jarred746",
+        "steamID": 76561198201817425
+      },
+      "time": 33780
+    },
+    {
+      "player": {
         "displayName": "Zebulon759",
         "steamID": 76561198129657655
       },
@@ -156,6 +163,13 @@
         "steamID": 76561198067084640
       },
       "time": 35390
+    },
+    {
+      "player": {
+        "displayName": "Excelsiormom",
+        "steamID": 76561198019773450
+      },
+      "time": 35770
     },
     {
       "player": {
@@ -264,6 +278,13 @@
     },
     {
       "player": {
+        "displayName": "eulercool",
+        "steamID": 76561198071914279
+      },
+      "time": 48120
+    },
+    {
+      "player": {
         "displayName": "MarbalTm",
         "steamID": 76561198042908687
       },
@@ -334,7 +355,7 @@
     },
     {
       "player": {
-        "displayName": "$$$imon",
+        "displayName": "$$$imon♣",
         "steamID": 76561198332763962
       },
       "time": 57950
@@ -530,7 +551,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 102760
@@ -597,13 +618,6 @@
         "steamID": 76561198012037462
       },
       "time": 127380
-    },
-    {
-      "player": {
-        "displayName": "eulercool",
-        "steamID": 76561198071914279
-      },
-      "time": 128240
     },
     {
       "player": {
@@ -765,13 +779,6 @@
         "steamID": 76561198064507378
       },
       "time": 174360
-    },
-    {
-      "player": {
-        "displayName": "Excelsiormom",
-        "steamID": 76561198019773450
-      },
-      "time": 175870
     },
     {
       "player": {
@@ -1010,6 +1017,13 @@
         "steamID": 76561197989191729
       },
       "time": 351530
+    },
+    {
+      "player": {
+        "displayName": "CoffeeGremlin",
+        "steamID": 76561198046496747
+      },
+      "time": 359130
     },
     {
       "player": {

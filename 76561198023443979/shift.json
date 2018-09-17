@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Plasmawario",
+    "displayName": "[unknown]",
     "steamID": 76561198023443979
   },
   "displayName": "Shift",
@@ -488,6 +488,13 @@
     },
     {
       "player": {
+        "displayName": "Sgt. Scoobz",
+        "steamID": 76561198105068852
+      },
+      "time": 239530
+    },
+    {
+      "player": {
         "displayName": "xj4966",
         "steamID": 76561198035634579
       },
@@ -737,13 +744,6 @@
         "steamID": 76561198274554099
       },
       "time": 519950
-    },
-    {
-      "player": {
-        "displayName": "Sgt. Scoobz",
-        "steamID": 76561198105068852
-      },
-      "time": 641390
     }
   ]
 }

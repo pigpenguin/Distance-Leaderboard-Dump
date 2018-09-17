@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Draco Solis",
+    "displayName": "[unknown]",
     "steamID": 76561198262740790
   },
   "displayName": "The Red Tower: Prologue",
   "id": 1201514665,
   "description": "“Well, today’s the day I begin my mission.  I was hoping that today would go by rather smoothly, but I was sadly awoken early and told I needed to get my vehicle up and running as soon as possible.  He didn’t stick around to tell me why.  I’m pretty sure i",
   "fileName": "solismonolith1",
-  "upvotes": 413,
+  "upvotes": 419,
   "downvotes": 29,
   "leaderboard": [
     {
@@ -110,6 +110,13 @@
     },
     {
       "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 142300
+    },
+    {
+      "player": {
         "displayName": "IllKIllU",
         "steamID": 76561198216635512
       },
@@ -149,6 +156,13 @@
         "steamID": 76561198402297067
       },
       "time": 142640
+    },
+    {
+      "player": {
+        "displayName": "ariff",
+        "steamID": 76561198042566089
+      },
+      "time": 142680
     },
     {
       "player": {
@@ -607,7 +621,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 146490
@@ -723,6 +737,13 @@
         "steamID": 76561198201561005
       },
       "time": 148460
+    },
+    {
+      "player": {
+        "displayName": "Microsoft Word",
+        "steamID": 76561197988728880
+      },
+      "time": 148470
     },
     {
       "player": {
@@ -929,6 +950,13 @@
     },
     {
       "player": {
+        "displayName": "AlExIsAwEsOmE",
+        "steamID": 76561198074293809
+      },
+      "time": 152040
+    },
+    {
+      "player": {
         "displayName": "Ragna",
         "steamID": 76561198119778350
       },
@@ -940,6 +968,13 @@
         "steamID": 76561197987188636
       },
       "time": 152250
+    },
+    {
+      "player": {
+        "displayName": "GekoKid",
+        "steamID": 76561198011348610
+      },
+      "time": 152410
     },
     {
       "player": {
@@ -1055,7 +1090,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 153890
@@ -1069,7 +1104,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 154100
@@ -1643,7 +1678,7 @@
     },
     {
       "player": {
-        "displayName": "Milkhunter7",
+        "displayName": "MidKnightRanger",
         "steamID": 76561198112041532
       },
       "time": 164910
@@ -1675,6 +1710,13 @@
         "steamID": 76561198078750116
       },
       "time": 165930
+    },
+    {
+      "player": {
+        "displayName": "Anicus",
+        "steamID": 76561198056675851
+      },
+      "time": 166250
     },
     {
       "player": {
@@ -2182,7 +2224,7 @@
     },
     {
       "player": {
-        "displayName": "domi (away)",
+        "displayName": "domi",
         "steamID": 76561198103316789
       },
       "time": 175870
@@ -2287,7 +2329,7 @@
     },
     {
       "player": {
-        "displayName": "sileonemo",
+        "displayName": "Caitlin",
         "steamID": 76561198137118763
       },
       "time": 178350
@@ -2298,13 +2340,6 @@
         "steamID": 76561198018665630
       },
       "time": 178620
-    },
-    {
-      "player": {
-        "displayName": "AlExIsAwEsOmE",
-        "steamID": 76561198074293809
-      },
-      "time": 178760
     },
     {
       "player": {
@@ -2424,6 +2459,13 @@
         "steamID": 76561198056416008
       },
       "time": 182620
+    },
+    {
+      "player": {
+        "displayName": "Bistdocs",
+        "steamID": 76561198111708439
+      },
+      "time": 182630
     },
     {
       "player": {
@@ -2854,7 +2896,7 @@
     },
     {
       "player": {
-        "displayName": "Murizar",
+        "displayName": "Erika",
         "steamID": 76561198046000963
       },
       "time": 196560
@@ -3001,7 +3043,7 @@
     },
     {
       "player": {
-        "displayName": "Judgement",
+        "displayName": "WW3 Cat",
         "steamID": 76561198262864175
       },
       "time": 200640
@@ -3078,7 +3120,7 @@
     },
     {
       "player": {
-        "displayName": "Sola Angelus 🍓",
+        "displayName": "Sola_Angelus",
         "steamID": 76561198074238345
       },
       "time": 202970
@@ -3421,6 +3463,13 @@
     },
     {
       "player": {
+        "displayName": "Para1lax",
+        "steamID": 76561197990704157
+      },
+      "time": 222380
+    },
+    {
+      "player": {
         "displayName": "Winters",
         "steamID": 76561198152268113
       },
@@ -3561,7 +3610,7 @@
     },
     {
       "player": {
-        "displayName": "Noah Redcorn",
+        "displayName": "Fat Chunky Jaundice",
         "steamID": 76561198055909220
       },
       "time": 240160
@@ -3761,6 +3810,13 @@
         "steamID": 76561198110575549
       },
       "time": 281620
+    },
+    {
+      "player": {
+        "displayName": "sade.p",
+        "steamID": 76561198297869239
+      },
+      "time": 283590
     },
     {
       "player": {

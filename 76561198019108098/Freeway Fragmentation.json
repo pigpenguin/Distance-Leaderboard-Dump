@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Spoghetto",
+    "displayName": "[unknown]",
     "steamID": 76561198019108098
   },
   "displayName": "Freeway Fragmentation",
@@ -8,7 +8,7 @@
   "description": "I was working on this through the experimental build (silly me). But finally a stable build released so I could put this up, enjoy!",
   "fileName": "Freeway Fragmentation",
   "upvotes": 626,
-  "downvotes": 91,
+  "downvotes": 92,
   "leaderboard": [
     {
       "player": {
@@ -838,7 +838,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 424540

@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "thenukeluis",
+    "displayName": "[unknown]",
     "steamID": 76561198140308601
   },
   "displayName": "Colors............",
@@ -8,8 +8,15 @@
   "description": "After you made this \"easy\" missions you now got to make an \"hard\" mission. This isn't meant to be an cleaning mission, this is an researching mission about virus spirits and their territories.",
   "fileName": "colors_",
   "upvotes": 6,
-  "downvotes": 17,
+  "downvotes": 18,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 9120
+    },
     {
       "player": {
         "displayName": "cali",

@@ -82,6 +82,13 @@
     },
     {
       "player": {
+        "displayName": "Danny Burke",
+        "steamID": 76561198159851584
+      },
+      "time": 118470
+    },
+    {
+      "player": {
         "displayName": "遠くの愛好家",
         "steamID": 76561198067258571
       },
@@ -93,13 +100,6 @@
         "steamID": 76561198021567209
       },
       "time": 120250
-    },
-    {
-      "player": {
-        "displayName": "Danny Burke",
-        "steamID": 76561198159851584
-      },
-      "time": 120420
     },
     {
       "player": {
@@ -166,7 +166,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 140870
@@ -369,7 +369,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 559830

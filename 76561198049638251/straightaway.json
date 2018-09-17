@@ -8,7 +8,7 @@
   "description": "A very long, hard, and straight level.",
   "fileName": "straightaway",
   "upvotes": 197,
-  "downvotes": 68,
+  "downvotes": 69,
   "leaderboard": [
     {
       "player": {
@@ -208,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 310660
@@ -261,6 +261,13 @@
         "steamID": 76561198127114158
       },
       "time": 332350
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 337010
     },
     {
       "player": {
@@ -352,6 +359,13 @@
         "steamID": 76561198118508642
       },
       "time": 591090
+    },
+    {
+      "player": {
+        "displayName": "DantalionDod",
+        "steamID": 76561198127181500
+      },
+      "time": 621020
     },
     {
       "player": {

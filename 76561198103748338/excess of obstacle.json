@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Retyqui",
+    "displayName": "[unknown]",
     "steamID": 76561198103748338
   },
   "displayName": "Overflow Of Obstacle",
   "id": 468217889,
   "description": "It's not me if they are too many obstacle in this level.",
   "fileName": "excess of obstacle",
-  "upvotes": 143,
+  "upvotes": 144,
   "downvotes": 82,
   "leaderboard": [
     {
@@ -110,7 +110,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 67230
@@ -163,6 +163,13 @@
         "steamID": 76561198046670896
       },
       "time": 78070
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 81520
     },
     {
       "player": {
@@ -271,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "鳳沢 暁月",
+        "displayName": "Мэриодасу",
         "steamID": 76561198084720034
       },
       "time": 106450

@@ -7,7 +7,7 @@
   "id": 414504484,
   "description": "An awesome community level",
   "fileName": "derpin' daptastic referral",
-  "upvotes": 151,
+  "upvotes": 152,
   "downvotes": 28,
   "leaderboard": [
     {
@@ -51,6 +51,13 @@
         "steamID": 76561198027365378
       },
       "time": 81210
+    },
+    {
+      "player": {
+        "displayName": "Sondrex009",
+        "steamID": 76561198119296278
+      },
+      "time": 81640
     },
     {
       "player": {

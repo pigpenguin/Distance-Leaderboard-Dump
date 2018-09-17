@@ -1,14 +1,14 @@
 {
   "author": {
-    "displayName": "Sperzieb00n",
+    "displayName": "[unknown]",
     "steamID": 76561197973325713
   },
   "displayName": "Night train",
   "id": 1085532938,
   "description": "Get all the checkpoints and a second train carrying the endzone will arrive, its recommended to turn game brightness to full while playing this map.",
   "fileName": "journey",
-  "upvotes": 45,
-  "downvotes": 39,
+  "upvotes": 46,
+  "downvotes": 40,
   "leaderboard": [
     {
       "player": {
@@ -92,7 +92,7 @@
         "displayName": "ferreus",
         "steamID": 76561198040630941
       },
-      "time": 232010
+      "time": 230000
     },
     {
       "player": {
@@ -163,6 +163,13 @@
         "steamID": 76561198117452750
       },
       "time": 290950
+    },
+    {
+      "player": {
+        "displayName": "Bistdocs",
+        "steamID": 76561198111708439
+      },
+      "time": 291750
     },
     {
       "player": {
@@ -422,6 +429,13 @@
         "steamID": 76561198049071050
       },
       "time": 595830
+    },
+    {
+      "player": {
+        "displayName": "LelouchXV3",
+        "steamID": 76561198265054890
+      },
+      "time": 614160
     },
     {
       "player": {

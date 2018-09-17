@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Semtex4ya",
+    "displayName": "[unknown]",
     "steamID": 76561198041668285
   },
   "displayName": "Dotted",
@@ -89,7 +89,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 48950
@@ -278,7 +278,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 49470
@@ -320,7 +320,7 @@
     },
     {
       "player": {
-        "displayName": "please be patient i have autism",
+        "displayName": "The Expert",
         "steamID": 76561198119060261
       },
       "time": 49570
@@ -733,6 +733,13 @@
     },
     {
       "player": {
+        "displayName": "Relyk'Terrah",
+        "steamID": 76561198067807968
+      },
+      "time": 50640
+    },
+    {
+      "player": {
         "displayName": "Davonavik",
         "steamID": 76561198116936448
       },
@@ -810,10 +817,17 @@
     },
     {
       "player": {
-        "displayName": "[Bober] DonDi94",
+        "displayName": "DonD",
         "steamID": 76561198058921340
       },
       "time": 51040
+    },
+    {
+      "player": {
+        "displayName": "E0N",
+        "steamID": 76561198139815712
+      },
+      "time": 51060
     },
     {
       "player": {
@@ -842,20 +856,6 @@
         "steamID": 76561198161140845
       },
       "time": 51370
-    },
-    {
-      "player": {
-        "displayName": "Relyk'Terrah",
-        "steamID": 76561198067807968
-      },
-      "time": 51510
-    },
-    {
-      "player": {
-        "displayName": "E0N",
-        "steamID": 76561198139815712
-      },
-      "time": 51700
     },
     {
       "player": {
@@ -1160,7 +1160,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 62700
@@ -1272,7 +1272,7 @@
     },
     {
       "player": {
-        "displayName": "LÖÖP",
+        "displayName": "INFINITÉ LÖÖPS",
         "steamID": 76561198193380891
       },
       "time": 65490
@@ -1811,7 +1811,7 @@
     },
     {
       "player": {
-        "displayName": "Eriyo2000",
+        "displayName": "eriyo2000",
         "steamID": 76561198091875500
       },
       "time": 84370
@@ -2070,7 +2070,7 @@
     },
     {
       "player": {
-        "displayName": "Angery Pirate",
+        "displayName": "Pirate",
         "steamID": 76561198356374110
       },
       "time": 97890
@@ -2966,7 +2966,7 @@
     },
     {
       "player": {
-        "displayName": "domi (away)",
+        "displayName": "domi",
         "steamID": 76561198103316789
       },
       "time": 340260

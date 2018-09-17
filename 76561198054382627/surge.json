@@ -12,17 +12,17 @@
   "leaderboard": [
     {
       "player": {
+        "displayName": "Kenaz",
+        "steamID": 76561198214868559
+      },
+      "time": 133640
+    },
+    {
+      "player": {
         "displayName": "PPPaul",
         "steamID": 76561198023567939
       },
       "time": 135830
-    },
-    {
-      "player": {
-        "displayName": "Kenaz",
-        "steamID": 76561198214868559
-      },
-      "time": 136780
     },
     {
       "player": {

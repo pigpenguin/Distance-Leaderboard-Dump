@@ -7,7 +7,7 @@
   "id": 582316648,
   "description": "The Eschaton has been Immanentized.\r\n\r\nA collaboration between Ashamael and Jam.",
   "fileName": "arkaeratusfinal",
-  "upvotes": 851,
+  "upvotes": 854,
   "downvotes": 226,
   "leaderboard": [
     {
@@ -257,7 +257,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 90060
@@ -478,6 +478,13 @@
         "steamID": 76561198041881609
       },
       "time": 117230
+    },
+    {
+      "player": {
+        "displayName": "ONI",
+        "steamID": 76561198243985902
+      },
+      "time": 117330
     },
     {
       "player": {
@@ -908,6 +915,13 @@
     },
     {
       "player": {
+        "displayName": "Zane Wuffy",
+        "steamID": 76561198007985700
+      },
+      "time": 142160
+    },
+    {
+      "player": {
         "displayName": "Khaezaid",
         "steamID": 76561198025622980
       },
@@ -968,6 +982,20 @@
         "steamID": 76561198053947971
       },
       "time": 145890
+    },
+    {
+      "player": {
+        "displayName": "Bistdocs",
+        "steamID": 76561198111708439
+      },
+      "time": 146230
+    },
+    {
+      "player": {
+        "displayName": "Flauschekissen",
+        "steamID": 76561198122532195
+      },
+      "time": 146630
     },
     {
       "player": {
@@ -1335,6 +1363,13 @@
     },
     {
       "player": {
+        "displayName": "Snails",
+        "steamID": 76561198163264307
+      },
+      "time": 178000
+    },
+    {
+      "player": {
         "displayName": "1999ben",
         "steamID": 76561198150882974
       },
@@ -1552,7 +1587,7 @@
     },
     {
       "player": {
-        "displayName": "✪Soul",
+        "displayName": "✪Lil Peep",
         "steamID": 76561198061397608
       },
       "time": 198260
@@ -1948,6 +1983,13 @@
         "steamID": 76561198087387949
       },
       "time": 266130
+    },
+    {
+      "player": {
+        "displayName": "tellmeninetails",
+        "steamID": 76561198146279270
+      },
+      "time": 267630
     },
     {
       "player": {

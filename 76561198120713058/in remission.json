@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Pidge",
+    "displayName": "[unknown]",
     "steamID": 76561198120713058
   },
   "displayName": "In Remission",
   "id": 772509005,
   "description": "The rain never settles in this lively grey city",
   "fileName": "in remission",
-  "upvotes": 250,
+  "upvotes": 251,
   "downvotes": 38,
   "leaderboard": [
     {
@@ -117,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 108640
@@ -254,6 +254,13 @@
         "steamID": 76561198129657655
       },
       "time": 109440
+    },
+    {
+      "player": {
+        "displayName": "Gandoufle la Pantoufle",
+        "steamID": 76561198020312746
+      },
+      "time": 109470
     },
     {
       "player": {
@@ -439,7 +446,7 @@
     },
     {
       "player": {
-        "displayName": "father cool",
+        "displayName": "we have technology",
         "steamID": 76561198024545911
       },
       "time": 110100
@@ -600,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "Desiré",
+        "displayName": "Misty-",
         "steamID": 76561198033098196
       },
       "time": 110680
@@ -1090,7 +1097,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 118760

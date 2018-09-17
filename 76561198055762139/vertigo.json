@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Nonex359",
+    "displayName": "[unknown]",
     "steamID": 76561198055762139
   },
   "displayName": "Vertigo",
@@ -8,8 +8,15 @@
   "description": "My first community level. Packed with sky high twists and turns.  A Moderatly difficult level.",
   "fileName": "vertigo",
   "upvotes": 43,
-  "downvotes": 17,
+  "downvotes": 18,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 22020
+    },
     {
       "player": {
         "displayName": "cali",

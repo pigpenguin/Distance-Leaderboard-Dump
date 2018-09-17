@@ -7,7 +7,7 @@
   "id": 728461052,
   "description": "The NitronicRush remake of the obstacle course from RUSH2049 has been reborn!\r\n\r\nProps to Cyclopsdragon and Phimeek for getting the timing right on vertical blocks and falling rocks.",
   "fileName": "gladiator",
-  "upvotes": 452,
+  "upvotes": 453,
   "downvotes": 90,
   "leaderboard": [
     {
@@ -607,7 +607,7 @@
     },
     {
       "player": {
-        "displayName": "mouthbreather",
+        "displayName": "vengaboy",
         "steamID": 76561198105662914
       },
       "time": 206430
@@ -1062,7 +1062,7 @@
     },
     {
       "player": {
-        "displayName": "Now listn",
+        "displayName": "El_Nacho",
         "steamID": 76561198060379806
       },
       "time": 286750
@@ -1073,6 +1073,13 @@
         "steamID": 76561198001141639
       },
       "time": 288100
+    },
+    {
+      "player": {
+        "displayName": "ant",
+        "steamID": 76561198025639563
+      },
+      "time": 288420
     },
     {
       "player": {
@@ -1321,7 +1328,7 @@
     },
     {
       "player": {
-        "displayName": "УЧЕНИК ЕХУС #69 (МонструганАйше)",
+        "displayName": "УЧЕНИК ЕХУС №69 (МонструганАйше)",
         "steamID": 76561198183795330
       },
       "time": 319560
@@ -1566,7 +1573,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "4P",
         "steamID": 76561198005648128
       },
       "time": 361760

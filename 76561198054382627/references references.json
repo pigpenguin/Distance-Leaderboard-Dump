@@ -61,6 +61,13 @@
     },
     {
       "player": {
+        "displayName": "Kenaz",
+        "steamID": 76561198214868559
+      },
+      "time": 483310
+    },
+    {
+      "player": {
         "displayName": "ash",
         "steamID": 76561198025607548
       },
@@ -72,13 +79,6 @@
         "steamID": 76561198021567209
       },
       "time": 699550
-    },
-    {
-      "player": {
-        "displayName": "Kenaz",
-        "steamID": 76561198214868559
-      },
-      "time": 742060
     },
     {
       "player": {
@@ -96,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 7909870

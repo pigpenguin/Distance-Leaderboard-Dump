@@ -26,6 +26,13 @@
     },
     {
       "player": {
+        "displayName": "jay",
+        "steamID": 76561198089234092
+      },
+      "time": 24520
+    },
+    {
+      "player": {
         "displayName": "Triazo",
         "steamID": 76561198000691754
       },
@@ -44,13 +51,6 @@
         "steamID": 76561198061930522
       },
       "time": 26160
-    },
-    {
-      "player": {
-        "displayName": "jay",
-        "steamID": 76561198089234092
-      },
-      "time": 26690
     },
     {
       "player": {
@@ -124,7 +124,14 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Zebulon759",
+        "steamID": 76561198129657655
+      },
+      "time": 37200
+    },
+    {
+      "player": {
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 39480

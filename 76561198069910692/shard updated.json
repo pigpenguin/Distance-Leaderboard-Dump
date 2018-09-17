@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "MayorDump",
+    "displayName": "[unknown]",
     "steamID": 76561198069910692
   },
   "displayName": "Shard",
@@ -82,6 +82,13 @@
     },
     {
       "player": {
+        "displayName": "Hello There",
+        "steamID": 76561198114382448
+      },
+      "time": 126390
+    },
+    {
+      "player": {
         "displayName": "slowscan",
         "steamID": 76561197994748278
       },
@@ -100,13 +107,6 @@
         "steamID": 76561198002421218
       },
       "time": 126630
-    },
-    {
-      "player": {
-        "displayName": "Hello There",
-        "steamID": 76561198114382448
-      },
-      "time": 126720
     },
     {
       "player": {
@@ -537,7 +537,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 158750
@@ -1153,7 +1153,7 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 206050
@@ -1272,7 +1272,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 216160
@@ -1356,7 +1356,7 @@
     },
     {
       "player": {
-        "displayName": "Sola Angelus 🍓",
+        "displayName": "Sola_Angelus",
         "steamID": 76561198074238345
       },
       "time": 226540

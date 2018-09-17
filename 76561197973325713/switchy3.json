@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Sperzieb00n",
+    "displayName": "[unknown]",
     "steamID": 76561197973325713
   },
   "displayName": "Switchy 3",
   "id": 1289785566,
   "description": "Solve this tricky puzzle to unlock the endzone!",
   "fileName": "switchy3",
-  "upvotes": 4,
+  "upvotes": 5,
   "downvotes": 3,
   "leaderboard": [
     {
@@ -58,6 +58,13 @@
         "steamID": 76561198331148378
       },
       "time": 69070
+    },
+    {
+      "player": {
+        "displayName": "LelouchXV3",
+        "steamID": 76561198265054890
+      },
+      "time": 69490
     },
     {
       "player": {

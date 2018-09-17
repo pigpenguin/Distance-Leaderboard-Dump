@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Elrontur",
+    "displayName": "[unknown]",
     "steamID": 76561198044232085
   },
   "displayName": "Doomsday",
@@ -373,6 +373,13 @@
         "steamID": 76561197971901671
       },
       "time": 47530
+    },
+    {
+      "player": {
+        "displayName": "Relyk'Terrah",
+        "steamID": 76561198067807968
+      },
+      "time": 48170
     },
     {
       "player": {

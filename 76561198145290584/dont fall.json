@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "thearborland",
+    "displayName": "[unknown]",
     "steamID": 76561198145290584
   },
   "displayName": "Do Not Fall",
   "id": 463717768,
   "description": "Very first attempt at creating a level with the editor. Don't hold back with criticism; I'll need it to improve.",
   "fileName": "dont fall",
-  "upvotes": 13,
+  "upvotes": 14,
   "downvotes": 24,
   "leaderboard": [
     {
@@ -93,6 +93,13 @@
         "steamID": 76561198066509354
       },
       "time": 56120
+    },
+    {
+      "player": {
+        "displayName": "Dark_ION57_вук",
+        "steamID": 76561198025480120
+      },
+      "time": 74570
     },
     {
       "player": {

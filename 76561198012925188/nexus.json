@@ -7,7 +7,7 @@
   "id": 1447319393,
   "description": "This is my first level, so don't go harsh on me. I hope you like the ideas that I got and enjoy the level.\r\nIt is around 2minutes long when you get the hang of it. It contains obstacles and my own creations.\r\nDifficulty-wise this should be maybe 7/10. It w",
   "fileName": "nexus",
-  "upvotes": 28,
+  "upvotes": 29,
   "downvotes": 4,
   "leaderboard": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "please be patient i have autism",
+        "displayName": "The Expert",
         "steamID": 76561198119060261
       },
       "time": 126700
@@ -82,7 +82,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 180360
@@ -229,7 +229,14 @@
     },
     {
       "player": {
-        "displayName": "KIJRYZ",
+        "displayName": "Freakazoid",
+        "steamID": 76561198000393363
+      },
+      "time": 299720
+    },
+    {
+      "player": {
+        "displayName": "Kijryz",
         "steamID": 76561198063441075
       },
       "time": 310820

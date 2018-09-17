@@ -7,7 +7,7 @@
   "id": 593935360,
   "description": "A Labyrinth Of wallrides and jumps. Can you skip your way through?",
   "fileName": "labirynth",
-  "upvotes": 130,
+  "upvotes": 131,
   "downvotes": 65,
   "leaderboard": [
     {
@@ -180,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 37580
@@ -271,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 64730
@@ -306,7 +306,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 102460
@@ -422,6 +422,13 @@
         "steamID": 76561198004398501
       },
       "time": 399690
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 404160
     },
     {
       "player": {

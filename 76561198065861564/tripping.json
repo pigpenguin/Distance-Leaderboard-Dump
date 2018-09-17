@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "dragon808tr",
+    "displayName": "[unknown]",
     "steamID": 76561198065861564
   },
   "displayName": "Tripping",
   "id": 589316272,
   "description": "This level is a little strange, as there were some glitches with inserting obstacles where I wanted them to go, so the result is this track! It also gives you infinate boost (beacuse the track is kinda boring without it). \r\n\r\nIt is not very hard except the",
   "fileName": "tripping",
-  "upvotes": 9,
+  "upvotes": 10,
   "downvotes": 16,
   "leaderboard": [
     {
@@ -37,6 +37,13 @@
         "steamID": 76561198211830397
       },
       "time": 158100
+    },
+    {
+      "player": {
+        "displayName": "DantalionDod",
+        "steamID": 76561198127181500
+      },
+      "time": 169660
     },
     {
       "player": {

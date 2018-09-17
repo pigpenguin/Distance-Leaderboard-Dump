@@ -110,6 +110,13 @@
     },
     {
       "player": {
+        "displayName": "vem",
+        "steamID": 76561198373979674
+      },
+      "time": 88930
+    },
+    {
+      "player": {
         "displayName": "The long named guy",
         "steamID": 76561197997368571
       },
@@ -124,7 +131,7 @@
     },
     {
       "player": {
-        "displayName": "please be patient i have autism",
+        "displayName": "The Expert",
         "steamID": 76561198119060261
       },
       "time": 89080
@@ -173,7 +180,7 @@
     },
     {
       "player": {
-        "displayName": "[Bober] DonDi94",
+        "displayName": "DonD",
         "steamID": 76561198058921340
       },
       "time": 89480
@@ -537,13 +544,6 @@
     },
     {
       "player": {
-        "displayName": "vem",
-        "steamID": 76561198373979674
-      },
-      "time": 104890
-    },
-    {
-      "player": {
         "displayName": "ReallyDumbFox",
         "steamID": 76561198441504617
       },
@@ -691,7 +691,7 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 116440
@@ -978,7 +978,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 132930
@@ -1174,7 +1174,7 @@
     },
     {
       "player": {
-        "displayName": "Sunken*",
+        "displayName": "ΣSunken*",
         "steamID": 76561198064677612
       },
       "time": 153610
@@ -1510,6 +1510,13 @@
     },
     {
       "player": {
+        "displayName": "Rurumu",
+        "steamID": 76561198123502334
+      },
+      "time": 186550
+    },
+    {
+      "player": {
         "displayName": "Mike Tyson Jr.",
         "steamID": 76561197995754336
       },
@@ -1692,7 +1699,7 @@
     },
     {
       "player": {
-        "displayName": "УЧЕНИК ЕХУС #69 (МонструганАйше)",
+        "displayName": "УЧЕНИК ЕХУС №69 (МонструганАйше)",
         "steamID": 76561198183795330
       },
       "time": 214160
@@ -1762,7 +1769,7 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 223710
@@ -1878,13 +1885,6 @@
         "steamID": 76561198294141944
       },
       "time": 247320
-    },
-    {
-      "player": {
-        "displayName": "Rurumu",
-        "steamID": 76561198123502334
-      },
-      "time": 251340
     },
     {
       "player": {

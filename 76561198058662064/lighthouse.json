@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "pinesolofchaos",
+    "displayName": "[unknown]",
     "steamID": 76561198058662064
   },
   "displayName": "Lighthouse",
   "id": 1140646412,
   "description": "Surprisingly heavy.\r\n\r\n\r\n(Edit: Fixed medal times)",
   "fileName": "lighthouse",
-  "upvotes": 89,
+  "upvotes": 90,
   "downvotes": 24,
   "leaderboard": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 188720
@@ -376,6 +376,13 @@
     },
     {
       "player": {
+        "displayName": "theninjacat799",
+        "steamID": 76561198110843048
+      },
+      "time": 260310
+    },
+    {
+      "player": {
         "displayName": "Mr. Chubbz",
         "steamID": 76561198166454544
       },
@@ -467,7 +474,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 281310
@@ -502,7 +509,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "Sb",
         "steamID": 76561198054892460
       },
       "time": 292630
@@ -705,7 +712,7 @@
     },
     {
       "player": {
-        "displayName": "O mágico",
+        "displayName": "Akaputo",
         "steamID": 76561198019393642
       },
       "time": 359370

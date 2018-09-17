@@ -7,7 +7,7 @@
   "id": 722691520,
   "description": "An awesome community level",
   "fileName": "imposibliblibli",
-  "upvotes": 44,
+  "upvotes": 45,
   "downvotes": 31,
   "leaderboard": [
     {
@@ -40,7 +40,7 @@
     },
     {
       "player": {
-        "displayName": "УЧЕНИК ЕХУС #69 (МонструганАйше)",
+        "displayName": "УЧЕНИК ЕХУС №69 (МонструганАйше)",
         "steamID": 76561198183795330
       },
       "time": 142810
@@ -121,6 +121,13 @@
         "steamID": 76561198027708191
       },
       "time": 249940
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 282010
     },
     {
       "player": {

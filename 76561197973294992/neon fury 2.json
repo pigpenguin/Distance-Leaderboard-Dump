@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Hosea",
+    "displayName": "[unknown]",
     "steamID": 76561197973294992
   },
   "displayName": "Neon Fury 2",
   "id": 710744574,
   "description": "Welcome back to Neon Fury, but with a whole new track to test your skills on. As always feel free to give feedback and let me know of any changes or additions you would like to see. I'll do my best to implement them but I still may not be able to update my",
   "fileName": "neon fury 2",
-  "upvotes": 836,
+  "upvotes": 840,
   "downvotes": 97,
   "leaderboard": [
     {
@@ -264,7 +264,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 123630
@@ -488,6 +488,13 @@
     },
     {
       "player": {
+        "displayName": "Dandy",
+        "steamID": 76561198130778547
+      },
+      "time": 134430
+    },
+    {
+      "player": {
         "displayName": "fujitive | tom",
         "steamID": 76561198071046114
       },
@@ -572,7 +579,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 138050
@@ -775,6 +782,13 @@
     },
     {
       "player": {
+        "displayName": "Banhi Banhi",
+        "steamID": 76561198083986714
+      },
+      "time": 145050
+    },
+    {
+      "player": {
         "displayName": "SpeedyG",
         "steamID": 76561198073509593
       },
@@ -924,13 +938,6 @@
       "player": {
         "displayName": "God's Pee",
         "steamID": 76561198061362269
-      },
-      "time": 152830
-    },
-    {
-      "player": {
-        "displayName": "Dandy",
-        "steamID": 76561198130778547
       },
       "time": 152830
     },
@@ -1118,7 +1125,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 160400
@@ -1153,7 +1160,7 @@
     },
     {
       "player": {
-        "displayName": "risil idarin",
+        "displayName": "risilicious",
         "steamID": 76561198061325263
       },
       "time": 162470
@@ -2329,14 +2336,14 @@
     },
     {
       "player": {
-        "displayName": "Koba [FuSeCo]",
+        "displayName": "Koba",
         "steamID": 76561198093885906
       },
       "time": 218650
     },
     {
       "player": {
-        "displayName": "Eriyo2000",
+        "displayName": "eriyo2000",
         "steamID": 76561198091875500
       },
       "time": 218680
@@ -2574,6 +2581,13 @@
     },
     {
       "player": {
+        "displayName": "DarkGria",
+        "steamID": 76561198075314993
+      },
+      "time": 234660
+    },
+    {
+      "player": {
         "displayName": "CodexTor",
         "steamID": 76561198048281829
       },
@@ -2700,7 +2714,7 @@
     },
     {
       "player": {
-        "displayName": "Zeemanhuismerk",
+        "displayName": "Speedwagon",
         "steamID": 76561198046730373
       },
       "time": 240660
@@ -2718,6 +2732,13 @@
         "steamID": 76561198057901599
       },
       "time": 241360
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 242600
     },
     {
       "player": {
@@ -2753,6 +2774,13 @@
         "steamID": 76561198119595068
       },
       "time": 246470
+    },
+    {
+      "player": {
+        "displayName": "Snails",
+        "steamID": 76561198163264307
+      },
+      "time": 246660
     },
     {
       "player": {
@@ -2844,6 +2872,13 @@
         "steamID": 76561198043493948
       },
       "time": 259390
+    },
+    {
+      "player": {
+        "displayName": "sade.p",
+        "steamID": 76561198297869239
+      },
+      "time": 259880
     },
     {
       "player": {
@@ -3092,7 +3127,7 @@
     },
     {
       "player": {
-        "displayName": "La Fripouille",
+        "displayName": "La Fripouille 2 : Seal the deal",
         "steamID": 76561198061295098
       },
       "time": 298930
@@ -3274,7 +3309,7 @@
     },
     {
       "player": {
-        "displayName": "REVILO",
+        "displayName": "i'm a dog",
         "steamID": 76561198046114191
       },
       "time": 333310
@@ -3316,6 +3351,13 @@
     },
     {
       "player": {
+        "displayName": "tellmeninetails",
+        "steamID": 76561198146279270
+      },
+      "time": 358230
+    },
+    {
+      "player": {
         "displayName": "royaloliver",
         "steamID": 76561197995249590
       },
@@ -3334,6 +3376,13 @@
         "steamID": 76561198026972786
       },
       "time": 372300
+    },
+    {
+      "player": {
+        "displayName": "Muse",
+        "steamID": 76561198858844688
+      },
+      "time": 373290
     },
     {
       "player": {

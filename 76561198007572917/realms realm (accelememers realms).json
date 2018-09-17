@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "I am a wizard, unbounded",
+    "displayName": "[unknown]",
     "steamID": 76561198007572917
   },
   "displayName": "Realms Realm (Accelememers Realms)",
@@ -8,7 +8,7 @@
   "description": "Acceleracers Realms parody map :^",
   "fileName": "realms realm (accelememers realms)",
   "upvotes": 57,
-  "downvotes": 32,
+  "downvotes": 34,
   "leaderboard": [
     {
       "player": {
@@ -33,6 +33,13 @@
     },
     {
       "player": {
+        "displayName": "LyR.Kiyohime",
+        "steamID": 76561198126059729
+      },
+      "time": 10270
+    },
+    {
+      "player": {
         "displayName": "SpyrouR",
         "steamID": 76561198057473226
       },
@@ -47,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 10590
@@ -481,7 +488,7 @@
     },
     {
       "player": {
-        "displayName": "Aggro",
+        "displayName": "twitch.tv/aggrorl",
         "steamID": 76561198290365071
       },
       "time": 315860
@@ -551,7 +558,7 @@
     },
     {
       "player": {
-        "displayName": "GlonK",
+        "displayName": "Not fat no more",
         "steamID": 76561198079982782
       },
       "time": 330180

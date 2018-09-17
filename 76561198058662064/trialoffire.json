@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "pinesolofchaos",
+    "displayName": "[unknown]",
     "steamID": 76561198058662064
   },
   "displayName": "Trial of the Flame Drake",
   "id": 1367067516,
   "description": "Not to be confused with Trial of the Frame Rate.",
   "fileName": "trialoffire",
-  "upvotes": 407,
+  "upvotes": 409,
   "downvotes": 25,
   "leaderboard": [
     {
@@ -173,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "please be patient i have autism",
+        "displayName": "The Expert",
         "steamID": 76561198119060261
       },
       "time": 88170
@@ -439,7 +439,7 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 92870
@@ -586,7 +586,7 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 97680
@@ -845,7 +845,7 @@
     },
     {
       "player": {
-        "displayName": "GrófAzUhl",
+        "displayName": "NUTPICKER",
         "steamID": 76561198018084993
       },
       "time": 104420
@@ -1412,7 +1412,7 @@
     },
     {
       "player": {
-        "displayName": "sileonemo",
+        "displayName": "Caitlin",
         "steamID": 76561198137118763
       },
       "time": 119460
@@ -2175,7 +2175,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 138800
@@ -2343,7 +2343,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "Mo",
         "steamID": 76561198106474365
       },
       "time": 142590
@@ -2364,7 +2364,7 @@
     },
     {
       "player": {
-        "displayName": "Eriyo2000",
+        "displayName": "eriyo2000",
         "steamID": 76561198091875500
       },
       "time": 143510
@@ -2875,7 +2875,7 @@
     },
     {
       "player": {
-        "displayName": "The Phattest of Yeets",
+        "displayName": "Stryker0208",
         "steamID": 76561198112701213
       },
       "time": 161550
@@ -2889,7 +2889,7 @@
     },
     {
       "player": {
-        "displayName": "O mágico",
+        "displayName": "Akaputo",
         "steamID": 76561198019393642
       },
       "time": 162530
@@ -2938,7 +2938,14 @@
     },
     {
       "player": {
-        "displayName": "Murizar",
+        "displayName": "Kinkler Bonesteel",
+        "steamID": 76561198066289620
+      },
+      "time": 164920
+    },
+    {
+      "player": {
+        "displayName": "Erika",
         "steamID": 76561198046000963
       },
       "time": 165900
@@ -3386,6 +3393,13 @@
     },
     {
       "player": {
+        "displayName": "geo.emmer",
+        "steamID": 76561198801783436
+      },
+      "time": 187610
+    },
+    {
+      "player": {
         "displayName": "Medicine The Bun",
         "steamID": 76561198045353768
       },
@@ -3547,7 +3561,7 @@
     },
     {
       "player": {
-        "displayName": "domi (away)",
+        "displayName": "domi",
         "steamID": 76561198103316789
       },
       "time": 202770
@@ -3617,7 +3631,7 @@
     },
     {
       "player": {
-        "displayName": "Lorg",
+        "displayName": "[unknown]",
         "steamID": 76561198058290337
       },
       "time": 221520
@@ -3733,13 +3747,6 @@
         "steamID": 76561198086073464
       },
       "time": 236700
-    },
-    {
-      "player": {
-        "displayName": "Kinkler Bonesteel",
-        "steamID": 76561198066289620
-      },
-      "time": 238320
     },
     {
       "player": {

@@ -19,7 +19,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 44330
@@ -58,6 +58,13 @@
         "steamID": 76561198014052253
       },
       "time": 45990
+    },
+    {
+      "player": {
+        "displayName": "seismo98",
+        "steamID": 76561198128003128
+      },
+      "time": 46740
     },
     {
       "player": {
@@ -124,6 +131,13 @@
     },
     {
       "player": {
+        "displayName": "Åchoo™",
+        "steamID": 76561198009091066
+      },
+      "time": 47070
+    },
+    {
+      "player": {
         "displayName": "Charlie Kelly",
         "steamID": 76561198002018317
       },
@@ -168,13 +182,6 @@
       "player": {
         "displayName": "Fatal1ty",
         "steamID": 76561198111091227
-      },
-      "time": 47520
-    },
-    {
-      "player": {
-        "displayName": "seismo98",
-        "steamID": 76561198128003128
       },
       "time": 47520
     },
@@ -229,14 +236,7 @@
     },
     {
       "player": {
-        "displayName": "Åchoo™",
-        "steamID": 76561198009091066
-      },
-      "time": 48030
-    },
-    {
-      "player": {
-        "displayName": "big feed",
+        "displayName": "trej",
         "steamID": 76561198025013467
       },
       "time": 48030

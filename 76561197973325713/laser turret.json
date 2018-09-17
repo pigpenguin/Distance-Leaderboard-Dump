@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Sperzieb00n",
+    "displayName": "[unknown]",
     "steamID": 76561197973325713
   },
   "displayName": "the only way",
   "id": 1122686629,
   "description": "laser turrets are standing between you and the endzone, how will you pass them?",
   "fileName": "laser turret",
-  "upvotes": 72,
+  "upvotes": 73,
   "downvotes": 20,
   "leaderboard": [
     {
@@ -548,6 +548,13 @@
         "steamID": 76561198092710385
       },
       "time": 213700
+    },
+    {
+      "player": {
+        "displayName": "LelouchXV3",
+        "steamID": 76561198265054890
+      },
+      "time": 218680
     },
     {
       "player": {

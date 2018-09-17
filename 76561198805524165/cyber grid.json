@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Creepersrock24Gaming",
+    "displayName": "[unknown]",
     "steamID": 76561198805524165
   },
   "displayName": "The New Cybergrid Realm",
@@ -138,6 +138,13 @@
     },
     {
       "player": {
+        "displayName": "Creepersrock24Gaming",
+        "steamID": 76561198805524165
+      },
+      "time": 3750
+    },
+    {
+      "player": {
         "displayName": "Raze Silverwing",
         "steamID": 76561198390749737
       },
@@ -149,13 +156,6 @@
         "steamID": 76561198141185964
       },
       "time": 3790
-    },
-    {
-      "player": {
-        "displayName": "Creepersrock24Gaming",
-        "steamID": 76561198805524165
-      },
-      "time": 3820
     },
     {
       "player": {
@@ -432,6 +432,13 @@
     },
     {
       "player": {
+        "displayName": "Koldheartz",
+        "steamID": 76561198327943993
+      },
+      "time": 611180
+    },
+    {
+      "player": {
         "displayName": "Voltaic",
         "steamID": 76561198801154502
       },
@@ -485,13 +492,6 @@
         "steamID": 76561198064311072
       },
       "time": 772630
-    },
-    {
-      "player": {
-        "displayName": "Koldheartz",
-        "steamID": 76561198327943993
-      },
-      "time": 889540
     },
     {
       "player": {

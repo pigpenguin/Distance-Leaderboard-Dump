@@ -7,7 +7,7 @@
   "id": 592209993,
   "description": "Made as a joke level designed to frustrate my friends.  Play at your own risk.",
   "fileName": "oops",
-  "upvotes": 68,
+  "upvotes": 69,
   "downvotes": 50,
   "leaderboard": [
     {
@@ -114,6 +114,13 @@
         "steamID": 76561198119697124
       },
       "time": 70040
+    },
+    {
+      "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 80660
     },
     {
       "player": {

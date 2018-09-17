@@ -7,7 +7,7 @@
   "id": 588967736,
   "description": "A four section sprint with plenty of different routes.",
   "fileName": "jumpsticals",
-  "upvotes": 523,
+  "upvotes": 524,
   "downvotes": 61,
   "leaderboard": [
     {
@@ -37,6 +37,13 @@
         "steamID": 76561198216635512
       },
       "time": 93160
+    },
+    {
+      "player": {
+        "displayName": "Sayrix",
+        "steamID": 76561198074026903
+      },
+      "time": 94950
     },
     {
       "player": {
@@ -369,7 +376,7 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 214050
@@ -467,7 +474,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 221390
@@ -1118,7 +1125,7 @@
     },
     {
       "player": {
-        "displayName": "strikecg",
+        "displayName": "EAE MAN",
         "steamID": 76561198077412579
       },
       "time": 301320

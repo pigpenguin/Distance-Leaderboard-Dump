@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "ZanySpaceman",
+    "displayName": "[unknown]",
     "steamID": 76561198245745476
   },
   "displayName": "Acceleracers: Clash on the Coast",
@@ -8,7 +8,7 @@
   "description": "A work in progress intended to be like the coastline raced by Tork and Nolo in Acceleracers.  Feedback is appreciated!",
   "fileName": "highway35coast",
   "upvotes": 61,
-  "downvotes": 29,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -33,10 +33,17 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 31150
+    },
+    {
+      "player": {
+        "displayName": "LyR.Kiyohime",
+        "steamID": 76561198126059729
+      },
+      "time": 31660
     },
     {
       "player": {
@@ -47,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "Judgement",
+        "displayName": "WW3 Cat",
         "steamID": 76561198262864175
       },
       "time": 34380
@@ -68,7 +75,7 @@
     },
     {
       "player": {
-        "displayName": "Aggro",
+        "displayName": "twitch.tv/aggrorl",
         "steamID": 76561198290365071
       },
       "time": 36400
@@ -236,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "Overtime | L115A3",
+        "displayName": "Overtime | Our Lord And Savior",
         "steamID": 76561198151564084
       },
       "time": 43270

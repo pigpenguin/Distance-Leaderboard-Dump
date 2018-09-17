@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "VHS",
+    "displayName": "[unknown]",
     "steamID": 76561198195855331
   },
   "displayName": "WaveRippers",
@@ -138,7 +138,14 @@
     },
     {
       "player": {
-        "displayName": "Overtime | L115A3",
+        "displayName": "LyR.Kiyohime",
+        "steamID": 76561198126059729
+      },
+      "time": 162580
+    },
+    {
+      "player": {
+        "displayName": "Overtime | Our Lord And Savior",
         "steamID": 76561198151564084
       },
       "time": 162580
@@ -166,7 +173,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 163280
@@ -264,7 +271,7 @@
     },
     {
       "player": {
-        "displayName": "暁 Nagato",
+        "displayName": "暁 Pain",
         "steamID": 76561198139395117
       },
       "time": 164440
@@ -628,7 +635,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 173060
@@ -681,6 +688,13 @@
         "steamID": 76561198044237379
       },
       "time": 175640
+    },
+    {
+      "player": {
+        "displayName": "geo.emmer",
+        "steamID": 76561198801783436
+      },
+      "time": 175650
     },
     {
       "player": {
@@ -1076,7 +1090,7 @@
     },
     {
       "player": {
-        "displayName": "risil idarin",
+        "displayName": "risilicious",
         "steamID": 76561198061325263
       },
       "time": 194680
@@ -2018,13 +2032,6 @@
         "steamID": 76561198378455956
       },
       "time": 373720
-    },
-    {
-      "player": {
-        "displayName": "LyR.Kiyohime",
-        "steamID": 76561198126059729
-      },
-      "time": 394350
     }
   ]
 }

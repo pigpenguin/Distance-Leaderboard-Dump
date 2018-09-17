@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "BCPowerhouse",
+    "displayName": "[unknown]",
     "steamID": 76561198132894787
   },
   "displayName": "Spectrum",
   "id": 422479219,
   "description": "Can you endure this brutally long track?",
   "fileName": "spectrum",
-  "upvotes": 192,
+  "upvotes": 193,
   "downvotes": 70,
   "leaderboard": [
     {
@@ -369,6 +369,13 @@
     },
     {
       "player": {
+        "displayName": "JohnCorby",
+        "steamID": 76561198150564286
+      },
+      "time": 753430
+    },
+    {
+      "player": {
         "displayName": "PsycheGlitch",
         "steamID": 76561198012410117
       },
@@ -411,7 +418,7 @@
     },
     {
       "player": {
-        "displayName": "Der Brecher",
+        "displayName": "PrimeGod",
         "steamID": 76561198088099138
       },
       "time": 824560

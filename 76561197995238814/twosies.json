@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "A Fist Angrily",
+    "displayName": "[unknown]",
     "steamID": 76561197995238814
   },
   "displayName": "Angryfist Attempt II",
@@ -194,6 +194,13 @@
     },
     {
       "player": {
+        "displayName": "Nocrex",
+        "steamID": 76561198193363878
+      },
+      "time": 47080
+    },
+    {
+      "player": {
         "displayName": "kildert5",
         "steamID": 76561198078526316
       },
@@ -313,13 +320,6 @@
     },
     {
       "player": {
-        "displayName": "Nocrex",
-        "steamID": 76561198193363878
-      },
-      "time": 55330
-    },
-    {
-      "player": {
         "displayName": "Poptarticus",
         "steamID": 76561198019921933
       },
@@ -362,7 +362,7 @@
     },
     {
       "player": {
-        "displayName": "William Seed",
+        "displayName": "I'm a Sick puck",
         "steamID": 76561198085501982
       },
       "time": 60800

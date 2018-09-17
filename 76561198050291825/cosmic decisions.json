@@ -12,6 +12,13 @@
   "leaderboard": [
     {
       "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 13210
+    },
+    {
+      "player": {
         "displayName": "IllKIllU",
         "steamID": 76561198216635512
       },
@@ -26,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 20320
@@ -247,13 +254,6 @@
         "steamID": 76561198010461659
       },
       "time": 56350
-    },
-    {
-      "player": {
-        "displayName": "noah",
-        "steamID": 76561198129061896
-      },
-      "time": 57960
     },
     {
       "player": {

@@ -12,6 +12,13 @@
   "leaderboard": [
     {
       "player": {
+        "displayName": "noah",
+        "steamID": 76561198129061896
+      },
+      "time": 50680
+    },
+    {
+      "player": {
         "displayName": "Danny Burke",
         "steamID": 76561198159851584
       },
@@ -47,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 57740
@@ -117,17 +124,10 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 61390
-    },
-    {
-      "player": {
-        "displayName": "noah",
-        "steamID": 76561198129061896
-      },
-      "time": 61530
     },
     {
       "player": {

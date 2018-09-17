@@ -1,15 +1,22 @@
 {
   "author": {
-    "displayName": "Owlexander ♌",
+    "displayName": "[unknown]",
     "steamID": 76561198067723583
   },
   "displayName": "The Gauntlet [V1]",
   "id": 798765648,
   "description": "My first level, nothing special. Made it for fun. This is a part of a project I'm considering expanding on, making the roads longer, and adding more challenge.",
   "fileName": "thegauntletv1",
-  "upvotes": 1,
+  "upvotes": 2,
   "downvotes": 6,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "vem",
+        "steamID": 76561198373979674
+      },
+      "time": 24210
+    },
     {
       "player": {
         "displayName": "cali",
@@ -26,7 +33,7 @@
     },
     {
       "player": {
-        "displayName": "CallMeTeddyBear",
+        "displayName": "That_F*cking_Bear",
         "steamID": 76561198083370596
       },
       "time": 93900

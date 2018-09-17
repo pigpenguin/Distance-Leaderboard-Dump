@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "MoonRunestar",
+    "displayName": "[unknown]",
     "steamID": 76561198052480099
   },
   "displayName": "Resurrection",
@@ -208,6 +208,13 @@
     },
     {
       "player": {
+        "displayName": "MoonRunestar",
+        "steamID": 76561198052480099
+      },
+      "time": 41650
+    },
+    {
+      "player": {
         "displayName": "lfighter",
         "steamID": 76561198031984723
       },
@@ -348,7 +355,7 @@
     },
     {
       "player": {
-        "displayName": "Brotosstech",
+        "displayName": "Brotoss404",
         "steamID": 76561198144750108
       },
       "time": 52960
@@ -544,7 +551,7 @@
     },
     {
       "player": {
-        "displayName": "Quack",
+        "displayName": "Shlunk",
         "steamID": 76561198179841029
       },
       "time": 69500

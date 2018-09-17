@@ -7,7 +7,7 @@
   "id": 1154792704,
   "description": "My first map.\r\n\r\nŁatwa trasa skupiająca się na efekciarskiej oprawie graficznej. Jednocześnie to moje pierwsze dzieło. :P",
   "fileName": "rollercoaster",
-  "upvotes": 55,
+  "upvotes": 56,
   "downvotes": 27,
   "leaderboard": [
     {
@@ -628,7 +628,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 192810
@@ -688,6 +688,13 @@
         "steamID": 76561198174252187
       },
       "time": 218630
+    },
+    {
+      "player": {
+        "displayName": "CrowP08",
+        "steamID": 76561198401110859
+      },
+      "time": 232860
     },
     {
       "player": {

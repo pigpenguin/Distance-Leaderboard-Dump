@@ -7,7 +7,7 @@
   "id": 691773027,
   "description": "How many can you get + the best time?\r\nJust for Laughs :)",
   "fileName": "bowling for goblets",
-  "upvotes": 52,
+  "upvotes": 53,
   "downvotes": 34,
   "leaderboard": [
     {
@@ -285,6 +285,13 @@
     },
     {
       "player": {
+        "displayName": "cocofou",
+        "steamID": 76561198142866504
+      },
+      "time": 7530
+    },
+    {
+      "player": {
         "displayName": "alexvyatkin",
         "steamID": 76561198061392869
       },
@@ -343,6 +350,13 @@
       "player": {
         "displayName": "Riggs",
         "steamID": 76561197965806803
+      },
+      "time": 8820
+    },
+    {
+      "player": {
+        "displayName": "Tentacule_sama",
+        "steamID": 76561198048525153
       },
       "time": 8820
     },
@@ -544,7 +558,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 13270

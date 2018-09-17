@@ -1,14 +1,14 @@
 {
   "author": {
-    "displayName": "pinesolofchaos",
+    "displayName": "[unknown]",
     "steamID": 76561198058662064
   },
   "displayName": "Lookout",
   "id": 1249659044,
   "description": "A great tower looms in the dist- ...far away place.",
   "fileName": "lookout",
-  "upvotes": 192,
-  "downvotes": 16,
+  "upvotes": 194,
+  "downvotes": 18,
   "leaderboard": [
     {
       "player": {
@@ -22,7 +22,7 @@
         "displayName": "ferreus",
         "steamID": 76561198040630941
       },
-      "time": 77890
+      "time": 77440
     },
     {
       "player": {
@@ -54,7 +54,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "G9",
         "steamID": 76561197974733660
       },
       "time": 79700
@@ -103,7 +103,7 @@
     },
     {
       "player": {
-        "displayName": "Cinister",
+        "displayName": "unknowneth",
         "steamID": 76561198044284540
       },
       "time": 81100
@@ -187,7 +187,7 @@
     },
     {
       "player": {
-        "displayName": "FARQUAAAAAD",
+        "displayName": "Seu Pai",
         "steamID": 76561198096940886
       },
       "time": 84860
@@ -201,7 +201,14 @@
     },
     {
       "player": {
-        "displayName": "(TSoF)_Saint",
+        "displayName": "Flauschekissen",
+        "steamID": 76561198122532195
+      },
+      "time": 85480
+    },
+    {
+      "player": {
+        "displayName": "Saint Fiacre",
         "steamID": 76561198052964000
       },
       "time": 85630
@@ -236,7 +243,7 @@
     },
     {
       "player": {
-        "displayName": "please be patient i have autism",
+        "displayName": "The Expert",
         "steamID": 76561198119060261
       },
       "time": 87180
@@ -509,6 +516,13 @@
     },
     {
       "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 103400
+    },
+    {
+      "player": {
         "displayName": "Meme-aroni Jeff",
         "steamID": 76561198004430321
       },
@@ -516,14 +530,14 @@
     },
     {
       "player": {
-        "displayName": "Easy-Bake Auschwitz",
+        "displayName": "Andrew",
         "steamID": 76561198032155414
       },
       "time": 103950
     },
     {
       "player": {
-        "displayName": "domi (away)",
+        "displayName": "domi",
         "steamID": 76561198103316789
       },
       "time": 104170
@@ -943,7 +957,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 123440
@@ -996,13 +1010,6 @@
         "steamID": 76561198039380901
       },
       "time": 125030
-    },
-    {
-      "player": {
-        "displayName": "Zurd",
-        "steamID": 76561198014744965
-      },
-      "time": 126000
     },
     {
       "player": {
@@ -1111,7 +1118,7 @@
     },
     {
       "player": {
-        "displayName": "VHS",
+        "displayName": "Mango",
         "steamID": 76561198195855331
       },
       "time": 133780
@@ -1195,6 +1202,13 @@
     },
     {
       "player": {
+        "displayName": "Zane Wuffy",
+        "steamID": 76561198007985700
+      },
+      "time": 138150
+    },
+    {
+      "player": {
         "displayName": "QuantumLeaper",
         "steamID": 76561198081303475
       },
@@ -1244,13 +1258,6 @@
     },
     {
       "player": {
-        "displayName": "Zane Wuffy",
-        "steamID": 76561198007985700
-      },
-      "time": 144030
-    },
-    {
-      "player": {
         "displayName": "The NSA Agent",
         "steamID": 76561198174743639
       },
@@ -1269,6 +1276,13 @@
         "steamID": 76561198005734428
       },
       "time": 146350
+    },
+    {
+      "player": {
+        "displayName": "Randomcanadian",
+        "steamID": 76561198331602501
+      },
+      "time": 147040
     },
     {
       "player": {
@@ -1426,6 +1440,13 @@
     },
     {
       "player": {
+        "displayName": "Dirky",
+        "steamID": 76561198008177013
+      },
+      "time": 156840
+    },
+    {
+      "player": {
         "displayName": "[MGI] LachenJager",
         "steamID": 76561198022827655
       },
@@ -1496,7 +1517,7 @@
     },
     {
       "player": {
-        "displayName": "Eriyo2000",
+        "displayName": "eriyo2000",
         "steamID": 76561198091875500
       },
       "time": 160590
@@ -1566,7 +1587,7 @@
     },
     {
       "player": {
-        "displayName": "GreenRanger",
+        "displayName": "Jabul",
         "steamID": 76561198026738585
       },
       "time": 166150
@@ -1647,6 +1668,13 @@
         "steamID": 76561198801941781
       },
       "time": 175140
+    },
+    {
+      "player": {
+        "displayName": "Wehavecookies53",
+        "steamID": 76561198272890603
+      },
+      "time": 175570
     },
     {
       "player": {

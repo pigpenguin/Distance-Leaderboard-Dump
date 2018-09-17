@@ -1,14 +1,14 @@
 {
   "author": {
-    "displayName": "NeonUmbreon",
+    "displayName": "[unknown]",
     "steamID": 76561198119697124
   },
   "displayName": "playing with curves",
   "id": 1323732254,
   "description": "first full attempt at creating a level, short and simple, with a little extra",
   "fileName": "playing with curves",
-  "upvotes": 14,
-  "downvotes": 9,
+  "upvotes": 15,
+  "downvotes": 10,
   "leaderboard": [
     {
       "player": {
@@ -100,6 +100,13 @@
         "steamID": 76561198137821753
       },
       "time": 58870
+    },
+    {
+      "player": {
+        "displayName": "Zurd",
+        "steamID": 76561198014744965
+      },
+      "time": 60500
     },
     {
       "player": {

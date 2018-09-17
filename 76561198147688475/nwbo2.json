@@ -7,8 +7,8 @@
   "id": 767946330,
   "description": "Changed up the rings section, should be easier to see  the next ring.",
   "fileName": "nwbo2",
-  "upvotes": 104,
-  "downvotes": 29,
+  "upvotes": 105,
+  "downvotes": 30,
   "leaderboard": [
     {
       "player": {
@@ -96,7 +96,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 78010
@@ -124,6 +124,13 @@
     },
     {
       "player": {
+        "displayName": "wit",
+        "steamID": 76561198047147439
+      },
+      "time": 80370
+    },
+    {
+      "player": {
         "displayName": "pigpenguin",
         "steamID": 76561198010296669
       },
@@ -131,14 +138,7 @@
     },
     {
       "player": {
-        "displayName": "wit",
-        "steamID": 76561198047147439
-      },
-      "time": 80480
-    },
-    {
-      "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 81460
@@ -698,6 +698,13 @@
     },
     {
       "player": {
+        "displayName": "slowscan",
+        "steamID": 76561197994748278
+      },
+      "time": 271100
+    },
+    {
+      "player": {
         "displayName": "Not YSB",
         "steamID": 76561198001152999
       },
@@ -747,7 +754,7 @@
     },
     {
       "player": {
-        "displayName": "< blank >",
+        "displayName": "->",
         "steamID": 76561198067340918
       },
       "time": 301830
@@ -803,7 +810,7 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 370310

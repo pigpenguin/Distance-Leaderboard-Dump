@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "ghostvirus52",
+    "displayName": "[unknown]",
     "steamID": 76561198202923420
   },
   "displayName": "SUPER TRACK",
@@ -8,8 +8,15 @@
   "description": "My first level! Plz don't hate. :D",
   "fileName": "jumps",
   "upvotes": 24,
-  "downvotes": 21,
+  "downvotes": 22,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 29840
+    },
     {
       "player": {
         "displayName": "cali",

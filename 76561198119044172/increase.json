@@ -7,7 +7,7 @@
   "id": 537319930,
   "description": "Level description: \r\n\r\nAccelerate is a long level with 12 \"sections\" if i may call it that. Each section introduses a new element to the map and shows what you will encounter in the upcoming \"boss section\". There are 3 boss sections that combine the previo",
   "fileName": "increase",
-  "upvotes": 232,
+  "upvotes": 233,
   "downvotes": 63,
   "leaderboard": [
     {
@@ -285,6 +285,13 @@
     },
     {
       "player": {
+        "displayName": "duplexkiller",
+        "steamID": 76561198027883008
+      },
+      "time": 696460
+    },
+    {
+      "player": {
         "displayName": "khrisround2",
         "steamID": 76561198057865303
       },
@@ -471,13 +478,6 @@
         "steamID": 76561198077711219
       },
       "time": 785620
-    },
-    {
-      "player": {
-        "displayName": "duplexkiller",
-        "steamID": 76561198027883008
-      },
-      "time": 785670
     },
     {
       "player": {

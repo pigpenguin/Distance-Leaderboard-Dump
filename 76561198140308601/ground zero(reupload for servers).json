@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "thenukeluis",
+    "displayName": "[unknown]",
     "steamID": 76561198140308601
   },
   "displayName": "Ground Zero (Reupload for servers)",
@@ -33,6 +33,13 @@
     },
     {
       "player": {
+        "displayName": "Randomcanadian",
+        "steamID": 76561198331602501
+      },
+      "time": 161310
+    },
+    {
+      "player": {
         "displayName": "noah",
         "steamID": 76561198129061896
       },
@@ -58,13 +65,6 @@
         "steamID": 76561198041500742
       },
       "time": 172430
-    },
-    {
-      "player": {
-        "displayName": "Randomcanadian",
-        "steamID": 76561198331602501
-      },
-      "time": 178660
     },
     {
       "player": {

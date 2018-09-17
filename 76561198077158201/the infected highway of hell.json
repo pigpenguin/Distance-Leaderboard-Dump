@@ -1,13 +1,13 @@
 {
   "author": {
-    "displayName": "Xyronix",
+    "displayName": "[unknown]",
     "steamID": 76561198077158201
   },
   "displayName": "The Infected Highway Of Hell",
   "id": 439422826,
   "description": "Make your way through an virus ridden district cause by a unusual occurrence of a giant saw blade.",
   "fileName": "the infected highway of hell",
-  "upvotes": 245,
+  "upvotes": 246,
   "downvotes": 58,
   "leaderboard": [
     {
@@ -341,6 +341,13 @@
     },
     {
       "player": {
+        "displayName": "W.D. Gaster",
+        "steamID": 76561197992765278
+      },
+      "time": 249420
+    },
+    {
+      "player": {
         "displayName": "Rurumu",
         "steamID": 76561198123502334
       },
@@ -387,13 +394,6 @@
         "steamID": 76561198079439900
       },
       "time": 306630
-    },
-    {
-      "player": {
-        "displayName": "W.D. Gaster",
-        "steamID": 76561197992765278
-      },
-      "time": 313370
     },
     {
       "player": {

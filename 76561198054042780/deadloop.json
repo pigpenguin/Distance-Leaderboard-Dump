@@ -8,7 +8,7 @@
   "description": "My first track on Distance. Plz comment !",
   "fileName": "deadloop",
   "upvotes": 126,
-  "downvotes": 45,
+  "downvotes": 46,
   "leaderboard": [
     {
       "player": {
@@ -131,10 +131,17 @@
     },
     {
       "player": {
-        "displayName": "Black Rainbow",
+        "displayName": "Kitsundere",
         "steamID": 76561198022461689
       },
       "time": 51370
+    },
+    {
+      "player": {
+        "displayName": "Relyk'Terrah",
+        "steamID": 76561198067807968
+      },
+      "time": 52240
     },
     {
       "player": {

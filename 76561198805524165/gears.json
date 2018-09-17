@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "Creepersrock24Gaming",
+    "displayName": "[unknown]",
     "steamID": 76561198805524165
   },
   "displayName": "Gears",
@@ -8,7 +8,7 @@
   "description": "This is a Gear Test.",
   "fileName": "gears",
   "upvotes": 1,
-  "downvotes": 6,
+  "downvotes": 7,
   "leaderboard": [
     {
       "player": {
@@ -16,6 +16,13 @@
         "steamID": 76561198071239933
       },
       "time": 29180
+    },
+    {
+      "player": {
+        "displayName": "-Ω-",
+        "steamID": 76561198065040574
+      },
+      "time": 34660
     },
     {
       "player": {

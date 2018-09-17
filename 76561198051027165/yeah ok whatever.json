@@ -1,6 +1,6 @@
 {
   "author": {
-    "displayName": "[FL]Fatso on the run™",
+    "displayName": "[unknown]",
     "steamID": 76561198051027165
   },
   "displayName": "that first level I made",
@@ -10,6 +10,13 @@
   "upvotes": 5,
   "downvotes": 14,
   "leaderboard": [
+    {
+      "player": {
+        "displayName": "pigpenguin",
+        "steamID": 76561198010296669
+      },
+      "time": 29000
+    },
     {
       "player": {
         "displayName": "cali",

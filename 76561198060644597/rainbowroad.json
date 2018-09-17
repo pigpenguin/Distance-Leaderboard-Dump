@@ -7,7 +7,7 @@
   "id": 588307867,
   "description": "A community level inspired by Mario Kart Rainbow roads.\r\n\r\nThis level is under construction, leave a comment if you have something to say about it.\r\n\r\nFutures updates will include :\r\n - Cosmetic objects such as: arrows, lamps, signs, ...\r\n - Obstacles to m",
   "fileName": "rainbowroad",
-  "upvotes": 140,
+  "upvotes": 141,
   "downvotes": 42,
   "leaderboard": [
     {
@@ -355,6 +355,13 @@
     },
     {
       "player": {
+        "displayName": "CrowP08",
+        "steamID": 76561198401110859
+      },
+      "time": 126620
+    },
+    {
+      "player": {
         "displayName": "Kosvid",
         "steamID": 76561198019340858
       },
@@ -411,7 +418,7 @@
     },
     {
       "player": {
-        "displayName": "УЧЕНИК ЕХУС #69 (МонструганАйше)",
+        "displayName": "УЧЕНИК ЕХУС №69 (МонструганАйше)",
         "steamID": 76561198183795330
       },
       "time": 129510

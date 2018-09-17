@@ -7,7 +7,7 @@
   "id": 1257386673,
   "description": "Might be an awesome community level? Still super hard tho.",
   "fileName": "wubs2cannon 1",
-  "upvotes": 15,
+  "upvotes": 16,
   "downvotes": 10,
   "leaderboard": [
     {
@@ -68,6 +68,13 @@
     },
     {
       "player": {
+        "displayName": "Danny Burke",
+        "steamID": 76561198159851584
+      },
+      "time": 494390
+    },
+    {
+      "player": {
         "displayName": "wit",
         "steamID": 76561198047147439
       },
@@ -110,7 +117,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 1042350

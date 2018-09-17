@@ -7,7 +7,7 @@
   "id": 1282360105,
   "description": "Sequel to Thruster Control 101. More difficult than 101, enjoy.",
   "fileName": "tc201",
-  "upvotes": 35,
+  "upvotes": 36,
   "downvotes": 14,
   "leaderboard": [
     {
@@ -124,7 +124,7 @@
     },
     {
       "player": {
-        "displayName": "I am a wizard, unbounded",
+        "displayName": "I am a wizard, Unbounded",
         "steamID": 76561198007572917
       },
       "time": 145470
@@ -208,7 +208,7 @@
     },
     {
       "player": {
-        "displayName": "jtg",
+        "displayName": "Exodia",
         "steamID": 76561198153175318
       },
       "time": 251560
@@ -240,6 +240,13 @@
         "steamID": 76561198022190329
       },
       "time": 275340
+    },
+    {
+      "player": {
+        "displayName": "Agent-Cryspy",
+        "steamID": 76561198075615063
+      },
+      "time": 298800
     },
     {
       "player": {
